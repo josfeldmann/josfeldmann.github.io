@@ -112,7 +112,9 @@
     function draw() {
       if (!canvasSupport) { return; }
 
-      winW = window.innerWidth;
+
+
+      winW = window.innerWidth
       winH = window.innerHeight;
 
       // Wipe canvas
@@ -380,8 +382,8 @@
     directionX: 'center', // 'center', 'left' or 'right'. 'center' = dots bounce off edges
     directionY: 'center', // 'center', 'up' or 'down'. 'center' = dots bounce off edges
     density: 10000, // How many particles will be generated: one particle every n pixels
-    dotColor: '#EAAB00',
-    lineColor: '#EAAB00',
+    dotColor: '#859900',
+    lineColor: '#859900',
     particleRadius: 7, // Dot size
     lineWidth: 1,
     curvedLines: false,
