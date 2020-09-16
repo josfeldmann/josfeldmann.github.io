@@ -72,6 +72,8 @@ body {
 #bodyInfo {
   text-align: left;
   font-size: 25px;
+  width: 75%;
+  margin-left: 12.5%;
 }
 
 ul {
