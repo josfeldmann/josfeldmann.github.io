@@ -2,6 +2,12 @@
 /* CSS Document */
 
 
+
+@font-face {
+    font-family: minipixel;
+    src: url("../fonts/mini_pixel-7.ttf");
+}
+
 .myTable  {
     border-collapse: collapse;
     border-spacing: 0;
@@ -145,7 +151,7 @@ padding: 10px;
     padding-top: 30px;
     /*padding-top: 100px; Add a top margin to avoid content overlay */
     background: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'minipixel', sans-serif;
 }
 
 
@@ -382,19 +388,19 @@ padding-top: 50px;
 
 #videowrapper h1 {
     position: absolute; 
-    font-size: 40px;
+    font-size: 120px;
     top: 55%;
-    margin-top: -50px;
+    margin-top: -75px;
     margin-left: auto;
     margin-right: auto;
     left: 0;
     right: 0;
     display: inline-block;
     text-align: center;
-    color: black;
+    
     -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-family: 'minipixel';
     z-index: 67;
 }
 
@@ -425,7 +431,8 @@ padding-top: 50px;
 video {
     min-height: 100%;
     z-index: 2;
-    min-width: 100vw;   
+    min-width: 100vw;
+    background-image: url("../images/SquareBGSeamless.png"); 
 }
 
 @media only screen and (max-width: 768px) {
@@ -541,8 +548,8 @@ float: none;
 }
 
 .main h1, .main h2, .main h3 {
-    font-family: 'Press Start 2P', cursive;
-    color: black;
+    font-family: 'minipixel', cursive !important;
+    
 }
 
 .main p {
