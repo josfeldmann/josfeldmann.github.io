@@ -255,12 +255,34 @@ padding-top: 50px;
     align-items: center !important;
     
     color: white;  
-
-
-  
-
-   
 }
+
+
+
+#footer button {
+    background-color: rgba(168, 24, 24,1); /* Green */
+    border: none;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 8px;
+    width: 80px;
+    height: 80px;
+   
+    text-align: center;
+    vertical-align: center !important;
+    align-items: center !important;
+    
+    color: white;  
+}
+
+#footer a {
+    color: white !important;
+}
+
+
+
+
+
 
 .buttonMenuBar {
     display: inline-block;
@@ -332,6 +354,19 @@ padding-top: 50px;
  
 
 }
+
+
+.githubButton {
+
+  
+    color:white;
+    background: #171515 !important;
+  
+
+ 
+
+}
+
 
 .steamButton {
 

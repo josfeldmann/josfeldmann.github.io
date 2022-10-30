@@ -12,12 +12,32 @@ function makeNavbarFolder(){
 
 function makeFooter(){
 
-    document.getElementById("footer").innerHTML = "<h2>Contact</h2>    <p>Email: umdgamedevclub@gmail.com</p>    <br/><a href='https://www.facebook.com/groups/umdgaming/' class='fame facebook'><i class='fab fa-facebook-f'></i></a>    <a href='https://www.youtube.com/channel/UCGh4g4vzpA_XIGqyXMjB3cw/' class='fame youtube-play'><i class='fab fa-youtube'></i></a>    <a href='https://discord.gg/djtZR4M' class = 'fame discord'><i class='fab fa-discord'></i></a>  <a href='https://github.com/umdgdc' class='fame github'><i class='fab fa-github'></i></a>  ";
+    document.getElementById("footer").innerHTML = "<h2>Contact</h2>    <p>Email: screensmithstudios@gmail.com</p>    <br/> " + 
+	
+	"<button class='steamButton' onclick='' ><a class='' href='https://store.steampowered.com/app/1820790/PictoPull/' style='width: 40px !important; height: 40px !important;'><i class='fa-brands fa-steam fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
+	"<button class='twitterButton1' onclick='' ><a href='https://twitter.com/scrnsmthstudios' class=''><i class='fa-brands fa-twitter fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
+	"<button class='discordButton' onclick='' ><a href='https://discord.gg/vm2f3ZYZJb' class=''><i class='fa-brands fa-discord fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
+	"<button class='itchButton' onclick='' ><a href='https://screensmith.itch.io/pictopull' class=''><i class='fa-brands fa-itch-io fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
+    "<button class='githubButton' onclick='' ><a href='https://github.com/josfeldmann' class=''><i class='fa-brands fa-github fa-4x'></i></a></button>" ;
+	
+
+	
+	
+	//<a href='https://discord.gg/vm2f3ZYZJb' class = 'fame discord'><i class='fab fa-discord'></i></a>  <a href='https://github.com/josfeldmann' class='fame github'><i class='fab fa-github'></i></a>  ";
 
 }
 
 
 //
+
+/*
+
+
+
+*/
+
+
+
 
 function makeHeader(){
 
