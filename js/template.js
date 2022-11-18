@@ -12,13 +12,14 @@ function makeNavbarFolder(){
 
 function makeFooter(){
 
-    document.getElementById("footer").innerHTML = "<h2>Contact</h2>    <p>Email: screensmithstudios@gmail.com</p>    <br/> " + 
+    document.getElementById("footer").innerHTML = "<div class = \"footertext\"><h2>Contact</h2>    <p>Email: screensmithstudios@gmail.com</p></div>    <br/> " + 
 	
 	"<button class='steamButton' onclick='' ><a class='' href='https://store.steampowered.com/app/1820790/PictoPull/' style='width: 40px !important; height: 40px !important;'><i class='fa-brands fa-steam fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
 	"<button class='twitterButton1' onclick='' ><a href='https://twitter.com/scrnsmthstudios' class=''><i class='fa-brands fa-twitter fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
 	"<button class='discordButton' onclick='' ><a href='https://discord.gg/vm2f3ZYZJb' class=''><i class='fa-brands fa-discord fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
 	"<button class='itchButton' onclick='' ><a href='https://screensmith.itch.io/pictopull' class=''><i class='fa-brands fa-itch-io fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
-    "<button class='githubButton' onclick='' ><a href='https://github.com/josfeldmann' class=''><i class='fa-brands fa-github fa-4x'></i></a></button>" ;
+    "<button class='githubButton' onclick='' ><a href='https://github.com/josfeldmann' class=''><i class='fa-brands fa-github fa-4x'></i></a></button>" + 
+	"<br><br>" ;
 	
 
 	

@@ -63,7 +63,7 @@
 .tile h1
 {
  color: white;
- line-height: 45px;
+ line-height: 60px;
   font-weight:300;
   font-size: 100px;
   margin:0;
@@ -78,6 +78,8 @@
   color: white;
    transform: translateX(200px);
    font-size: 45px;
+   line-height: 30px;
+   
 }
 
 

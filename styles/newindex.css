@@ -257,7 +257,10 @@ padding-top: 50px;
     color: white;  
 }
 
-
+.footertext {
+    font-family: 'minipixel', cursive !important;
+    font-size: 40px;
+}
 
 #footer button {
     background-color: rgba(168, 24, 24,1); /* Green */
@@ -582,7 +585,7 @@ float: none;
     height: 200px;
 }
 
-.main h1, .main h2, .main h3 {
+.main h1, .main h2, .main h3, .main a {
     font-family: 'minipixel', cursive !important;
     
 }
