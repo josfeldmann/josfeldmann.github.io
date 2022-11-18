@@ -152,7 +152,39 @@ padding: 10px;
     /*padding-top: 100px; Add a top margin to avoid content overlay */
     background: white;
     font-family: 'minipixel', sans-serif;
+    
 }
+
+.mainwrapper {
+    max-width: 1500px;
+    margin: auto;
+}
+
+
+#About {
+    font-size: 30px;
+    line-height: 20px;
+}
+
+
+#aboutwrapper{
+  display:flex;
+  justify-content:space-between;
+
+}
+
+#aboutleft{
+   float:left;
+  
+}
+
+#aboutright{
+   padding-left: 20px;
+    float:right;
+    font-size: 30px;
+    line-height: 20px;
+}​
+
 
 
 .main a {
