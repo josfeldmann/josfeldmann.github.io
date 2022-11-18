@@ -1,2 +1,2 @@
-# umdgdc.github.io
-A portfolio/website for the UMD Game Developers Club
+# screensmith.net
+A portfolio site for all my game dev projects
