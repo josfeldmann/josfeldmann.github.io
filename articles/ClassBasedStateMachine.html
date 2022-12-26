@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+
+<link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
+
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<link rel = "stylesheet" href = "../styles/newindex.css">
+<link rel = "stylesheet" href = "../styles/socialbuttons.css">
+<link href="https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+<title>Operation Genovese</title>
+</head>
+
+<body>
+
+<script src = "../js/template.js" type = "text/javascript"></script>
+
+<div id = "navarea">
+		<script type = "text/javascript">makeNavbarFolder(); </script>	
+</div>	
+
+
+<div class="breakarea"></div>
+   
+<div class="main" style="overflow: auto;">
+<div class = "mainwrapper">
+		<h1>C#/Unity Class Based State Machine</h1>
+
+		<p> State Machines are some of the first coding patterns you may learn about in game development. 
+			They are a way of determining how a certain peice of code may execute based on the "State" that its in. 
+			The most common example of a state machine is storing a state in a state enum variable and then every frame having a switch statement or a chain of if else statements that determine what code should be executed based on the saved state.
+			Here is an example of a unity class that uses this pattern to do that.
+		</p>
+
+
+
+<pre><code class="language-csharp hljs">public class State<T> {
+
+    public virtual void Enter(StateMachine<T> obj) { }
+
+    public virtual void Exit(StateMachine<T> obj) { }
+
+    public virtual void Update(StateMachine<T> obj) { }
+
+}</code></pre>
+
+
+<pre><code class="language-csharp hljs">public class StateMachine<T> {
+
+	public State<T> currentState;
+	public T target;
+
+	public StateMachine(State<T> startState, T obj) {
+		currentState = startState;
+		target = obj;
+		currentState.Enter(this);
+	}
+
+	public void ChangeState(State<T> state) {
+		currentState.Exit(this);
+		currentState = state;
+		state.Enter(this);
+	}
+
+	public void Update() {
+		currentState.Update(this);
+	}
+			
+	public void FixedUpdate() {
+		currentState.FixedUpdate(this);
+	}
+}</code></pre>
+
+
+
+
+
+</div>
+
+
+
+		
+</div>
+
+
+		
+<script src = "../js/Slideshow.js" type = "text/javascript"></script>
+
+
+	
+
+</div>
+
+    <div id ="footer">
+		<script type = "text/javascript">makeFooter(); </script>
+    </div>
+	
+
+</body>
+</html>
