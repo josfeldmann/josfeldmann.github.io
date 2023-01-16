@@ -6,6 +6,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://kit.fontawesome.com/a1ab6beaa7.js" crossorigin="anonymous"></script>
 
 
 
@@ -21,8 +22,8 @@
 <link rel = "stylesheet" href = "../styles/socialbuttons.css">
 <link href="https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-
-<title>Operation Genovese</title>
+<link rel="icon" href="../favicon.ico" type="image/x-icon" />
+<title>Class Based State Machine</title>
 </head>
 
 <body>
@@ -30,7 +31,7 @@
 <script src = "../js/template.js" type = "text/javascript"></script>
 
 <div id = "navarea">
-		<script type = "text/javascript">makeNavbarFolder(); </script>	
+		<script type = "text/javascript">makeNavbar("../	"); </script>	
 </div>	
 
 
@@ -40,37 +41,164 @@
 <div class = "mainwrapper">
 		<h1>C#/Unity Class Based State Machine</h1>
 
-		<p> State Machines are some of the first coding patterns you may learn about in game development. 
-			They are a way of determining how a certain peice of code may execute based on the "State" that its in. 
+		<p> State Machines are some of the first coding patterns you may learn about in game development.
+			They are a way of determining how a certain peice of code may execute based on the "State" that its in.
+			This article will go over some of the ways to implement a <b>Class Based</b> state machine, which is a an easy way to seperate your different states into different classes and make a complex state machine that can be expanded upon easily.
+			Before showing how to make a class based state machine we will go over the other main form of implementing a state machine, the conditional branch/switch state machine, and point out some of the shortcomings of that design pattern and how the class based approach fixes them.
+		</p>
+
+		<h2>Conditional branch/switch state machine</h2>
+		<p>
 			The most common example of a state machine is storing a state in a state enum variable and then every frame having a switch statement or a chain of if else statements that determine what code should be executed based on the saved state.
-			Here is an example of a unity class that uses this pattern to do that.
+			Here is an example of some basic C# code this pattern to do that. Its for a Player Controller class that is responsible for moving the player and playing animations based on how the player is moving.
 		</p>
 
 
+		<pre><code class="language-csharp hljs">public class EnumBasedPlayerController : MonoBehaviour {
+	[System.Serializable]
+	public enum PlayerStateEnum { WALKING, IDLE, SLIDING, INAIR, DEAD }
 
-<pre><code class="language-csharp hljs">public class State<T> {
+	public PlayerStateEnum currentState;
 
-    public virtual void Enter(StateMachine<T> obj) { }
+	private void Update() {
+		switch (currentState) {
+			case PlayerStateEnum.WALKING:
+				WalkState();
+				break;
+			case PlayerStateEnum.IDLE:
+				IdleState();
+				break;
+			case PlayerStateEnum.SLIDING:
+				SlideState();
+				break;
+			case PlayerStateEnum.INAIR:
+				InAirState();
+				break;
+			case PlayerStateEnum.DEAD:
+				DeadState();
+				break;
+		}
+	}
+}</code></pre>
+<p>
+How this code basically works is that there is an enum defined at the top which has different values that correspond to the "state". 
+When the player is idling, the <b>currentState</b> variable should be set to <b>PlayerStateEnum.IDLE</b>. 
+Then in Update the switch branch will call the function <b>IdleState()</b> which will run whatever logic you want for the Idle state.
+Then in order to switch states all you have to do is change the <b>currentState</b> variable and the state will change and next update a different function will be called.
+<p>
 
-    public virtual void Exit(StateMachine<T> obj) { }
+		<pre><code class="language-csharp hljs">using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-    public virtual void Update(StateMachine<T> obj) { }
+[System.Serializable]
+public enum PlayerStateEnum { WALKING, IDLE, SLIDING, INAIR, DEAD }
+
+public class EnumBasedPlayerController : MonoBehaviour {
+
+
+    public PlayerStateEnum currentState;
+    public Animator anim;
+    public Rigidbody body;
+
+    public float playerSpeed = 5;
+
+    private void Awake() {
+        currentState = PlayerStateEnum.IDLE;
+    }
+
+    private void Update() {
+        switch (currentState) {
+            case PlayerStateEnum.WALKING:
+                WalkState();
+                break;
+            case PlayerStateEnum.IDLE:
+                IdleState();
+                break;
+            case PlayerStateEnum.SLIDING:
+                SlideState();
+                break;
+            case PlayerStateEnum.INAIR:
+                InAirState();
+                break;
+            case PlayerStateEnum.DEAD:
+                DeadState();
+                break;
+        }
+    }
+
+    public void IdleState() {
+        anim.SetBool("Idle", true);
+        if (Input.GetAxis("Horizontal") != 0) {
+            currentState = PlayerStateEnum.WALKING;
+            WalkState();
+        }
+        if (!isGrounded()) {
+            currentState = PlayerStateEnum.INAIR;
+            InAirState();
+        }
+    }
+
+    public void WalkState() {
+        if (Input.GetAxis("Horizontal") != 0) {
+            anim.SetBool("Idle", false);
+            body.velocity = new Vector3(Input.GetAxis("Horizontal") * playerSpeed, body.velocity.y, body.velocity.z);
+        } else {
+            //Change to Idle state if not walking
+            anim.SetBool("Idle", true);
+            currentState = PlayerStateEnum.WALKING;
+        }
+
+        if (!isGrounded()) {
+            currentState = PlayerStateEnum.INAIR;
+            InAirState();
+        }
+    }
+
+    public void DeadState() {
+        //Do Nothing
+    }
+
+    public void InAirState() {
+        //Do falling logic
+    }
+
+    public void SlideState() {
+        //Do slide logic
+    }
+
+    public bool isGrounded() {
+        // Do some ground check logic here
+        return true;
+    }
 
 }</code></pre>
 
 
-<pre><code class="language-csharp hljs">public class StateMachine<T> {
 
-	public State<T> currentState;
+<pre><code class="language-csharp hljs">public class State&lt;T&gt; {
+
+    public virtual void Enter(StateMachine&lt;T&gt; obj) { }
+
+    public virtual void Exit(StateMachine&lt;T&gt; obj) { }
+
+    public virtual void Update(StateMachine&lt;T&gt; obj) { }
+
+}</code></pre>
+
+
+<pre><code class="language-csharp hljs">public class StateMachine&lt;T&gt; {
+
+	public State &lt;T&gt; currentState;
 	public T target;
 
-	public StateMachine(State<T> startState, T obj) {
+	public StateMachine(State&lt;T&gt; startState, T obj) {
 		currentState = startState;
 		target = obj;
 		currentState.Enter(this);
 	}
 
-	public void ChangeState(State<T> state) {
+	public void ChangeState(State&lt;T&gt; state) {
 		currentState.Exit(this);
 		currentState = state;
 		state.Enter(this);
@@ -84,31 +212,12 @@
 		currentState.FixedUpdate(this);
 	}
 }</code></pre>
-
-
-
-
-
-</div>
-
-
-
-		
-</div>
-
-
-		
+</div>	
+</div>	
 <script src = "../js/Slideshow.js" type = "text/javascript"></script>
-
-
-	
-
 </div>
-
     <div id ="footer">
 		<script type = "text/javascript">makeFooter(); </script>
     </div>
-	
-
 </body>
 </html>

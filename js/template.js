@@ -1,8 +1,20 @@
 
-function makeNavbar(){
-	document.getElementById("navarea").innerHTML = document.getElementById("navarea").innerHTML = "<nav class='navbar navbar-inverse'> <a href='index.html' class='navbar-left'><img src='images/ScreenSmith.png'></a><div class='container-fluid'><div class='navbar-header'><button type='button' class='navbar-toggle' data-toggle='collapse' data-target='#myNavbar'>Menu</button><a class='navbar-brand' href='index.html'>Screen Smith Studios</a></div>      <div class='collapse navbar-collapse float_right' id='myNavbar'>        <ul class='nav navbar-nav'>       <li><a href='index.html'>Home</a></li>     <!--<li><a href='index.html#events'>Events</a></li>-->     <li><a href='index.html#games'>Games</a></li>                              <li><a href='index.html#contact'>Contact</a></li></ul></div></div></nav>";
+function makeNavbar(addon){
+	if (addon == undefined) addon = "";
+
+
+	document.getElementById("navarea").innerHTML = document.getElementById("navarea").innerHTML = "<nav class='navbar navbar-inverse'>" +
+	"<a href='index.html' class='navbar-left'><img src='" + addon + "images/ScreenSmith.png'></a>" +
+	"<div class='container-fluid'><div class='navbar-header'><button type='button' class='navbar-toggle' data-toggle='collapse' data-target='#myNavbar'>Menu</button>" + 
+	"<a class='navbar-brand' href='" + addon + "index.html'>Screen Smith Studios</a></div>      <div class='collapse navbar-collapse float_right' id='myNavbar'><ul class='nav navbar-nav'>" + 
+	"<li><a href='" + addon + "index.html'>Home</a></li>" + 
+	"<!--<li><a href='" + addon + "index.html#events'>Events</a></li>-->" + 
+	"<li><a href='" + addon + "index.html#games'>Games</a></li>" + 
+	"<li><a href='" + addon + "articles.html'>Articles</a></li>"+
+	"<li><a href='" + addon + "index.html#contact'>Contact</a></li>"+
+	"</ul></div></div></nav>";
 	//<li><a href='about.html'>About</a></li>
-	document.getElementsByTagName("head")[0].appendChild("<link rel='shortcut icon' type='image/x-icon' href='plswork.ico'>");
+	document.getElementsByTagName("head")[0].appendChild("<link rel='shortcut icon' type='image/x-icon' href='"+ addon +"plswork.ico'>");
 	}
 
 function makeNavbarFolder(){
