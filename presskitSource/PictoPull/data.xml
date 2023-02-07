@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<product>
+
+
+  <title>PictoPull</title>
+  <website>screensmith.net</website>
+
+
+  <release-dates>
+    <release-date>01 Mar, 2023</release-date>
+
+  </release-dates>
+
+
+  <platforms>
+
+    <platform>
+      <name>Steam</name>
+      <link>http://steampowered.com/</link>
+    </platform>
+  </platforms>
+
+
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>7</value>
+    </price>
+  </prices>
+
+
+
+  <description>
+     3D block puzzles built from pixel art! Push, pull, and climb on the blocks of a PictoPull puzzle in order to reach the goal. Create your own puzzles and share them!
+  </description>
+
+
+
+  <history>
+    Started Development in October 2021 as a personal project. Steam page was launched around July 2022. To be released on March 1st 2023. Most of development was done part time on weekends.
+  </history>
+
+
+
+  <features>
+    <feature>
+      150+ puzzles spread across 10 different environments
+    </feature>
+    <feature>
+      Fully featured level editor. Create and share your own levels via Steam Workshop
+    </feature>
+    <feature>
+      Bonus Level Packs with 50+ levels and the ability to make and share your own level packs
+    </feature>
+  </features>
+
+
+
+  <trailers>
+    <trailer>
+      <name>Gameplay Trailer</name>
+      <youtube>zpZwJs_Ipco</youtube>
+      <download>../videos/Trailer1080p.mp4</download>
+    </trailer>
+  </trailers>
+
+
+
+
+  <credits>
+    <credit>
+      <person>Joseph Feldmann</person>
+      <role>Game Developer, Game Designer</role>
+    </credit>
+    <credit>
+      <person>Tahir Rogers</person>
+      <website>https://twitter.com/Lamrogers12</website>
+      <role>Musician</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>screensmithstudios@gmail.com</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/scrnsmthstudios
+      </link>
+    </contact>
+  </contacts>
+</product>
+

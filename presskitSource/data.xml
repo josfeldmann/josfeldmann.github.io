@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Screen Smith Studios</title>
+  <based-in>Silver Spring MD</based-in>
+  <founding-date>2022</founding-date>
+  <website>screensmith.net</website>
+  <press-contact>
+    screensmithstudios@gmail.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone>2404232433</phone>
+  <address>
+    <line>
+      8811 Colesville Road
+    </line>
+    <line>
+      Silver Spring
+    </line>
+    <line>
+      MD
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/scrnsmthstudios
+      </link>
+    </social>
+    <social>
+      <name>Youtube</name>
+      <link>
+        https://www.youtube.com/channel/UC7ebkR0Rj_PY81dZx4hkGtQ
+      </link>
+    </social>
+  </socials>
+
+  
+  <description>An American indie game developemnt studio making PC games.</description>
+  <history>Founded in 2022 to Publish PictoPull</history>
+
+ 
+
+  <trailers>
+    <trailer>
+      <name>PictoPull Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        zpZwJs_Ipco
+      </youtube>
+    </trailer>
+  </trailers>
+
+ 
+
+ <!-- <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+  -->
+  <additionals>
+    <additional>
+      <title>1080p PictoPull Trailer Download</title>
+      <description>Trailer for PictoPull</description>
+      <link>videos/Trailer1080p.mp4</link>
+    </additional>
+    <additional>
+      <title>720p PictoPull Trailer Download</title>
+      <description>Trailer for PictoPull</description>
+      <link>videos/Trailer720p.mp4</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Joseph Feldmann</person>
+      <role>Lead Developer</role>
+
+      <!-- Optional: -->
+      <!--<website></website>-->
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Joseph Feldmann</name>
+      <!-- Pick one: -->
+      <mail>screensmithstudios@gmail.com</mail>
+      <!--<link></link>-->
+    </contact>
+  </contacts>
+</company>
