@@ -169,11 +169,12 @@ padding: 10px;
 
 #aboutwrapper{
   display:flex;
-  justify-content:space-between;
 
 }
 
 #aboutleft{
+   width: 250px;
+
    float:left;
   
 }
