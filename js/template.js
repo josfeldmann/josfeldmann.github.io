@@ -24,7 +24,7 @@ function makeNavbarFolder(){
 
 function makeFooter(){
 
-    document.getElementById("footer").innerHTML = "<div class = \"footertext\"><h2>Contact</h2>    <p>Email: screensmithstudios@gmail.com</p></div>    <br/> " + 
+    document.getElementById("footer").innerHTML = "<div class = \"footertext\"><h2 style=\"font-family: 'Press Start 2P', cursive !important;\">Contact</h2>    <p>Email: screensmithstudios@gmail.com</p></div>    <br/> " + 
 	
 	"<button class='steamButton' onclick='' ><a class='' href='https://store.steampowered.com/app/1820790/PictoPull/' style='width: 40px !important; height: 40px !important;'><i class='fa-brands fa-steam fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
 	"<button class='twitterButton1' onclick='' ><a href='https://twitter.com/scrnsmthstudios' class=''><i class='fa-brands fa-twitter fa-4x'></i></a></button>&nbsp;&nbsp;&nbsp;"+
