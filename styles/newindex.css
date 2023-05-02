@@ -161,9 +161,12 @@ padding: 10px;
 }
 
 
+
+
+
+
 #About {
-    font-size: 30px;
-    line-height: 20px;
+    
 }
 
 
@@ -334,6 +337,10 @@ padding-top: 50px;
  
 }
 
+.h1workaround {
+    font-size: 100px !important;
+}
+
 .buttonMenuBar a {
     color:  white !important ;
 }
@@ -359,61 +366,60 @@ padding-top: 50px;
 
 
 .twitterButton1 {
-
-   
     color:white;
     background: #1DA1F2 !important;
-   
-
-
 }
 
 
 .RedditButton {
-
     color:white;
     background: #ff4500 !important;
-  
-
- 
-
 }
 
 
 .itchButton {
-
-  
     color:white;
     background: #fa5c5c !important;
-  
-
- 
-
 }
 
 
 .githubButton {
-
-  
     color:white;
     background: #171515 !important;
-  
-
- 
-
 }
 
 
 .steamButton {
-
     color:white;
     background: #171a21 !important;
- 
+}
 
-  
- 
+.itchButtonPortfolio {
+    color:white;
+    background: #fa5c5c !important;
+    width: 200px !important;
+    vertical-align: middle !important;
+    font-size: 20px !important;
+}
+
+.resumeButtonPortfolio {
+    color:white;
+    background: #ff4500 !important;
+    width: 200px !important;
+    vertical-align: middle !important;
+    font-size: 20px !important;
 
 }
+
+.githubButtonPortfolio {
+    color:white;
+    background: #171515 !important;
+    width: 200px !important;
+    vertical-align: middle !important;
+    font-size: 20px !important;
+
+}
+
 
 
 
@@ -793,3 +799,33 @@ overflow: auto;
 background-color: white;
 
 }
+
+
+
+
+
+#Article p {
+
+    
+
+}
+
+#ArticleAbout {
+
+    max-width: 1200px;
+    margin: auto;
+    font-size: 24px !important;
+    line-height: 24px;
+    font-family: 'Roboto' !important;
+    
+
+
+}
+
+#ArticleAbout a {
+    color: blue;
+    font-size: 24px !important;
+    line-height: 24px;
+    font-family: 'Roboto' !important;
+}
+
