@@ -10,7 +10,7 @@ function makeNavbar(addon){
 	"<li><a href='" + addon + "index.html'>Home</a></li>" + 
 	"<!--<li><a href='" + addon + "index.html#events'>Events</a></li>-->" + 
 	"<li><a href='" + addon + "index.html#games'>Games</a></li>" + 
-	//"<li><a href='" + addon + "portfolio.html'>Portfolio</a></li>"+
+	"<li><a href='" + addon + "portfolio.html'>Portfolio</a></li>"+
 	"<li><a href='" + addon + "index.html#contact'>Contact</a></li>"+
 	"</ul></div></div></nav>";
 	//<li><a href='about.html'>About</a></li>
