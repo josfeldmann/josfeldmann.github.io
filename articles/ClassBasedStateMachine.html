@@ -85,94 +85,15 @@ How this code basically works is that there is an enum defined at the top which 
 When the player is idling, the <b>currentState</b> variable should be set to <b>PlayerStateEnum.IDLE</b>. 
 Then in Update the switch branch will call the function <b>IdleState()</b> which will run whatever logic you want for the Idle state.
 Then in order to switch states all you have to do is change the <b>currentState</b> variable and the state will change and next update a different function will be called.
+
+<br/>
+<br/>
+This System for switching states is very simple but works.
+ It is totally fine to use for some small simple logic that doesn't need to be repeated, but if you want
+One 
+
 <p>
 
-		<pre><code class="language-csharp hljs">using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-[System.Serializable]
-public enum PlayerStateEnum { WALKING, IDLE, SLIDING, INAIR, DEAD }
-
-public class EnumBasedPlayerController : MonoBehaviour {
-
-
-    public PlayerStateEnum currentState;
-    public Animator anim;
-    public Rigidbody body;
-
-    public float playerSpeed = 5;
-
-    private void Awake() {
-        currentState = PlayerStateEnum.IDLE;
-    }
-
-    private void Update() {
-        switch (currentState) {
-            case PlayerStateEnum.WALKING:
-                WalkState();
-                break;
-            case PlayerStateEnum.IDLE:
-                IdleState();
-                break;
-            case PlayerStateEnum.SLIDING:
-                SlideState();
-                break;
-            case PlayerStateEnum.INAIR:
-                InAirState();
-                break;
-            case PlayerStateEnum.DEAD:
-                DeadState();
-                break;
-        }
-    }
-
-    public void IdleState() {
-        anim.SetBool("Idle", true);
-        if (Input.GetAxis("Horizontal") != 0) {
-            currentState = PlayerStateEnum.WALKING;
-            WalkState();
-        }
-        if (!isGrounded()) {
-            currentState = PlayerStateEnum.INAIR;
-            InAirState();
-        }
-    }
-
-    public void WalkState() {
-        if (Input.GetAxis("Horizontal") != 0) {
-            anim.SetBool("Idle", false);
-            body.velocity = new Vector3(Input.GetAxis("Horizontal") * playerSpeed, body.velocity.y, body.velocity.z);
-        } else {
-            //Change to Idle state if not walking
-            anim.SetBool("Idle", true);
-            currentState = PlayerStateEnum.WALKING;
-        }
-
-        if (!isGrounded()) {
-            currentState = PlayerStateEnum.INAIR;
-            InAirState();
-        }
-    }
-
-    public void DeadState() {
-        //Do Nothing
-    }
-
-    public void InAirState() {
-        //Do falling logic
-    }
-
-    public void SlideState() {
-        //Do slide logic
-    }
-
-    public bool isGrounded() {
-        // Do some ground check logic here
-        return true;
-    }
-
-}</code></pre>
 
 
 
