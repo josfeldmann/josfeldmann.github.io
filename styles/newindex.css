@@ -277,6 +277,8 @@ padding-top: 50px;
     background-color: black;
 }
 
+
+
 #videowrapper button {
     background-color: rgba(168, 24, 24,1); /* Green */
     border: none;
@@ -462,6 +464,16 @@ padding-top: 50px;
     padding: 0px;
     z-index: 5;
 }
+
+.portfoliodarkimage {
+    position:absolute;
+    width:100%;
+    margin: 0px;
+    height: 50vh;
+    padding: 0px;
+    z-index: 5;
+}
+
 
 #videowrapper h1 {
     position: absolute; 
@@ -826,4 +838,74 @@ background-color: white;
     line-height: 24px;
     font-family: 'Roboto' !important;
 }
+
+
+
+#portfoliohero {
+    font-family: 'Press Start 2P', cursive;
+    position: relative;
+    width: 100%;
+    padding: 0px;
+    height: 50vh;
+    overflow: hidden;
+    align-items: center;
+    background-color: black;
+}
+
+#portfoliohero h1 {
+    position: absolute; 
+    font-size: 120px;
+    top: 55%;
+    margin-top: -75px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: inline-block;
+    text-align: center;
+    
+    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    font-family: 'minipixel';
+    z-index: 67;
+}
+
+
+
+#portfoliohero button {
+    background-color: rgba(168, 24, 24,1); /* Green */
+    border: none;
+    text-decoration: none;
+    
+    border-radius: 8px;
+    width: 80px;
+    height: 80px;
+   
+    text-align: center;
+    vertical-align: center !important;
+    align-items: center !important;
+    
+    color: white;  
+}
+
+
+
+
+#mainGames {
+
+
+
+
+
+}
+
+#mainGames h1 {
+
+    font-size: 72px !important;
+
+
+
+}
+
+
 
