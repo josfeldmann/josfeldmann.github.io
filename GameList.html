@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
 <style>
 .flex-container {
   display: flex;
@@ -13,8 +14,6 @@
   width: 300px;
   margin: 10px;
   text-align: center;
-  line-height: 75px;
-  font-size: 30px;
 }
 </style>
 </head>
@@ -25,28 +24,89 @@
 
 
 
-<h1>The flex-direction Property</h1>
+<h1>Narrative Game List</h1>
 
-<p>flex-direction: row; stacks the flex items horizontally (from left to right):</p>
 
-<div class="flex-container">
+
+<div class="flex-container" id = "container">
   
 </div>
 
 <script>
     const games = [
-        {"name":"Helene","age":54,"email":"helene@helene.com"},
-        {"name":"Janet","age":24,"email":"janet@janet.com"},
-        {"name":"Michel","age":25,"email":"michel@michel.com"}];
+        {
+          "name":"Planescape Torment",
+          "image":"PlanescapeTorment.jpg", 
+          "description":"For a long time this was considered the best written video game of all time. It is an old school DND based Infinity Engine CRPG. While there is combat, a lot of it can be avoided by just running or talking to people. You play as the Nameless One, an immortal being who has lost his memory. You must explore and talk to characters to uncover your past, remember who you are, and shape your new future. The game is very text heavy, often you have to read long descriptions and paragraphs of text at a time. It can feel like reading a book, but you still have a good degree of player choice.", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags": ["RPG","Choice", "Text Heavy", "Fantasy", "Classic"]
+        },
 
-    const grid = document.getElementByClassName('flex-container');
+        {
+          "name":"Disco Elysium",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["RPG", "Choice", "Investigation", "Political", "Text Heavy", "Sci Fi", "Funny"]
+        },
 
-    alert("dasdsa");
+        {
+          "name":"1000xResist",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Political", "Investigation", "Sci Fi", "Cinematic"]
+        },
+
+
+        {
+          "name":"Night In The Woods",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Adventure", "2D Platformer", "Mini Games", "Funny"]
+        },
+
+        {
+          "name":"Detroit Become Human",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Choice", "Political", "Cinematic", "Sci Fi"]
+        },
+
+        {
+          "name":"God of War + Ragnarok",
+          "image":"DiscoElysium.jpg", 
+          "description":"The Sony God or War remakes are great action games, but the main appeal to them for me is their beautifully told stories. The story focuses on the fraught relationship between Kratos and his son Atreus. They must work together to escape the wrath of the Norse gods and learn about eachother. The characters are constatly talking to eachother and building their relationships. Amazing voice acting, beatiful visuals and cinematography, and great action gameplay.", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Action", "Cinematic", "Fantasy", "Classic"]
+        },
+
+
+
+        ];
+
+    const grid = document.getElementById("container");
+
+   
 
     for (let i = 0; i < games.length; i++) {
         
-        grid.inner = `${user.name}`; // create the string for the user
-        grid.appendChild(div);
+
+         
+        var tagHTML = "<div class ='w3-container'>";
+        games[i].tags.forEach((tag) => tagHTML += "<span class='w3-tag'>" + tag + "</span>");
+        tagHTML += "</div>";
+        
+
+        grid.innerHTML += "<div class = 'gameEntry'>" + 
+                          "<h1> <a href='" + games[i].url + "'>"  + games[i].name + "</a></h1>" +
+                          "<img src = 'GameList/" + games[i].image +"' style='width:100%;'>" +
+                          tagHTML +
+                          "<p>" + games[i].description + "</p>" + 
+                          "</div>"; // create the string for the user
+        
     }
 </script>
 
