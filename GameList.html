@@ -4,16 +4,24 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
 <style>
 .flex-container {
-  display: flex;
-  flex-direction: row;
-  background-color: DodgerBlue;
+  display: grid;
+  grid-auto-rows: 500px;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  gap: 10px;
 }
 
-.flex-container > div {
+.gameEntry {
   background-color: #f1f1f1;
-  width: 300px;
+  padding: 5px;
   margin: 10px;
   text-align: center;
+}
+
+.w3-container {
+  margin: 5px;
+}
+.tagEntry {
+  margin: 1px;
 }
 </style>
 </head>
@@ -34,12 +42,16 @@
 
 <script>
     const games = [
+
+        //The Best
+
         {
           "name":"Planescape Torment",
           "image":"PlanescapeTorment.jpg", 
           "description":"For a long time this was considered the best written video game of all time. It is an old school DND based Infinity Engine CRPG. While there is combat, a lot of it can be avoided by just running or talking to people. You play as the Nameless One, an immortal being who has lost his memory. You must explore and talk to characters to uncover your past, remember who you are, and shape your new future. The game is very text heavy, often you have to read long descriptions and paragraphs of text at a time. It can feel like reading a book, but you still have a good degree of player choice.", 
           "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
-          "tags": ["RPG","Choice", "Text Heavy", "Fantasy", "Classic"]
+          "tags": ["RPG","Choice", "Text Heavy", "Fantasy", "Classic"],
+          "main-category":"Favorite"
         },
 
         {
@@ -47,41 +59,278 @@
           "image":"DiscoElysium.jpg", 
           "description":"", 
           "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
-          "tags":["RPG", "Choice", "Investigation", "Political", "Text Heavy", "Sci Fi", "Funny"]
+          "tags":["RPG", "Choice", "Investigation", "Political", "Text Heavy", "Sci Fi", "Funny"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"BioShock",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["FPS", "AAA", "Political", "Sci Fi"],
+          "main-category":"Favorite"
         },
 
         {
           "name":"1000xResist",
-          "image":"DiscoElysium.jpg", 
+          "image":"1000xResist.jpg", 
           "description":"", 
-          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
-          "tags":["Political", "Investigation", "Sci Fi", "Cinematic"]
+          "url":"https://www.mobygames.com/game/223635/1000xresist/",
+          "tags":["Political", "Investigation", "Sci Fi", "Cinematic"],
+          "main-category":"Favorite"
         },
-
 
         {
-          "name":"Night In The Woods",
+          "name":"Metal Gear Solid Series",
           "image":"DiscoElysium.jpg", 
           "description":"", 
           "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
-          "tags":["Adventure", "2D Platformer", "Mini Games", "Funny"]
+          "tags":["Action", "AAA", "Political", "Sci Fi"],
+          "main-category":"Favorite"
         },
 
+        {
+          "name":"Talos Principle",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Puzzle", "Sci Fi"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Spec Ops: The Line",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Action", "Political"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Fallout New Vegas",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Action", "RPG", "Post Apocalyptic", "Sci Fi", "Political"],
+          "main-category":"Favorite"
+        },
+
+        
+
+
+        //Indie
+        {
+          "name":"Inside",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Puzzle", "Emotional", "Platformer"],
+          "main-category":"Favorite"
+        },
+       
+
+        {
+          "name":"LISA",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Post Apocalyptic", "JRPG", "Emotional"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Undertale",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Post Apocalyptic", "JRPG", "Choice"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"OMORI",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Emotional"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Bastion",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Post Apocalyptic", "Action"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Night in the Woods",
+          "image":"DiscoElysium.jpg", 
+          "description":"", 
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Indie", "Modern Day"],
+          "main-category":"Favorite"
+        },
+
+
+
+        //Walking Simulators
+
+
+        //Visual Novels
+
+
+        //AAA
         {
           "name":"Detroit Become Human",
           "image":"DiscoElysium.jpg", 
           "description":"", 
           "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
-          "tags":["Choice", "Political", "Cinematic", "Sci Fi"]
+          "tags":["Choice", "AAA", "Political", "Cinematic", "Sci Fi"],
+          "main-category":"Favorite"
         },
 
         {
           "name":"God of War + Ragnarok",
           "image":"DiscoElysium.jpg", 
-          "description":"The Sony God or War remakes are great action games, but the main appeal to them for me is their beautifully told stories. The story focuses on the fraught relationship between Kratos and his son Atreus. They must work together to escape the wrath of the Norse gods and learn about eachother. The characters are constatly talking to eachother and building their relationships. Amazing voice acting, beatiful visuals and cinematography, and great action gameplay.", 
+          "description":"The Sony God or War remakes are great action games, but the main appeal to them for me is their beautifully told stories. The story focuses on the fraught relationship between Kratos and his son Atreus. They must work together to escape the wrath of the Norse gods and learn about eachother. The characters are constantly talking to eachother and building their relationships. Amazing voice acting, beatiful visuals and cinematography, and great action gameplay.", 
           "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
-          "tags":["Action", "Cinematic", "Fantasy", "Classic"]
+          "tags":["Action", "AAA", "Cinematic", "Fantasy", "Classic"],
+          "main-category":"Favorite"
         },
+
+       
+
+        {
+          "name":"Last of Us 1+2",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Post Apocalyptic", "Cinematic", "Action", "Zombie"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Uncharted Series",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Action", "Cinematic"],
+          "main-category":"Favorite"
+        },
+
+
+
+
+        //JRPG
+        {
+          "name":"Persona 3/4/5",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Dating Sim", "Political", "Modern Day"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Metaphor Refantazio",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Political", "Fantasy"],
+          "main-category":"Favorite"
+        },
+        
+
+         
+
+        {
+          "name":"Trails Series",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Fantasy"],
+          "main-category":"Favorite"
+        },
+
+
+        {
+          "name":"Nier (Replicant)",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Action", "Multiple Playthroughs", "Fantasy"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Nier Automata",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Action", "Multiple Playthroughs", "Sci Fi"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Final Fantasy Tactics",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["Political", "JRPG", "Fantasy"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Final Fantasy 7",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Action", "Cinematic", "Sci Fi", "Classic"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Final Fantasy 7 Remakes",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Action", "Multiple Playthroughs", "Sci Fi"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Final Fantasy 6",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Fantasy", "Classic"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Chrono Trigger",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Fantasy", "Classic"],
+          "main-category":"Favorite"
+        },
+
+        {
+          "name":"Suikoden II",
+          "image":"DiscoElysium.jpg", 
+          "description":"",
+          "url":"https://www.mobygames.com/game/86794/planescape-torment-enhanced-edition/",
+          "tags":["JRPG", "Fantasy", "Classic"],
+          "main-category":"Favorite"
+        },
+
+        
 
 
 
@@ -96,13 +345,13 @@
 
          
         var tagHTML = "<div class ='w3-container'>";
-        games[i].tags.forEach((tag) => tagHTML += "<span class='w3-tag'>" + tag + "</span>");
+        games[i].tags.forEach((tag) => tagHTML += "<span class='w3-tag tagEntry'>" + tag + "</span>");
         tagHTML += "</div>";
         
 
         grid.innerHTML += "<div class = 'gameEntry'>" + 
                           "<h1> <a href='" + games[i].url + "'>"  + games[i].name + "</a></h1>" +
-                          "<img src = 'GameList/" + games[i].image +"' style='width:100%;'>" +
+                          "<img src = 'GameList/" + games[i].image +"' style='max-width:100%; max-height:50%;'>" +
                           tagHTML +
                           "<p>" + games[i].description + "</p>" + 
                           "</div>"; // create the string for the user
