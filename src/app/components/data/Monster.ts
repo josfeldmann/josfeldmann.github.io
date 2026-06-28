@@ -1,3 +1,5 @@
+import { EvolutionGraph } from "./EvolutionGraph";
+
 export class Monster {
   monsterKey: string;
   monsterName: string;
@@ -21,6 +23,8 @@ export class Monster {
   shortDescription: string;
   longDescription: string;
 
+  evolutionGraph: EvolutionGraph | null;
+
   constructor(data: {
     monsterKey : string;
     monsterName: string;
@@ -43,6 +47,7 @@ export class Monster {
     }[];
     shortDescription: string;
     longDescription: string;
+    evolutionGraph : EvolutionGraph | null;
 
 
   }) {
@@ -57,5 +62,6 @@ export class Monster {
     this.resistances = data.resistances;
     this.shortDescription = data.shortDescription;
     this.longDescription = data.longDescription;
+    this.evolutionGraph = data.evolutionGraph;
   }
 }

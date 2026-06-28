@@ -19,6 +19,7 @@ import { Metadata } from 'next';
 import AbilityButton from '@/app/components/ui/AbilityButton';
 import { Ability } from '@/app/components/data/Ability';
 import MonsterResistanceTable from '@/app/components/ui/ResistanceTable';
+import EvolutionGraphView from '@/app/components/ui/EvolutionGraphView';
 export type MonsterDictionary = Record<string, Monster>;
 
 export async function generateStaticParams() {
@@ -97,6 +98,8 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
         
         <h2>Passives</h2>
 
+        
+
       <p>
         <SingleLineList items={monster.abilities} renderItem={(location) => (<GenericLink value={location} basePath="/abilities/" />)}></SingleLineList>
       </p> 
@@ -114,6 +117,8 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
       <MonsterStatsGraph monster={monster} />
       </div>
       </div>
+
+      <EvolutionGraphView graph={ monster.evolutionGraph }/>
 
       <h2>Dex</h2>
 

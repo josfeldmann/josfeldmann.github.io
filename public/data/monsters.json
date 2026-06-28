@@ -67,7 +67,42 @@
         }
       ],
       "shortDescription": "It stores sunlight in its fur and turns it into electricity. When it nuzzles others, it often gives them a small shock.",
-      "longDescription": "It lives in meadows where it can rest in the sun and graze through the day. Its fur gathers sunlight, while its wool releases extra electricity as static. It is social and curious, but its greetings often shock strangers before it understands they are afraid."
+      "longDescription": "It lives in meadows where it can rest in the sun and graze through the day. Its fur gathers sunlight, while its wool releases extra electricity as static. It is social and curious, but its greetings often shock strangers before it understands they are afraid.",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Alshocka",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Voltcaya",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Voltpaca",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Voltcaya": {
       "monsterKey": "Voltcaya",
@@ -137,7 +172,42 @@
         }
       ],
       "shortDescription": "It spends more time alone on sunny hills, using its tail to sense weather changes and nearby movement.",
-      "longDescription": "After leaving the herd, it often travels by itself along hills and open fields. Its long neck helps more fur reach the sun, allowing it to build a stronger charge. It avoids most fights, but it will warn intruders with sparks from its wool and tail."
+      "longDescription": "After leaving the herd, it often travels by itself along hills and open fields. Its long neck helps more fur reach the sun, allowing it to build a stronger charge. It avoids most fights, but it will warn intruders with sparks from its wool and tail.",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Alshocka",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Voltcaya",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Voltpaca",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Voltpaca": {
       "monsterKey": "Voltpaca",
@@ -207,7 +277,42 @@
         }
       ],
       "shortDescription": "It rubs its necks together to build electricity. When threatened, it releases a charge strong enough to scare predators away.",
-      "longDescription": "It guards sunny valleys where flowers and grazing plants are common. Its two heads often pull in different directions, but their necks rub together as they move, creating large amounts of electricity. It is quick to drive away threats, though younger members of its herd may safely graze near it."
+      "longDescription": "It guards sunny valleys where flowers and grazing plants are common. Its two heads often pull in different directions, but their necks rub together as they move, creating large amounts of electricity. It is quick to drive away threats, though younger members of its herd may safely graze near it.",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Alshocka",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Voltcaya",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Voltpaca",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Ignilob": {
       "monsterKey": "Ignilob",
@@ -269,7 +374,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Ignilob",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Cindclaw",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cindcannon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Cindclaw": {
       "monsterKey": "Cindclaw",
@@ -331,7 +471,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Ignilob",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Cindclaw",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cindcannon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Cindcannon": {
       "monsterKey": "Cindcannon",
@@ -393,7 +568,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Ignilob",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Cindclaw",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cindcannon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Lapiseal": {
       "monsterKey": "Lapiseal",
@@ -464,7 +674,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Lapiseal",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Lapisula",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Lapislion",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Lapisula": {
       "monsterKey": "Lapisula",
@@ -535,7 +780,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Lapiseal",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Lapisula",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Lapislion",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Lapislion": {
       "monsterKey": "Lapislion",
@@ -606,7 +886,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Lapiseal",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Lapisula",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Lapislion",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Jaylet": {
       "monsterKey": "Jaylet",
@@ -660,7 +975,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Jaylet",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Jinxlet",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cobaltalon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Jinxlet": {
       "monsterKey": "Jinxlet",
@@ -714,7 +1064,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Jaylet",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Jinxlet",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cobaltalon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Cobaltalon": {
       "monsterKey": "Cobaltalon",
@@ -768,7 +1153,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Jaylet",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Jinxlet",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cobaltalon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Flitbat": {
       "monsterKey": "Flitbat",
@@ -831,7 +1251,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Flitbat",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Noctiflare",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Volcaroost",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Noctiflare": {
       "monsterKey": "Noctiflare",
@@ -894,7 +1349,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Flitbat",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Noctiflare",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Volcaroost",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Volcaroost": {
       "monsterKey": "Volcaroost",
@@ -957,7 +1447,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Flitbat",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Noctiflare",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Volcaroost",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Rockitten": {
       "monsterKey": "Rockitten",
@@ -1013,7 +1538,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Rockitten",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Boulynx",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Rockat",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Boulynx": {
       "monsterKey": "Boulynx",
@@ -1069,7 +1629,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Rockitten",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Boulynx",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Rockat",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Rockat": {
       "monsterKey": "Rockat",
@@ -1125,7 +1720,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Rockitten",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Boulynx",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Rockat",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Delichick": {
       "monsterKey": "Delichick",
@@ -1186,7 +1816,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Delichick",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Herotint",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Azuron",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Herotint": {
       "monsterKey": "Herotint",
@@ -1247,7 +1912,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Delichick",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Herotint",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Azuron",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Azuron": {
       "monsterKey": "Azuron",
@@ -1308,7 +2008,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Delichick",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Herotint",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Azuron",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Felichick": {
       "monsterKey": "Felichick",
@@ -1377,7 +2112,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Felichick",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Feerotint",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Blancron",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Feerotint": {
       "monsterKey": "Feerotint",
@@ -1446,7 +2216,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Felichick",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Feerotint",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Blancron",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Blancron": {
       "monsterKey": "Blancron",
@@ -1515,7 +2320,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Felichick",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Feerotint",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Blancron",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Lambert": {
       "monsterKey": "Lambert",
@@ -1598,7 +2438,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Lambert",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Legko",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moloch",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Legko": {
       "monsterKey": "Legko",
@@ -1681,7 +2556,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Lambert",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Legko",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moloch",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Moloch": {
       "monsterKey": "Moloch",
@@ -1764,7 +2674,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Lambert",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Legko",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moloch",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Sprigot": {
       "monsterKey": "Sprigot",
@@ -1835,7 +2780,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sprigot",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Wiltvine",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Hemlurk",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Wiltvine": {
       "monsterKey": "Wiltvine",
@@ -1906,7 +2886,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sprigot",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Wiltvine",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Hemlurk",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Hemlurk": {
       "monsterKey": "Hemlurk",
@@ -1977,7 +2992,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sprigot",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Wiltvine",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Hemlurk",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Rocksnek": {
       "monsterKey": "Rocksnek",
@@ -2040,7 +3090,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Rocksnek",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Rockobra",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Rockobra": {
       "monsterKey": "Rockobra",
@@ -2103,7 +3177,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Rocksnek",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Rockobra",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Tulemur": {
       "monsterKey": "Tulemur",
@@ -2176,7 +3274,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tulemur",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Tulemuru",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Tulemuru": {
       "monsterKey": "Tulemuru",
@@ -2249,7 +3371,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tulemur",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Tulemuru",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Larvug": {
       "monsterKey": "Larvug",
@@ -2304,7 +3450,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Larvug",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "LarvaFly",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "LarvaFly": {
       "monsterKey": "LarvaFly",
@@ -2371,7 +3541,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Larvug",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "LarvaFly",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Ardy": {
       "monsterKey": "Ardy",
@@ -2433,7 +3627,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Ardy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Aard",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Aard": {
       "monsterKey": "Aard",
@@ -2495,7 +3713,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Ardy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Aard",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Grubane": {
       "monsterKey": "Grubane",
@@ -2554,7 +3796,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Veiloon": {
       "monsterKey": "Veiloon",
@@ -2613,7 +3856,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Silkshade": {
       "monsterKey": "Silkshade",
@@ -2672,7 +3916,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Dreadrone": {
       "monsterKey": "Dreadrone",
@@ -2731,7 +3976,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Chardy": {
       "monsterKey": "Chardy",
@@ -2801,7 +4047,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Chardy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Chaard",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Chaard": {
       "monsterKey": "Chaard",
@@ -2871,7 +4141,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Chardy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Chaard",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Dreed": {
       "monsterKey": "Dreed",
@@ -2942,7 +4236,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Dreed",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Drout",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Dragalia",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Drout": {
       "monsterKey": "Drout",
@@ -3013,7 +4342,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Dreed",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Drout",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Dragalia",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Dragalia": {
       "monsterKey": "Dragalia",
@@ -3084,7 +4448,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Dreed",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Drout",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Dragalia",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Chillimp": {
       "monsterKey": "Chillimp",
@@ -3147,7 +4546,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Chillimp",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cheti",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Cheti": {
       "monsterKey": "Cheti",
@@ -3210,7 +4633,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Chillimp",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cheti",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Boltnu": {
       "monsterKey": "Boltnu",
@@ -3285,7 +4732,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Boltnu",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Zagon",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Zagon": {
       "monsterKey": "Zagon",
@@ -3360,7 +4831,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Boltnu",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Zagon",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Drashimi": {
       "monsterKey": "Drashimi",
@@ -3435,7 +4930,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Drashimi",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Drushi",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Dragami",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Drushi": {
       "monsterKey": "Drushi",
@@ -3510,7 +5040,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Drashimi",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Drushi",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Dragami",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Dragami": {
       "monsterKey": "Dragami",
@@ -3585,7 +5150,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Drashimi",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Drushi",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Dragami",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Metesaur": {
       "monsterKey": "Metesaur",
@@ -3648,7 +5248,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Metesaur",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Meteodactly",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Meteodactly": {
       "monsterKey": "Meteodactly",
@@ -3711,7 +5335,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Metesaur",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Meteodactly",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Pyghoul": {
       "monsterKey": "Pyghoul",
@@ -3781,7 +5429,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Pyghoul",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Pythock",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Pythock": {
       "monsterKey": "Pythock",
@@ -3851,7 +5523,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Pyghoul",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Pythock",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Seltek": {
       "monsterKey": "Seltek",
@@ -3910,7 +5606,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Seltek",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Selmatek",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Selmatek": {
       "monsterKey": "Selmatek",
@@ -3969,7 +5689,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Seltek",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Selmatek",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Agnite": {
       "monsterKey": "Agnite",
@@ -4032,7 +5776,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Agnite",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Agnidon",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Agnigon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Agnidon": {
       "monsterKey": "Agnidon",
@@ -4095,7 +5874,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Agnite",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Agnidon",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Agnigon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Agnigon": {
       "monsterKey": "Agnigon",
@@ -4158,7 +5972,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Agnite",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Agnidon",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Agnigon",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Mewnuk": {
       "monsterKey": "Mewnuk",
@@ -4216,7 +6065,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Miaownolith": {
       "monsterKey": "Miaownolith",
@@ -4282,7 +6132,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Pyraminx": {
       "monsterKey": "Pyraminx",
@@ -4344,7 +6195,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Pyrominx": {
       "monsterKey": "Pyrominx",
@@ -4406,7 +6258,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Bigfin": {
       "monsterKey": "Bigfin",
@@ -4461,7 +6314,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Bigfin",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Sharpfin": {
       "monsterKey": "Sharpfin",
@@ -4516,7 +6381,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sharpfin",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Grintot": {
       "monsterKey": "Grintot",
@@ -4566,7 +6443,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Grinflare": {
       "monsterKey": "Grinflare",
@@ -4629,7 +6507,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Grinshock": {
       "monsterKey": "Grinshock",
@@ -4692,7 +6571,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Pondive": {
       "monsterKey": "Pondive",
@@ -4757,7 +6637,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Pondive",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Divurf",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Divurf": {
       "monsterKey": "Divurf",
@@ -4822,7 +6726,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Pondive",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Divurf",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Medipup": {
       "monsterKey": "Medipup",
@@ -4864,7 +6792,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Medipup",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Doctsy",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Doctsy": {
       "monsterKey": "Doctsy",
@@ -4906,7 +6858,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Medipup",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Doctsy",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Foillet": {
       "monsterKey": "Foillet",
@@ -4977,7 +6953,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Foillet",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Swanfoil",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Swanfoil": {
       "monsterKey": "Swanfoil",
@@ -5048,7 +7048,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Foillet",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Swanfoil",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Psynaps": {
       "monsterKey": "Psynaps",
@@ -5111,7 +7135,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Psynaps",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Denvivo",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Somatose",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Denvivo": {
       "monsterKey": "Denvivo",
@@ -5174,7 +7233,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Psynaps",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Denvivo",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Somatose",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Somatose": {
       "monsterKey": "Somatose",
@@ -5237,7 +7331,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Psynaps",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Denvivo",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Somatose",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Bumbulus": {
       "monsterKey": "Bumbulus",
@@ -5296,7 +7425,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Bumbulus",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Nimbulus",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Nimbulus": {
       "monsterKey": "Nimbulus",
@@ -5355,7 +7508,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Bumbulus",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Nimbulus",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Tribial": {
       "monsterKey": "Tribial",
@@ -5394,7 +7571,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tribial",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Shamage",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Shamage": {
       "monsterKey": "Shamage",
@@ -5433,7 +7634,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tribial",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Shamage",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Tadcool": {
       "monsterKey": "Tadcool",
@@ -5488,7 +7713,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tadcool",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Fribbit",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Fribbit": {
       "monsterKey": "Fribbit",
@@ -5543,7 +7792,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tadcool",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Fribbit",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Millil": {
       "monsterKey": "Millil",
@@ -5598,7 +7871,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Millil",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Millisting",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Millisting": {
       "monsterKey": "Millisting",
@@ -5653,7 +7950,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Millil",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Millisting",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Kelpup": {
       "monsterKey": "Kelpup",
@@ -5708,7 +8029,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Kelpup",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Reefrond",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Reefrond": {
       "monsterKey": "Reefrond",
@@ -5763,7 +8108,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Kelpup",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Reefrond",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Waysprite": {
       "monsterKey": "Waysprite",
@@ -5826,7 +8195,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Agnesnow": {
       "monsterKey": "Agnesnow",
@@ -5885,7 +8255,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Seraphice": {
       "monsterKey": "Seraphice",
@@ -5944,7 +8315,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Demisnow": {
       "monsterKey": "Demisnow",
@@ -6007,7 +8379,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Lucifice": {
       "monsterKey": "Lucifice",
@@ -6070,7 +8443,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Nudaflott": {
       "monsterKey": "Nudaflott",
@@ -6124,7 +8498,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Nudaqueen": {
       "monsterKey": "Nudaqueen",
@@ -6195,7 +8570,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "NudoFlott": {
       "monsterKey": "NudoFlott",
@@ -6249,7 +8625,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Nudoking": {
       "monsterKey": "Nudoking",
@@ -6316,7 +8693,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Poturney": {
       "monsterKey": "Poturney",
@@ -6370,7 +8748,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Poturney",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Potturnery",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Potturnery": {
       "monsterKey": "Potturnery",
@@ -6424,7 +8826,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Poturney",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Potturnery",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Polyrock": {
       "monsterKey": "Polyrock",
@@ -6495,7 +8921,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Polyrock",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Tweesher": {
       "monsterKey": "Tweesher",
@@ -6550,7 +8988,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tweesher",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Heronquak",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Eaglace",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Heronquak": {
       "monsterKey": "Heronquak",
@@ -6605,7 +9078,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tweesher",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Heronquak",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Eaglace",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Eaglace": {
       "monsterKey": "Eaglace",
@@ -6660,7 +9168,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tweesher",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Heronquak",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Eaglace",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Stonifly": {
       "monsterKey": "Stonifly",
@@ -6719,7 +9262,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Stonifly",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Cocrune",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Runesquito",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Cocrune": {
       "monsterKey": "Cocrune",
@@ -6778,7 +9356,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Stonifly",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Cocrune",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Runesquito",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Runesquito": {
       "monsterKey": "Runesquito",
@@ -6837,7 +9450,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Stonifly",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Cocrune",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Runesquito",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Sparepple": {
       "monsterKey": "Sparepple",
@@ -6908,7 +9556,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sparepple",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Samurepple",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Samurepple": {
       "monsterKey": "Samurepple",
@@ -6979,7 +9651,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sparepple",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Samurepple",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Forturtle": {
       "monsterKey": "Forturtle",
@@ -7025,7 +9721,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Forturtle",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Prophetoise",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Prophetoise": {
       "monsterKey": "Prophetoise",
@@ -7092,7 +9812,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Forturtle",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Prophetoise",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "SLichen": {
       "monsterKey": "SLichen",
@@ -7143,7 +9887,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "SLichen",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Glombroc",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Glombroc": {
       "monsterKey": "Glombroc",
@@ -7194,7 +9962,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "SLichen",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Glombroc",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Uneye": {
       "monsterKey": "Uneye",
@@ -7233,7 +10025,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Uneye",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Lendos",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Lendos": {
       "monsterKey": "Lendos",
@@ -7272,7 +10088,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Uneye",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Lendos",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Boldersaur": {
       "monsterKey": "Boldersaur",
@@ -7327,7 +10167,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Boldersaur",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Fracture",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Fracture": {
       "monsterKey": "Fracture",
@@ -7382,7 +10246,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Boldersaur",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Fracture",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Mantite": {
       "monsterKey": "Mantite",
@@ -7449,7 +10337,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Mantite",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Galvascythe",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Galvascythe": {
       "monsterKey": "Galvascythe",
@@ -7516,7 +10428,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Mantite",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Galvascythe",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Mantobo": {
       "monsterKey": "Mantobo",
@@ -7575,7 +10511,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Mantobo",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Glaciascythe",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Glaciascythe": {
       "monsterKey": "Glaciascythe",
@@ -7634,7 +10594,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Mantobo",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Glaciascythe",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Swampu": {
       "monsterKey": "Swampu",
@@ -7693,7 +10677,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Swampu",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Swamploom",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Swamploom": {
       "monsterKey": "Swamploom",
@@ -7752,7 +10760,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Swampu",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Swamploom",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Blazu": {
       "monsterKey": "Blazu",
@@ -7818,7 +10850,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Blazu",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Blazloom",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Blazloom": {
       "monsterKey": "Blazloom",
@@ -7884,7 +10940,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Blazu",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Blazloom",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Shockshrew": {
       "monsterKey": "Shockshrew",
@@ -7947,7 +11027,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Shockshrew",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Shockupine",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Shockupine": {
       "monsterKey": "Shockupine",
@@ -8010,7 +11114,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Shockshrew",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Shockupine",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Cindshrew": {
       "monsterKey": "Cindshrew",
@@ -8080,7 +11208,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Cindshrew",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cindipine",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Cindipine": {
       "monsterKey": "Cindipine",
@@ -8150,7 +11302,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Cindshrew",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Cindipine",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Xylofish": {
       "monsterKey": "Xylofish",
@@ -8229,7 +11405,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Xylofish",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "BloatFish": {
       "monsterKey": "BloatFish",
@@ -8299,7 +11487,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "BloatFish",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Apeoro": {
       "monsterKey": "Apeoro",
@@ -8361,7 +11561,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Apeoro",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Mauai": {
       "monsterKey": "Mauai",
@@ -8426,7 +11638,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Mauai",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Medushock": {
       "monsterKey": "Medushock",
@@ -8485,7 +11709,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Medushock",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Medusting",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Medusting": {
       "monsterKey": "Medusting",
@@ -8544,7 +11792,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Medushock",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Medusting",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Baoby": {
       "monsterKey": "Baoby",
@@ -8594,7 +11866,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Baoby",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Baobaraffe",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Baobaraffe": {
       "monsterKey": "Baobaraffe",
@@ -8644,7 +11940,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Baoby",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Baobaraffe",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "leonSoul": {
       "monsterKey": "leonSoul",
@@ -8695,7 +12015,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "leonSoul",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Goldstream": {
       "monsterKey": "Goldstream",
@@ -8750,7 +12082,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Goldstream",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Goldscale",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Goldcind",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Goldscale": {
       "monsterKey": "Goldscale",
@@ -8805,7 +12172,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Goldstream",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Goldscale",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Goldcind",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Goldcind": {
       "monsterKey": "Goldcind",
@@ -8860,7 +12262,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Goldstream",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Goldscale",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Goldcind",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Rootram": {
       "monsterKey": "Rootram",
@@ -8931,7 +12368,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Rootram",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Barkhide",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Barkhide": {
       "monsterKey": "Barkhide",
@@ -9002,7 +12463,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Rootram",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Barkhide",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "FirePony": {
       "monsterKey": "FirePony",
@@ -9077,7 +12562,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "FirePony",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Volcavalry",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Volcavalry": {
       "monsterKey": "Volcavalry",
@@ -9152,7 +12661,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "FirePony",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Volcavalry",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Buzzbill": {
       "monsterKey": "Buzzbill",
@@ -9231,7 +12764,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Buzzbill",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Ironbill",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Ironbill": {
       "monsterKey": "Ironbill",
@@ -9310,7 +12867,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Buzzbill",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Ironbill",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "parroot": {
       "monsterKey": "parroot",
@@ -9373,7 +12954,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "parroot",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Parrolage",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Parrolage": {
       "monsterKey": "Parrolage",
@@ -9436,7 +13041,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "parroot",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Parrolage",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "sludguppy": {
       "monsterKey": "sludguppy",
@@ -9491,7 +13120,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "sludguppy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Sludgudge",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Sludgudge": {
       "monsterKey": "Sludgudge",
@@ -9546,7 +13199,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "sludguppy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Sludgudge",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "merguppy": {
       "monsterKey": "merguppy",
@@ -9617,7 +13294,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "merguppy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Muckmaid",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Muckmaid": {
       "monsterKey": "Muckmaid",
@@ -9688,7 +13389,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "merguppy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Muckmaid",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "dracicle": {
       "monsterKey": "dracicle",
@@ -9751,7 +13476,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "dracicle",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Glacicle",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Boreacicle",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Glacicle": {
       "monsterKey": "Glacicle",
@@ -9814,7 +13574,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "dracicle",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Glacicle",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Boreacicle",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Boreacicle": {
       "monsterKey": "Boreacicle",
@@ -9877,7 +13672,42 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "dracicle",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Glacicle",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Boreacicle",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Wooluff": {
       "monsterKey": "Wooluff",
@@ -9928,7 +13758,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Wooluff",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Permafleece",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Permafleece": {
       "monsterKey": "Permafleece",
@@ -9979,7 +13833,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Wooluff",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Permafleece",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Sootle": {
       "monsterKey": "Sootle",
@@ -10050,7 +13928,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sootle",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Coalbra",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Coalbra": {
       "monsterKey": "Coalbra",
@@ -10121,7 +14023,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sootle",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Coalbra",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Pallos": {
       "monsterKey": "Pallos",
@@ -10176,7 +14102,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Pallos",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Buzzolt": {
       "monsterKey": "Buzzolt",
@@ -10235,7 +14173,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Buzzolt",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Skeeta",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Skeeta": {
       "monsterKey": "Skeeta",
@@ -10294,7 +14256,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Buzzolt",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Skeeta",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Luchapede": {
       "monsterKey": "Luchapede",
@@ -10349,7 +14335,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Luchapede",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Vampede": {
       "monsterKey": "Vampede",
@@ -10420,7 +14418,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Vampede",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Joltey": {
       "monsterKey": "Joltey",
@@ -10471,7 +14481,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Joltey",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Joltjab",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Joltjab": {
       "monsterKey": "Joltjab",
@@ -10522,7 +14556,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Joltey",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Joltjab",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Maceodon": {
       "monsterKey": "Maceodon",
@@ -10589,7 +14647,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Maceodon",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Jocty": {
       "monsterKey": "Jocty",
@@ -10640,7 +14710,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Jocty",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Shadowbox",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Shadowbox": {
       "monsterKey": "Shadowbox",
@@ -10691,7 +14785,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Jocty",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Shadowbox",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Pengbaby": {
       "monsterKey": "Pengbaby",
@@ -10750,7 +14868,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Tideroy": {
       "monsterKey": "Tideroy",
@@ -10825,7 +14944,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Darkroy": {
       "monsterKey": "Darkroy",
@@ -10880,7 +15000,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Brambush": {
       "monsterKey": "Brambush",
@@ -10951,7 +15072,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Brambush",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Finip": {
       "monsterKey": "Finip",
@@ -11002,7 +15135,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Finip",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Leviatide",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Leviatide": {
       "monsterKey": "Leviatide",
@@ -11053,7 +15210,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Finip",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Leviatide",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Beetwig": {
       "monsterKey": "Beetwig",
@@ -11107,7 +15288,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Beetwig",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Stagrove",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Stagrove": {
       "monsterKey": "Stagrove",
@@ -11174,7 +15379,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Beetwig",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Stagrove",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Frillbud": {
       "monsterKey": "Frillbud",
@@ -11245,7 +15474,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Frillbud",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Frondrake",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Frondrake": {
       "monsterKey": "Frondrake",
@@ -11316,7 +15569,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Frillbud",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Frondrake",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Tarpup": {
       "monsterKey": "Tarpup",
@@ -11375,7 +15652,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tarpup",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Swampit",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Swampit": {
       "monsterKey": "Swampit",
@@ -11434,7 +15735,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tarpup",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Swampit",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Moonlarva": {
       "monsterKey": "Moonlarva",
@@ -11497,7 +15822,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Moonlarva",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moonarch",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Moonarch": {
       "monsterKey": "Moonarch",
@@ -11560,7 +15909,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Moonlarva",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moonarch",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Mothwick": {
       "monsterKey": "Mothwick",
@@ -11627,7 +16000,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Moonlarva",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moonarch",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Sparkit": {
       "monsterKey": "Sparkit",
@@ -11690,7 +16087,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sparkit",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Stormane",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Stormane": {
       "monsterKey": "Stormane",
@@ -11753,7 +16174,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sparkit",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Stormane",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Psyteor": {
       "monsterKey": "Psyteor",
@@ -11820,7 +16265,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Psyteor",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Psytite",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Psytite": {
       "monsterKey": "Psytite",
@@ -11887,7 +16356,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Psyteor",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Psytite",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Orbacle": {
       "monsterKey": "Orbacle",
@@ -11954,7 +16447,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Orbacle",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Zenkong": {
       "monsterKey": "Zenkong",
@@ -11997,7 +16502,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Zenkong",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Axowarry": {
       "monsterKey": "Axowarry",
@@ -12060,7 +16577,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Axowarry",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Gravadillo": {
       "monsterKey": "Gravadillo",
@@ -12127,7 +16656,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Gravadillo",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Cloudrake": {
       "monsterKey": "Cloudrake",
@@ -12194,7 +16735,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Cloudrake",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Pinefawn": {
       "monsterKey": "Pinefawn",
@@ -12261,7 +16814,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Pinefawn",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Everhorn",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Everhorn": {
       "monsterKey": "Everhorn",
@@ -12328,7 +16905,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Pinefawn",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Everhorn",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Mammelt": {
       "monsterKey": "Mammelt",
@@ -12383,7 +16984,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Mammelt",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Magmatusk",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Magmatusk": {
       "monsterKey": "Magmatusk",
@@ -12438,7 +17063,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Mammelt",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Magmatusk",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Sabretooth": {
       "monsterKey": "Sabretooth",
@@ -12505,7 +17154,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sabretooth",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Sabretooth2",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Sabretooth2": {
       "monsterKey": "Sabretooth2",
@@ -12572,7 +17245,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sabretooth",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Sabretooth2",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Owlite": {
       "monsterKey": "Owlite",
@@ -12631,7 +17328,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Owlite",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Astraloon",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Astraloon": {
       "monsterKey": "Astraloon",
@@ -12690,7 +17411,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Owlite",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Astraloon",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Puffrog": {
       "monsterKey": "Puffrog",
@@ -12753,7 +17498,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Puffrog",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Croakloud",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Croakloud": {
       "monsterKey": "Croakloud",
@@ -12816,7 +17585,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Puffrog",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Croakloud",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Gnashy": {
       "monsterKey": "Gnashy",
@@ -12875,7 +17668,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Gnashy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Mangefrost",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Mangefrost": {
       "monsterKey": "Mangefrost",
@@ -12934,7 +17751,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Gnashy",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Mangefrost",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Geknin": {
       "monsterKey": "Geknin",
@@ -12993,7 +17834,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Geknin",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Toxikage",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Toxikage": {
       "monsterKey": "Toxikage",
@@ -13052,7 +17917,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Geknin",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Toxikage",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Shibu": {
       "monsterKey": "Shibu",
@@ -13092,7 +17981,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shibuzz": {
       "monsterKey": "Shibuzz",
@@ -13149,7 +18039,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shibog": {
       "monsterKey": "Shibog",
@@ -13214,7 +18105,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shiblitz": {
       "monsterKey": "Shiblitz",
@@ -13283,7 +18175,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shibolt": {
       "monsterKey": "Shibolt",
@@ -13340,7 +18233,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shiberg": {
       "monsterKey": "Shiberg",
@@ -13397,7 +18291,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shibrawl": {
       "monsterKey": "Shibrawl",
@@ -13458,7 +18353,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shibane": {
       "monsterKey": "Shibane",
@@ -13511,7 +18407,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "GrassSHibu": {
       "monsterKey": "GrassSHibu",
@@ -13588,7 +18485,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shiraptor": {
       "monsterKey": "Shiraptor",
@@ -13657,7 +18555,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shibafly": {
       "monsterKey": "Shibafly",
@@ -13706,7 +18605,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shichroma": {
       "monsterKey": "Shichroma",
@@ -13746,7 +18646,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shibastion": {
       "monsterKey": "Shibastion",
@@ -13823,7 +18724,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shiburrow": {
       "monsterKey": "Shiburrow",
@@ -13884,7 +18786,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shibungus": {
       "monsterKey": "Shibungus",
@@ -13937,7 +18840,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Shiraph": {
       "monsterKey": "Shiraph",
@@ -13994,7 +18898,8 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": null
     },
     "Tankalf": {
       "monsterKey": "Tankalf",
@@ -14077,7 +18982,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tankalf",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Bombarge",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Bombarge": {
       "monsterKey": "Bombarge",
@@ -14160,7 +19089,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Tankalf",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Bombarge",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Stego": {
       "monsterKey": "Stego",
@@ -14231,7 +19184,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Stego",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Nimbusaur",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Nimbusaur": {
       "monsterKey": "Nimbusaur",
@@ -14302,7 +19279,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Stego",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Nimbusaur",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Fuzzfly": {
       "monsterKey": "Fuzzfly",
@@ -14365,7 +19366,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Fuzzfly",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Flutterwing",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Flutterwing": {
       "monsterKey": "Flutterwing",
@@ -14428,7 +19453,31 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Fuzzfly",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Flutterwing",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      }
     },
     "Dreadguard": {
       "monsterKey": "Dreadguard",
@@ -14499,7 +19548,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Dreadguard",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Legionhare": {
       "monsterKey": "Legionhare",
@@ -14566,7 +19627,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Legionhare",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Sylphawn": {
       "monsterKey": "Sylphawn",
@@ -14645,7 +19718,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sylphawn",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     },
     "Veilora": {
       "monsterKey": "Veilora",
@@ -14700,7 +19785,19 @@
         }
       ],
       "shortDescription": "",
-      "longDescription": ""
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Veilora",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      }
     }
   },
   "abilities": {

@@ -40,7 +40,7 @@ export default function MonsterBadge({
       backgroundColor: "#" + type1.color,
       height: "50%",
       width: "100%",
-      borderRadius: "40px 40px 0px 0px"
+      borderRadius: (scale * 20) + "px " + (scale * 20) + "px 0px 0px"
     }}
   />
 
@@ -50,7 +50,7 @@ export default function MonsterBadge({
       backgroundColor: "#" + type2.color,
       height: "50%",
       width: "100%",
-      borderRadius: "0px 0px 40px 40px"
+      borderRadius: "0px 0px " + (scale * 20) + "px " + (scale * 20) + "px"
     }}
   />
 
