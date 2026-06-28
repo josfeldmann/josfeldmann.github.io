@@ -10,7 +10,13 @@ import { MapLocationDictionary } from "./MapLocationDictionary";
 import { MapLocation } from "./MapLocation";
 import monsters from '../../../../public/data/monsters.json';
 
+interface Resistance {
+    resistance: number;
+    type: string;
+}
+
 export class MonsterDatabase {
+  
   
   
  
@@ -86,6 +92,30 @@ export class MonsterDatabase {
     return Object.values(this.abilities);
   }
 
+
+  getTypesByResistance(
+    resistances: Resistance[],
+    comparison: (value: number) => boolean
+  ): string[] {
+    return resistances
+        .filter(r => comparison(r.resistance))
+        .map(r => r.type);
+  }
+
+  getWeaknesses(resistances: Resistance[]) : string[] {
+   return this.getTypesByResistance(resistances, r => r > 1 );
+  }
+
+  
+  getResists(resistances: Resistance[]) : string[] {
+   return this.getTypesByResistance(resistances, r => (r < 1 && r != 0) );
+  }
+
+  getNotAffectedBy(resistances: Resistance[]) : string[] {
+   return this.getTypesByResistance(resistances, r => (r == 0) );
+  }
+
+  
   
   ///Moves
   

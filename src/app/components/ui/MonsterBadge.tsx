@@ -29,9 +29,9 @@ export default function MonsterBadge({
     width: 96 * scale,
     height: 96 * scale,
 
-    opacity: 0,
-    animation: "fadeIn 0s forwards",
-    animationDelay: "0.25s",
+    //opacity: 0,
+    //animation: "fadeIn 0s forwards",
+    //animationDelay: "0.25s",
   }}
 >
   {/* Top Half */}
@@ -75,6 +75,7 @@ export default function MonsterBadge({
     {/* Frame */}
     <img
       src="/data/MonsterFrame.png"
+      fetchPriority="high"
       style={{
         position: "absolute",
         top: 0,
@@ -82,7 +83,8 @@ export default function MonsterBadge({
         width: "100%",
         height: "100%",
         pointerEvents: "none",
-        imageRendering: "pixelated"
+        imageRendering: "pixelated",
+        
       }}
     />
 

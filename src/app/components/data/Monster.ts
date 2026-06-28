@@ -14,6 +14,12 @@ export class Monster {
   abilities: string[];
   moves: string[];
   evolutions: string | null;
+  resistances: {
+        resistance: number;
+        type: string;
+    }[];
+  shortDescription: string;
+  longDescription: string;
 
   constructor(data: {
     monsterKey : string;
@@ -31,6 +37,14 @@ export class Monster {
     abilities: string[];
     moves: string[];
     evolutions: string | null;
+    resistances:  {
+        resistance: number;
+        type: string;
+    }[];
+    shortDescription: string;
+    longDescription: string;
+
+
   }) {
     this.monsterKey = data.monsterKey;
     this.monsterName = data.monsterName;
@@ -40,5 +54,8 @@ export class Monster {
     this.abilities = data.abilities;
     this.moves = data.moves;
     this.evolutions = data.evolutions;
+    this.resistances = data.resistances;
+    this.shortDescription = data.shortDescription;
+    this.longDescription = data.longDescription;
   }
 }

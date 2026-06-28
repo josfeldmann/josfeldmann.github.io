@@ -18,6 +18,7 @@ import MonsterStatsGraph from '@/app/components/ui/MonsterStatsGraph';
 import { Metadata } from 'next';
 import AbilityButton from '@/app/components/ui/AbilityButton';
 import { Ability } from '@/app/components/data/Ability';
+import MonsterResistanceTable from '@/app/components/ui/ResistanceTable';
 export type MonsterDictionary = Record<string, Monster>;
 
 export async function generateStaticParams() {
@@ -72,6 +73,10 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
  const ability : Ability = db.getAbility(monster.abilities[0])
 
+ const weaknesses : string[] = db.getWeaknesses(monster.resistances);
+ const resistances : string[] = db.getResists(monster.resistances);
+ const notAffected : string[] = db.getNotAffectedBy(monster.resistances);
+
   return (
 
 
@@ -111,16 +116,25 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
       </div>
 
       <h2>Dex</h2>
+
       <p>
-        {monster.monsterID};
+        {monster.shortDescription}
       </p>
+
+      <p>
+        {monster.longDescription}
+      </p>
+
+
+      <MonsterResistanceTable monster={monster}/>
 
       
       <p>
         <SingleLineList items={locations} renderItem={(location) => (<GenericLink value={location} basePath="/locations/" />)} ></SingleLineList>
       </p>
       
-           
+
+        
       
 
       <h2>Moves</h2>

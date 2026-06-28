@@ -13,29 +13,24 @@ export default function TypeButton({
   size = 192,
 }: TypeButtonProps) {
 
-    
-    
-
   return (
 <a href={`/types/${data.key}.html`}>
 <div
-style={
-{
-borderRadius: "3px",
-minWidth: "60px",
-display: "inline-block",
-backgroundColor: "#" + data.color,
-padding: "4px",
-border:"1px",
-color: "white",
-WebkitFontSmoothing: "antiAliased",
-textAlign:"center",
-
-//textShadow: "#000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px, #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px; !important"
-}
-}>
+    style={{
+        borderRadius: "3px",
+        minWidth: "60px",
+        display: "inline-block",
+        backgroundColor: "#" + data.color,
+        padding: "4px",
+        border: "1px solid #000",
+        color: "white",
+        textAlign: "center",
+        textShadow:
+            "-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000",
+    }}
+>
     {data.name}
-</div>  
+</div>
 </a>
 );
 }
