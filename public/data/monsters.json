@@ -373,8 +373,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Hides in heated tide pools, venting painful steam when threatened by aquatic hunters that mistake it for easy prey.",
+      "longDescription": "Lives where volcanic rock warms shallow seawater. It feeds by heating trapped mollusks until their shells weaken, then pries them open with careful claw strikes. The steam released from its back vents contains intense dry heat, making it especially dangerous to creatures that rely on moist skin or gills.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -470,8 +470,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Stalks reefs at low tide, blasting fireballs across the water before surrounding rivals in scalding steam.",
+      "longDescription": "Claims rocky channels where warm currents carry small fish and shellfish. It stores heated seawater inside its body, forcing it out as thick steam that burns through the defenses of many aquatic predators. When competing for territory, it fires warning shots from its claws, then uses steam clouds to hide its next movement.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -567,8 +567,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Grows large enough to challenge Bigfins, using overwhelming firepower to force them from the deep before closing in.",
+      "longDescription": "Rules warm offshore waters and often hunts prey far larger than itself. As it matures, its internal chambers produce far greater heat and pressure, allowing it to launch concentrated blasts strong enough to wound  Bigfins and drive them into shallow water. Reports describe it stalking beneath steam banks, then striking in repeated volleys until even massive marine animals abandon the area.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -641,10 +641,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
           "type": "Elec"
         },
@@ -673,8 +669,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "This pup tests its growing stone plates by ramming driftwood, ice chunks, and sleeping adults with little sense of danger.",
+      "longDescription": "Live along frozen beaches where cliffs meet the sea. Their first instincts are to charge at any hard surface, learning the limits of their bodies through impact. The gem on the brow helps them sense cracks in ice and stone, guiding them toward safe places to practice. Adults rarely stop these collisions unless the pup nears thin ice.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -747,10 +743,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
           "type": "Elec"
         },
@@ -779,8 +771,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Adolescents leap from sea cliffs into freezing surf, using each impact to strengthen their flippers and harden their armor.",
+      "longDescription": "At this stage, cliff-diving becomes a social ritual. Groups gather above rough water and take turns launching themselves into the waves below. The repeated shocks thicken their rocky limbs and teach them how to angle their bodies against stone, ice, and current. Those that dive most cleanly earn better resting spots and feeding routes.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -853,10 +845,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
           "type": "Elec"
         },
@@ -885,8 +873,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "This powerful adult crashes into boulders and glacier walls, judging rivals by the cracks left behind after each blow.",
+      "longDescription": "Mature individuals claim cold coves bordered by cliffs and floating ice. They patrol by swimming beneath glaciers, then surfacing with enough force to fracture weak shelves. Their gem detects stress lines in stone, allowing them to strike with precision rather than waste strength. During disputes, adults ram nearby rocks first, settling most conflicts before direct combat begins.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -974,8 +962,8 @@
           "type": "Ice"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Its soft songs drift through thickets at dawn, drawing insects from hiding and keeping small flocks close together.",
+      "longDescription": "This small bird lives along woodland edges, gardens, and quiet trails where low branches offer quick shelter. Its song is gentle and patterned, often used to guide siblings back to the nest or calm disputes over food. When threatened, it releases brief gusts from rapid wingbeats, scattering leaves and gaining just enough space to escape.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1063,8 +1051,8 @@
           "type": "Ice"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Its developing voice can bend into sharp cries, causing small prey to stumble while it closes in from above.",
+      "longDescription": "During adolescence, it becomes loud, restless, and eager to test its strength. It practices from high perches, repeating notes until they harden into bursts of sound that rattle branches and confuse nearby animals. Hunting groups often take turns driving insects and small creatures into open ground with gusts, then striking before the target can regain direction.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1152,8 +1140,8 @@
           "type": "Ice"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A sudden cry from its territory can scatter whole flocks, leaving predators dazed and prey unable to flee straight.",
+      "longDescription": "This mature hunter rules open woods, orchards, and windy ridgelines. Its call carries far across the canopy, creating waves of pressure that disrupt balance and make distance difficult to judge. It rarely wastes energy in long chases, instead using compressed gusts and piercing cries to break a target’s focus. Mated pairs defend broad nesting grounds with coordinated sonic displays.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1250,8 +1238,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It warms berries with its tail flame before eating, then sleeps in smoky hollows where larger scavengers rarely search.",
+      "longDescription": "This young stage roosts in tree holes, barn rafters, and abandoned nests near fruiting shrubs. It prefers berries softened by heat, but will nibble carrion when food is scarce. Its small flame is used more for cooking than fighting, though startled groups may fan sparks with frantic wingbeats. Dry leaves often ignite around crowded roosts, making these colonies unwanted near settlements.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1348,8 +1336,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It dives at grounded animals with shrill cries, scattering them before singeing dropped food or exposed scraps.",
+      "longDescription": "During adolescence, it becomes bold and difficult to drive away. Small groups patrol trails, farms, and forest clearings, harassing larger animals with sudden swoops and ringing screams. Their gusts spread embers from their tail flames, allowing them to flush insects, expose hidden nests, or frighten scavengers off remains. Many accidental fires begin when these reckless hunters roost in dry rafters or dead trees.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1446,8 +1434,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Its roar-like screech and flaring tail can drive predators from fresh kills, leaving the carcass for its own flock.",
+      "longDescription": "This mature scavenger claims cliffs, burned trunks, and abandoned towers as roosting sites. It rarely risks direct combat against strong predators, instead circling low with blasts of hot air and deafening cries until the hunter abandons its meal. It cooks carrion with controlled flame before feeding, but its patience fades near rivals. A single territorial display can shower sparks over a wide area, endangering forests and wooden buildings.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -3797,7 +3785,33 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Grubane",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Veiloon",
+            "x": 200.0,
+            "y": 125.0
+          },
+          {
+            "key": "Silkshade",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Dreadrone",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Veiloon": {
       "monsterKey": "Veiloon",
@@ -3857,7 +3871,33 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Grubane",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Veiloon",
+            "x": 200.0,
+            "y": 125.0
+          },
+          {
+            "key": "Silkshade",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Dreadrone",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Silkshade": {
       "monsterKey": "Silkshade",
@@ -3917,7 +3957,33 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Grubane",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Veiloon",
+            "x": 200.0,
+            "y": 125.0
+          },
+          {
+            "key": "Silkshade",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Dreadrone",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Dreadrone": {
       "monsterKey": "Dreadrone",
@@ -3977,7 +4043,33 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Grubane",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Veiloon",
+            "x": 200.0,
+            "y": 125.0
+          },
+          {
+            "key": "Silkshade",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Dreadrone",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Chardy": {
       "monsterKey": "Chardy",
@@ -4517,6 +4609,10 @@
           "type": "Insect"
         },
         {
+          "resistance": 0.5,
+          "type": "Earth"
+        },
+        {
           "resistance": 2.0,
           "type": "Combat"
         },
@@ -4602,6 +4698,10 @@
         {
           "resistance": 0.5,
           "type": "Insect"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Earth"
         },
         {
           "resistance": 2.0,
@@ -6064,9 +6164,35 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": null
+      "shortDescription": "Young pride members spend their days wrestling in warm sand, testing their tails on beetles, and learning caste signals from adults.",
+      "longDescription": "These cubs are raised communally in shaded ruins and dry riverbeds. Their playful battles teach balance, timing, and restraint before their caste is known. When startled, they bury themselves in loose sand with only their head exposed, waiting for the pride’s guards to arrive.",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 350.0,
+        "nodes": [
+          {
+            "key": "Mewnuk",
+            "x": 100.0,
+            "y": 175.0
+          },
+          {
+            "key": "Miaownolith",
+            "x": 300.0,
+            "y": 87.5
+          },
+          {
+            "key": "Pyraminx",
+            "x": 300.0,
+            "y": 175.0
+          },
+          {
+            "key": "Pyrominx",
+            "x": 300.0,
+            "y": 262.5
+          }
+        ],
+        "arrows": []
+      }
     },
     "Miaownolith": {
       "monsterKey": "Miaownolith",
@@ -6131,9 +6257,35 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": null
+      "shortDescription": "Silent sentries line the edges of pride territory, enduring heat and sandstorms while watching for rivals from buried posts.",
+      "longDescription": "This caste serves as guards, escorts, and soldiers. They rarely leave the pride’s borders unless ordered by the queen. By standing still for long periods, they are often mistaken for ancient monuments. Their heavy steps mark warning paths in the desert, guiding cubs away from sinkholes, predator dens, and enemy patrols.",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 350.0,
+        "nodes": [
+          {
+            "key": "Mewnuk",
+            "x": 100.0,
+            "y": 175.0
+          },
+          {
+            "key": "Miaownolith",
+            "x": 300.0,
+            "y": 87.5
+          },
+          {
+            "key": "Pyraminx",
+            "x": 300.0,
+            "y": 175.0
+          },
+          {
+            "key": "Pyrominx",
+            "x": 300.0,
+            "y": 262.5
+          }
+        ],
+        "arrows": []
+      }
     },
     "Pyraminx": {
       "monsterKey": "Pyraminx",
@@ -6161,10 +6313,6 @@
       ],
       "evolutions": null,
       "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
         {
           "resistance": 0.0,
           "type": "Elec"
@@ -6194,9 +6342,35 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": null
+      "shortDescription": "A calm matriarch that settles disputes with measured gestures, preserving water, food, and nesting grounds for the entire pride.",
+      "longDescription": "The queen caste rules from cool chambers beneath old stone structures, where stored frost keeps the pride alive through drought. She assigns patrols, migration routes, and hunting duties with quiet authority. Rival queens rarely fight directly; instead, they test patience through long border standoffs and displays of controlled power.",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 350.0,
+        "nodes": [
+          {
+            "key": "Mewnuk",
+            "x": 100.0,
+            "y": 175.0
+          },
+          {
+            "key": "Miaownolith",
+            "x": 300.0,
+            "y": 87.5
+          },
+          {
+            "key": "Pyraminx",
+            "x": 300.0,
+            "y": 175.0
+          },
+          {
+            "key": "Pyrominx",
+            "x": 300.0,
+            "y": 262.5
+          }
+        ],
+        "arrows": []
+      }
     },
     "Pyrominx": {
       "monsterKey": "Pyrominx",
@@ -6257,9 +6431,35 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": null
+      "shortDescription": "Bold princes roam ahead of the pride, flushing prey from dunes and challenging threats before they near the royal den.",
+      "longDescription": "This caste handles hunting, scouting, and long-range patrols. They are quick to boast after successful hunts, but their pride depends on their courage and stamina. At sunrise, they travel far beyond marked territory to read tracks in cooling sand, returning with food, warnings, or news of rival movements.",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 350.0,
+        "nodes": [
+          {
+            "key": "Mewnuk",
+            "x": 100.0,
+            "y": 175.0
+          },
+          {
+            "key": "Miaownolith",
+            "x": 300.0,
+            "y": 87.5
+          },
+          {
+            "key": "Pyraminx",
+            "x": 300.0,
+            "y": 175.0
+          },
+          {
+            "key": "Pyrominx",
+            "x": 300.0,
+            "y": 262.5
+          }
+        ],
+        "arrows": []
+      }
     },
     "Bigfin": {
       "monsterKey": "Bigfin",
@@ -6322,7 +6522,7 @@
           {
             "key": "Bigfin",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -6389,7 +6589,7 @@
           {
             "key": "Sharpfin",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -6444,7 +6644,28 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Grintot",
+            "x": 100.0,
+            "y": 125.0
+          },
+          {
+            "key": "Grinflare",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Grinshock",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Grinflare": {
       "monsterKey": "Grinflare",
@@ -6508,7 +6729,28 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Grintot",
+            "x": 100.0,
+            "y": 125.0
+          },
+          {
+            "key": "Grinflare",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Grinshock",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Grinshock": {
       "monsterKey": "Grinshock",
@@ -6572,7 +6814,28 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Grintot",
+            "x": 100.0,
+            "y": 125.0
+          },
+          {
+            "key": "Grinflare",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Grinshock",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Pondive": {
       "monsterKey": "Pondive",
@@ -7689,10 +7952,6 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Elec"
         },
         {
@@ -7766,10 +8025,6 @@
       ],
       "evolutions": null,
       "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
         {
           "resistance": 2.0,
           "type": "Elec"
@@ -8166,10 +8421,6 @@
           "type": "Insect"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 4.0,
           "type": "Combat"
         },
@@ -8196,7 +8447,38 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Waysprite",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Agnesnow",
+            "x": 200.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Demisnow",
+            "x": 200.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Seraphice",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Lucifice",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Agnesnow": {
       "monsterKey": "Agnesnow",
@@ -8231,10 +8513,6 @@
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Fire"
         },
         {
@@ -8256,7 +8534,38 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Waysprite",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Agnesnow",
+            "x": 200.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Demisnow",
+            "x": 200.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Seraphice",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Lucifice",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Seraphice": {
       "monsterKey": "Seraphice",
@@ -8291,10 +8600,6 @@
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Fire"
         },
         {
@@ -8316,7 +8621,38 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Waysprite",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Agnesnow",
+            "x": 200.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Demisnow",
+            "x": 200.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Seraphice",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Lucifice",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Demisnow": {
       "monsterKey": "Demisnow",
@@ -8350,10 +8686,6 @@
           "type": "Insect"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 4.0,
           "type": "Combat"
         },
@@ -8380,7 +8712,38 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Waysprite",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Agnesnow",
+            "x": 200.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Demisnow",
+            "x": 200.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Seraphice",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Lucifice",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Lucifice": {
       "monsterKey": "Lucifice",
@@ -8414,10 +8777,6 @@
           "type": "Insect"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 4.0,
           "type": "Combat"
         },
@@ -8444,7 +8803,38 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Waysprite",
+            "x": 66.6666641,
+            "y": 125.0
+          },
+          {
+            "key": "Agnesnow",
+            "x": 200.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Demisnow",
+            "x": 200.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Seraphice",
+            "x": 333.333344,
+            "y": 83.3333359
+          },
+          {
+            "key": "Lucifice",
+            "x": 333.333344,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Nudaflott": {
       "monsterKey": "Nudaflott",
@@ -8499,7 +8889,33 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Nudaflott",
+            "x": 100.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "NudoFlott",
+            "x": 100.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Nudaqueen",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Nudoking",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Nudaqueen": {
       "monsterKey": "Nudaqueen",
@@ -8571,7 +8987,33 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Nudaflott",
+            "x": 100.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "NudoFlott",
+            "x": 100.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Nudaqueen",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Nudoking",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "NudoFlott": {
       "monsterKey": "NudoFlott",
@@ -8626,7 +9068,33 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Nudaflott",
+            "x": 100.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "NudoFlott",
+            "x": 100.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Nudaqueen",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Nudoking",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Nudoking": {
       "monsterKey": "Nudoking",
@@ -8694,7 +9162,33 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Nudaflott",
+            "x": 100.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "NudoFlott",
+            "x": 100.0,
+            "y": 166.666672
+          },
+          {
+            "key": "Nudaqueen",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Nudoking",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Poturney": {
       "monsterKey": "Poturney",
@@ -8929,7 +9423,7 @@
           {
             "key": "Polyrock",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -10482,7 +10976,7 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -10565,7 +11059,7 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -11413,7 +11907,7 @@
           {
             "key": "Xylofish",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -11495,7 +11989,7 @@
           {
             "key": "BloatFish",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -11569,7 +12063,7 @@
           {
             "key": "Apeoro",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -11646,7 +12140,7 @@
           {
             "key": "Mauai",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -12023,7 +12517,7 @@
           {
             "key": "leonSoul",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -13447,10 +13941,6 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Elec"
         },
@@ -13543,10 +14033,6 @@
         {
           "resistance": 2.0,
           "type": "Dino"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
         },
         {
           "resistance": 0.5,
@@ -13643,10 +14129,6 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Elec"
         },
@@ -13737,10 +14219,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 4.0,
           "type": "Combat"
         },
@@ -13811,10 +14289,6 @@
       ],
       "evolutions": null,
       "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
         {
           "resistance": 4.0,
           "type": "Combat"
@@ -14077,7 +14551,7 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -14110,7 +14584,7 @@
           {
             "key": "Pallos",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -14343,7 +14817,7 @@
           {
             "key": "Luchapede",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -14426,7 +14900,7 @@
           {
             "key": "Vampede",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -14655,7 +15129,7 @@
           {
             "key": "Maceodon",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -14869,7 +15343,28 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Pengbaby",
+            "x": 100.0,
+            "y": 125.0
+          },
+          {
+            "key": "Tideroy",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Darkroy",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Tideroy": {
       "monsterKey": "Tideroy",
@@ -14945,7 +15440,28 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Pengbaby",
+            "x": 100.0,
+            "y": 125.0
+          },
+          {
+            "key": "Tideroy",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Darkroy",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Darkroy": {
       "monsterKey": "Darkroy",
@@ -15001,7 +15517,28 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 250.0,
+        "nodes": [
+          {
+            "key": "Pengbaby",
+            "x": 100.0,
+            "y": 125.0
+          },
+          {
+            "key": "Tideroy",
+            "x": 300.0,
+            "y": 83.3333359
+          },
+          {
+            "key": "Darkroy",
+            "x": 300.0,
+            "y": 166.666672
+          }
+        ],
+        "arrows": []
+      }
     },
     "Brambush": {
       "monsterKey": "Brambush",
@@ -15080,7 +15617,7 @@
           {
             "key": "Brambush",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -16455,7 +16992,7 @@
           {
             "key": "Orbacle",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -16510,7 +17047,7 @@
           {
             "key": "Zenkong",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -16585,7 +17122,7 @@
           {
             "key": "Axowarry",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -16664,7 +17201,7 @@
           {
             "key": "Gravadillo",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -16743,7 +17280,7 @@
           {
             "key": "Cloudrake",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -16779,6 +17316,10 @@
         {
           "resistance": 2.0,
           "type": "Insect"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Earth"
         },
         {
           "resistance": 0.5,
@@ -16873,6 +17414,10 @@
         },
         {
           "resistance": 0.5,
+          "type": "Earth"
+        },
+        {
+          "resistance": 0.5,
           "type": "Elec"
         },
         {
@@ -16963,7 +17508,7 @@
           "type": "Insect"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -17042,7 +17587,7 @@
           "type": "Insect"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -17125,7 +17670,7 @@
           "type": "Dino"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -17216,7 +17761,7 @@
           "type": "Dino"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -17639,7 +18184,7 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -17722,7 +18267,7 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Earth"
         },
         {
@@ -18269,10 +18814,6 @@
       ],
       "evolutions": null,
       "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
         {
           "resistance": 4.0,
           "type": "Combat"
@@ -19556,7 +20097,7 @@
           {
             "key": "Dreadguard",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -19635,7 +20176,7 @@
           {
             "key": "Legionhare",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -19726,7 +20267,7 @@
           {
             "key": "Sylphawn",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []
@@ -19793,7 +20334,7 @@
           {
             "key": "Veilora",
             "x": 200.0,
-            "y": 50.0
+            "y": 200.0
           }
         ],
         "arrows": []

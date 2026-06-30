@@ -83,7 +83,7 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
 <div>
 
-      <div className="d-flex flex-wrap  justify-content-around">
+      <div className="d-flex flex-wrap  justify-content-left">
 
       <div className="p-2">
         <MonsterBadge data={monster} scale={3}/> 
@@ -118,7 +118,6 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
       </div>
       </div>
 
-      <EvolutionGraphView graph={ monster.evolutionGraph }/>
 
       <h2>Dex</h2>
 
@@ -129,22 +128,30 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
       <p>
         {monster.longDescription}
       </p>
+  
+      <div className="row g-4">
+          {/* Right-side info on desktop, first on mobile */}
+          <div className="col-12 col-lg-5 order-1 order-lg-2">
+              <div className="d-flex flex-column gap-4">
+
+                  <h3>Evolution Tree</h3>
+                  <EvolutionGraphView graph={monster.evolutionGraph} />
+                  <h3>Where to Obtain</h3>
+                  <SingleLineList items={locations} renderItem={(location) => (<GenericLink value={location} basePath="/locations/" />)}/>
+                  <h3>Resistances</h3>
+                  <MonsterResistanceTable monster={monster} />
 
 
-      <MonsterResistanceTable monster={monster}/>
+  
+              </div>
+          </div>
 
-      
-      <p>
-        <SingleLineList items={locations} renderItem={(location) => (<GenericLink value={location} basePath="/locations/" />)} ></SingleLineList>
-      </p>
-      
-
-        
-      
-
-      <h2>Moves</h2>
-      <Movelist moves={moves} />
-
+          {/* Move list on desktop left, last on mobile */}
+          <h3>Resistances</h3>
+          <div className="col-12 col-lg-7 order-2 order-lg-1">
+              <Movelist moves={moves} />
+          </div>
+      </div>
 
 
     </div>
