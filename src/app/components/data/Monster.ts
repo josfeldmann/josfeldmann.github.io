@@ -25,6 +25,8 @@ export class Monster {
 
   evolutionGraph: EvolutionGraph | null;
 
+  contributors : { contributorKey: string, credit: string  }[];
+
   constructor(data: {
     monsterKey : string;
     monsterName: string;
@@ -48,6 +50,7 @@ export class Monster {
     shortDescription: string;
     longDescription: string;
     evolutionGraph : EvolutionGraph | null;
+    contributors : { contributorKey: string, credit: string  }[];
 
 
   }) {
@@ -63,5 +66,6 @@ export class Monster {
     this.shortDescription = data.shortDescription;
     this.longDescription = data.longDescription;
     this.evolutionGraph = data.evolutionGraph;
+    this.contributors = data.contributors;
   }
 }

@@ -102,7 +102,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Voltcaya": {
       "monsterKey": "Voltcaya",
@@ -207,7 +208,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Voltpaca": {
       "monsterKey": "Voltpaca",
@@ -312,7 +319,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Ignilob": {
       "monsterKey": "Ignilob",
@@ -409,7 +422,17 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Cindclaw": {
       "monsterKey": "Cindclaw",
@@ -506,7 +529,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Cindcannon": {
       "monsterKey": "Cindcannon",
@@ -603,7 +632,17 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Lapiseal": {
       "monsterKey": "Lapiseal",
@@ -705,7 +744,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Lapisula": {
       "monsterKey": "Lapisula",
@@ -807,7 +852,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Lapislion": {
       "monsterKey": "Lapislion",
@@ -909,7 +960,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Jaylet": {
       "monsterKey": "Jaylet",
@@ -998,7 +1055,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Jinxlet": {
       "monsterKey": "Jinxlet",
@@ -1087,7 +1150,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Cobaltalon": {
       "monsterKey": "Cobaltalon",
@@ -1176,7 +1245,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Flitbat": {
       "monsterKey": "Flitbat",
@@ -1274,7 +1349,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Noctiflare": {
       "monsterKey": "Noctiflare",
@@ -1372,7 +1453,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Volcaroost": {
       "monsterKey": "Volcaroost",
@@ -1470,7 +1557,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Rockitten": {
       "monsterKey": "Rockitten",
@@ -1525,8 +1618,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It tumbles down rocky slopes in play, learning how to steer its round body around cliffs, shrubs, and startled prey.",
+      "longDescription": "This young stage lives near scree fields and mountain trails, where loose stones provide cover. It spends much of the day rolling after pebbles, insects, and siblings, building balance through play. When frightened, it curls tightly and blends among fallen rocks until danger passes. Its claws harden early, helping it grip steep ground after each reckless tumble.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1561,7 +1654,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Boulynx": {
       "monsterKey": "Boulynx",
@@ -1616,8 +1710,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It patrols mountain paths at dusk, pressing against stone walls until its outline disappears among weathered rock.",
+      "longDescription": "As it matures, it becomes solitary and watchful. It follows ridgelines, cliff ledges, and dry ravines while learning the borders of its future territory. Its rocky shell collects dust, moss, and mineral stains from the places it rests, improving its camouflage over time. It avoids humans whenever possible, freezing beside boulders until footsteps fade before continuing its patrol.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1652,7 +1746,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Rockat": {
       "monsterKey": "Rockat",
@@ -1707,8 +1802,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It waits motionless among boulders for hours, striking only when prey wanders close enough to hear its claws scrape stone.",
+      "longDescription": "This adult hunter is rarely seen, even in open terrain. It chooses ambush sites near mountain springs, goat trails, and sun-warmed cliffs where prey must pass close by. By flattening itself against stone and slowing its breathing, it becomes nearly indistinguishable from the surrounding rocks. Long waits sometimes lull it into sleep, allowing lucky prey to pass unharmed beneath its perch.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1743,7 +1838,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Delichick": {
       "monsterKey": "Delichick",
@@ -1839,7 +1935,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Herotint": {
       "monsterKey": "Herotint",
@@ -1935,7 +2037,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Azuron": {
       "monsterKey": "Azuron",
@@ -2031,7 +2139,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Felichick": {
       "monsterKey": "Felichick",
@@ -2135,7 +2249,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Feerotint": {
       "monsterKey": "Feerotint",
@@ -2239,7 +2359,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Blancron": {
       "monsterKey": "Blancron",
@@ -2343,7 +2469,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Lambert": {
       "monsterKey": "Lambert",
@@ -2461,7 +2593,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Legko": {
       "monsterKey": "Legko",
@@ -2579,7 +2712,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Moloch": {
       "monsterKey": "Moloch",
@@ -2697,7 +2831,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Sprigot": {
       "monsterKey": "Sprigot",
@@ -2803,7 +2938,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Wiltvine": {
       "monsterKey": "Wiltvine",
@@ -2909,7 +3045,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Hemlurk": {
       "monsterKey": "Hemlurk",
@@ -3015,7 +3152,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Rocksnek": {
       "monsterKey": "Rocksnek",
@@ -3102,7 +3240,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Rockobra": {
       "monsterKey": "Rockobra",
@@ -3189,7 +3328,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Tulemur": {
       "monsterKey": "Tulemur",
@@ -3286,7 +3426,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Tulemuru": {
       "monsterKey": "Tulemuru",
@@ -3383,7 +3524,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Larvug": {
       "monsterKey": "Larvug",
@@ -3462,7 +3604,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "LarvaFly": {
       "monsterKey": "LarvaFly",
@@ -3553,7 +3701,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Ardy": {
       "monsterKey": "Ardy",
@@ -3639,7 +3793,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Aard": {
       "monsterKey": "Aard",
@@ -3725,7 +3880,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Grubane": {
       "monsterKey": "Grubane",
@@ -3811,7 +3967,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Veiloon": {
       "monsterKey": "Veiloon",
@@ -3897,7 +4059,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Silkshade": {
       "monsterKey": "Silkshade",
@@ -3983,7 +4151,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Dreadrone": {
       "monsterKey": "Dreadrone",
@@ -4069,7 +4243,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Chardy": {
       "monsterKey": "Chardy",
@@ -4163,7 +4343,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Chaard": {
       "monsterKey": "Chaard",
@@ -4257,7 +4438,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Dreed": {
       "monsterKey": "Dreed",
@@ -4363,7 +4545,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Drout": {
       "monsterKey": "Drout",
@@ -4469,7 +4657,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Dragalia": {
       "monsterKey": "Dragalia",
@@ -4575,7 +4769,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Chillimp": {
       "monsterKey": "Chillimp",
@@ -4666,7 +4866,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Cheti": {
       "monsterKey": "Cheti",
@@ -4757,7 +4958,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Boltnu": {
       "monsterKey": "Boltnu",
@@ -4856,7 +5058,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Zagon": {
       "monsterKey": "Zagon",
@@ -4955,7 +5158,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Drashimi": {
       "monsterKey": "Drashimi",
@@ -5065,7 +5269,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Drushi": {
       "monsterKey": "Drushi",
@@ -5175,7 +5385,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Dragami": {
       "monsterKey": "Dragami",
@@ -5285,7 +5501,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Metesaur": {
       "monsterKey": "Metesaur",
@@ -5372,7 +5594,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Meteodactly": {
       "monsterKey": "Meteodactly",
@@ -5459,7 +5682,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Pyghoul": {
       "monsterKey": "Pyghoul",
@@ -5553,7 +5777,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Pythock": {
       "monsterKey": "Pythock",
@@ -5647,7 +5872,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Seltek": {
       "monsterKey": "Seltek",
@@ -5730,7 +5956,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Selmatek": {
       "monsterKey": "Selmatek",
@@ -5813,7 +6040,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Agnite": {
       "monsterKey": "Agnite",
@@ -5911,7 +6139,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Agnidon": {
       "monsterKey": "Agnidon",
@@ -6009,7 +6238,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Agnigon": {
       "monsterKey": "Agnigon",
@@ -6107,7 +6337,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Mewnuk": {
       "monsterKey": "Mewnuk",
@@ -6192,7 +6423,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Miaownolith": {
       "monsterKey": "Miaownolith",
@@ -6285,7 +6522,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Pyraminx": {
       "monsterKey": "Pyraminx",
@@ -6370,7 +6613,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Pyrominx": {
       "monsterKey": "Pyrominx",
@@ -6459,7 +6708,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Bigfin": {
       "monsterKey": "Bigfin",
@@ -6526,7 +6781,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Sharpfin": {
       "monsterKey": "Sharpfin",
@@ -6593,7 +6849,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Grintot": {
       "monsterKey": "Grintot",
@@ -6665,7 +6922,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Grinflare": {
       "monsterKey": "Grinflare",
@@ -6750,7 +7013,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Grinshock": {
       "monsterKey": "Grinshock",
@@ -6835,7 +7104,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Pondive": {
       "monsterKey": "Pondive",
@@ -6924,7 +7199,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Divurf": {
       "monsterKey": "Divurf",
@@ -7013,7 +7289,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Medipup": {
       "monsterKey": "Medipup",
@@ -7079,7 +7356,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Doctsy": {
       "monsterKey": "Doctsy",
@@ -7145,7 +7423,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Foillet": {
       "monsterKey": "Foillet",
@@ -7240,7 +7524,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Swanfoil": {
       "monsterKey": "Swanfoil",
@@ -7335,7 +7620,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Psynaps": {
       "monsterKey": "Psynaps",
@@ -7433,7 +7719,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Denvivo": {
       "monsterKey": "Denvivo",
@@ -7531,7 +7818,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Somatose": {
       "monsterKey": "Somatose",
@@ -7629,7 +7917,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Bumbulus": {
       "monsterKey": "Bumbulus",
@@ -7712,7 +8001,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Nimbulus": {
       "monsterKey": "Nimbulus",
@@ -7795,7 +8085,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Tribial": {
       "monsterKey": "Tribial",
@@ -7858,7 +8149,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Shamage": {
       "monsterKey": "Shamage",
@@ -7921,7 +8213,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Tadcool": {
       "monsterKey": "Tadcool",
@@ -7996,7 +8289,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Fribbit": {
       "monsterKey": "Fribbit",
@@ -8071,7 +8365,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Millil": {
       "monsterKey": "Millil",
@@ -8150,7 +8445,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Millisting": {
       "monsterKey": "Millisting",
@@ -8229,7 +8525,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Kelpup": {
       "monsterKey": "Kelpup",
@@ -8308,7 +8605,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Reefrond": {
       "monsterKey": "Reefrond",
@@ -8387,7 +8685,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Waysprite": {
       "monsterKey": "Waysprite",
@@ -8478,7 +8777,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Agnesnow": {
       "monsterKey": "Agnesnow",
@@ -8565,7 +8865,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Seraphice": {
       "monsterKey": "Seraphice",
@@ -8652,7 +8953,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Demisnow": {
       "monsterKey": "Demisnow",
@@ -8743,7 +9045,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Lucifice": {
       "monsterKey": "Lucifice",
@@ -8834,7 +9137,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Nudaflott": {
       "monsterKey": "Nudaflott",
@@ -8915,7 +9219,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Nudaqueen": {
       "monsterKey": "Nudaqueen",
@@ -9013,7 +9318,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "NudoFlott": {
       "monsterKey": "NudoFlott",
@@ -9094,7 +9400,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Nudoking": {
       "monsterKey": "Nudoking",
@@ -9188,7 +9495,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Poturney": {
       "monsterKey": "Poturney",
@@ -9266,7 +9574,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Potturnery": {
       "monsterKey": "Potturnery",
@@ -9344,7 +9653,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Polyrock": {
       "monsterKey": "Polyrock",
@@ -9427,7 +9737,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Tweesher": {
       "monsterKey": "Tweesher",
@@ -9517,7 +9828,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Heronquak": {
       "monsterKey": "Heronquak",
@@ -9607,7 +9919,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Eaglace": {
       "monsterKey": "Eaglace",
@@ -9697,7 +10010,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Stonifly": {
       "monsterKey": "Stonifly",
@@ -9791,7 +10105,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Cocrune": {
       "monsterKey": "Cocrune",
@@ -9885,7 +10200,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Runesquito": {
       "monsterKey": "Runesquito",
@@ -9979,7 +10295,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Sparepple": {
       "monsterKey": "Sparepple",
@@ -10074,7 +10391,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Samurepple": {
       "monsterKey": "Samurepple",
@@ -10169,7 +10487,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Forturtle": {
       "monsterKey": "Forturtle",
@@ -10239,7 +10558,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Prophetoise": {
       "monsterKey": "Prophetoise",
@@ -10330,7 +10655,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "SLichen": {
       "monsterKey": "SLichen",
@@ -10405,7 +10736,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Glombroc": {
       "monsterKey": "Glombroc",
@@ -10480,7 +10812,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Uneye": {
       "monsterKey": "Uneye",
@@ -10543,7 +10876,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Lendos": {
       "monsterKey": "Lendos",
@@ -10606,7 +10940,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Boldersaur": {
       "monsterKey": "Boldersaur",
@@ -10685,7 +11020,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Fracture": {
       "monsterKey": "Fracture",
@@ -10764,7 +11105,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Mantite": {
       "monsterKey": "Mantite",
@@ -10855,7 +11202,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Galvascythe": {
       "monsterKey": "Galvascythe",
@@ -10946,7 +11299,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Mantobo": {
       "monsterKey": "Mantobo",
@@ -11029,7 +11388,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Glaciascythe": {
       "monsterKey": "Glaciascythe",
@@ -11112,7 +11477,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Swampu": {
       "monsterKey": "Swampu",
@@ -11195,7 +11566,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Swamploom": {
       "monsterKey": "Swamploom",
@@ -11278,7 +11655,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Blazu": {
       "monsterKey": "Blazu",
@@ -11368,7 +11751,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Blazloom": {
       "monsterKey": "Blazloom",
@@ -11458,7 +11847,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Shockshrew": {
       "monsterKey": "Shockshrew",
@@ -11545,7 +11940,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Shockupine": {
       "monsterKey": "Shockupine",
@@ -11632,7 +12033,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Cindshrew": {
       "monsterKey": "Cindshrew",
@@ -11726,7 +12133,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Cindipine": {
       "monsterKey": "Cindipine",
@@ -11820,7 +12233,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Xylofish": {
       "monsterKey": "Xylofish",
@@ -11911,7 +12330,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "BloatFish": {
       "monsterKey": "BloatFish",
@@ -11993,7 +12413,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Apeoro": {
       "monsterKey": "Apeoro",
@@ -12067,7 +12488,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Mauai": {
       "monsterKey": "Mauai",
@@ -12144,7 +12566,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Medushock": {
       "monsterKey": "Medushock",
@@ -12227,7 +12650,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Medusting": {
       "monsterKey": "Medusting",
@@ -12310,7 +12739,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Baoby": {
       "monsterKey": "Baoby",
@@ -12384,7 +12819,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Baobaraffe": {
       "monsterKey": "Baobaraffe",
@@ -12458,7 +12894,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "leonSoul": {
       "monsterKey": "leonSoul",
@@ -12521,7 +12958,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Goldstream": {
       "monsterKey": "Goldstream",
@@ -12611,7 +13049,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Goldscale": {
       "monsterKey": "Goldscale",
@@ -12701,7 +13140,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Goldcind": {
       "monsterKey": "Goldcind",
@@ -12791,7 +13231,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Rootram": {
       "monsterKey": "Rootram",
@@ -12886,7 +13327,17 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Barkhide": {
       "monsterKey": "Barkhide",
@@ -12981,7 +13432,17 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "FirePony": {
       "monsterKey": "FirePony",
@@ -13080,7 +13541,17 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Volcavalry": {
       "monsterKey": "Volcavalry",
@@ -13179,7 +13650,17 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Buzzbill": {
       "monsterKey": "Buzzbill",
@@ -13282,7 +13763,17 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Ironbill": {
       "monsterKey": "Ironbill",
@@ -13385,7 +13876,17 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "parroot": {
       "monsterKey": "parroot",
@@ -13472,7 +13973,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Parrolage": {
       "monsterKey": "Parrolage",
@@ -13559,7 +14066,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "sludguppy": {
       "monsterKey": "sludguppy",
@@ -13638,7 +14151,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Sludgudge": {
       "monsterKey": "Sludgudge",
@@ -13717,7 +14236,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "merguppy": {
       "monsterKey": "merguppy",
@@ -13812,7 +14337,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Muckmaid": {
       "monsterKey": "Muckmaid",
@@ -13907,7 +14438,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "dracicle": {
       "monsterKey": "dracicle",
@@ -14001,7 +14538,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Glacicle": {
       "monsterKey": "Glacicle",
@@ -14095,7 +14638,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Boreacicle": {
       "monsterKey": "Boreacicle",
@@ -14189,7 +14738,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Wooluff": {
       "monsterKey": "Wooluff",
@@ -14260,7 +14815,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Permafleece": {
       "monsterKey": "Permafleece",
@@ -14331,7 +14887,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Sootle": {
       "monsterKey": "Sootle",
@@ -14426,7 +14983,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Coalbra": {
       "monsterKey": "Coalbra",
@@ -14521,7 +15084,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Pallos": {
       "monsterKey": "Pallos",
@@ -14588,7 +15157,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Buzzolt": {
       "monsterKey": "Buzzolt",
@@ -14671,7 +15241,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Skeeta": {
       "monsterKey": "Skeeta",
@@ -14754,7 +15325,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Luchapede": {
       "monsterKey": "Luchapede",
@@ -14821,7 +15393,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Vampede": {
       "monsterKey": "Vampede",
@@ -14904,7 +15477,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Joltey": {
       "monsterKey": "Joltey",
@@ -14979,7 +15553,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Joltjab": {
       "monsterKey": "Joltjab",
@@ -15054,7 +15629,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Maceodon": {
       "monsterKey": "Maceodon",
@@ -15133,7 +15709,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Jocty": {
       "monsterKey": "Jocty",
@@ -15208,7 +15785,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Shadowbox": {
       "monsterKey": "Shadowbox",
@@ -15283,7 +15861,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Pengbaby": {
       "monsterKey": "Pengbaby",
@@ -15364,7 +15943,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Tideroy": {
       "monsterKey": "Tideroy",
@@ -15461,7 +16041,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Darkroy": {
       "monsterKey": "Darkroy",
@@ -15538,7 +16119,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Brambush": {
       "monsterKey": "Brambush",
@@ -15621,7 +16203,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Finip": {
       "monsterKey": "Finip",
@@ -15696,7 +16279,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Leviatide": {
       "monsterKey": "Leviatide",
@@ -15771,7 +16355,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Beetwig": {
       "monsterKey": "Beetwig",
@@ -15849,7 +16434,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Stagrove": {
       "monsterKey": "Stagrove",
@@ -15940,7 +16526,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Frillbud": {
       "monsterKey": "Frillbud",
@@ -16035,7 +16622,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Frondrake": {
       "monsterKey": "Frondrake",
@@ -16130,7 +16718,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Tarpup": {
       "monsterKey": "Tarpup",
@@ -16213,7 +16802,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Swampit": {
       "monsterKey": "Swampit",
@@ -16296,7 +16891,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Moonlarva": {
       "monsterKey": "Moonlarva",
@@ -16383,7 +16984,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Moonarch": {
       "monsterKey": "Moonarch",
@@ -16470,7 +17077,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Mothwick": {
       "monsterKey": "Mothwick",
@@ -16561,7 +17169,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Sparkit": {
       "monsterKey": "Sparkit",
@@ -16648,7 +17257,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Stormane": {
       "monsterKey": "Stormane",
@@ -16735,7 +17350,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Psyteor": {
       "monsterKey": "Psyteor",
@@ -16826,7 +17442,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Psytite": {
       "monsterKey": "Psytite",
@@ -16917,7 +17534,8 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": []
     },
     "Orbacle": {
       "monsterKey": "Orbacle",
@@ -16996,7 +17614,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Zenkong": {
       "monsterKey": "Zenkong",
@@ -17051,7 +17670,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Axowarry": {
       "monsterKey": "Axowarry",
@@ -17126,7 +17746,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Gravadillo": {
       "monsterKey": "Gravadillo",
@@ -17205,7 +17826,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Cloudrake": {
       "monsterKey": "Cloudrake",
@@ -17284,7 +17906,8 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": []
     },
     "Pinefawn": {
       "monsterKey": "Pinefawn",
@@ -17379,7 +18002,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Everhorn": {
       "monsterKey": "Everhorn",
@@ -17474,7 +18103,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Mammelt": {
       "monsterKey": "Mammelt",
@@ -17553,7 +18188,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Magmatusk": {
       "monsterKey": "Magmatusk",
@@ -17632,7 +18273,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Sabretooth": {
       "monsterKey": "Sabretooth",
@@ -17723,7 +18370,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Sabretooth2": {
       "monsterKey": "Sabretooth2",
@@ -17814,7 +18467,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Owlite": {
       "monsterKey": "Owlite",
@@ -17897,7 +18556,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Astraloon": {
       "monsterKey": "Astraloon",
@@ -17980,7 +18645,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Puffrog": {
       "monsterKey": "Puffrog",
@@ -18067,7 +18738,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Croakloud": {
       "monsterKey": "Croakloud",
@@ -18154,7 +18831,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Gnashy": {
       "monsterKey": "Gnashy",
@@ -18237,7 +18920,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Mangefrost": {
       "monsterKey": "Mangefrost",
@@ -18320,7 +19009,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Geknin": {
       "monsterKey": "Geknin",
@@ -18403,7 +19098,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Toxikage": {
       "monsterKey": "Toxikage",
@@ -18486,7 +19187,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Shibu": {
       "monsterKey": "Shibu",
@@ -18527,7 +19234,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shibuzz": {
       "monsterKey": "Shibuzz",
@@ -18585,7 +19293,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shibog": {
       "monsterKey": "Shibog",
@@ -18651,7 +19360,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shiblitz": {
       "monsterKey": "Shiblitz",
@@ -18721,7 +19431,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shibolt": {
       "monsterKey": "Shibolt",
@@ -18779,7 +19490,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shiberg": {
       "monsterKey": "Shiberg",
@@ -18833,7 +19545,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shibrawl": {
       "monsterKey": "Shibrawl",
@@ -18895,7 +19608,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shibane": {
       "monsterKey": "Shibane",
@@ -18949,7 +19663,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "GrassSHibu": {
       "monsterKey": "GrassSHibu",
@@ -19027,7 +19742,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shiraptor": {
       "monsterKey": "Shiraptor",
@@ -19097,7 +19813,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shibafly": {
       "monsterKey": "Shibafly",
@@ -19147,7 +19864,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shichroma": {
       "monsterKey": "Shichroma",
@@ -19188,7 +19906,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shibastion": {
       "monsterKey": "Shibastion",
@@ -19266,7 +19985,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shiburrow": {
       "monsterKey": "Shiburrow",
@@ -19328,7 +20048,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shibungus": {
       "monsterKey": "Shibungus",
@@ -19382,7 +20103,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Shiraph": {
       "monsterKey": "Shiraph",
@@ -19440,7 +20162,8 @@
       ],
       "shortDescription": "",
       "longDescription": "",
-      "evolutionGraph": null
+      "evolutionGraph": null,
+      "contributors": []
     },
     "Tankalf": {
       "monsterKey": "Tankalf",
@@ -19547,7 +20270,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Bombarge": {
       "monsterKey": "Bombarge",
@@ -19654,7 +20383,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Stego": {
       "monsterKey": "Stego",
@@ -19749,7 +20484,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Nimbusaur": {
       "monsterKey": "Nimbusaur",
@@ -19844,7 +20585,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Fuzzfly": {
       "monsterKey": "Fuzzfly",
@@ -19931,7 +20678,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Flutterwing": {
       "monsterKey": "Flutterwing",
@@ -20018,7 +20771,13 @@
             "endy": 50.0
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Dreadguard": {
       "monsterKey": "Dreadguard",
@@ -20101,7 +20860,13 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Legionhare": {
       "monsterKey": "Legionhare",
@@ -20180,7 +20945,17 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Part Of"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Sylphawn": {
       "monsterKey": "Sylphawn",
@@ -20271,7 +21046,17 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Part Of"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Veilora": {
       "monsterKey": "Veilora",
@@ -20338,7 +21123,17 @@
           }
         ],
         "arrows": []
-      }
+      },
+      "contributors": [
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Part Of"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Sprite remade by"
+        }
+      ]
     }
   },
   "abilities": {
@@ -21568,5 +22363,70 @@
     }
   },
   "tagExport": {},
-  "moveCatExport": {}
+  "moveCatExport": {},
+  "contributors": {
+    "catchChallenger": {
+      "contributorKey": "catchChallenger",
+      "contributorName": "Catch Challenger",
+      "contributorDescription": "Open source fakemon game with some CC licensed sprite",
+      "contributorLink": "https://x.com/onigin_pixelart",
+      "associatedMonsters": []
+    },
+    "chairry": {
+      "contributorKey": "chairry",
+      "contributorName": "Chairry",
+      "contributorDescription": "A fakemon/sprite artist. Remade some of the Tuxemon designs and released them publicy.",
+      "contributorLink": "https://www.deviantart.com/chairry-art",
+      "associatedMonsters": []
+    },
+    "Madebycyber": {
+      "contributorKey": "Madebycyber",
+      "contributorName": "Madebycyber",
+      "contributorDescription": "Sprite Artist. I commissioned a number of sprites from them via Fiverr.",
+      "contributorLink": "https://www.fiverr.com/tnguyn606",
+      "associatedMonsters": []
+    },
+    "kei": {
+      "contributorKey": "kei",
+      "contributorName": "Kei",
+      "contributorDescription": "Sprite Artist. I commissioned a number of sprites from them via Fiverr.",
+      "contributorLink": "https://www.fiverr.com/kei_member",
+      "associatedMonsters": []
+    },
+    "onigin_pixelart": {
+      "contributorKey": "onigin_pixelart",
+      "contributorName": "Onigin Pixelart",
+      "contributorDescription": "Sprite Artist. They sometimes sell sprites on Twitter and I purchased them.",
+      "contributorLink": "https://x.com/onigin_pixelart",
+      "associatedMonsters": []
+    },
+    "PrincessPhoenix": {
+      "contributorKey": "PrincessPhoenix",
+      "contributorName": "Princess Phoenix",
+      "contributorDescription": "Sprite Artist. She has released many of her fakemon designs/sprites as Creative Commons Licensed Assets.",
+      "contributorLink": "https://www.deviantart.com/princess-phoenix",
+      "associatedMonsters": []
+    },
+    "rezatri": {
+      "contributorKey": "rezatri",
+      "contributorName": "Rezatri",
+      "contributorDescription": "Sprite Artist. I commissioned a number of sprites from them via Fiverr.",
+      "contributorLink": "https://www.fiverr.com/reza3u",
+      "associatedMonsters": []
+    },
+    "screensmith": {
+      "contributorKey": "screensmith",
+      "contributorName": "ScreenSmith",
+      "contributorDescription": "",
+      "contributorLink": "",
+      "associatedMonsters": []
+    },
+    "Tuxemon": {
+      "contributorKey": "Tuxemon",
+      "contributorName": "Tuxemon",
+      "contributorDescription": "",
+      "contributorLink": "",
+      "associatedMonsters": []
+    }
+  }
 }

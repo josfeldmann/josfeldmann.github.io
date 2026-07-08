@@ -9,6 +9,8 @@ import { MonsterMove } from "./MonsterMove";
 import { MapLocationDictionary } from "./MapLocationDictionary";
 import { MapLocation } from "./MapLocation";
 import monsters from '../../../../public/data/monsters.json';
+import { ContributorDictionary } from "./ContributorDictionary";
+import { Contributor } from "./Contributor";
 
 interface Resistance {
     resistance: number;
@@ -16,6 +18,7 @@ interface Resistance {
 }
 
 export class MonsterDatabase {
+  
   
   
   
@@ -36,6 +39,7 @@ export class MonsterDatabase {
   types: MonsterTypeDictionary;
   moves: MonsterMoveDictionary;
   locations : MapLocationDictionary;
+  contributors : ContributorDictionary;
 
 
   constructor(data: { 
@@ -44,6 +48,7 @@ export class MonsterDatabase {
     types: Record<string, MonsterType>,
     moves: Record<string, MonsterMove> 
     locations: Record<string,MapLocation>
+    contributors : Record<string, Contributor>
   }) {
 
     // Convert each plain object into a Monster instance
@@ -73,6 +78,10 @@ export class MonsterDatabase {
       return acc;
     }, {} as MapLocationDictionary);
 
+    this.contributors =  Object.entries(data.contributors).reduce((acc, [key, value]) => {
+      acc[key] = new Contributor(value);
+      return acc;
+    }, {} as ContributorDictionary);
 
   }
 
@@ -164,6 +173,10 @@ export class MonsterDatabase {
     return this.monsters[name];
   }
 
+  getContributor(name: string) : Contributor {
+    return this.contributors[name];
+  }
+
 
   //Locations
   
@@ -244,6 +257,22 @@ export class MonsterDatabase {
 
     moves.forEach(element => {
       results.push(this.getMove(element));
+    });
+
+    return results;
+  }
+
+
+  getContributorsFromMonster(contributors: { contributorKey: string; credit: string; }[]): { contributor:Contributor, credit:string }[] {
+    const results : { contributor:Contributor, credit:string }[] = [];
+
+    contributors.forEach(element => {
+      const v =this.getContributor(element.contributorKey);
+      
+      results.push({
+        contributor: v,
+        credit: element.credit
+      });
     });
 
     return results;

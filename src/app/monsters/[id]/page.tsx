@@ -20,6 +20,8 @@ import AbilityButton from '@/app/components/ui/AbilityButton';
 import { Ability } from '@/app/components/data/Ability';
 import MonsterResistanceTable from '@/app/components/ui/ResistanceTable';
 import EvolutionGraphView from '@/app/components/ui/EvolutionGraphView';
+import { Contributor } from '@/app/components/data/Contributor';
+import { ContributorCreditsList } from '@/app/components/ui/ContributorCreditList';
 export type MonsterDictionary = Record<string, Monster>;
 
 export async function generateStaticParams() {
@@ -72,6 +74,8 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
  const moves : MonsterMove[] = db.getMovesFromKeyList(monster.moves);
 
+ const contributors : {contributor: Contributor, credit: string}[] = db.getContributorsFromMonster(monster.contributors);
+
  const ability : Ability = db.getAbility(monster.abilities[0])
 
  const weaknesses : string[] = db.getWeaknesses(monster.resistances);
@@ -83,6 +87,7 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
 <div>
 
+<a href="ddd"> test link</a>
       <div className="d-flex flex-wrap  justify-content-left">
 
       <div className="p-2">
@@ -140,6 +145,8 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
                   <SingleLineList items={locations} renderItem={(location) => (<GenericLink value={location} basePath="/locations/" />)}/>
                   <h3>Resistances</h3>
                   <MonsterResistanceTable monster={monster} />
+                  <h3>Contributors</h3>
+                  <ContributorCreditsList contributorCredits={contributors} />
 
 
   

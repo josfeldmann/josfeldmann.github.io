@@ -24,3 +24,4 @@ export class MonsterMove {
     this.power = data.power;
     }
 }
+
