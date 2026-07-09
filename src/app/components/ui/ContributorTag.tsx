@@ -9,6 +9,7 @@ export function ContributorTag({
   contributor
 }: ContributorBadgeProps) {
   const imageSrc =`/data/contributors/${contributor.contributorKey}.png`;
+  const url = `/contributors/${contributor.contributorKey}.html`;
 
   const badgeContent = (
     <span
@@ -28,7 +29,6 @@ export function ContributorTag({
     >
       <img
         src={imageSrc}
-        alt={contributor.contributorName}
         width={24}
         height={24}
         className="rounded-circle flex-shrink-0"
@@ -40,15 +40,10 @@ export function ContributorTag({
     </span>
   );
 
-  if (!contributor.contributorLink) {
-    return badgeContent;
-  }
 
   return (
     <a
-      href={contributor.contributorLink}
-      target="_blank"
-      rel="noopener noreferrer"
+      href={url}
       className="text-decoration-none"
     >
       {badgeContent}

@@ -87,7 +87,6 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
 <div>
 
-<a href="ddd"> test link</a>
       <div className="d-flex flex-wrap  justify-content-left">
 
       <div className="p-2">
@@ -147,15 +146,16 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
                   <MonsterResistanceTable monster={monster} />
                   <h3>Contributors</h3>
                   <ContributorCreditsList contributorCredits={contributors} />
-
+                  
 
   
               </div>
           </div>
 
           {/* Move list on desktop left, last on mobile */}
-          <h3>Resistances</h3>
+          
           <div className="col-12 col-lg-7 order-2 order-lg-1">
+            <h3>Moves</h3>
               <Movelist moves={moves} />
           </div>
       </div>

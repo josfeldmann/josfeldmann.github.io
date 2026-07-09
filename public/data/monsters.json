@@ -103,7 +103,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MrFakemans",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        }
+      ]
     },
     "Voltcaya": {
       "monsterKey": "Voltcaya",
@@ -213,6 +222,10 @@
         {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -324,6 +337,10 @@
         {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -431,6 +448,10 @@
         {
           "contributorKey": "screensmith",
           "credit": "Sprite remade by"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -534,6 +555,14 @@
         {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor by"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -641,6 +670,10 @@
         {
           "contributorKey": "screensmith",
           "credit": "Sprite remade by"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -749,6 +782,10 @@
         {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -857,6 +894,10 @@
         {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -965,6 +1006,10 @@
         {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -1059,7 +1104,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -1154,7 +1203,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -1249,7 +1302,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -1353,7 +1410,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -1457,7 +1518,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -1561,7 +1626,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -1655,7 +1724,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Shadowapex",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Boulynx": {
       "monsterKey": "Boulynx",
@@ -1747,7 +1829,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Rockat": {
       "monsterKey": "Rockat",
@@ -1839,7 +1930,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite remade by"
+        }
+      ]
     },
     "Delichick": {
       "monsterKey": "Delichick",
@@ -1899,8 +1999,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Hides among swamp reeds, stirring the water with tiny gusts to flush insects and small fish from cover.",
+      "longDescription": "Gather in shallow marsh pools where thick reeds conceal their nests. Rather than chasing prey, they puff short bursts of wind across the water, creating ripples that confuse small fish. Older flock members guide them through feeding routes, and chicks practice simple dance steps before they can fly well.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -1940,6 +2040,10 @@
         {
           "contributorKey": "chairry",
           "credit": "Sprite remade by"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
         }
       ]
     },
@@ -2001,8 +2105,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Stalk reed beds at dusk, using focused wind and water bursts to launch fish onto muddy banks.",
+      "longDescription": "Herotint become solitary hunters for much of the year, guarding narrow channels through flooded grass. They bend reeds into screens around their resting spots and remain hidden until prey gathers nearby. With a sharp call and wingbeat, they send a twisting gust across the surface, knocking fish from the water before striking.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -2042,6 +2146,10 @@
         {
           "contributorKey": "chairry",
           "credit": "Sprite remade by"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
         }
       ]
     },
@@ -2103,8 +2211,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Perform complex courtship dances in misty swamps, shaping water spray and wind into dazzling displays.",
+      "longDescription": "Azuron inhabit deep wetlands where open pools meet dense reed fields. Their wingbeats can lift sheets of water into the air, stunning prey and driving schools of fish toward the shore. During mating season, pairs perform mirrored dances at sunrise, judging rhythm, balance, and control over mist before choosing a nesting site.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -2144,6 +2252,10 @@
         {
           "contributorKey": "chairry",
           "credit": "Sprite remade by"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
         }
       ]
     },
@@ -2213,8 +2325,8 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Nest along cold mountain streams, kicking loose pebbles into the water to stun small fish.",
+      "longDescription": "Live in groups beneath cliff overhangs, where adults shelter them from wind and falling stone. They practice sharp hops and low pecks along streambeds, learning to strike fish in shallow water. When startled, they scatter gravel with rapid kicks, creating cover as they flee into rocky crevices.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -2254,6 +2366,10 @@
         {
           "contributorKey": "chairry",
           "credit": "Sprite remade by"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Part Of"
         }
       ]
     },
@@ -2323,8 +2439,8 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Ferotint split stones with repeated kicks, hurling fragments at prey before finishing with precise pecks.",
+      "longDescription": "Ferotint roam steep river valleys, testing their legs against loose boulders and cracked ledges. They break stone into smaller shards, then fling them with sweeping kicks to corner fish in pools. Young rivals often spar at dusk, trading controlled strikes until one lowers its head and yields the feeding ground.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -2364,6 +2480,10 @@
         {
           "contributorKey": "chairry",
           "credit": "Sprite remade by"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Part Of"
         }
       ]
     },
@@ -2433,8 +2553,8 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Claim high mountain terraces, cracking rock with heavy blows and using the fragments during territorial duels.",
+      "longDescription": "Inhabit harsh cliffs where few predators can follow. Its kicks can fracture exposed stone, scattering sharp pieces that it uses to drive prey into narrow streams. During mating season, adults face each other in ritual combat, striking rocks between them before clashing. The strongest wins nesting rights without needless injury.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -2474,6 +2594,10 @@
         {
           "contributorKey": "chairry",
           "credit": "Sprite remade by"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Part Of"
         }
       ]
     },
@@ -9792,8 +9916,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "They nest in frozen shrubs, striking insects and small fish with sudden dives before retreating into drifting snow.",
+      "longDescription": "Their talons harden in freezing air, allowing them to grip slick bark and pierce prey beneath frost. Flocks practice short, sharp flights at dawn, learning to vanish behind snow gusts when threatened.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -9829,7 +9953,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "DevilDMan",
+          "credit": "Design"
+        }
+      ]
     },
     "Heronquak": {
       "monsterKey": "Heronquak",
@@ -9883,8 +10020,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Stalk frozen wetlands alone, waiting motionless before launching forward with a piercing, ice-edged strike.",
+      "longDescription": "Leave their birth flocks once their wings strengthen, claiming stretches of riverbank and glacial marsh. They stand still for hours above cracks in the ice, sensing movement below through faint vibrations. When prey surfaces, they attack in a blur, using their hardened beak to break thin ice and seize food.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -9920,7 +10057,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "DevilDMan",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Eaglace": {
       "monsterKey": "Eaglace",
@@ -9974,8 +10124,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Eagleace patrol high alpine skies, diving through blizzards to drive rivals away from their nesting grounds.",
+      "longDescription": "Their talons remain cold enough to numb captured prey, while their narrow wings let it cut through storm winds without losing speed. Pairs raise young together, taking turns hunting and shielding the nest from scavengers.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -10011,7 +10161,24 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "DevilDMan",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        }
+      ]
     },
     "Stonifly": {
       "monsterKey": "Stonifly",
@@ -22002,13 +22169,13 @@
       "key": "Insect",
       "name": "Insect",
       "color": "ADBD21",
-      "description": ""
+      "description": null
     },
     "Dino": {
       "key": "Dino",
       "name": "Dino",
       "color": "7B63E7",
-      "description": ""
+      "description": null
     },
     "Earth": {
       "key": "Earth",
@@ -22020,31 +22187,31 @@
       "key": "Elec",
       "name": "Elec",
       "color": "FFFF6C",
-      "description": ""
+      "description": null
     },
     "Combat": {
       "key": "Combat",
       "name": "Combat",
       "color": "A55239",
-      "description": ""
+      "description": null
     },
     "Fire": {
       "key": "Fire",
       "name": "Fire",
       "color": "F75231",
-      "description": ""
+      "description": null
     },
     "Wind": {
       "key": "Wind",
       "name": "Wind",
       "color": "E6FFFF",
-      "description": ""
+      "description": null
     },
     "Leaf": {
       "key": "Leaf",
       "name": "Leaf",
       "color": "7BCE52",
-      "description": ""
+      "description": null
     },
     "Ice": {
       "key": "Ice",
@@ -22056,37 +22223,37 @@
       "key": "Beast",
       "name": "Beast",
       "color": "C8B088",
-      "description": ""
+      "description": null
     },
     "Poison": {
       "key": "Poison",
       "name": "Poison",
       "color": "9141CB",
-      "description": ""
+      "description": null
     },
     "Psy": {
       "key": "Psy",
       "name": "Psy",
       "color": "D95AFF",
-      "description": ""
+      "description": null
     },
     "Shadow": {
       "key": "Shadow",
       "name": "Shadow",
       "color": "362B3F",
-      "description": ""
+      "description": null
     },
     "Steel": {
       "key": "Steel",
       "name": "Steel",
       "color": "81A6BE",
-      "description": ""
+      "description": null
     },
     "Water": {
       "key": "Water",
       "name": "Water",
       "color": "399CFF",
-      "description": ""
+      "description": null
     }
   },
   "items": {},
@@ -22386,11 +22553,39 @@
       "contributorLink": "https://www.fiverr.com/tnguyn606",
       "associatedMonsters": []
     },
+    "DevilDMan": {
+      "contributorKey": "DevilDMan",
+      "contributorName": "DevilDMan",
+      "contributorDescription": "A Tuxemon Contributor",
+      "contributorLink": "",
+      "associatedMonsters": []
+    },
     "kei": {
       "contributorKey": "kei",
       "contributorName": "Kei",
       "contributorDescription": "Sprite Artist. I commissioned a number of sprites from them via Fiverr.",
       "contributorLink": "https://www.fiverr.com/kei_member",
+      "associatedMonsters": []
+    },
+    "Leo": {
+      "contributorKey": "Leo",
+      "contributorName": "Leo",
+      "contributorDescription": "A designer the contributed to Tuxemon",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "Levaine": {
+      "contributorKey": "Levaine",
+      "contributorName": "Levaine",
+      "contributorDescription": "Artist that contributed sprites to Tuxemon",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "MrFakemans": {
+      "contributorKey": "MrFakemans",
+      "contributorName": "MrFakemans",
+      "contributorDescription": "A twitter artist I commisioned a sprite from.",
+      "contributorLink": "\"\"",
       "associatedMonsters": []
     },
     "onigin_pixelart": {
@@ -22414,18 +22609,32 @@
       "contributorLink": "https://www.fiverr.com/reza3u",
       "associatedMonsters": []
     },
+    "Sanglorian": {
+      "contributorKey": "Sanglorian",
+      "contributorName": "Sanglorian",
+      "contributorDescription": "One of the main developers of Tuxemon.",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
     "screensmith": {
       "contributorKey": "screensmith",
       "contributorName": "ScreenSmith",
       "contributorDescription": "",
-      "contributorLink": "",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "Shadowapex": {
+      "contributorKey": "Shadowapex",
+      "contributorName": "Shadowapex",
+      "contributorDescription": "A designer/artist that contributed to Tuxemon",
+      "contributorLink": "\"\"",
       "associatedMonsters": []
     },
     "Tuxemon": {
       "contributorKey": "Tuxemon",
       "contributorName": "Tuxemon",
       "contributorDescription": "",
-      "contributorLink": "",
+      "contributorLink": "\"\"",
       "associatedMonsters": []
     }
   }

@@ -192,6 +192,10 @@ export class MonsterDatabase {
     return Object.keys(this.locations);
   }
 
+  getContributors() : Contributor[] {
+    return Object.values(this.contributors);
+  }
+
 
 
 
@@ -208,6 +212,24 @@ export class MonsterDatabase {
   return location;
   }
 
+
+
+  getAllMonstersFromContributor(contributor: Contributor) {
+    
+    const m : Monster[] = [];
+    this.getAllMonsters().forEach(element => {
+  
+      element.contributors.forEach(cc => {
+        if (cc.contributorKey == contributor.contributorKey) {
+          m.push(element);
+        }
+      });
+
+    });
+  return m;
+
+  }
+  
 
   getAllMonstersWithAbility(ability : Ability) {
     const m : Monster[] = [];
@@ -251,6 +273,9 @@ export class MonsterDatabase {
 
     return results;
   }
+
+
+
 
    getMovesFromKeyList(moves: string[]): MonsterMove[] {
     const results : MonsterMove[] = [];
