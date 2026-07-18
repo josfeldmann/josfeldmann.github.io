@@ -14,10 +14,10 @@ import NavBar from "../components/ui/navbar";
 
 export default function LocationsPage() {
   // Extract the dictionary of monsters
-  const m =  MonsterDatabase.getInstance().getAllMonsters();
+  const m =  MonsterDatabase.getInstance().getAllContributors();
   return (
     <div>
-        <h1>Locations</h1>
+        <h1>Contributors</h1>
     </div>
   );
    

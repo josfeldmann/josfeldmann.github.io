@@ -11,6 +11,10 @@ import { MapLocation } from "./MapLocation";
 import monsters from '../../../../public/data/monsters.json';
 import { ContributorDictionary } from "./ContributorDictionary";
 import { Contributor } from "./Contributor";
+import { MonsterMoveCategoryDictionary } from "./MonsterMoveCategoryDictionary";
+import { MonsterMoveCategory } from "./MonsterMoveCategory";
+import { TagDictionary } from "./TagDictionary";
+import { Tag } from "./Tag";
 
 interface Resistance {
     resistance: number;
@@ -40,6 +44,8 @@ export class MonsterDatabase {
   moves: MonsterMoveDictionary;
   locations : MapLocationDictionary;
   contributors : ContributorDictionary;
+  moveCategories: MonsterMoveCategoryDictionary;
+  tags : TagDictionary;
 
 
   constructor(data: { 
@@ -49,6 +55,8 @@ export class MonsterDatabase {
     moves: Record<string, MonsterMove> 
     locations: Record<string,MapLocation>
     contributors : Record<string, Contributor>
+    moveCategories : Record<string, MonsterMoveCategory>
+    tags : Record<string, Tag>
   }) {
 
     // Convert each plain object into a Monster instance
@@ -83,6 +91,17 @@ export class MonsterDatabase {
       return acc;
     }, {} as ContributorDictionary);
 
+
+    this.moveCategories =  Object.entries(data.moveCategories).reduce((acc, [key, value]) => {
+      acc[key] = new MonsterMoveCategory(value);
+      return acc;
+    }, {} as MonsterMoveCategoryDictionary);
+
+    this.tags =  Object.entries(data.tags).reduce((acc, [key, value]) => {
+      acc[key] = new MonsterMoveCategory(value);
+      return acc;
+    }, {} as TagDictionary);
+
   }
 
 
@@ -101,6 +120,23 @@ export class MonsterDatabase {
     return Object.values(this.abilities);
   }
 
+  //Tags
+
+  getAllTags() : Tag[] {
+    return Object.values(this.tags);
+  }
+
+  getTag(key : string) : Tag {
+    return this.tags[key];
+  }
+
+  getTagKeys() : string[] {
+    return Object.keys(this.tags);
+  }
+
+
+
+  //Type resistances
 
   getTypesByResistance(
     resistances: Resistance[],
@@ -157,6 +193,10 @@ export class MonsterDatabase {
     return Object.values(this.types);
   }
 
+  getAllTypeKeys() : string[] {
+    return Object.keys(this.types);
+  }
+
 
   ///Monsters
 
@@ -192,7 +232,7 @@ export class MonsterDatabase {
     return Object.keys(this.locations);
   }
 
-  getContributors() : Contributor[] {
+  getAllContributors() : Contributor[] {
     return Object.values(this.contributors);
   }
 
@@ -221,7 +261,7 @@ export class MonsterDatabase {
   
       element.contributors.forEach(cc => {
         if (cc.contributorKey == contributor.contributorKey) {
-          m.push(element);
+          if (!m.includes(element))m.push(element); 
         }
       });
 
@@ -312,6 +352,31 @@ export class MonsterDatabase {
     });
     return m;
   }
+
+  getAllMovesWithTag(tag: Tag) : MonsterMove[] {
+    const m : MonsterMove[] = [];
+    this.getAllMoves().forEach(element => {
+    if (element.tags.includes(tag.key)) {
+      m.push(element);
+    }
+    });
+    return m;
+  }
+
+  getAllMovesWithCategory(cat : string ) {
+    const m : MonsterMove[] = [];
+    this.getAllMoves().forEach(element => {
+    if (element.category.includes(cat)) {
+      m.push(element);
+    }
+    });
+    return m;
+  }
+
+
+
+
+
 
   
 

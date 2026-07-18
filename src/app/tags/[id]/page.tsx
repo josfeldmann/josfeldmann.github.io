@@ -8,51 +8,51 @@ import React from 'react';
 import { log } from 'console';
 import NavBar from '@/app/components/ui/navbar';
 import MonsterGrid from '@/app/components/ui/MonsterGrid';
+import Movelist from '@/app/components/ui/MoveList';
 export type MonsterDictionary = Record<string, Monster>;
 
-
 export async function generateStaticParams() {
-  
-  const mList = MonsterDatabase.getInstance().getAllContributors();
+  const mList = MonsterDatabase.getInstance().getTagKeys();
 
-  return mList.map(loc  => ({
-    id: loc.contributorKey,
+  return mList.map(monster  => ({
+    id: monster,
   }));
   
 
 }
 
-
 // ✅ Your page component
-export default function LocationPage({ params }: { params: { id: string } }) {
- <NavBar/>
+export default function MonsterTypePage({ params }: { params: { id: string } }) {
 
-  const db = MonsterDatabase.getInstance();;
+
+  const db = MonsterDatabase.getInstance();
   
   
 
-  const contributor= db.getContributor(params.id);
+  const tag = db.getTag(params.id);
 
-  const monsters = db.getAllMonstersFromContributor(contributor);
+  //const typemonsters = db.getAllMonstersWithType(type);
 
+  const tagMoves = db.getAllMovesWithTag(tag);
 
+  if (!tag) {
+    notFound();
+  }
 
   return (
 
 
 <div>
+    <h1>{tag.name} Tag</h1>
+      
+    <p>{tag.description}</p>
 
+    <h2>Moves With Tag</h2>
 
-  <h1>{contributor.contributorName}</h1>
-
-  <p>
-    {contributor.contributorDescription}
-  </p>
-
-  <h2>Contributed To</h2>
-  <MonsterGrid monsters={monsters}/>
-
+    <Movelist moves={tagMoves} />;
+    
 </div>
+  
 
   );
 }

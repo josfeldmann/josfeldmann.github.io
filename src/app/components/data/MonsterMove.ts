@@ -6,6 +6,8 @@ export class MonsterMove {
 
   category : string;
   power: number;
+
+  tags: string[];
   
 
   constructor(data: {
@@ -15,6 +17,7 @@ export class MonsterMove {
     type : string;
     power : number;
     category : string;
+    tags : string[]
   }) {
     this.key = data.key;
     this.description = data.description;
@@ -22,6 +25,11 @@ export class MonsterMove {
     this.type = data.type;
     this.category = data.category;
     this.power = data.power;
+    if (data.tags != null) {
+      this.tags = data.tags;
+    } else {
+      this.tags = [];
+    }
     }
 }
 

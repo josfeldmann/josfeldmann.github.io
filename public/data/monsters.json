@@ -447,7 +447,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         },
         {
           "contributorKey": "screensmith",
@@ -558,7 +558,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Recolor by"
+          "credit": "Recolor"
         },
         {
           "contributorKey": "screensmith",
@@ -669,7 +669,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         },
         {
           "contributorKey": "screensmith",
@@ -1735,7 +1735,7 @@
         },
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -1836,7 +1836,7 @@
         },
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -1937,7 +1937,7 @@
         },
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -2039,7 +2039,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         },
         {
           "contributorKey": "Leo",
@@ -2145,7 +2145,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         },
         {
           "contributorKey": "Leo",
@@ -2251,7 +2251,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         },
         {
           "contributorKey": "Leo",
@@ -2365,7 +2365,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         },
         {
           "contributorKey": "Leo",
@@ -2479,7 +2479,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         },
         {
           "contributorKey": "Leo",
@@ -2593,7 +2593,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         },
         {
           "contributorKey": "Leo",
@@ -2681,8 +2681,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It hides in tree hollows and watches forest paths, using small psychic tricks to confuse anyone who wanders too close.",
+      "longDescription": "This shy forest dweller rarely steps onto open ground. It listens through roots and bark, sensing footsteps before they enter its territory. When threatened, it bends shadows and rustling sounds to make travelers feel watched. Young individuals gather near old trees, where they practice guiding vines and leaves with quiet concentration.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -2718,7 +2718,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite Remake"
+        }
+      ]
     },
     "Legko": {
       "monsterKey": "Legko",
@@ -2800,8 +2813,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Slips through branches like a living vine, scouting forest borders and warning its kin with silent psychic pulses.",
+      "longDescription": "After evolving, it abandons walking and moves through the canopy by twisting around branches and roots. It is often mistaken for common plant growth until it begins to move against the wind. This stage guards paths leading into deep woods, using psychic pressure to create unease in humans and herd them away without direct contact.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -2837,7 +2850,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "DevilDMan",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite Remake"
+        }
+      ]
     },
     "Moloch": {
       "monsterKey": "Moloch",
@@ -2919,8 +2945,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Patrols ancient groves, spreading psychic signals through trees and using its vines to redirect lost creatures from danger.",
+      "longDescription": "Mature individuals choose a single forest and may protect it for decades. They rest against large trees, sending warnings through nearby plants whenever strangers enter. Their psychic power grows strongest during blooming seasons, when the whole grove seems to shift with their thoughts. Though feared by humans, they usually frighten intruders away rather than harm them.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -2956,7 +2982,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite Remake"
+        }
+      ]
     },
     "Sprigot": {
       "monsterKey": "Sprigot",
@@ -3063,7 +3102,12 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
+        }
+      ]
     },
     "Wiltvine": {
       "monsterKey": "Wiltvine",
@@ -3170,7 +3214,12 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
+        }
+      ]
     },
     "Hemlurk": {
       "monsterKey": "Hemlurk",
@@ -3277,7 +3326,12 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
+        }
+      ]
     },
     "Rocksnek": {
       "monsterKey": "Rocksnek",
@@ -3339,8 +3393,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Hides in shallow burrows and spits embers at passing prey, startling them into the reach of its quick strike.",
+      "longDescription": "This small burrower spends most daylight hours beneath warm stones, leaving only its head near the entrance of its den. It flicks embers from its mouth to flush insects and small animals from cover. The flame at its tail helps keep its tunnel warm during cold desert nights, but it is tucked away when larger predators pass.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -3365,7 +3419,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        }
+      ]
     },
     "Rockobra": {
       "monsterKey": "Rockobra",
@@ -3427,8 +3490,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It erupts from hidden tunnels, clamping prey with heated jaws before smashing stone apart with its hardened head.",
+      "longDescription": "This territorial hunter carves tunnels through brittle rock by ramming weak points and grinding loose stone aside. Heat gathers around its jaws before a strike, leaving scorched marks on burrow walls and prey trails. It often waits beneath cracked ground, sensing vibrations above. Rival burrowers are driven off with sudden headbutts that can collapse smaller dens.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -3453,11 +3516,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        }
+      ]
     },
-    "Tulemur": {
-      "monsterKey": "Tulemur",
-      "monsterName": "Tulemur",
+    "Budaye": {
+      "monsterKey": "Budaye",
+      "monsterName": "Budaye",
       "monsterID": 32,
       "monsterType": [
         "Beast",
@@ -3525,19 +3597,19 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It clings to branches with its tail bud, peering through leaves while searching for soft berries and fallen fruit.",
+      "longDescription": "This small forest dweller spends much of the day tucked among leafy branches. Its tail bud grips bark and vines while its hands gather berries. Groups often play by dropping fruit for one another to catch. When startled, it freezes among flowers, relying on stillness until the danger passes.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Tulemur",
+            "key": "Budaye",
             "x": 100.0,
             "y": 50.0
           },
           {
-            "key": "Tulemuru",
+            "key": "Frondly",
             "x": 300.0,
             "y": 50.0
           }
@@ -3551,11 +3623,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        }
+      ]
     },
-    "Tulemuru": {
-      "monsterKey": "Tulemuru",
-      "monsterName": "Tulemuru",
+    "Frondly": {
+      "monsterKey": "Frondly",
+      "monsterName": "Frondly",
       "monsterID": 33,
       "monsterType": [
         "Beast",
@@ -3623,19 +3704,19 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It swings quickly between trees, using its blooming tail to hang upside down while plucking berries from thin branches.",
+      "longDescription": "This agile canopy forager travels in loose groups that follow seasonal fruiting paths. Its tail can hook around branches, letting it reach berries that heavier creatures cannot access. After feeding, it scatters seeds across high limbs and forest edges.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Tulemur",
+            "key": "Budaye",
             "x": 100.0,
             "y": 50.0
           },
           {
-            "key": "Tulemuru",
+            "key": "Frondly",
             "x": 300.0,
             "y": 50.0
           }
@@ -3649,7 +3730,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Larvug": {
       "monsterKey": "Larvug",
@@ -3703,8 +3793,8 @@
           "type": "Poison"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A tireless leaf-eater that spins fine silk. Humans have begun capturing many of them to raise on farms.",
+      "longDescription": "This small larva spends most of its life feeding on soft leaves and fallen fruit. Its silk is strong, smooth, and valued by human weavers, though harvesting too much can leave it exposed to wind and predators. Colonies often strip young shrubs bare before moving together to fresh growth.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -3715,7 +3805,7 @@
             "y": 50.0
           },
           {
-            "key": "LarvaFly",
+            "key": "Firomenis",
             "x": 300.0,
             "y": 50.0
           }
@@ -3733,12 +3823,16 @@
         {
           "contributorKey": "PrincessPhoenix",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Design"
         }
       ]
     },
-    "LarvaFly": {
-      "monsterKey": "LarvaFly",
-      "monsterName": "LarvaFly",
+    "Firomenis": {
+      "monsterKey": "Firomenis",
+      "monsterName": "Firomenis",
       "monsterID": 35,
       "monsterType": [
         "Wind",
@@ -3800,8 +3894,8 @@
           "type": "Psy"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A Large wide-ranging winged insect that rarely lands, crossing forests and fields in search of steady food.",
+      "longDescription": "After metamorphosis, it becomes a powerful flier with a constant need for nectar, sap, and ripe fruit. It follows seasonal blooms across great distances, sometimes allowing humans to ride it when their route matches a feeding path. Flocks gather near orchards, where their feeding can damage crops but also spreads pollen between distant regions.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -3812,7 +3906,7 @@
             "y": 50.0
           },
           {
-            "key": "LarvaFly",
+            "key": "Firomenis",
             "x": 300.0,
             "y": 50.0
           }
@@ -3830,6 +3924,10 @@
         {
           "contributorKey": "PrincessPhoenix",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Design"
         }
       ]
     },
@@ -3892,8 +3990,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A swift young burrow-raider that sniffs out insect nests, then darts in before defenders can swarm.",
+      "longDescription": "This restless forager races through dry grasslands and open woodland at dusk. It uses sharp claws to break into ant tunnels, then gathers insects with quick flicks of its tongue. When threatened, it digs shallow escape pits or hides inside abandoned burrows until danger passes.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -3918,7 +4016,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MagicPurpleHermit",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "MagicPurpleHermit",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Edits"
+        }
+      ]
     },
     "Aard": {
       "monsterKey": "Aard",
@@ -3979,8 +4090,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A fast-moving insect hunter that tears open packed soil and drains entire nests in minutes.",
+      "longDescription": "This adult roams wide territories, following scent trails left by ants, termites, and buried larvae. Its long tongue can reach deep chambers without collapsing the nest, allowing it to feed quickly before moving on. Though built for digging, it prefers sudden charges and rapid turns to avoid larger predators.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -4005,7 +4116,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MagicPurpleHermit",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "MagicPurpleHermit",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Edits"
+        }
+      ]
     },
     "Grubane": {
       "monsterKey": "Grubane",
@@ -4063,8 +4187,8 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A silk-spinning larva that feeds in darkness, leaving black threads along hidden paths through the undergrowth.",
+      "longDescription": "This cautious larva avoids open sunlight and feeds mostly at night. Its silk is unusually smooth and strong, making it prized by clothmakers, though nests are difficult to collect safely. Colonies mark safe routes with thread, allowing younger members to follow scent and vibration through dense vegetation.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 250.0,
@@ -4095,7 +4219,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -4155,8 +4283,8 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A silent cocoon that hangs in shaded places, wrapped in silk said to dim nearby light.",
+      "longDescription": "During metamorphosis, it seals itself inside layered silk and remains motionless for many days. Predators that approach often become confused or lose interest, as though guided away by an unseen presence. The eyes visible through its veil track movement, suggesting it remains aware while its body changes within.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 250.0,
@@ -4187,7 +4315,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -4247,8 +4379,8 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A quiet winged adult that drifts through abandoned groves, spreading fear to protect its nesting sites.",
+      "longDescription": "This branch emerges from female Veiloon and is most often seen near ruins, hollow trees, and old silk nests. It feeds on nectar and weakened insects, but defends its territory with a strange, ghostly pressure that unsettles intruders. Its silk is rare and pale, often found hanging where no wind can move it.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 250.0,
@@ -4279,7 +4411,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -4339,8 +4475,8 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "A swift, restless adult that hunts in short bursts, cutting through brush to flush out prey.",
+      "longDescription": "This branch emerges from male Veiloon and lives as a roaming hunter. It races through dry fields and dark forests, using sharp forelimbs to clear paths, defend territory, and seize small prey. Groups rarely stay together for long, but several may gather when swarms of insects or carrion attract easy feeding.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 250.0,
@@ -4371,7 +4507,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
         }
       ]
     },
@@ -4468,7 +4608,12 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
+        }
+      ]
     },
     "Chaard": {
       "monsterKey": "Chaard",
@@ -4563,7 +4708,12 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
+        }
+      ]
     },
     "Dreed": {
       "monsterKey": "Dreed",
@@ -4633,8 +4783,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It feeds on soft marsh plants, storing their toxins in its skin and spitting bitter poison when cornered.",
+      "longDescription": "Lves beneath wet leaves and tangled roots, rarely leaving cover except after rain. Its tail leaf gives off a faint plantlike scent that attracts small flies, which it snaps up to supplement its mostly vegetarian diet. Seeds swallowed from toxic fruits pass through unharmed, allowing poisonous plants to spread around its burrows.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -4672,8 +4822,12 @@
       },
       "contributors": [
         {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -4745,8 +4899,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It stands upright among reeds, firing poison-coated seeds at intruders while its sprouting tail releases dizzying spores.",
+      "longDescription": "It eats leaves, seeds, and bitter stems, concentrating their chemicals into venomous saliva. The growth on its tail releases spores during warm afternoons, confusing insects and warning rivals away. Young Dreed often follow at a distance, feeding on plants disturbed by its passing.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -4784,8 +4938,12 @@
       },
       "contributors": [
         {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -4857,8 +5015,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Its blooming tail lures swarms of flies, while its venomous breath scatters seedlike pellets across the forest floor.",
+      "longDescription": "The flower on its tail produces a strong sweet odor, drawing flies close before sudden bursts of toxic spray bring them down. It launches hardened seeds mixed with poison to repel larger threats, then buries the remains beneath leaf litter. Wherever it nests, unusual toxic plants often appear the following season.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -4896,8 +5054,12 @@
       },
       "contributors": [
         {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -4965,8 +5127,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It rolls across snowy hillsides to gather speed, crashing into threats with powerful arms before disappearing beneath fresh powder.",
+      "longDescription": "Inhabits steep mountain slopes where deep snow makes walking difficult. Instead of running, it hurls itself downhill, steering with its muscular arms to avoid rocks and trees. Its body stays cold enough to preserve packed snow, forming a protective icy shell.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -4991,7 +5153,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "ChickenShowMan",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "ChickenShowMan",
+          "credit": "Design"
+        }
+      ]
     },
     "Cheti": {
       "monsterKey": "Cheti",
@@ -5057,8 +5228,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It patrols frozen peaks, striking with crushing blows that freeze the air around its fists before delivering a decisive attack.",
+      "longDescription": "It's thick fur traps icy air, allowing it to rapidly chill its arms before combat. Although highly territorial, it rarely begins fights, instead driving intruders away with booming roars and displays of strength. During winter storms, it digs tunnels through packed snow, creating shelters that smaller mountain creatures often share after the blizzard passes.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -5083,7 +5254,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "ChickenShowMan",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "ChickenShowMan",
+          "credit": "Design"
+        }
+      ]
     },
     "Boltnu": {
       "monsterKey": "Boltnu",
@@ -5157,8 +5337,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Hangs out in workshops and abandoned factories, feeding on stray electrical currents while trying and failing to repair broken equipment",
+      "longDescription": "often found clinging to machinery, power lines, and rusted structures where weak electrical fields gather. Its spiral eyes rotate faster as it absorbs electricity, helping regulate the charge stored beneath its metal plating. Though it resembles a simple tool, it moves by producing brief magnetic pulses that let it glide over metallic surfaces.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -5183,7 +5363,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "InvoluntaryTwitch",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "TheBritanniaRegion",
+          "credit": "Design"
+        }
+      ]
     },
     "Zagon": {
       "monsterKey": "Zagon",
@@ -5257,8 +5446,8 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It commands powerful magnetic fields, using its mechanical arms to dismantle scrap and channel bolts of concentrated electricity. Excels at taking things apart, building, not so much.",
+      "longDescription": "Inhabits abandoned industrial sites and rocky canyons rich in metal ore. Its four primary limbs provide stability while a second pair of mechanical arms perform precise work, allowing it to tear apart derelict machinery or construct towering nests from salvaged steel. The spirals in its eyes constantly spin as they measure surrounding electromagnetic fields, guiding blasts of compressed electricity with remarkable accuracy. Smaller Boltnu are often drawn to its presence, feeding on the static charge left behind after it works.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -5283,7 +5472,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "InvoluntaryTwitch",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "TheBritanniaRegion",
+          "credit": "Design"
+        }
+      ]
     },
     "Drashimi": {
       "monsterKey": "Drashimi",
@@ -5630,6 +5828,10 @@
         {
           "contributorKey": "PrincessPhoenix",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Design"
         }
       ]
     },
@@ -6551,7 +6753,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -6650,7 +6852,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -6741,7 +6943,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -6836,7 +7038,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -7050,7 +7252,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -7141,7 +7343,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -7232,7 +7434,7 @@
       "contributors": [
         {
           "contributorKey": "chairry",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -7551,7 +7753,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -10729,7 +10931,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -10826,7 +11028,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -13502,7 +13704,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -13607,7 +13809,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -13716,7 +13918,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -13825,7 +14027,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -13938,7 +14140,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -14051,7 +14253,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -21120,7 +21322,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -21221,7 +21423,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -21298,7 +21500,7 @@
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite remade by"
+          "credit": "Sprite Remake"
         }
       ]
     }
@@ -21457,7 +21659,10 @@
       "name": "GroundSlam",
       "description": "Lowers Enemy Speed by -20%",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "RockRoll": {
       "key": "RockRoll",
@@ -21465,7 +21670,10 @@
       "name": "RockRoll",
       "description": "",
       "power": 20,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "SandRush": {
       "key": "SandRush",
@@ -21473,7 +21681,10 @@
       "name": "SandRush",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "Sandstorm": {
       "key": "Sandstorm",
@@ -21481,7 +21692,10 @@
       "name": "Sandstorm",
       "description": "CUSTOM DESCRIPTION",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": [
+        "Contact"
+      ]
     },
     "Nuzzle": {
       "key": "Nuzzle",
@@ -21489,7 +21703,10 @@
       "name": "Nuzzle",
       "description": "CUSTOM DESCRIPTION",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "shockBlast": {
       "key": "shockBlast",
@@ -21497,7 +21714,8 @@
       "name": "shockBlast",
       "description": "CUSTOM DESCRIPTION",
       "power": 80,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "shockSlam": {
       "key": "shockSlam",
@@ -21505,7 +21723,10 @@
       "name": "shockSlam",
       "description": "CUSTOM DESCRIPTION",
       "power": 80,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "stormStrikes": {
       "key": "stormStrikes",
@@ -21513,7 +21734,10 @@
       "name": "stormStrikes",
       "description": "CUSTOM DESCRIPTIONCUSTOM DESCRIPTION",
       "power": 30,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "ThunderWave": {
       "key": "ThunderWave",
@@ -21521,7 +21745,8 @@
       "name": "ThunderWave",
       "description": "CUSTOM DESCRIPTION",
       "power": 80,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "voltSwap": {
       "key": "voltSwap",
@@ -21529,7 +21754,10 @@
       "name": "voltSwap",
       "description": "CUSTOM DESCRIPTIONCUSTOM DESCRIPTION",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "FlameJet": {
       "key": "FlameJet",
@@ -21537,7 +21765,10 @@
       "name": "FlameJet",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": [
+        "Contact"
+      ]
     },
     "Sun": {
       "key": "Sun",
@@ -21545,7 +21776,10 @@
       "name": "Sun",
       "description": "CUSTOM DESCRIPTION",
       "power": 40,
-      "category": "status"
+      "category": "status",
+      "tags": [
+        "Contact"
+      ]
     },
     "ChiBall": {
       "key": "ChiBall",
@@ -21553,7 +21787,8 @@
       "name": "ChiBall",
       "description": "",
       "power": 30,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "FreezeBeam": {
       "key": "FreezeBeam",
@@ -21561,7 +21796,8 @@
       "name": "FreezeBeam",
       "description": "",
       "power": 80,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "BlazeFist": {
       "key": "BlazeFist",
@@ -21569,7 +21805,11 @@
       "name": "BlazeFist",
       "description": "",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "BulletFist": {
       "key": "BulletFist",
@@ -21577,7 +21817,11 @@
       "name": "BulletFist",
       "description": "",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "DinoFist": {
       "key": "DinoFist",
@@ -21585,7 +21829,11 @@
       "name": "DinoFist",
       "description": "",
       "power": 70,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "FastFist": {
       "key": "FastFist",
@@ -21593,7 +21841,11 @@
       "name": "FastFist",
       "description": "",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "FreezeFist": {
       "key": "FreezeFist",
@@ -21601,7 +21853,11 @@
       "name": "FreezeFist",
       "description": "",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "NormalFist": {
       "key": "NormalFist",
@@ -21609,7 +21865,11 @@
       "name": "NormalFist",
       "description": "",
       "power": 70,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "PsyFist": {
       "key": "PsyFist",
@@ -21617,7 +21877,11 @@
       "name": "PsyFist",
       "description": "",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "RockFist": {
       "key": "RockFist",
@@ -21625,7 +21889,11 @@
       "name": "RockFist",
       "description": "",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "ShockFist": {
       "key": "ShockFist",
@@ -21633,7 +21901,11 @@
       "name": "ShockFist",
       "description": "",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "SinisterFist": {
       "key": "SinisterFist",
@@ -21641,7 +21913,11 @@
       "name": "SinisterFist",
       "description": "",
       "power": 75,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "SiphonFist": {
       "key": "SiphonFist",
@@ -21649,7 +21925,11 @@
       "name": "SiphonFist",
       "description": "",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "StingFist": {
       "key": "StingFist",
@@ -21657,7 +21937,11 @@
       "name": "StingFist",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "TearFist": {
       "key": "TearFist",
@@ -21665,7 +21949,11 @@
       "name": "TearFist",
       "description": "",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "ToxicFist": {
       "key": "ToxicFist",
@@ -21673,7 +21961,11 @@
       "name": "ToxicFist",
       "description": "",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "WindFist": {
       "key": "WindFist",
@@ -21681,7 +21973,11 @@
       "name": "WindFist",
       "description": "",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Punch",
+        "Contact"
+      ]
     },
     "AirStrike": {
       "key": "AirStrike",
@@ -21689,7 +21985,10 @@
       "name": "AirStrike",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "BugCut": {
       "key": "BugCut",
@@ -21697,7 +21996,10 @@
       "name": "BugCut",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "ColdCrash": {
       "key": "ColdCrash",
@@ -21705,7 +22007,10 @@
       "name": "ColdCrash",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "DinoClaw": {
       "key": "DinoClaw",
@@ -21713,7 +22018,10 @@
       "name": "DinoClaw",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "FlameTackle": {
       "key": "FlameTackle",
@@ -21721,7 +22029,10 @@
       "name": "FlameTackle",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "IronStrike": {
       "key": "IronStrike",
@@ -21729,7 +22040,10 @@
       "name": "IronStrike",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "LowKick": {
       "key": "LowKick",
@@ -21737,7 +22051,10 @@
       "name": "LowKick",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "PsiStrike": {
       "key": "PsiStrike",
@@ -21745,7 +22062,10 @@
       "name": "PsiStrike",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "Rob": {
       "key": "Rob",
@@ -21753,7 +22073,10 @@
       "name": "Rob",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "RootStrike": {
       "key": "RootStrike",
@@ -21761,7 +22084,10 @@
       "name": "RootStrike",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "StalactiteSpear": {
       "key": "StalactiteSpear",
@@ -21769,7 +22095,10 @@
       "name": "StalactiteSpear",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "VoltRush": {
       "key": "VoltRush",
@@ -21777,7 +22106,10 @@
       "name": "VoltRush",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "WaterTackle": {
       "key": "WaterTackle",
@@ -21785,7 +22117,10 @@
       "name": "WaterTackle",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "BubbleSpray": {
       "key": "BubbleSpray",
@@ -21793,7 +22128,8 @@
       "name": "BubbleSpray",
       "description": "Lowers Enemy Attack by -10%",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "Drain": {
       "key": "Drain",
@@ -21801,7 +22137,8 @@
       "name": "Drain",
       "description": "CUSTOM DESCRIPTION",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "FireSpray": {
       "key": "FireSpray",
@@ -21809,7 +22146,8 @@
       "name": "FireSpray",
       "description": "CUSTOM DESCRIPTION",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "FocusPellets": {
       "key": "FocusPellets",
@@ -21817,7 +22155,8 @@
       "name": "FocusPellets",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "GearBlast": {
       "key": "GearBlast",
@@ -21825,7 +22164,8 @@
       "name": "GearBlast",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "IceSpray": {
       "key": "IceSpray",
@@ -21833,7 +22173,8 @@
       "name": "IceSpray",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "NormalWave": {
       "key": "NormalWave",
@@ -21841,7 +22182,8 @@
       "name": "NormalWave",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "PebblePulse": {
       "key": "PebblePulse",
@@ -21849,7 +22191,8 @@
       "name": "PebblePulse",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "PoisonSting": {
       "key": "PoisonSting",
@@ -21857,7 +22200,8 @@
       "name": "PoisonSting",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "PrehistoricPulse": {
       "key": "PrehistoricPulse",
@@ -21865,7 +22209,8 @@
       "name": "PrehistoricPulse",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "PsiBlast": {
       "key": "PsiBlast",
@@ -21873,7 +22218,8 @@
       "name": "PsiBlast",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "ShockSting": {
       "key": "ShockSting",
@@ -21881,7 +22227,8 @@
       "name": "ShockSting",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "SinisterPulse": {
       "key": "SinisterPulse",
@@ -21889,7 +22236,8 @@
       "name": "SinisterPulse",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "Sting": {
       "key": "Sting",
@@ -21897,7 +22245,8 @@
       "name": "Sting",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "WindBlast": {
       "key": "WindBlast",
@@ -21905,7 +22254,8 @@
       "name": "WindBlast",
       "description": "",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "curingAroma": {
       "key": "curingAroma",
@@ -21913,7 +22263,8 @@
       "name": "curingAroma",
       "description": "CUSTOM DESCRIPTION",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "gaiaBall": {
       "key": "gaiaBall",
@@ -21921,7 +22272,10 @@
       "name": "gaiaBall",
       "description": "CUSTOM DESCRIPTION",
       "power": 90,
-      "category": "special"
+      "category": "special",
+      "tags": [
+        "Orb"
+      ]
     },
     "Growth": {
       "key": "Growth",
@@ -21929,7 +22283,8 @@
       "name": "Growth",
       "description": "Raises Enemy Attack, Special Attack by 25%",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "Ingrain": {
       "key": "Ingrain",
@@ -21937,7 +22292,8 @@
       "name": "Ingrain",
       "description": "",
       "power": 30,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "LeechSeed": {
       "key": "LeechSeed",
@@ -21945,7 +22301,8 @@
       "name": "LeechSeed",
       "description": "",
       "power": 20,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "lifeSap": {
       "key": "lifeSap",
@@ -21953,7 +22310,8 @@
       "name": "lifeSap",
       "description": "CUSTOM DESCRIPTION",
       "power": 80,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "MegaDrain": {
       "key": "MegaDrain",
@@ -21961,7 +22319,8 @@
       "name": "MegaDrain",
       "description": "CUSTOM DESCRIPTION",
       "power": 40,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "sapStrike": {
       "key": "sapStrike",
@@ -21969,7 +22328,10 @@
       "name": "sapStrike",
       "description": "CUSTOM DESCRIPTION",
       "power": 80,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "SeedShot": {
       "key": "SeedShot",
@@ -21977,7 +22339,8 @@
       "name": "SeedShot",
       "description": "CUSTOM DESCRIPTION",
       "power": 20,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "VineThrash": {
       "key": "VineThrash",
@@ -21985,7 +22348,8 @@
       "name": "VineThrash",
       "description": "CUSTOM DESCRIPTION",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": []
     },
     "GlacialRush": {
       "key": "GlacialRush",
@@ -21993,7 +22357,10 @@
       "name": "GlacialRush",
       "description": "",
       "power": 40,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "Hail": {
       "key": "Hail",
@@ -22001,7 +22368,10 @@
       "name": "Hail",
       "description": "CUSTOM DESCRIPTION",
       "power": 20,
-      "category": "status"
+      "category": "status",
+      "tags": [
+        "Contact"
+      ]
     },
     "IceSlam": {
       "key": "IceSlam",
@@ -22009,7 +22379,10 @@
       "name": "IceSlam",
       "description": "Lowers Enemy Speed by -20%",
       "power": 60,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "IcicleSpikes": {
       "key": "IcicleSpikes",
@@ -22017,7 +22390,10 @@
       "name": "IcicleSpikes",
       "description": "CUSTOM DESCRIPTION",
       "power": 20,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "Snow Roll": {
       "key": "Snow Roll",
@@ -22025,7 +22401,10 @@
       "name": "Snow Roll",
       "description": "",
       "power": 20,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "ArmorUp": {
       "key": "ArmorUp",
@@ -22033,7 +22412,8 @@
       "name": "ArmorUp",
       "description": "Raises Self Defense by 25%",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "Bite": {
       "key": "Bite",
@@ -22041,7 +22421,11 @@
       "name": "Bite",
       "description": "",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact",
+        "Bite"
+      ]
     },
     "Cute Blast": {
       "key": "Cute Blast",
@@ -22049,7 +22433,10 @@
       "name": "Cute Blast",
       "description": "Lowers Enemy Attack by -10%",
       "power": 60,
-      "category": "special"
+      "category": "special",
+      "tags": [
+        "Contact"
+      ]
     },
     "Growl": {
       "key": "Growl",
@@ -22057,7 +22444,8 @@
       "name": "Growl",
       "description": "Lowers Enemy Attack, Special Attack by -25%",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "Haste": {
       "key": "Haste",
@@ -22065,7 +22453,8 @@
       "name": "Haste",
       "description": "Raises Self Speed by 50%",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "Howl": {
       "key": "Howl",
@@ -22073,7 +22462,8 @@
       "name": "Howl",
       "description": "Raises Self Attack by 25%",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "LatchOn": {
       "key": "LatchOn",
@@ -22081,7 +22471,10 @@
       "name": "LatchOn",
       "description": "CUSTOM DESCRIPTION",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "Roar": {
       "key": "Roar",
@@ -22089,7 +22482,8 @@
       "name": "Roar",
       "description": "CUSTOM DESCRIPTION",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "SpeedStrike": {
       "key": "SpeedStrike",
@@ -22097,7 +22491,10 @@
       "name": "SpeedStrike",
       "description": "",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "Tackle": {
       "key": "Tackle",
@@ -22105,7 +22502,10 @@
       "name": "Tackle",
       "description": "",
       "power": 50,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "TakeDown": {
       "key": "TakeDown",
@@ -22113,7 +22513,10 @@
       "name": "TakeDown",
       "description": "33 Recoil",
       "power": 80,
-      "category": "physical"
+      "category": "physical",
+      "tags": [
+        "Contact"
+      ]
     },
     "Unnerve": {
       "key": "Unnerve",
@@ -22121,7 +22524,8 @@
       "name": "Unnerve",
       "description": "Lowers Enemy Defense by -25%",
       "power": 0,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "Bubble Barrage": {
       "key": "Bubble Barrage",
@@ -22129,7 +22533,8 @@
       "name": "Bubble Barrage",
       "description": "CUSTOM DESCRIPTION",
       "power": 20,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "Cleanse": {
       "key": "Cleanse",
@@ -22137,7 +22542,8 @@
       "name": "Cleanse",
       "description": "CUSTOM DESCRIPTION",
       "power": 60,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "CleansingPulse": {
       "key": "CleansingPulse",
@@ -22145,7 +22551,8 @@
       "name": "CleansingPulse",
       "description": "CUSTOM DESCRIPTION",
       "power": 60,
-      "category": "special"
+      "category": "special",
+      "tags": []
     },
     "Rain": {
       "key": "Rain",
@@ -22153,7 +22560,8 @@
       "name": "Rain",
       "description": "CUSTOM DESCRIPTION",
       "power": 20,
-      "category": "status"
+      "category": "status",
+      "tags": []
     },
     "SteamSplash": {
       "key": "SteamSplash",
@@ -22161,7 +22569,8 @@
       "name": "SteamSplash",
       "description": "CUSTOM DESCRIPTION",
       "power": 60,
-      "category": "special"
+      "category": "special",
+      "tags": []
     }
   },
   "types": {
@@ -22169,13 +22578,13 @@
       "key": "Insect",
       "name": "Insect",
       "color": "ADBD21",
-      "description": null
+      "description": ""
     },
     "Dino": {
       "key": "Dino",
       "name": "Dino",
       "color": "7B63E7",
-      "description": null
+      "description": ""
     },
     "Earth": {
       "key": "Earth",
@@ -22187,31 +22596,31 @@
       "key": "Elec",
       "name": "Elec",
       "color": "FFFF6C",
-      "description": null
+      "description": ""
     },
     "Combat": {
       "key": "Combat",
       "name": "Combat",
       "color": "A55239",
-      "description": null
+      "description": ""
     },
     "Fire": {
       "key": "Fire",
       "name": "Fire",
       "color": "F75231",
-      "description": null
+      "description": ""
     },
     "Wind": {
       "key": "Wind",
       "name": "Wind",
       "color": "E6FFFF",
-      "description": null
+      "description": ""
     },
     "Leaf": {
       "key": "Leaf",
       "name": "Leaf",
       "color": "7BCE52",
-      "description": null
+      "description": ""
     },
     "Ice": {
       "key": "Ice",
@@ -22223,37 +22632,37 @@
       "key": "Beast",
       "name": "Beast",
       "color": "C8B088",
-      "description": null
+      "description": ""
     },
     "Poison": {
       "key": "Poison",
       "name": "Poison",
       "color": "9141CB",
-      "description": null
+      "description": ""
     },
     "Psy": {
       "key": "Psy",
       "name": "Psy",
       "color": "D95AFF",
-      "description": null
+      "description": ""
     },
     "Shadow": {
       "key": "Shadow",
       "name": "Shadow",
       "color": "362B3F",
-      "description": null
+      "description": ""
     },
     "Steel": {
       "key": "Steel",
       "name": "Steel",
       "color": "81A6BE",
-      "description": null
+      "description": ""
     },
     "Water": {
       "key": "Water",
       "name": "Water",
       "color": "399CFF",
-      "description": null
+      "description": ""
     }
   },
   "items": {},
@@ -22305,7 +22714,7 @@
         "Jaylet",
         "Ardy",
         "Pondive",
-        "Tulemur",
+        "Budaye",
         "Medipup",
         "Rocksnek",
         "Goldstream"
@@ -22316,7 +22725,7 @@
       "name": "Forest Path",
       "description": "",
       "monsters": [
-        "Tulemur",
+        "Budaye",
         "Jaylet",
         "Pondive",
         "Larvug",
@@ -22529,8 +22938,75 @@
       "monsters": []
     }
   },
-  "tagExport": {},
-  "moveCatExport": {},
+  "tags": {
+    "Beam": {
+      "key": "Beam",
+      "name": "Beam",
+      "description": "Beam Attacks",
+      "color": "000000"
+    },
+    "Bite": {
+      "key": "Bite",
+      "name": "Bite",
+      "description": "Attacking with teeth",
+      "color": "000000"
+    },
+    "Claws": {
+      "key": "Claws",
+      "name": "Claws",
+      "description": "Attacking with claws",
+      "color": "000000"
+    },
+    "Contact": {
+      "key": "Contact",
+      "name": "Contact",
+      "description": "Attacks where the user makes contact with target.",
+      "color": "000000"
+    },
+    "Kick": {
+      "key": "Kick",
+      "name": "Kick",
+      "description": "Attacking with feet or legs",
+      "color": "000000"
+    },
+    "Orb": {
+      "key": "Orb",
+      "name": "Orb",
+      "description": "Attacks using orbs or balls",
+      "color": "000000"
+    },
+    "Pierce": {
+      "key": "Pierce",
+      "name": "Pierce",
+      "description": "Attacks that involve stabbing with something sharp",
+      "color": "000000"
+    },
+    "Projectile": {
+      "key": "Projectile",
+      "name": "Projectile",
+      "description": "Attacks where a physical projectile is shot or thrown.",
+      "color": "000000"
+    },
+    "Pulse": {
+      "key": "Pulse",
+      "name": "Pulse",
+      "description": "Attacks using Pulses of energy",
+      "color": "000000"
+    },
+    "Punch": {
+      "key": "Punch",
+      "name": "Punch",
+      "description": "Punching Attacks",
+      "color": "000000"
+    },
+    "Slash": {
+      "key": "Slash",
+      "name": "Slash",
+      "description": "Slashing with body part or object",
+      "color": "000000"
+    }
+  },
+  "moveCategories": {},
   "contributors": {
     "catchChallenger": {
       "contributorKey": "catchChallenger",
@@ -22546,6 +23022,13 @@
       "contributorLink": "https://www.deviantart.com/chairry-art",
       "associatedMonsters": []
     },
+    "ChickenShowMan": {
+      "contributorKey": "ChickenShowMan",
+      "contributorName": "ChickenShowMan",
+      "contributorDescription": "",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
     "Madebycyber": {
       "contributorKey": "Madebycyber",
       "contributorName": "Madebycyber",
@@ -22558,6 +23041,13 @@
       "contributorName": "DevilDMan",
       "contributorDescription": "A Tuxemon Contributor",
       "contributorLink": "",
+      "associatedMonsters": []
+    },
+    "InvoluntaryTwitch": {
+      "contributorKey": "InvoluntaryTwitch",
+      "contributorName": "Involuntary Twitch",
+      "contributorDescription": "",
+      "contributorLink": "\"\"",
       "associatedMonsters": []
     },
     "kei": {
@@ -22579,6 +23069,13 @@
       "contributorName": "Levaine",
       "contributorDescription": "Artist that contributed sprites to Tuxemon",
       "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "MagicPurpleHermit": {
+      "contributorKey": "MagicPurpleHermit",
+      "contributorName": "Magic Purple Hermit",
+      "contributorDescription": "Deviant Art Artist.",
+      "contributorLink": "https://www.deviantart.com/magic-purple-hermit",
       "associatedMonsters": []
     },
     "MrFakemans": {
@@ -22623,10 +23120,31 @@
       "contributorLink": "\"\"",
       "associatedMonsters": []
     },
+    "Serpexnessie": {
+      "contributorKey": "Serpexnessie",
+      "contributorName": "Serpexnessie",
+      "contributorDescription": "A contributor to Tuxemon",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
     "Shadowapex": {
       "contributorKey": "Shadowapex",
       "contributorName": "Shadowapex",
       "contributorDescription": "A designer/artist that contributed to Tuxemon",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "Spalding004": {
+      "contributorKey": "Spalding004",
+      "contributorName": "Spalding004",
+      "contributorDescription": "",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "TheBritanniaRegion": {
+      "contributorKey": "TheBritanniaRegion",
+      "contributorName": "TheBritanniaRegion",
+      "contributorDescription": "",
       "contributorLink": "\"\"",
       "associatedMonsters": []
     },

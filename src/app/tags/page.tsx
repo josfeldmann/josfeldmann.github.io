@@ -5,8 +5,10 @@ import NavBar from "../components/ui/navbar";
 import { MonsterDatabase } from "../components/data/MonsterDatabase";
 import { SingleLineList } from "../components/ui/SingleLineList";
 import TypeButton from "../components/ui/TypeButton";
+import { Tag } from "../components/data/Tag";
 
-export default function TypesPage() {
+
+export default function TagsPage() {
 
   const db = MonsterDatabase.getInstance();
 
