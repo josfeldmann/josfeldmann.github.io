@@ -726,10 +726,6 @@
         },
         {
           "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
           "type": "Poison"
         },
         {
@@ -838,10 +834,6 @@
         },
         {
           "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
           "type": "Poison"
         },
         {
@@ -947,10 +939,6 @@
         {
           "resistance": 2.0,
           "type": "Leaf"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -1679,6 +1667,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -1784,6 +1776,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -1883,6 +1879,10 @@
         {
           "resistance": 2.0,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -3378,10 +3378,6 @@
         },
         {
           "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
           "type": "Poison"
         },
         {
@@ -3472,10 +3468,6 @@
         {
           "resistance": 0.25,
           "type": "Fire"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -3762,7 +3754,7 @@
       ],
       "moves": [
         "Tackle",
-        "Sting",
+        "StingSpray",
         "PoisonSting",
         "Unnerve"
       ],
@@ -3851,7 +3843,7 @@
       ],
       "moves": [
         "Tackle",
-        "Sting",
+        "StingSpray",
         "PoisonSting",
         "Unnerve"
       ],
@@ -3982,6 +3974,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -4080,6 +4076,10 @@
         {
           "resistance": 2.0,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -5883,7 +5883,7 @@
           "type": "Fire"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ice"
         },
         {
@@ -5971,7 +5971,7 @@
           "type": "Fire"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ice"
         },
         {
@@ -6245,6 +6245,10 @@
           "type": "Wind"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -6327,6 +6331,10 @@
         {
           "resistance": 2.0,
           "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -6709,6 +6717,10 @@
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.25,
           "type": "Poison"
         },
@@ -6804,6 +6816,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -6896,10 +6912,6 @@
         },
         {
           "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
           "type": "Poison"
         },
         {
@@ -6988,10 +7000,6 @@
         {
           "resistance": 0.25,
           "type": "Fire"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -7217,6 +7225,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -7298,10 +7310,6 @@
         {
           "resistance": 0.25,
           "type": "Fire"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -7395,6 +7403,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -7459,7 +7471,7 @@
       ],
       "moves": [
         "Tackle",
-        "Sting",
+        "StingSpray",
         "ArmorUp",
         "WaterTackle",
         "BugCut",
@@ -7549,7 +7561,7 @@
       ],
       "moves": [
         "Tackle",
-        "Sting",
+        "StingSpray",
         "ArmorUp",
         "WaterTackle",
         "BugCut",
@@ -10034,6 +10046,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -10426,6 +10442,10 @@
           "type": "Wind"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -10521,6 +10541,10 @@
           "type": "Wind"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -10614,6 +10638,10 @@
         {
           "resistance": 2.0,
           "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -11076,7 +11104,7 @@
           "type": "Wind"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ice"
         }
       ],
@@ -11152,7 +11180,7 @@
           "type": "Wind"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ice"
         }
       ],
@@ -11352,7 +11380,7 @@
           "type": "Fire"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ice"
         },
         {
@@ -11437,7 +11465,7 @@
           "type": "Fire"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ice"
         },
         {
@@ -12832,6 +12860,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -12904,6 +12936,10 @@
         {
           "resistance": 2.0,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -13159,7 +13195,7 @@
           "type": "Wind"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ice"
         }
       ],
@@ -13234,7 +13270,7 @@
           "type": "Wind"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ice"
         }
       ],
@@ -14484,10 +14520,6 @@
         },
         {
           "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
           "type": "Poison"
         },
         {
@@ -14566,10 +14598,6 @@
         {
           "resistance": 4.0,
           "type": "Leaf"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -17134,6 +17162,10 @@
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.25,
           "type": "Poison"
         },
@@ -17221,6 +17253,10 @@
         {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 0.25,
@@ -17770,6 +17806,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -17860,6 +17900,10 @@
         {
           "resistance": 2.0,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -20407,6 +20451,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
@@ -20591,10 +20639,6 @@
         },
         {
           "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
           "type": "Beast"
         },
         {
@@ -20701,10 +20745,6 @@
         {
           "resistance": 2.0,
           "type": "Leaf"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
         },
         {
           "resistance": 0.5,
@@ -22239,10 +22279,10 @@
       "category": "special",
       "tags": []
     },
-    "Sting": {
-      "key": "Sting",
+    "StingSpray": {
+      "key": "StingSpray",
       "type": "Insect",
-      "name": "Sting",
+      "name": "StingSpray",
       "description": "",
       "power": 40,
       "category": "special",
@@ -22522,7 +22562,7 @@
       "key": "Unnerve",
       "type": "Beast",
       "name": "Unnerve",
-      "description": "Lowers Enemy Defense by -25%",
+      "description": "Lowers Enemy Defense, Special Defense by -25%",
       "power": 0,
       "category": "status",
       "tags": []
@@ -23006,7 +23046,26 @@
       "color": "000000"
     }
   },
-  "moveCategories": {},
+  "moveCategories": {
+    "physical": {
+      "key": "physical",
+      "description": "",
+      "name": "Physical",
+      "color": "C01A00"
+    },
+    "special": {
+      "key": "special",
+      "description": "",
+      "name": "Special",
+      "color": "9F00CA"
+    },
+    "status": {
+      "key": "status",
+      "description": "",
+      "name": "Status",
+      "color": "959595"
+    }
+  },
   "contributors": {
     "catchChallenger": {
       "contributorKey": "catchChallenger",

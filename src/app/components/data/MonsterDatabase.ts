@@ -237,6 +237,14 @@ export class MonsterDatabase {
   }
 
 
+  getAllMoveCategories() : MonsterMoveCategory[] {
+    return Object.values(this.moveCategories);
+  }
+
+
+  getMoveCategory(name: string): MonsterMoveCategory {
+    return this.moveCategories[name];
+  }
 
 
   //Getters

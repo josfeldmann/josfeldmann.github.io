@@ -1,6 +1,7 @@
 import { MonsterDatabase } from "../data/MonsterDatabase";
 import { MonsterMove } from "../data/MonsterMove";
 import { MonsterType } from "../data/MonsterType";
+import { MoveCategoryBadge } from "./MoveCategoryBadge";
 import TypeButton from "./TypeButton";
 
 type MoveListProps = {
@@ -48,7 +49,7 @@ export default function MoveList( { moves  } : MoveListProps) {
               </td>
 
               <td className="border border-gray-300 px-4 py-2 capitalize">
-                {move.category}
+                <MoveCategoryBadge data={MonsterDatabase.getInstance().getMoveCategory(move.category)} />
               </td>
 
               <td className="border border-gray-300 px-4 py-2">
