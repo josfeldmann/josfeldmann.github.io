@@ -1,11 +1,9 @@
 name: Deploy Next.js site to GitHub Pages
 
-on:
+"on":
   push:
     branches:
       - main
-
-  # Also allows you to run it manually from the Actions page.
   workflow_dispatch:
 
 permissions:
