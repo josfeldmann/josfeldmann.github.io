@@ -1398,11 +1398,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Design"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -1506,11 +1506,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Design"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -1614,11 +1614,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Design"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -3329,7 +3329,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Recolor"
+          "credit": "Sprite Remake"
         }
       ]
     },
@@ -4219,11 +4219,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Design"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -4315,11 +4315,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Design"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -4411,11 +4411,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Design"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -4507,11 +4507,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Design"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -5895,8 +5895,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "Its heated shell cushions frequent falls. It swallows stones to feed its inner flame, though oversized pieces often become lodged in its throat.",
+      "longDescription": "Dex Entry — 68 words\nNewly hatched individuals gather along volcanic cliffs, where rising heat allows them to hover without strong wings. Poor judgment frequently sends them tumbling, but their dense lower shell absorbs most impacts. They instinctively swallow mineral-rich stones that sustain the fire within their bodies. Adults often remain nearby, breaking larger rocks into safer pieces after witnessing repeated choking attempts.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -5921,7 +5921,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "TheBritanniaRegion",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "InvoluntaryTwitch",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Meteodactly": {
       "monsterKey": "Meteodactly",
@@ -5983,8 +5992,8 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "An intelligent and threatening predator. Heats swallowed stone into magma that strengthens its armor and powers long migrations.",
+      "longDescription": "Their long beaks split stone and pierce the hardened shells of prey. Rock consumed throughout the day melts within a specialized stomach, circulating heat through the body and replacing damaged armor. During migration, flocks resemble falling stars as they cross the night sky. ",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
@@ -6009,11 +6018,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "TheBritanniaRegion",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "InvoluntaryTwitch",
+          "credit": "Original Sprite"
+        }
+      ]
     },
-    "Pyghoul": {
-      "monsterKey": "Pyghoul",
-      "monsterName": "Pyghoul",
+    "Snock": {
+      "monsterKey": "Snock",
+      "monsterName": "Snock",
       "monsterID": 56,
       "monsterType": [
         "Shadow",
@@ -6078,14 +6096,14 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It remains hidden until its first ceremonial hood is finished, then sneaks around human settlements collecting cloth, thread, reeds, and shed scales.",
+      "longDescription": "Young spirits refuse to leave their nesting place before receiving a handmade hood from their parent. Once covered, they begin gathering discarded fabric, flexible wood, bright fibers, and other materials suited for a larger vessel. They are cautious around strangers but often trade small found objects with others of their kind. Growth remains dormant until they complete a costume capable of holding their expanding spiritual energy.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Pyghoul",
+            "key": "Snock",
             "x": 100.0,
             "y": 50.0
           },
@@ -6104,7 +6122,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "TheBritanniaRegion",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "InvoluntaryTwitch",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Pythock": {
       "monsterKey": "Pythock",
@@ -6173,14 +6200,14 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
-      "longDescription": "",
+      "shortDescription": "It mends its costume each night with precise stitches, then helps nearby spirits complete costumes sturdy enough to carry them into adulthood.",
+      "longDescription": "Adults travel between villages, abandoned theaters, and festival grounds in loose family groups. Their narrow hands can sew even while the rest of the body remains in motion. Damaged costumes are treated like wounds, and neglected tears may cause the resident spirit to weaken. Experienced individuals collect rare materials for younger companions, teaching patterns through repeated gestures. During seasonal gatherings, entire colonies cooperate to construct long ceremonial vessels for homeless spirits.",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Pyghoul",
+            "key": "Snock",
             "x": 100.0,
             "y": 50.0
           },
@@ -6199,7 +6226,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "TheBritanniaRegion",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "InvoluntaryTwitch",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Seltek": {
       "monsterKey": "Seltek",
@@ -6287,7 +6323,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Edits"
+        }
+      ]
     },
     "Selmatek": {
       "monsterKey": "Selmatek",
@@ -6375,7 +6424,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Edits"
+        }
+      ]
     },
     "Agnite": {
       "monsterKey": "Agnite",
@@ -7538,7 +7600,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MJCO",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "MJCO",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Divurf": {
       "monsterKey": "Divurf",
@@ -7628,7 +7699,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MJCO",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "MJCO",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Medipup": {
       "monsterKey": "Medipup",
@@ -7695,7 +7775,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Remade Sprite"
+        }
+      ]
     },
     "Doctsy": {
       "monsterKey": "Doctsy",
@@ -7764,8 +7857,16 @@
       },
       "contributors": [
         {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ]
     },
@@ -7863,7 +7964,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MJCO",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "MJCO",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Swanfoil": {
       "monsterKey": "Swanfoil",
@@ -7959,7 +8069,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MJCO",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "MJCO",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Psynaps": {
       "monsterKey": "Psynaps",
@@ -8628,7 +8747,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Fribbit": {
       "monsterKey": "Fribbit",
@@ -8704,7 +8832,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Millil": {
       "monsterKey": "Millil",
@@ -8784,7 +8921,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Millisting": {
       "monsterKey": "Millisting",
@@ -8864,7 +9010,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Kelpup": {
       "monsterKey": "Kelpup",
@@ -9116,7 +9271,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Agnesnow": {
       "monsterKey": "Agnesnow",
@@ -9204,7 +9368,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Seraphice": {
       "monsterKey": "Seraphice",
@@ -9292,7 +9465,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Demisnow": {
       "monsterKey": "Demisnow",
@@ -9384,7 +9566,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Lucifice": {
       "monsterKey": "Lucifice",
@@ -9476,7 +9667,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Nudaflott": {
       "monsterKey": "Nudaflott",
@@ -9913,7 +10113,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "KohariNK",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Fauxlens",
+          "credit": "Design"
+        }
+      ]
     },
     "Potturnery": {
       "monsterKey": "Potturnery",
@@ -9992,7 +10201,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "KohariNK",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Fauxlens",
+          "credit": "Design"
+        }
+      ]
     },
     "Polyrock": {
       "monsterKey": "Polyrock",
@@ -10495,7 +10713,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Cocrune": {
       "monsterKey": "Cocrune",
@@ -10594,7 +10821,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Runesquito": {
       "monsterKey": "Runesquito",
@@ -10693,7 +10929,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Serpexnessie",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Sparepple": {
       "monsterKey": "Sparepple",
@@ -10789,7 +11034,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "ChrisFarias",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Infinipede",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Samurepple": {
       "monsterKey": "Samurepple",
@@ -10885,7 +11139,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "ChrisFarias",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Infinipede",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Forturtle": {
       "monsterKey": "Forturtle",
@@ -10959,7 +11222,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ]
     },
@@ -11056,7 +11319,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ]
     },
@@ -11421,6 +11684,10 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
         }
       ]
@@ -11504,6 +11771,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -11603,6 +11874,10 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
         }
       ]
@@ -11700,6 +11975,10 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
         }
       ]
@@ -11789,7 +12068,15 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ]
     },
@@ -11878,7 +12165,15 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ]
     },
@@ -11965,6 +12260,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -12054,6 +12353,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -12152,7 +12455,15 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ]
     },
@@ -12248,7 +12559,15 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ]
     },
@@ -12339,6 +12658,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -12432,6 +12755,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -12534,7 +12861,15 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ]
     },
@@ -12634,7 +12969,15 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ]
     },
@@ -13059,6 +13402,10 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
         }
       ]
@@ -13148,6 +13495,10 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
         }
       ]
@@ -13225,7 +13576,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Baobaraffe": {
       "monsterKey": "Baobaraffe",
@@ -13300,7 +13660,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "PrincessPhoenix",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "leonSoul": {
       "monsterKey": "leonSoul",
@@ -14382,6 +14751,10 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
         }
       ]
@@ -14473,6 +14846,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -15639,7 +16016,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Skeeta": {
       "monsterKey": "Skeeta",
@@ -15723,7 +16109,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Luchapede": {
       "monsterKey": "Luchapede",
@@ -15791,7 +16186,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Vampede": {
       "monsterKey": "Vampede",
@@ -15875,7 +16279,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Joltey": {
       "monsterKey": "Joltey",
@@ -15951,7 +16364,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Joltjab": {
       "monsterKey": "Joltjab",
@@ -16341,7 +16763,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Tideroy": {
       "monsterKey": "Tideroy",
@@ -16439,7 +16870,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Darkroy": {
       "monsterKey": "Darkroy",
@@ -16517,7 +16957,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Brambush": {
       "monsterKey": "Brambush",
@@ -16832,7 +17281,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Scarloxy",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Scarloxy",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Stagrove": {
       "monsterKey": "Stagrove",
@@ -16924,7 +17382,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Scarloxy",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Scarloxy",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Frillbud": {
       "monsterKey": "Frillbud",
@@ -17020,7 +17487,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Frondrake": {
       "monsterKey": "Frondrake",
@@ -17207,7 +17683,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -17300,7 +17780,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -17393,7 +17877,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -17483,7 +17971,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Mothwick": {
       "monsterKey": "Mothwick",
@@ -17575,7 +18072,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Sparkit": {
       "monsterKey": "Sparkit",
@@ -18028,7 +18534,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Zenkong": {
       "monsterKey": "Zenkong",
@@ -18084,7 +18599,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Axowarry": {
       "monsterKey": "Axowarry",
@@ -18160,7 +18684,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Gravadillo": {
       "monsterKey": "Gravadillo",
@@ -18240,7 +18773,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Cloudrake": {
       "monsterKey": "Cloudrake",
@@ -18320,7 +18862,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Pinefawn": {
       "monsterKey": "Pinefawn",
@@ -18419,7 +18970,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -18520,7 +19075,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -18605,7 +19164,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -18690,7 +19253,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -18787,7 +19354,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -18884,7 +19455,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -18973,7 +19548,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -19062,7 +19637,7 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -19155,7 +19730,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -19248,7 +19827,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -19337,7 +19920,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -19426,7 +20013,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -19515,7 +20106,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -19604,7 +20199,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -19648,7 +20247,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shibuzz": {
       "monsterKey": "Shibuzz",
@@ -19707,7 +20315,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shibog": {
       "monsterKey": "Shibog",
@@ -19774,7 +20391,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shiblitz": {
       "monsterKey": "Shiblitz",
@@ -19845,7 +20471,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shibolt": {
       "monsterKey": "Shibolt",
@@ -19904,7 +20539,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shiberg": {
       "monsterKey": "Shiberg",
@@ -19959,7 +20603,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shibrawl": {
       "monsterKey": "Shibrawl",
@@ -20022,7 +20675,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shibane": {
       "monsterKey": "Shibane",
@@ -20077,7 +20739,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "GrassSHibu": {
       "monsterKey": "GrassSHibu",
@@ -20156,7 +20827,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shiraptor": {
       "monsterKey": "Shiraptor",
@@ -20227,7 +20907,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shibafly": {
       "monsterKey": "Shibafly",
@@ -20278,7 +20967,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shichroma": {
       "monsterKey": "Shichroma",
@@ -20320,7 +21018,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shibastion": {
       "monsterKey": "Shibastion",
@@ -20399,7 +21106,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shiburrow": {
       "monsterKey": "Shiburrow",
@@ -20466,7 +21182,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shibungus": {
       "monsterKey": "Shibungus",
@@ -20521,7 +21246,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shiraph": {
       "monsterKey": "Shiraph",
@@ -20580,7 +21314,16 @@
       "shortDescription": "",
       "longDescription": "",
       "evolutionGraph": null,
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Tankalf": {
       "monsterKey": "Tankalf",
@@ -20687,7 +21430,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -20796,7 +21543,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -20897,7 +21648,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -20998,7 +21753,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -21091,7 +21850,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -21184,7 +21947,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -21273,7 +22040,11 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
-          "credit": "Original Sprite"
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -21357,12 +22128,12 @@
       },
       "contributors": [
         {
-          "contributorKey": "Madebycyber",
-          "credit": "Part Of"
+          "contributorKey": "screensmith",
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Generated Sprite"
         }
       ]
     },
@@ -21535,12 +22306,12 @@
       },
       "contributors": [
         {
-          "contributorKey": "Madebycyber",
-          "credit": "Part Of"
+          "contributorKey": "screensmith",
+          "credit": "Design"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Generated Sprite"
         }
       ]
     }
@@ -22783,7 +23554,7 @@
         "Dreed",
         "Lambert",
         "Pondive",
-        "Pyghoul",
+        "Snock",
         "Baoby",
         "Kelpup"
       ]
@@ -22917,7 +23688,7 @@
         "Shockshrew",
         "Doctsy",
         "Uneye",
-        "Pyghoul",
+        "Snock",
         "Nudaflott",
         "NudoFlott",
         "Goldscale"
@@ -23088,6 +23859,13 @@
       "contributorLink": "\"\"",
       "associatedMonsters": []
     },
+    "ChrisFarias": {
+      "contributorKey": "ChrisFarias",
+      "contributorName": "ChrisFarias",
+      "contributorDescription": "",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
     "Madebycyber": {
       "contributorKey": "Madebycyber",
       "contributorName": "Madebycyber",
@@ -23102,6 +23880,20 @@
       "contributorLink": "",
       "associatedMonsters": []
     },
+    "Fauxlens": {
+      "contributorKey": "Fauxlens",
+      "contributorName": "Fauxlens",
+      "contributorDescription": "Tuxemon Contributor",
+      "contributorLink": "",
+      "associatedMonsters": []
+    },
+    "Infinipede": {
+      "contributorKey": "Infinipede",
+      "contributorName": "Infinipede",
+      "contributorDescription": "",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
     "InvoluntaryTwitch": {
       "contributorKey": "InvoluntaryTwitch",
       "contributorName": "Involuntary Twitch",
@@ -23114,6 +23906,13 @@
       "contributorName": "Kei",
       "contributorDescription": "Sprite Artist. I commissioned a number of sprites from them via Fiverr.",
       "contributorLink": "https://www.fiverr.com/kei_member",
+      "associatedMonsters": []
+    },
+    "KohariNK": {
+      "contributorKey": "KohariNK",
+      "contributorName": "Kohari NK",
+      "contributorDescription": "Fiverr Artist",
+      "contributorLink": "\"\"",
       "associatedMonsters": []
     },
     "Leo": {
@@ -23135,6 +23934,13 @@
       "contributorName": "Magic Purple Hermit",
       "contributorDescription": "Deviant Art Artist.",
       "contributorLink": "https://www.deviantart.com/magic-purple-hermit",
+      "associatedMonsters": []
+    },
+    "MJCO": {
+      "contributorKey": "MJCO",
+      "contributorName": "MJCO",
+      "contributorDescription": "Tuxemon Contributor",
+      "contributorLink": "\"\"",
       "associatedMonsters": []
     },
     "MrFakemans": {
@@ -23169,6 +23975,13 @@
       "contributorKey": "Sanglorian",
       "contributorName": "Sanglorian",
       "contributorDescription": "One of the main developers of Tuxemon.",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "Scarloxy": {
+      "contributorKey": "Scarloxy",
+      "contributorName": "Scarloxy",
+      "contributorDescription": "",
       "contributorLink": "\"\"",
       "associatedMonsters": []
     },

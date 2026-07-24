@@ -90,7 +90,7 @@ export default function MonsterBadge({
 
     {/* Monster */}
     <img
-      src={`/data/Monster-images/${data.monsterKey}.png`}
+      src={`/data/Monster-Images/${data.monsterKey}.png`}
       style={{
         position: "relative",
         zIndex: 1,
