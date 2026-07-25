@@ -6536,7 +6536,24 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Aviculor",
+          "credit": "Sprite Remake"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite Remake"
+        }
+      ]
     },
     "Agnidon": {
       "monsterKey": "Agnidon",
@@ -6635,7 +6652,24 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Aviculor",
+          "credit": "Sprite Remake"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite Remake"
+        }
+      ]
     },
     "Agnigon": {
       "monsterKey": "Agnigon",
@@ -6734,7 +6768,24 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Aviculor",
+          "credit": "Sprite Remake"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Sprite Remake"
+        }
+      ]
     },
     "Mewnuk": {
       "monsterKey": "Mewnuk",
@@ -7178,7 +7229,20 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Extyrannomon",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Sharpfin": {
       "monsterKey": "Sharpfin",
@@ -7246,7 +7310,20 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Extyrannomon",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Grintot": {
       "monsterKey": "Grintot",
@@ -7324,6 +7401,14 @@
         "arrows": []
       },
       "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        },
         {
           "contributorKey": "chairry",
           "credit": "Sprite Remake"
@@ -7411,6 +7496,14 @@
         "arrows": []
       },
       "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        },
         {
           "contributorKey": "chairry",
           "credit": "Sprite Remake"
@@ -7506,6 +7599,14 @@
         "arrows": []
       },
       "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        },
         {
           "contributorKey": "chairry",
           "credit": "Sprite Remake"
@@ -8080,303 +8181,6 @@
         }
       ]
     },
-    "Psynaps": {
-      "monsterKey": "Psynaps",
-      "monsterName": "Psynaps",
-      "monsterID": 78,
-      "monsterType": [
-        "Psy",
-        "Elec"
-      ],
-      "baseStats": {
-        "HP": 103.0,
-        "ATTACK": 53.0,
-        "DEFENSE": 77.0,
-        "SPECIALATTACK": 150.0,
-        "SPECIALDEFENSE": 114.0,
-        "SPEED": 53.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "ShockSting",
-        "Growth",
-        "PsiBlast"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Wind"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Psy"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Shadow"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Psynaps",
-            "x": 66.6666641,
-            "y": 50.0
-          },
-          {
-            "key": "Denvivo",
-            "x": 200.0,
-            "y": 50.0
-          },
-          {
-            "key": "Somatose",
-            "x": 333.333344,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 66.6666641,
-            "starty": 50.0,
-            "endx": 200.0,
-            "endy": 50.0
-          },
-          {
-            "startx": 200.0,
-            "starty": 50.0,
-            "endx": 333.333344,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": []
-    },
-    "Denvivo": {
-      "monsterKey": "Denvivo",
-      "monsterName": "Denvivo",
-      "monsterID": 79,
-      "monsterType": [
-        "Psy",
-        "Elec"
-      ],
-      "baseStats": {
-        "HP": 140.0,
-        "ATTACK": 72.0,
-        "DEFENSE": 107.0,
-        "SPECIALATTACK": 204.0,
-        "SPECIALDEFENSE": 155.0,
-        "SPEED": 72.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "ShockSting",
-        "Growth",
-        "PsiBlast"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Wind"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Psy"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Shadow"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Psynaps",
-            "x": 66.6666641,
-            "y": 50.0
-          },
-          {
-            "key": "Denvivo",
-            "x": 200.0,
-            "y": 50.0
-          },
-          {
-            "key": "Somatose",
-            "x": 333.333344,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 66.6666641,
-            "starty": 50.0,
-            "endx": 200.0,
-            "endy": 50.0
-          },
-          {
-            "startx": 200.0,
-            "starty": 50.0,
-            "endx": 333.333344,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": []
-    },
-    "Somatose": {
-      "monsterKey": "Somatose",
-      "monsterName": "Somatose",
-      "monsterID": 80,
-      "monsterType": [
-        "Psy",
-        "Elec"
-      ],
-      "baseStats": {
-        "HP": 168.0,
-        "ATTACK": 86.0,
-        "DEFENSE": 129.0,
-        "SPECIALATTACK": 245.0,
-        "SPECIALDEFENSE": 186.0,
-        "SPEED": 86.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "ShockSting",
-        "Growth",
-        "PsiBlast"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Wind"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Psy"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Shadow"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Psynaps",
-            "x": 66.6666641,
-            "y": 50.0
-          },
-          {
-            "key": "Denvivo",
-            "x": 200.0,
-            "y": 50.0
-          },
-          {
-            "key": "Somatose",
-            "x": 333.333344,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 66.6666641,
-            "starty": 50.0,
-            "endx": 200.0,
-            "endy": 50.0
-          },
-          {
-            "startx": 200.0,
-            "starty": 50.0,
-            "endx": 333.333344,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": []
-    },
     "Bumbulus": {
       "monsterKey": "Bumbulus",
       "monsterName": "Bumbulus",
@@ -8459,7 +8263,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Nimbulus": {
       "monsterKey": "Nimbulus",
@@ -8543,7 +8356,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Tribial": {
       "monsterKey": "Tribial",
@@ -8607,7 +8429,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Shamage": {
       "monsterKey": "Shamage",
@@ -8671,7 +8502,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Tadcool": {
       "monsterKey": "Tadcool",
@@ -9099,7 +8939,24 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MJCO",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "MJCO",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Edits"
+        },
+        {
+          "contributorKey": "HippasusTwo",
+          "credit": "Edits"
+        }
+      ]
     },
     "Reefrond": {
       "monsterKey": "Reefrond",
@@ -9179,7 +9036,24 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "MJCO",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "MJCO",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Edits"
+        },
+        {
+          "contributorKey": "HippasusTwo",
+          "credit": "Edits"
+        }
+      ]
     },
     "Waysprite": {
       "monsterKey": "Waysprite",
@@ -9678,364 +9552,6 @@
         }
       ]
     },
-    "Nudaflott": {
-      "monsterKey": "Nudaflott",
-      "monsterName": "Nudaflott",
-      "monsterID": 96,
-      "monsterType": [
-        "Water"
-      ],
-      "baseStats": {
-        "HP": 110.0,
-        "ATTACK": 58.0,
-        "DEFENSE": 72.0,
-        "SPECIALATTACK": 112.0,
-        "SPECIALDEFENSE": 140.0,
-        "SPEED": 58.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "BubbleSpray",
-        "PoisonSting",
-        "Growl"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Fire"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Leaf"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Water"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 250.0,
-        "nodes": [
-          {
-            "key": "Nudaflott",
-            "x": 100.0,
-            "y": 83.3333359
-          },
-          {
-            "key": "NudoFlott",
-            "x": 100.0,
-            "y": 166.666672
-          },
-          {
-            "key": "Nudaqueen",
-            "x": 300.0,
-            "y": 83.3333359
-          },
-          {
-            "key": "Nudoking",
-            "x": 300.0,
-            "y": 166.666672
-          }
-        ],
-        "arrows": []
-      },
-      "contributors": []
-    },
-    "Nudaqueen": {
-      "monsterKey": "Nudaqueen",
-      "monsterName": "Nudaqueen",
-      "monsterID": 97,
-      "monsterType": [
-        "Water",
-        "Psy"
-      ],
-      "baseStats": {
-        "HP": 190.0,
-        "ATTACK": 85.0,
-        "DEFENSE": 139.0,
-        "SPECIALATTACK": 170.0,
-        "SPECIALDEFENSE": 227.0,
-        "SPEED": 89.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "BubbleSpray",
-        "PoisonSting",
-        "Growl"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Fire"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Leaf"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Psy"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Shadow"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Water"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 250.0,
-        "nodes": [
-          {
-            "key": "Nudaflott",
-            "x": 100.0,
-            "y": 83.3333359
-          },
-          {
-            "key": "NudoFlott",
-            "x": 100.0,
-            "y": 166.666672
-          },
-          {
-            "key": "Nudaqueen",
-            "x": 300.0,
-            "y": 83.3333359
-          },
-          {
-            "key": "Nudoking",
-            "x": 300.0,
-            "y": 166.666672
-          }
-        ],
-        "arrows": []
-      },
-      "contributors": []
-    },
-    "NudoFlott": {
-      "monsterKey": "NudoFlott",
-      "monsterName": "NudoFlott",
-      "monsterID": 98,
-      "monsterType": [
-        "Water"
-      ],
-      "baseStats": {
-        "HP": 111.0,
-        "ATTACK": 125.0,
-        "DEFENSE": 72.0,
-        "SPECIALATTACK": 60.0,
-        "SPECIALDEFENSE": 124.0,
-        "SPEED": 58.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "BubbleSpray",
-        "PoisonSting",
-        "Growl"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Fire"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Leaf"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Water"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 250.0,
-        "nodes": [
-          {
-            "key": "Nudaflott",
-            "x": 100.0,
-            "y": 83.3333359
-          },
-          {
-            "key": "NudoFlott",
-            "x": 100.0,
-            "y": 166.666672
-          },
-          {
-            "key": "Nudaqueen",
-            "x": 300.0,
-            "y": 83.3333359
-          },
-          {
-            "key": "Nudoking",
-            "x": 300.0,
-            "y": 166.666672
-          }
-        ],
-        "arrows": []
-      },
-      "contributors": []
-    },
-    "Nudoking": {
-      "monsterKey": "Nudoking",
-      "monsterName": "Nudoking",
-      "monsterID": 99,
-      "monsterType": [
-        "Water",
-        "Poison"
-      ],
-      "baseStats": {
-        "HP": 181.0,
-        "ATTACK": 204.0,
-        "DEFENSE": 121.0,
-        "SPECIALATTACK": 98.0,
-        "SPECIALDEFENSE": 202.0,
-        "SPEED": 94.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "BubbleSpray",
-        "PoisonSting",
-        "Growl"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Fire"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Psy"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Water"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 250.0,
-        "nodes": [
-          {
-            "key": "Nudaflott",
-            "x": 100.0,
-            "y": 83.3333359
-          },
-          {
-            "key": "NudoFlott",
-            "x": 100.0,
-            "y": 166.666672
-          },
-          {
-            "key": "Nudaqueen",
-            "x": 300.0,
-            "y": 83.3333359
-          },
-          {
-            "key": "Nudoking",
-            "x": 300.0,
-            "y": 166.666672
-          }
-        ],
-        "arrows": []
-      },
-      "contributors": []
-    },
     "Poturney": {
       "monsterKey": "Poturney",
       "monsterName": "Poturney",
@@ -10298,7 +9814,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Tweesher": {
       "monsterKey": "Tweesher",
@@ -11221,6 +10746,14 @@
       },
       "contributors": [
         {
+          "contributorKey": "ChickenShowMan",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "ChickenShowMan",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
           "credit": "AI Remade Sprite"
         }
@@ -11318,6 +10851,14 @@
       },
       "contributors": [
         {
+          "contributorKey": "ChickenShowMan",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "ChickenShowMan",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
           "credit": "AI Remade Sprite"
         }
@@ -11397,7 +10938,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Glombroc": {
       "monsterKey": "Glombroc",
@@ -11473,7 +11023,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Uneye": {
       "monsterKey": "Uneye",
@@ -11537,7 +11096,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Lendos": {
       "monsterKey": "Lendos",
@@ -11601,7 +11169,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Boldersaur": {
       "monsterKey": "Boldersaur",
@@ -13071,7 +12648,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "BloatFish": {
       "monsterKey": "BloatFish",
@@ -13154,7 +12740,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Apeoro": {
       "monsterKey": "Apeoro",
@@ -13233,7 +12828,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "ChrisFarias",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "InvoluntaryTwitch",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Mauai": {
       "monsterKey": "Mauai",
@@ -13315,7 +12919,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "chairry",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "chairry",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Medushock": {
       "monsterKey": "Medushock",
@@ -13671,8 +13284,8 @@
         }
       ]
     },
-    "leonSoul": {
-      "monsterKey": "leonSoul",
+    "LeonSol": {
+      "monsterKey": "LeonSol",
       "monsterName": "leonSoul",
       "monsterID": 139,
       "monsterType": [
@@ -13726,14 +13339,35 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "leonSoul",
+            "key": "LeonSol",
             "x": 200.0,
             "y": 200.0
           }
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "ProfessorGreen",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "slickedBackArtisan",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "slickedBackArtisan",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Remade Sprite"
+        }
+      ]
     },
     "Goldstream": {
       "monsterKey": "Goldstream",
@@ -13824,7 +13458,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "PiaCarrot",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "JustinNuggets",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Recolor"
+        }
+      ]
     },
     "Goldscale": {
       "monsterKey": "Goldscale",
@@ -13915,7 +13562,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "PiaCarrot",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "JustinNuggets",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Recolor"
+        }
+      ]
     },
     "Goldcind": {
       "monsterKey": "Goldcind",
@@ -14006,7 +13666,24 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "PiaCarrot",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "JustinNuggets",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Recolor"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Remade Sprite"
+        }
+      ]
     },
     "Rootram": {
       "monsterKey": "Rootram",
@@ -15520,9 +15197,9 @@
         }
       ]
     },
-    "Wooluff": {
-      "monsterKey": "Wooluff",
-      "monsterName": "Wooluff",
+    "Woolluff": {
+      "monsterKey": "Woolluff",
+      "monsterName": "Woolluff",
       "monsterID": 158,
       "monsterType": [
         "Ice",
@@ -15571,12 +15248,12 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Wooluff",
+            "key": "Woolluff",
             "x": 100.0,
             "y": 50.0
           },
           {
-            "key": "Permafleece",
+            "key": "Crankus",
             "x": 300.0,
             "y": 50.0
           }
@@ -15590,11 +15267,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "WaterTrainer",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "WaterTrainer",
+          "credit": "Original Sprite"
+        }
+      ]
     },
-    "Permafleece": {
-      "monsterKey": "Permafleece",
-      "monsterName": "Permafleece",
+    "Crankus": {
+      "monsterKey": "Crankus",
+      "monsterName": "Crankus",
       "monsterID": 159,
       "monsterType": [
         "Ice",
@@ -15643,12 +15329,12 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Wooluff",
+            "key": "Woolluff",
             "x": 100.0,
             "y": 50.0
           },
           {
-            "key": "Permafleece",
+            "key": "Crankus",
             "x": 300.0,
             "y": 50.0
           }
@@ -15662,7 +15348,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "WaterTrainer",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "WaterTrainer",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Sootle": {
       "monsterKey": "Sootle",
@@ -15932,7 +15627,20 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Madebycyber",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Remade Sprite"
+        }
+      ]
     },
     "Buzzolt": {
       "monsterKey": "Buzzolt",
@@ -16449,7 +16157,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Maceodon": {
       "monsterKey": "Maceodon",
@@ -16529,7 +16246,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Jocty": {
       "monsterKey": "Jocty",
@@ -16605,7 +16331,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Shadowbox": {
       "monsterKey": "Shadowbox",
@@ -16681,7 +16416,20 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
+        }
+      ]
     },
     "Pengbaby": {
       "monsterKey": "Pengbaby",
@@ -17050,7 +16798,16 @@
         ],
         "arrows": []
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Finip": {
       "monsterKey": "Finip",
@@ -17126,7 +16883,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Leviatide": {
       "monsterKey": "Leviatide",
@@ -17202,7 +16968,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ]
     },
     "Beetwig": {
       "monsterKey": "Beetwig",
@@ -17592,7 +17367,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Tarpup": {
       "monsterKey": "Tarpup",
@@ -18262,7 +18046,16 @@
           }
         ]
       },
-      "contributors": []
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "kei",
+          "credit": "Original Sprite"
+        }
+      ]
     },
     "Psyteor": {
       "monsterKey": "Psyteor",
@@ -23590,7 +23383,7 @@
       "name": "Meadow",
       "description": "",
       "monsters": [
-        "leonSoul",
+        "LeonSol",
         "Delichick",
         "Jaylet",
         "Dreed",
@@ -23637,11 +23430,7 @@
         "Rocksnek",
         "Tweesher",
         "Blazu",
-        "Kelpup",
-        "Nudaflott",
-        "NudoFlott",
-        "NudoFlott",
-        "Nudaflott"
+        "Kelpup"
       ]
     },
     "Cold Cave": {
@@ -23674,8 +23463,6 @@
         "Shockshrew",
         "Millisting",
         "Seltek",
-        "Nudaflott",
-        "NudoFlott",
         "Bigfin",
         "Sharpfin"
       ]
@@ -23689,8 +23476,6 @@
         "Doctsy",
         "Uneye",
         "Snock",
-        "Nudaflott",
-        "NudoFlott",
         "Goldscale"
       ]
     },
@@ -23700,8 +23485,6 @@
       "description": "",
       "monsters": [
         "Goldscale",
-        "NudoFlott",
-        "Nudaflott",
         "Divurf",
         "Bumbulus",
         "BloatFish"
@@ -23713,8 +23496,6 @@
       "description": "",
       "monsters": [
         "Goldscale",
-        "NudoFlott",
-        "Nudaflott",
         "Bumbulus"
       ]
     },
@@ -23838,6 +23619,13 @@
     }
   },
   "contributors": {
+    "Aviculor": {
+      "contributorKey": "Aviculor",
+      "contributorName": "Aviculor",
+      "contributorDescription": "Tuxemon Contributor",
+      "contributorLink": "",
+      "associatedMonsters": []
+    },
     "catchChallenger": {
       "contributorKey": "catchChallenger",
       "contributorName": "Catch Challenger",
@@ -23880,11 +23668,32 @@
       "contributorLink": "",
       "associatedMonsters": []
     },
+    "Extyrannomon": {
+      "contributorKey": "Extyrannomon",
+      "contributorName": "Extyrannomon",
+      "contributorDescription": "Tuxemon Contributor",
+      "contributorLink": "",
+      "associatedMonsters": []
+    },
     "Fauxlens": {
       "contributorKey": "Fauxlens",
       "contributorName": "Fauxlens",
       "contributorDescription": "Tuxemon Contributor",
       "contributorLink": "",
+      "associatedMonsters": []
+    },
+    "FreshReplicant": {
+      "contributorKey": "FreshReplicant",
+      "contributorName": "FreshReplicant",
+      "contributorDescription": "Tuxemon Contributor",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "HippasusTwo": {
+      "contributorKey": "HippasusTwo",
+      "contributorName": "HippasusTwo",
+      "contributorDescription": "Tuxemon Contributor",
+      "contributorLink": "\"\"",
       "associatedMonsters": []
     },
     "Infinipede": {
@@ -23898,6 +23707,20 @@
       "contributorKey": "InvoluntaryTwitch",
       "contributorName": "Involuntary Twitch",
       "contributorDescription": "",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "slickedBackArtisan": {
+      "contributorKey": "slickedBackArtisan",
+      "contributorName": "slickedBackArtisan",
+      "contributorDescription": "Tuxemon Contributor",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "JustinNuggets": {
+      "contributorKey": "JustinNuggets",
+      "contributorName": "JustinNuggets",
+      "contributorDescription": "Tuxemon Contributor",
       "contributorLink": "\"\"",
       "associatedMonsters": []
     },
@@ -23957,11 +23780,25 @@
       "contributorLink": "https://x.com/onigin_pixelart",
       "associatedMonsters": []
     },
+    "PiaCarrot": {
+      "contributorKey": "PiaCarrot",
+      "contributorName": "PiaCarrot",
+      "contributorDescription": "Tuxemon Contributor: https://www.deviantart.com/piacarrot",
+      "contributorLink": "https://www.deviantart.com/piacarrot",
+      "associatedMonsters": []
+    },
     "PrincessPhoenix": {
       "contributorKey": "PrincessPhoenix",
       "contributorName": "Princess Phoenix",
       "contributorDescription": "Sprite Artist. She has released many of her fakemon designs/sprites as Creative Commons Licensed Assets.",
       "contributorLink": "https://www.deviantart.com/princess-phoenix",
+      "associatedMonsters": []
+    },
+    "ProfessorGreen": {
+      "contributorKey": "ProfessorGreen",
+      "contributorName": "ProfessorGreen",
+      "contributorDescription": "Tuxemon Contributor",
+      "contributorLink": "\"\"",
       "associatedMonsters": []
     },
     "rezatri": {
@@ -24024,6 +23861,13 @@
       "contributorKey": "Tuxemon",
       "contributorName": "Tuxemon",
       "contributorDescription": "",
+      "contributorLink": "\"\"",
+      "associatedMonsters": []
+    },
+    "WaterTrainer": {
+      "contributorKey": "WaterTrainer",
+      "contributorName": "WaterTrainer",
+      "contributorDescription": "Tuxemon Contributor",
       "contributorLink": "\"\"",
       "associatedMonsters": []
     }
