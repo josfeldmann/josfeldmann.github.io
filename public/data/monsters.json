@@ -6,7 +6,7 @@
       "monsterID": 0,
       "monsterType": [
         "Leaf",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 84.0,
@@ -35,11 +35,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -120,7 +120,7 @@
       "monsterID": 1,
       "monsterType": [
         "Leaf",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 114.285713,
@@ -150,11 +150,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -235,7 +235,7 @@
       "monsterID": 2,
       "monsterType": [
         "Leaf",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 137.142853,
@@ -265,11 +265,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -380,23 +380,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -491,23 +495,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -602,23 +610,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -683,7 +695,7 @@
       "monsterID": 6,
       "monsterType": [
         "Ice",
-        "Earth"
+        "Rock"
       ],
       "baseStats": {
         "HP": 66.0,
@@ -713,23 +725,35 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Bug"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
         },
         {
           "resistance": 2.0,
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ice"
         },
         {
           "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 4.0,
           "type": "Steel"
         },
         {
@@ -791,7 +815,7 @@
       "monsterID": 7,
       "monsterType": [
         "Ice",
-        "Earth"
+        "Rock"
       ],
       "baseStats": {
         "HP": 66.0,
@@ -821,23 +845,35 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Bug"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
         },
         {
           "resistance": 2.0,
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ice"
         },
         {
           "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 4.0,
           "type": "Steel"
         },
         {
@@ -899,7 +935,7 @@
       "monsterID": 8,
       "monsterType": [
         "Ice",
-        "Earth"
+        "Rock"
       ],
       "baseStats": {
         "HP": 66.0,
@@ -929,23 +965,35 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Bug"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
         },
         {
           "resistance": 2.0,
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ice"
         },
         {
           "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 4.0,
           "type": "Steel"
         },
         {
@@ -1033,23 +1081,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "Its soft songs drift through thickets at dawn, drawing insects from hiding and keeping small flocks close together.",
@@ -1132,23 +1184,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "Its developing voice can bend into sharp cries, causing small prey to stumble while it closes in from above.",
@@ -1231,23 +1287,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "A sudden cry from its territory can scatter whole flocks, leaving predators dazed and prey unable to flee straight.",
@@ -1327,15 +1387,11 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -1348,6 +1404,14 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -1435,15 +1499,11 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -1456,6 +1516,14 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -1543,15 +1611,11 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -1564,6 +1628,14 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -1627,7 +1699,7 @@
       "monsterName": "Rockitten",
       "monsterID": 15,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Beast"
       ],
       "baseStats": {
@@ -1651,11 +1723,11 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Bug"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Combat"
         },
         {
@@ -1663,16 +1735,20 @@
           "type": "Fire"
         },
         {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
           "resistance": 2.0,
           "type": "Leaf"
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
+          "type": "Ground"
         },
         {
-          "resistance": 0.5,
-          "type": "Poison"
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -1736,7 +1812,7 @@
       "monsterName": "Boulynx",
       "monsterID": 16,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Beast"
       ],
       "baseStats": {
@@ -1760,11 +1836,11 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Bug"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Combat"
         },
         {
@@ -1772,16 +1848,20 @@
           "type": "Fire"
         },
         {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
           "resistance": 2.0,
           "type": "Leaf"
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
+          "type": "Ground"
         },
         {
-          "resistance": 0.5,
-          "type": "Poison"
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -1841,7 +1921,7 @@
       "monsterName": "Rockat",
       "monsterID": 17,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Beast"
       ],
       "baseStats": {
@@ -1865,11 +1945,11 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Bug"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Combat"
         },
         {
@@ -1877,16 +1957,20 @@
           "type": "Fire"
         },
         {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
           "resistance": 2.0,
           "type": "Leaf"
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
+          "type": "Ground"
         },
         {
-          "resistance": 0.5,
-          "type": "Poison"
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -1972,15 +2056,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 4.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -1989,6 +2069,14 @@
         {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -2078,15 +2166,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 4.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -2095,6 +2179,14 @@
         {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -2184,15 +2276,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 4.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -2201,6 +2289,14 @@
         {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -2290,15 +2386,11 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -2311,6 +2403,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -2404,15 +2500,11 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -2425,6 +2517,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -2518,15 +2614,11 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -2539,6 +2631,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -2634,15 +2730,11 @@
       "resistances": [
         {
           "resistance": 4.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -2659,6 +2751,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -2766,15 +2862,11 @@
       "resistances": [
         {
           "resistance": 4.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -2791,6 +2883,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -2898,15 +2994,11 @@
       "resistances": [
         {
           "resistance": 4.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -2923,6 +3015,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -3002,8 +3098,8 @@
       "monsterName": "Sprigot",
       "monsterID": 27,
       "monsterType": [
-        "Leaf",
-        "Poison"
+        "Poison",
+        "Psy"
       ],
       "baseStats": {
         "HP": 98.58491,
@@ -3030,39 +3126,27 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Fire"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Wind"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
           "type": "Leaf"
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Psy"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
-          "type": "Water"
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Shadow"
         }
       ],
       "shortDescription": "",
@@ -3114,8 +3198,8 @@
       "monsterName": "Wiltvine",
       "monsterID": 28,
       "monsterType": [
-        "Leaf",
-        "Poison"
+        "Poison",
+        "Psy"
       ],
       "baseStats": {
         "HP": 134.43396,
@@ -3142,39 +3226,27 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Fire"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Wind"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
           "type": "Leaf"
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Psy"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
-          "type": "Water"
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Shadow"
         }
       ],
       "shortDescription": "",
@@ -3226,8 +3298,8 @@
       "monsterName": "Hemlurk",
       "monsterID": 29,
       "monsterType": [
-        "Leaf",
-        "Poison"
+        "Poison",
+        "Psy"
       ],
       "baseStats": {
         "HP": 164.05307,
@@ -3254,39 +3326,27 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Fire"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Wind"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
           "type": "Leaf"
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Psy"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
-          "type": "Water"
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Shadow"
         }
       ],
       "shortDescription": "",
@@ -3338,7 +3398,7 @@
       "monsterName": "Rocksnek",
       "monsterID": 30,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Fire"
       ],
       "baseStats": {
@@ -3361,16 +3421,12 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.5,
-          "type": "Insect"
+          "resistance": 0.25,
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
+          "type": "Combat"
         },
         {
           "resistance": 0.25,
@@ -3378,11 +3434,19 @@
         },
         {
           "resistance": 0.5,
-          "type": "Poison"
+          "type": "Wind"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
-          "type": "Steel"
+          "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 4.0,
@@ -3431,7 +3495,7 @@
       "monsterName": "Rockobra",
       "monsterID": 31,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Fire"
       ],
       "baseStats": {
@@ -3454,16 +3518,12 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.5,
-          "type": "Insect"
+          "resistance": 0.25,
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
+          "type": "Combat"
         },
         {
           "resistance": 0.25,
@@ -3471,11 +3531,19 @@
         },
         {
           "resistance": 0.5,
-          "type": "Poison"
+          "type": "Wind"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
-          "type": "Steel"
+          "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 4.0,
@@ -3550,15 +3618,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -3575,6 +3639,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -3657,15 +3725,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -3682,6 +3746,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -3738,7 +3806,7 @@
       "monsterName": "Larvug",
       "monsterID": 34,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Poison"
       ],
       "baseStats": {
@@ -3761,10 +3829,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.25,
           "type": "Combat"
         },
@@ -3781,8 +3845,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "A tireless leaf-eater that spins fine silk. Humans have begun capturing many of them to raise on farms.",
@@ -3828,7 +3900,7 @@
       "monsterID": 35,
       "monsterType": [
         "Wind",
-        "Insect"
+        "Bug"
       ],
       "baseStats": {
         "HP": 141.897812,
@@ -3851,15 +3923,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -3878,12 +3946,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "A Large wide-ranging winged insect that rarely lands, crossing forests and fields in search of steady food.",
@@ -3928,7 +4004,7 @@
       "monsterName": "Ardy",
       "monsterID": 36,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Beast"
       ],
       "baseStats": {
@@ -3959,7 +4035,7 @@
       "resistances": [
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -3980,6 +4056,10 @@
         {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -4032,7 +4112,7 @@
       "monsterName": "Aard",
       "monsterID": 37,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Beast"
       ],
       "baseStats": {
@@ -4063,7 +4143,7 @@
       "resistances": [
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -4084,6 +4164,10 @@
         {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -4136,7 +4220,7 @@
       "monsterName": "Grubane",
       "monsterID": 38,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Shadow"
       ],
       "baseStats": {
@@ -4160,11 +4244,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -4181,6 +4261,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -4232,7 +4316,7 @@
       "monsterName": "Veiloon",
       "monsterID": 39,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Shadow"
       ],
       "baseStats": {
@@ -4256,11 +4340,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -4277,6 +4357,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -4328,7 +4412,7 @@
       "monsterName": "Silkshade",
       "monsterID": 40,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Shadow"
       ],
       "baseStats": {
@@ -4352,11 +4436,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -4373,6 +4453,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -4424,7 +4508,7 @@
       "monsterName": "Dreadrone",
       "monsterID": 41,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Shadow"
       ],
       "baseStats": {
@@ -4448,11 +4532,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -4469,6 +4549,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -4547,10 +4631,6 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Combat"
         },
         {
@@ -4562,12 +4642,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -4647,10 +4735,6 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Combat"
         },
         {
@@ -4662,12 +4746,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -4747,12 +4839,8 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -4765,6 +4853,10 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -4863,12 +4955,8 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -4881,6 +4969,10 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -4979,12 +5071,8 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -4997,6 +5085,10 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -5092,11 +5184,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -5193,11 +5281,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -5270,7 +5354,7 @@
       "monsterName": "Boltnu",
       "monsterID": 49,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Steel"
       ],
       "baseStats": {
@@ -5294,19 +5378,15 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
         },
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -5321,6 +5401,10 @@
           "type": "Wind"
         },
         {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
@@ -5331,6 +5415,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -5379,7 +5467,7 @@
       "monsterName": "Zagon",
       "monsterID": 50,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Steel"
       ],
       "baseStats": {
@@ -5403,19 +5491,15 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
         },
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -5430,6 +5514,10 @@
           "type": "Wind"
         },
         {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
@@ -5440,6 +5528,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -5512,7 +5604,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -5520,11 +5612,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -5545,6 +5633,10 @@
         {
           "resistance": 4.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -5628,7 +5720,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -5636,11 +5728,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -5661,6 +5749,10 @@
         {
           "resistance": 4.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -5744,7 +5836,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -5752,11 +5844,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -5777,6 +5865,10 @@
         {
           "resistance": 4.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -5840,7 +5932,7 @@
       "monsterName": "Metesaur",
       "monsterID": 54,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Wind"
       ],
       "baseStats": {
@@ -5863,32 +5955,36 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.5,
-          "type": "Insect"
+          "resistance": 0.25,
+          "type": "Bug"
         },
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
+          "resistance": 2.0,
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
           "type": "Fire"
         },
         {
-          "resistance": 4.0,
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
           "type": "Ice"
         },
         {
-          "resistance": 0.5,
-          "type": "Poison"
+          "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -5937,7 +6033,7 @@
       "monsterName": "Meteodactly",
       "monsterID": 55,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Wind"
       ],
       "baseStats": {
@@ -5960,32 +6056,36 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.5,
-          "type": "Insect"
+          "resistance": 0.25,
+          "type": "Bug"
         },
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
+          "resistance": 2.0,
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
           "type": "Fire"
         },
         {
-          "resistance": 4.0,
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
           "type": "Ice"
         },
         {
-          "resistance": 0.5,
-          "type": "Poison"
+          "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -6057,7 +6157,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -6065,7 +6165,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -6161,7 +6261,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -6169,7 +6269,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -6242,8 +6342,8 @@
       "monsterName": "Seltek",
       "monsterID": 58,
       "monsterType": [
-        "Earth",
-        "Insect"
+        "Rock",
+        "Bug"
       ],
       "baseStats": {
         "HP": 113.14286,
@@ -6265,32 +6365,24 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
           "resistance": 0.5,
-          "type": "Combat"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -6343,8 +6435,8 @@
       "monsterName": "Selmatek",
       "monsterID": 59,
       "monsterType": [
-        "Earth",
-        "Insect"
+        "Rock",
+        "Bug"
       ],
       "baseStats": {
         "HP": 185.142853,
@@ -6366,32 +6458,24 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
           "resistance": 0.5,
-          "type": "Combat"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -6468,19 +6552,15 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -6492,7 +6572,15 @@
         },
         {
           "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -6584,19 +6672,15 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -6608,7 +6692,15 @@
         },
         {
           "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -6700,19 +6792,15 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -6724,7 +6812,15 @@
         },
         {
           "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -6792,7 +6888,7 @@
       "monsterName": "Mewnuk",
       "monsterID": 63,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Poison"
       ],
       "baseStats": {
@@ -6814,12 +6910,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -6828,6 +6920,10 @@
         {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -6840,6 +6936,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -6887,8 +6987,8 @@
       "monsterName": "Miaownolith",
       "monsterID": 64,
       "monsterType": [
-        "Earth",
-        "Shadow"
+        "Ground",
+        "Rock"
       ],
       "baseStats": {
         "HP": 174.0,
@@ -6909,24 +7009,32 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Insect"
+          "resistance": 0.5,
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
           "type": "Combat"
         },
         {
-          "resistance": 0.5,
+          "resistance": 0.25,
           "type": "Fire"
         },
         {
-          "resistance": 2.0,
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 4.0,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -6937,15 +7045,15 @@
           "type": "Poison"
         },
         {
-          "resistance": 0.0,
-          "type": "Psy"
-        },
-        {
           "resistance": 0.5,
-          "type": "Shadow"
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
+          "type": "Steel"
+        },
+        {
+          "resistance": 4.0,
           "type": "Water"
         }
       ],
@@ -6990,7 +7098,7 @@
       "monsterName": "Pyraminx",
       "monsterID": 65,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Ice"
       ],
       "baseStats": {
@@ -7013,7 +7121,7 @@
       "resistances": [
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -7077,7 +7185,7 @@
       "monsterName": "Pyrominx",
       "monsterID": 66,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Fire"
       ],
       "baseStats": {
@@ -7100,19 +7208,19 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -7192,15 +7300,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Wind"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -7273,15 +7381,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Wind"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -7330,7 +7438,7 @@
       "monsterName": "Grintot",
       "monsterID": 69,
       "monsterType": [
-        "Earth"
+        "Rock"
       ],
       "baseStats": {
         "HP": 93.4380951,
@@ -7352,12 +7460,20 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
         },
         {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
         },
         {
           "resistance": 2.0,
@@ -7365,11 +7481,11 @@
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
+          "type": "Ground"
         },
         {
-          "resistance": 0.5,
-          "type": "Poison"
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -7420,7 +7536,7 @@
       "monsterName": "Grinflare",
       "monsterID": 70,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Fire"
       ],
       "baseStats": {
@@ -7443,16 +7559,12 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.5,
-          "type": "Insect"
+          "resistance": 0.25,
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
+          "type": "Combat"
         },
         {
           "resistance": 0.25,
@@ -7460,11 +7572,19 @@
         },
         {
           "resistance": 0.5,
-          "type": "Poison"
+          "type": "Wind"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
-          "type": "Steel"
+          "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 4.0,
@@ -7515,8 +7635,8 @@
       "monsterName": "Grinshock",
       "monsterID": 71,
       "monsterType": [
-        "Earth",
-        "Elec"
+        "Rock",
+        "Electric"
       ],
       "baseStats": {
         "HP": 187.136948,
@@ -7538,19 +7658,23 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
+          "resistance": 0.5,
+          "type": "Bug"
         },
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
         },
         {
           "resistance": 0.5,
           "type": "Fire"
         },
         {
-          "resistance": 0.5,
+          "resistance": 0.25,
           "type": "Wind"
         },
         {
@@ -7558,16 +7682,8 @@
           "type": "Leaf"
         },
         {
-          "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
+          "resistance": 4.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -7618,7 +7734,7 @@
       "monsterName": "Pondive",
       "monsterID": 72,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Water"
       ],
       "baseStats": {
@@ -7644,11 +7760,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -7665,6 +7777,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -7717,7 +7833,7 @@
       "monsterName": "Divurf",
       "monsterID": 73,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Water"
       ],
       "baseStats": {
@@ -7743,11 +7859,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -7764,6 +7876,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -7839,7 +7955,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -7919,7 +8035,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -8000,19 +8116,15 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
         },
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -8025,6 +8137,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -8105,19 +8221,15 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
         },
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -8130,6 +8242,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -8187,7 +8303,7 @@
       "monsterID": 81,
       "monsterType": [
         "Wind",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 111.0,
@@ -8210,11 +8326,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -8229,8 +8341,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -8280,7 +8400,7 @@
       "monsterID": 82,
       "monsterType": [
         "Wind",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 164.0,
@@ -8303,11 +8423,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -8322,8 +8438,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -8396,7 +8520,7 @@
       "resistances": [
         {
           "resistance": 4.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
@@ -8469,7 +8593,7 @@
       "resistances": [
         {
           "resistance": 4.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
@@ -8542,7 +8666,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -8555,6 +8679,10 @@
         {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -8627,7 +8755,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -8640,6 +8768,10 @@
         {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -8688,7 +8820,7 @@
       "monsterName": "Millil",
       "monsterID": 87,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Poison"
       ],
       "baseStats": {
@@ -8711,10 +8843,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.25,
           "type": "Combat"
         },
@@ -8731,8 +8859,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -8777,7 +8913,7 @@
       "monsterName": "Millisting",
       "monsterID": 88,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Poison"
       ],
       "baseStats": {
@@ -8800,10 +8936,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.25,
           "type": "Combat"
         },
@@ -8820,8 +8952,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -8890,15 +9030,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Wind"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -8987,15 +9127,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Wind"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -9084,7 +9224,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 4.0,
@@ -9101,6 +9241,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -9185,7 +9329,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -9198,6 +9342,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -9282,7 +9430,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -9295,6 +9443,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -9379,7 +9531,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 4.0,
@@ -9396,6 +9548,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -9480,7 +9636,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 4.0,
@@ -9497,6 +9653,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -9580,15 +9740,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -9668,15 +9828,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -9733,7 +9893,7 @@
       "monsterName": "Polyrock",
       "monsterID": 102,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Combat"
       ],
       "baseStats": {
@@ -9756,16 +9916,12 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.5,
-          "type": "Insect"
+          "resistance": 0.25,
+          "type": "Bug"
         },
         {
-          "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 2.0,
+          "type": "Combat"
         },
         {
           "resistance": 0.5,
@@ -9773,19 +9929,11 @@
         },
         {
           "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
-          "resistance": 2.0,
           "type": "Leaf"
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -9793,7 +9941,15 @@
         },
         {
           "resistance": 0.5,
+          "type": "Rock"
+        },
+        {
+          "resistance": 0.5,
           "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -9854,15 +10010,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -9871,6 +10023,14 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -9958,15 +10118,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -9975,6 +10131,14 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -10062,15 +10226,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -10079,6 +10239,14 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -10146,8 +10314,8 @@
       "monsterName": "Stonifly",
       "monsterID": 106,
       "monsterType": [
-        "Earth",
-        "Insect"
+        "Rock",
+        "Bug"
       ],
       "baseStats": {
         "HP": 65.0,
@@ -10169,32 +10337,24 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
           "resistance": 0.5,
-          "type": "Combat"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -10254,8 +10414,8 @@
       "monsterName": "Cocrune",
       "monsterID": 107,
       "monsterType": [
-        "Earth",
-        "Insect"
+        "Rock",
+        "Bug"
       ],
       "baseStats": {
         "HP": 132.0,
@@ -10277,32 +10437,24 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
           "resistance": 0.5,
-          "type": "Combat"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -10362,8 +10514,8 @@
       "monsterName": "Runesquito",
       "monsterID": 108,
       "monsterType": [
-        "Earth",
-        "Insect"
+        "Rock",
+        "Bug"
       ],
       "baseStats": {
         "HP": 148.0,
@@ -10385,32 +10537,24 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
           "resistance": 0.5,
-          "type": "Combat"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -10493,12 +10637,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.25,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -10513,6 +10653,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.5,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
         },
@@ -10523,6 +10667,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -10598,12 +10746,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.25,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -10618,6 +10762,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.5,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
         },
@@ -10628,6 +10776,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -10703,7 +10855,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -10787,10 +10939,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Combat"
         },
@@ -10803,12 +10951,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -10870,7 +11026,7 @@
       "monsterID": 113,
       "monsterType": [
         "Leaf",
-        "Earth"
+        "Rock"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -10892,24 +11048,24 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
-          "type": "Wind"
+          "type": "Combat"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         }
       ],
       "shortDescription": "",
@@ -10955,7 +11111,7 @@
       "monsterID": 114,
       "monsterType": [
         "Leaf",
-        "Earth"
+        "Rock"
       ],
       "baseStats": {
         "HP": 150.0,
@@ -10977,24 +11133,24 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
-          "type": "Wind"
+          "type": "Combat"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         }
       ],
       "shortDescription": "",
@@ -11063,7 +11219,7 @@
       "resistances": [
         {
           "resistance": 4.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
@@ -11136,7 +11292,7 @@
       "resistances": [
         {
           "resistance": 4.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
@@ -11185,7 +11341,7 @@
       "monsterName": "Boldersaur",
       "monsterID": 117,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Dino"
       ],
       "baseStats": {
@@ -11208,28 +11364,44 @@
       "evolutions": null,
       "resistances": [
         {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
           "resistance": 2.0,
           "type": "Dino"
         },
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
         },
         {
-          "resistance": 4.0,
-          "type": "Ice"
+          "resistance": 0.5,
+          "type": "Wind"
         },
         {
-          "resistance": 0.5,
-          "type": "Poison"
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         }
       ],
       "shortDescription": "",
@@ -11274,7 +11446,7 @@
       "monsterName": "Fracture",
       "monsterID": 118,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Dino"
       ],
       "baseStats": {
@@ -11297,28 +11469,44 @@
       "evolutions": null,
       "resistances": [
         {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
           "resistance": 2.0,
           "type": "Dino"
         },
         {
-          "resistance": 0.0,
-          "type": "Elec"
+          "resistance": 0.5,
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
         },
         {
-          "resistance": 4.0,
-          "type": "Ice"
+          "resistance": 0.5,
+          "type": "Wind"
         },
         {
-          "resistance": 0.5,
-          "type": "Poison"
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         }
       ],
       "shortDescription": "",
@@ -11363,7 +11551,7 @@
       "monsterName": "Mantite",
       "monsterID": 119,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Steel"
       ],
       "baseStats": {
@@ -11387,15 +11575,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
         },
         {
           "resistance": 4.0,
@@ -11404,6 +11588,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -11464,7 +11652,7 @@
       "monsterName": "Galvascythe",
       "monsterID": 120,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Steel"
       ],
       "baseStats": {
@@ -11488,15 +11676,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
         },
         {
           "resistance": 4.0,
@@ -11505,6 +11689,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -11565,7 +11753,7 @@
       "monsterName": "Mantobo",
       "monsterID": 121,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Ice"
       ],
       "baseStats": {
@@ -11588,10 +11776,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 4.0,
           "type": "Fire"
         },
@@ -11610,6 +11794,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -11662,7 +11850,7 @@
       "monsterName": "Glaciascythe",
       "monsterID": 122,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Ice"
       ],
       "baseStats": {
@@ -11685,10 +11873,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 4.0,
           "type": "Fire"
         },
@@ -11707,6 +11891,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -11783,7 +11971,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -11876,7 +12064,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -11967,10 +12155,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Combat"
         },
@@ -11983,12 +12167,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -12071,10 +12263,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Combat"
         },
@@ -12087,12 +12275,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -12153,7 +12349,7 @@
       "monsterName": "Shockshrew",
       "monsterID": 127,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Poison"
       ],
       "baseStats": {
@@ -12176,12 +12372,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -12194,6 +12386,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -12250,7 +12446,7 @@
       "monsterName": "Shockupine",
       "monsterID": 128,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Poison"
       ],
       "baseStats": {
@@ -12273,12 +12469,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -12291,6 +12483,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -12347,7 +12543,7 @@
       "monsterName": "Cindshrew",
       "monsterID": 129,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Fire"
       ],
       "baseStats": {
@@ -12374,15 +12570,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -12397,8 +12589,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -12455,7 +12655,7 @@
       "monsterName": "Cindipine",
       "monsterID": 130,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Fire"
       ],
       "baseStats": {
@@ -12482,15 +12682,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -12505,8 +12701,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -12587,7 +12791,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -12595,11 +12799,7 @@
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -12614,6 +12814,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
         },
@@ -12624,6 +12828,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -12687,11 +12895,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -12756,8 +12964,8 @@
       "monsterName": "Apeoro",
       "monsterID": 133,
       "monsterType": [
-        "Elec",
-        "Earth"
+        "Electric",
+        "Ground"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -12778,12 +12986,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -12799,11 +13003,19 @@
         },
         {
           "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -12844,7 +13056,7 @@
       "monsterName": "Mauai",
       "monsterID": 134,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Shadow"
       ],
       "baseStats": {
@@ -12866,11 +13078,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -12895,6 +13107,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -12936,7 +13152,7 @@
       "monsterID": 135,
       "monsterType": [
         "Water",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -12958,10 +13174,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Fire"
         },
@@ -12972,6 +13184,10 @@
         {
           "resistance": 2.0,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -13029,7 +13245,7 @@
       "monsterID": 136,
       "monsterType": [
         "Water",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -13051,10 +13267,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Fire"
         },
@@ -13065,6 +13277,10 @@
         {
           "resistance": 2.0,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -13122,7 +13338,7 @@
       "monsterID": 137,
       "monsterType": [
         "Leaf",
-        "Earth"
+        "Ground"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -13144,23 +13360,27 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
           "type": "Wind"
         },
         {
+          "resistance": 0.5,
+          "type": "Ground"
+        },
+        {
           "resistance": 4.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -13206,7 +13426,7 @@
       "monsterID": 138,
       "monsterType": [
         "Leaf",
-        "Earth"
+        "Ground"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -13228,23 +13448,27 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
           "type": "Wind"
         },
         {
+          "resistance": 0.5,
+          "type": "Ground"
+        },
+        {
           "resistance": 4.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -13313,7 +13537,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -13326,6 +13550,10 @@
         {
           "resistance": 2.0,
           "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -13398,23 +13626,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -13502,23 +13734,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -13606,23 +13842,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -13718,7 +13958,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -13743,6 +13983,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -13823,7 +14067,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -13848,6 +14092,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -13924,15 +14172,11 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
         },
         {
           "resistance": 2.0,
@@ -13945,6 +14189,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.25,
@@ -14033,15 +14281,11 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
         },
         {
           "resistance": 2.0,
@@ -14054,6 +14298,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.25,
@@ -14142,7 +14390,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -14150,11 +14398,7 @@
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -14169,6 +14413,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
         },
@@ -14179,6 +14427,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -14255,7 +14507,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -14263,11 +14515,7 @@
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -14282,6 +14530,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
         },
@@ -14292,6 +14544,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -14367,10 +14623,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Combat"
         },
@@ -14387,12 +14639,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 4.0,
           "type": "Ice"
         },
         {
           "resistance": 2.0,
           "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -14464,10 +14724,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Combat"
         },
@@ -14484,12 +14740,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 4.0,
           "type": "Ice"
         },
         {
           "resistance": 2.0,
           "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -14539,7 +14803,7 @@
       "monsterID": 151,
       "monsterType": [
         "Water",
-        "Earth"
+        "Ground"
       ],
       "baseStats": {
         "HP": 129.8,
@@ -14562,7 +14826,7 @@
       "resistances": [
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -14575,6 +14839,10 @@
         {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -14620,7 +14888,7 @@
       "monsterID": 152,
       "monsterType": [
         "Water",
-        "Earth"
+        "Ground"
       ],
       "baseStats": {
         "HP": 173.414627,
@@ -14643,7 +14911,7 @@
       "resistances": [
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -14656,6 +14924,10 @@
         {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -14724,11 +14996,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -14825,11 +15097,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -14930,7 +15202,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -14943,6 +15215,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -15030,7 +15306,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -15043,6 +15319,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -15130,7 +15410,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -15143,6 +15423,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -15238,6 +15522,10 @@
         },
         {
           "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
           "type": "Steel"
         }
       ],
@@ -15319,6 +15607,10 @@
         },
         {
           "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
           "type": "Steel"
         }
       ],
@@ -15388,11 +15680,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -15407,6 +15695,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
@@ -15417,6 +15709,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -15489,11 +15785,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -15508,6 +15800,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
@@ -15518,6 +15814,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -15567,7 +15867,7 @@
       "monsterID": 162,
       "monsterType": [
         "Ice",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -15589,12 +15889,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -15609,8 +15905,16 @@
           "type": "Wind"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -15647,8 +15951,8 @@
       "monsterName": "Buzzolt",
       "monsterID": 163,
       "monsterType": [
-        "Insect",
-        "Elec"
+        "Bug",
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -15670,12 +15974,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -15690,8 +15990,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -15740,8 +16048,8 @@
       "monsterName": "Skeeta",
       "monsterID": 163,
       "monsterType": [
-        "Insect",
-        "Elec"
+        "Bug",
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -15763,12 +16071,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 4.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -15783,8 +16087,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -15833,7 +16145,7 @@
       "monsterName": "Luchapede",
       "monsterID": 164,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Combat"
       ],
       "baseStats": {
@@ -15857,7 +16169,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -15934,15 +16246,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
         },
         {
           "resistance": 2.0,
@@ -15957,6 +16265,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
@@ -15967,6 +16279,10 @@
         {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -16004,7 +16320,7 @@
       "monsterID": 166,
       "monsterType": [
         "Combat",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -16027,15 +16343,23 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -16089,7 +16413,7 @@
       "monsterID": 167,
       "monsterType": [
         "Combat",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -16112,15 +16436,23 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -16197,15 +16529,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -16220,8 +16548,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Beast"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -16263,7 +16599,7 @@
       "monsterID": 169,
       "monsterType": [
         "Combat",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -16286,15 +16622,23 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -16370,10 +16714,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
           "resistance": 2.0,
           "type": "Combat"
         },
@@ -16384,6 +16724,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.25,
@@ -16460,7 +16804,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -16551,15 +16895,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -16580,6 +16920,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -16657,16 +17001,16 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -16675,6 +17019,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -16721,7 +17069,7 @@
       "monsterName": "Brambush",
       "monsterID": 174,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Leaf"
       ],
       "baseStats": {
@@ -16745,11 +17093,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -16768,6 +17116,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.5,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
         },
@@ -16778,6 +17130,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -16984,7 +17340,7 @@
       "monsterName": "Beetwig",
       "monsterID": 177,
       "monsterType": [
-        "Insect"
+        "Bug"
       ],
       "baseStats": {
         "HP": 71.5,
@@ -17006,10 +17362,6 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Combat"
         },
@@ -17028,6 +17380,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -17072,7 +17428,7 @@
       "monsterName": "Stagrove",
       "monsterID": 178,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Wind"
       ],
       "baseStats": {
@@ -17096,15 +17452,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -17123,12 +17475,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -17197,19 +17557,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Dino"
         },
         {
-          "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.25,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -17218,6 +17574,10 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 4.0,
@@ -17302,19 +17662,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Dino"
         },
         {
-          "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.25,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -17323,6 +17679,10 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 4.0,
@@ -17383,7 +17743,7 @@
       "monsterName": "Tarpup",
       "monsterID": 181,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Poison"
       ],
       "baseStats": {
@@ -17406,12 +17766,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -17420,6 +17776,10 @@
         {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -17432,6 +17792,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -17480,7 +17844,7 @@
       "monsterName": "Swampit",
       "monsterID": 181,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Poison"
       ],
       "baseStats": {
@@ -17503,12 +17867,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -17517,6 +17877,10 @@
         {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -17529,6 +17893,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -17577,7 +17945,7 @@
       "monsterName": "Moonlarva",
       "monsterID": 182,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Psy"
       ],
       "baseStats": {
@@ -17601,11 +17969,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
@@ -17626,6 +17990,10 @@
         {
           "resistance": 0.25,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -17674,7 +18042,7 @@
       "monsterName": "Moonarch",
       "monsterID": 183,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Psy"
       ],
       "baseStats": {
@@ -17698,11 +18066,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
@@ -17723,6 +18087,10 @@
         {
           "resistance": 0.25,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -17771,7 +18139,7 @@
       "monsterName": "Mothwick",
       "monsterID": 183,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Fire"
       ],
       "baseStats": {
@@ -17795,11 +18163,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -17814,12 +18178,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -17873,7 +18245,7 @@
       "monsterID": 184,
       "monsterType": [
         "Shadow",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -17896,15 +18268,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -17913,6 +18281,10 @@
         {
           "resistance": 0.5,
           "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.0,
@@ -17966,7 +18338,7 @@
       "monsterID": 185,
       "monsterType": [
         "Shadow",
-        "Elec"
+        "Electric"
       ],
       "baseStats": {
         "HP": 91.0,
@@ -17989,15 +18361,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -18006,6 +18374,10 @@
         {
           "resistance": 0.5,
           "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.0,
@@ -18062,7 +18434,7 @@
       "monsterName": "Psyteor",
       "monsterID": 186,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Psy"
       ],
       "baseStats": {
@@ -18085,20 +18457,12 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
         },
         {
           "resistance": 2.0,
@@ -18106,11 +18470,7 @@
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -18119,6 +18479,10 @@
         {
           "resistance": 2.0,
           "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -18158,7 +18522,7 @@
       "monsterName": "Psytite",
       "monsterID": 187,
       "monsterType": [
-        "Earth",
+        "Rock",
         "Psy"
       ],
       "baseStats": {
@@ -18181,20 +18545,12 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Elec"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
           "resistance": 0.5,
           "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
         },
         {
           "resistance": 2.0,
@@ -18202,11 +18558,7 @@
         },
         {
           "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -18215,6 +18567,10 @@
         {
           "resistance": 2.0,
           "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
         },
         {
           "resistance": 2.0,
@@ -18278,7 +18634,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -18286,7 +18642,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -18367,15 +18723,15 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
           "type": "Combat"
         },
         {
           "resistance": 2.0,
           "type": "Wind"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -18432,7 +18788,7 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -18447,12 +18803,20 @@
           "type": "Fire"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Beast"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -18521,15 +18885,15 @@
         },
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Fire"
         },
         {
           "resistance": 0.5,
           "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -18542,6 +18906,10 @@
         {
           "resistance": 0.25,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -18606,15 +18974,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
           "type": "Dino"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
         },
         {
           "resistance": 0.5,
@@ -18629,12 +18993,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 4.0,
           "type": "Ice"
         },
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -18695,15 +19067,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -18722,8 +19090,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.5,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -18800,15 +19176,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -18827,8 +19199,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.5,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -18905,11 +19285,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -18920,8 +19296,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -18994,11 +19378,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -19009,8 +19389,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.25,
           "type": "Ice"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -19083,15 +19471,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
         },
         {
           "resistance": 4.0,
@@ -19104,6 +19488,10 @@
         {
           "resistance": 0.5,
           "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.25,
@@ -19184,15 +19572,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
         },
         {
           "resistance": 4.0,
@@ -19205,6 +19589,10 @@
         {
           "resistance": 0.5,
           "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.25,
@@ -19284,12 +19672,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -19300,12 +19684,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -19373,12 +19765,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 0.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -19389,12 +19777,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
         },
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -19463,15 +19859,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -19480,6 +19872,10 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -19492,6 +19888,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -19560,15 +19960,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.25,
@@ -19577,6 +19973,10 @@
         {
           "resistance": 0.25,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -19589,6 +19989,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -19657,15 +20061,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Fire"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -19678,6 +20082,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -19750,15 +20158,15 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Fire"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -19771,6 +20179,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -19843,7 +20255,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -19858,12 +20270,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
         {
           "resistance": 4.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -19936,7 +20356,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -19951,12 +20371,20 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Poison"
         },
         {
           "resistance": 4.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -20056,7 +20484,7 @@
       "monsterName": "Shibuzz",
       "monsterID": 208,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Beast"
       ],
       "baseStats": {
@@ -20086,10 +20514,6 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
-          "resistance": 2.0,
           "type": "Fire"
         },
         {
@@ -20103,6 +20527,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -20154,7 +20582,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -20230,11 +20658,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -20249,8 +20673,16 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -20280,7 +20712,7 @@
       "monsterName": "Shibolt",
       "monsterID": 211,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Beast"
       ],
       "baseStats": {
@@ -20309,12 +20741,8 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -20323,6 +20751,10 @@
         {
           "resistance": 0.5,
           "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -20390,6 +20822,10 @@
         },
         {
           "resistance": 2.0,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
           "type": "Steel"
         }
       ],
@@ -20442,11 +20878,7 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
@@ -20459,6 +20891,10 @@
         {
           "resistance": 2.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -20514,7 +20950,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 4.0,
@@ -20578,15 +21014,11 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -20603,6 +21035,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -20670,7 +21106,7 @@
         },
         {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -20746,7 +21182,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -20857,15 +21293,11 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
         },
         {
           "resistance": 4.0,
@@ -20880,6 +21312,10 @@
           "type": "Wind"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
@@ -20890,6 +21326,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -20915,7 +21355,7 @@
       "monsterName": "Shiburrow",
       "monsterID": 221,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Beast"
       ],
       "baseStats": {
@@ -20945,7 +21385,7 @@
       "resistances": [
         {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -20966,6 +21406,10 @@
         {
           "resistance": 0.5,
           "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 2.0,
@@ -21020,12 +21464,12 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -21085,23 +21529,27 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 2.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
           "type": "Leaf"
         },
         {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         }
       ],
       "shortDescription": "",
@@ -21123,7 +21571,7 @@
       "monsterName": "Tankalf",
       "monsterID": 224,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Steel"
       ],
       "baseStats": {
@@ -21147,19 +21595,15 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -21174,6 +21618,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Beast"
         },
@@ -21184,6 +21632,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -21236,7 +21688,7 @@
       "monsterName": "Bombarge",
       "monsterID": 225,
       "monsterType": [
-        "Earth",
+        "Ground",
         "Steel"
       ],
       "baseStats": {
@@ -21260,19 +21712,15 @@
       "resistances": [
         {
           "resistance": 0.5,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.0,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -21287,6 +21735,10 @@
           "type": "Leaf"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Beast"
         },
@@ -21297,6 +21749,10 @@
         {
           "resistance": 0.5,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -21349,7 +21805,7 @@
       "monsterName": "Stego",
       "monsterID": 226,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Dino"
       ],
       "baseStats": {
@@ -21376,12 +21832,8 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.25,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -21394,6 +21846,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -21454,7 +21910,7 @@
       "monsterName": "Nimbusaur",
       "monsterID": 227,
       "monsterType": [
-        "Elec",
+        "Electric",
         "Dino"
       ],
       "baseStats": {
@@ -21481,12 +21937,8 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.25,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -21499,6 +21951,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -21559,7 +22015,7 @@
       "monsterName": "Fuzzfly",
       "monsterID": 228,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Dino"
       ],
       "baseStats": {
@@ -21586,12 +22042,8 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -21608,6 +22060,10 @@
         {
           "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -21656,7 +22112,7 @@
       "monsterName": "Flutterwing",
       "monsterID": 229,
       "monsterType": [
-        "Insect",
+        "Bug",
         "Dino"
       ],
       "baseStats": {
@@ -21683,12 +22139,8 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 0.5,
@@ -21705,6 +22157,10 @@
         {
           "resistance": 2.0,
           "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -21780,10 +22236,6 @@
           "type": "Dino"
         },
         {
-          "resistance": 2.0,
-          "type": "Earth"
-        },
-        {
           "resistance": 4.0,
           "type": "Combat"
         },
@@ -21796,6 +22248,10 @@
           "type": "Wind"
         },
         {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
           "resistance": 0.5,
           "type": "Ice"
         },
@@ -21806,6 +22262,10 @@
         {
           "resistance": 0.0,
           "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
         },
         {
           "resistance": 0.5,
@@ -21870,7 +22330,7 @@
       "resistances": [
         {
           "resistance": 0.25,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
@@ -21883,6 +22343,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -21959,15 +22423,11 @@
       "resistances": [
         {
           "resistance": 4.0,
-          "type": "Insect"
+          "type": "Bug"
         },
         {
           "resistance": 0.5,
-          "type": "Earth"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Elec"
+          "type": "Electric"
         },
         {
           "resistance": 2.0,
@@ -21984,6 +22444,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
@@ -22060,11 +22524,7 @@
       "resistances": [
         {
           "resistance": 2.0,
-          "type": "Insect"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Earth"
+          "type": "Bug"
         },
         {
           "resistance": 0.25,
@@ -22073,6 +22533,10 @@
         {
           "resistance": 0.5,
           "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
         },
         {
           "resistance": 0.5,
@@ -22259,7 +22723,7 @@
   "moves": {
     "GroundSlam": {
       "key": "GroundSlam",
-      "type": "Earth",
+      "type": "Ground",
       "name": "GroundSlam",
       "description": "Lowers Enemy Speed by -20%",
       "power": 60,
@@ -22270,7 +22734,7 @@
     },
     "RockRoll": {
       "key": "RockRoll",
-      "type": "Earth",
+      "type": "Ground",
       "name": "RockRoll",
       "description": "",
       "power": 20,
@@ -22281,7 +22745,7 @@
     },
     "SandRush": {
       "key": "SandRush",
-      "type": "Earth",
+      "type": "Ground",
       "name": "SandRush",
       "description": "",
       "power": 40,
@@ -22292,7 +22756,7 @@
     },
     "Sandstorm": {
       "key": "Sandstorm",
-      "type": "Earth",
+      "type": "Ground",
       "name": "Sandstorm",
       "description": "CUSTOM DESCRIPTION",
       "power": 0,
@@ -22303,7 +22767,7 @@
     },
     "Nuzzle": {
       "key": "Nuzzle",
-      "type": "Elec",
+      "type": "Electric",
       "name": "Nuzzle",
       "description": "CUSTOM DESCRIPTION",
       "power": 50,
@@ -22314,7 +22778,7 @@
     },
     "shockBlast": {
       "key": "shockBlast",
-      "type": "Elec",
+      "type": "Electric",
       "name": "shockBlast",
       "description": "CUSTOM DESCRIPTION",
       "power": 80,
@@ -22323,7 +22787,7 @@
     },
     "shockSlam": {
       "key": "shockSlam",
-      "type": "Elec",
+      "type": "Electric",
       "name": "shockSlam",
       "description": "CUSTOM DESCRIPTION",
       "power": 80,
@@ -22334,7 +22798,7 @@
     },
     "stormStrikes": {
       "key": "stormStrikes",
-      "type": "Elec",
+      "type": "Electric",
       "name": "stormStrikes",
       "description": "CUSTOM DESCRIPTIONCUSTOM DESCRIPTION",
       "power": 30,
@@ -22345,7 +22809,7 @@
     },
     "ThunderWave": {
       "key": "ThunderWave",
-      "type": "Elec",
+      "type": "Electric",
       "name": "ThunderWave",
       "description": "CUSTOM DESCRIPTION",
       "power": 80,
@@ -22354,7 +22818,7 @@
     },
     "voltSwap": {
       "key": "voltSwap",
-      "type": "Elec",
+      "type": "Electric",
       "name": "voltSwap",
       "description": "CUSTOM DESCRIPTIONCUSTOM DESCRIPTION",
       "power": 50,
@@ -22489,7 +22953,7 @@
     },
     "RockFist": {
       "key": "RockFist",
-      "type": "Earth",
+      "type": "Ground",
       "name": "RockFist",
       "description": "",
       "power": 60,
@@ -22501,7 +22965,7 @@
     },
     "ShockFist": {
       "key": "ShockFist",
-      "type": "Elec",
+      "type": "Electric",
       "name": "ShockFist",
       "description": "",
       "power": 60,
@@ -22537,7 +23001,7 @@
     },
     "StingFist": {
       "key": "StingFist",
-      "type": "Insect",
+      "type": "Bug",
       "name": "StingFist",
       "description": "",
       "power": 40,
@@ -22596,7 +23060,7 @@
     },
     "BugCut": {
       "key": "BugCut",
-      "type": "Insect",
+      "type": "Bug",
       "name": "BugCut",
       "description": "",
       "power": 40,
@@ -22695,7 +23159,7 @@
     },
     "StalactiteSpear": {
       "key": "StalactiteSpear",
-      "type": "Earth",
+      "type": "Ground",
       "name": "StalactiteSpear",
       "description": "",
       "power": 40,
@@ -22706,7 +23170,7 @@
     },
     "VoltRush": {
       "key": "VoltRush",
-      "type": "Elec",
+      "type": "Electric",
       "name": "VoltRush",
       "description": "",
       "power": 40,
@@ -22791,7 +23255,7 @@
     },
     "PebblePulse": {
       "key": "PebblePulse",
-      "type": "Earth",
+      "type": "Ground",
       "name": "PebblePulse",
       "description": "",
       "power": 40,
@@ -22827,7 +23291,7 @@
     },
     "ShockSting": {
       "key": "ShockSting",
-      "type": "Elec",
+      "type": "Electric",
       "name": "ShockSting",
       "description": "",
       "power": 40,
@@ -22845,7 +23309,7 @@
     },
     "StingSpray": {
       "key": "StingSpray",
-      "type": "Insect",
+      "type": "Bug",
       "name": "StingSpray",
       "description": "",
       "power": 40,
@@ -23178,9 +23642,9 @@
     }
   },
   "types": {
-    "Insect": {
-      "key": "Insect",
-      "name": "Insect",
+    "Bug": {
+      "key": "Bug",
+      "name": "Bug",
       "color": "ADBD21",
       "description": ""
     },
@@ -23190,15 +23654,9 @@
       "color": "7B63E7",
       "description": ""
     },
-    "Earth": {
-      "key": "Earth",
-      "name": "Earth",
-      "color": "BA6C2D",
-      "description": ""
-    },
-    "Elec": {
-      "key": "Elec",
-      "name": "Elec",
+    "Electric": {
+      "key": "Electric",
+      "name": "Electric",
       "color": "FFFF6C",
       "description": ""
     },
@@ -23226,6 +23684,12 @@
       "color": "7BCE52",
       "description": ""
     },
+    "Ground": {
+      "key": "Ground",
+      "name": "Ground",
+      "color": "9E8951",
+      "description": ""
+    },
     "Ice": {
       "key": "Ice",
       "name": "Ice",
@@ -23248,6 +23712,12 @@
       "key": "Psy",
       "name": "Psy",
       "color": "D95AFF",
+      "description": ""
+    },
+    "Rock": {
+      "key": "Rock",
+      "name": "Rock",
+      "color": "BA6C2D",
       "description": ""
     },
     "Shadow": {

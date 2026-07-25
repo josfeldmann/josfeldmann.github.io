@@ -17,6 +17,7 @@ export default function MonstersPage() {
   const m = MonsterDatabase.getInstance().getAllMonsters();
   return (
     <div>
+        <h1>Monsters - {m.length}</h1>
         <MonsterGrid monsters={m} imageSize={96}/>
       
     </div>

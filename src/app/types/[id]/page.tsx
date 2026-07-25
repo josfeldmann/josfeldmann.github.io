@@ -45,7 +45,7 @@ export default function MonsterTypePage({ params }: { params: { id: string } }) 
 <div>
       <h1>{type.key}</h1>
       
-      <h2>Monsters With Type</h2>
+      <h2>Monsters With Type - {typemonsters.length}</h2>
 
 
     <MonsterGrid monsters={typemonsters} imageSize={96}  />
