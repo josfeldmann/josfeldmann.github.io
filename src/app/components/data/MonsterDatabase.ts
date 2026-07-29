@@ -247,6 +247,29 @@ export class MonsterDatabase {
   }
 
 
+  getMetaDataKeywords(monster : Monster): string[] {
+    const v : string[] = [monster.monsterName, "Novamon"];
+    if (monster.title.length > 0) v.push(monster.title + " Novamon");
+    
+    return v;
+  }
+
+  
+   getMetaDataDescription(monster : Monster) : string {
+
+    let s = "";
+
+    if (monster.monsterType.length == 1) {
+      s = MonsterDatabase.getInstance().getMonsterType(monster.monsterType[0]).name;
+    } else {
+      
+      s = `${MonsterDatabase.getInstance().getMonsterType(monster.monsterType[0]).name}/${MonsterDatabase.getInstance().getMonsterType(monster.monsterType[1]).name}`;
+    }
+
+    return `${monster.monsterName} - the ${monster.title} Novamon. ${s} type. ${monster.shortDescription}`
+
+  }
+
   //Getters
 
   getAllLocationsWithMonster(id: string): string[] {

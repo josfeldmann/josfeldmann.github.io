@@ -1,6 +1,8 @@
 import { EvolutionGraph } from "./EvolutionGraph";
+import { MonsterDatabase } from "./MonsterDatabase";
 
 export class Monster {
+  
   monsterKey: string;
   monsterName: string;
   monsterID: number;
@@ -24,8 +26,9 @@ export class Monster {
   longDescription: string;
 
   evolutionGraph: EvolutionGraph | null;
-
+  tuxemonLink : string;
   contributors : { contributorKey: string, credit: string  }[];
+  title : string;
 
   constructor(data: {
     monsterKey : string;
@@ -51,8 +54,8 @@ export class Monster {
     longDescription: string;
     evolutionGraph : EvolutionGraph | null;
     contributors : { contributorKey: string, credit: string  }[];
-
-
+    tuxemonLink : string,
+    title: string,
   }) {
     this.monsterKey = data.monsterKey;
     this.monsterName = data.monsterName;
@@ -67,5 +70,10 @@ export class Monster {
     this.longDescription = data.longDescription;
     this.evolutionGraph = data.evolutionGraph;
     this.contributors = data.contributors;
+    this.tuxemonLink = data.tuxemonLink;
+    this.title = data.title;
   }
+
+
+  
 }

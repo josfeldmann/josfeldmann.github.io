@@ -47,7 +47,9 @@ export async function generateMetadata(
   }
 
   return {
-    title: `${monster.monsterName} | Novodex`,
+    title: `${monster.monsterName} | Novamon`,
+    description: MonsterDatabase.getInstance().getMetaDataDescription(monster),
+    keywords : MonsterDatabase.getInstance().getMetaDataKeywords(monster),
   };
 }
 
@@ -95,6 +97,7 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
       <div className="p-2">
         <h1>{monster.monsterName}</h1>
+        <p>{monster.title} Novamon</p>
         <p>
             Types: <SingleLineList items={monster.monsterType} renderItem={(monsterType) => <TypeButton data={db.getMonsterType(monsterType)}/>}></SingleLineList>
         </p>
