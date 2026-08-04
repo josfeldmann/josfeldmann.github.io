@@ -105,16 +105,16 @@
       },
       "contributors": [
         {
-          "contributorKey": "MrFakemans",
-          "credit": "Original Sprite"
-        },
-        {
           "contributorKey": "screensmith",
           "credit": "Design"
+        },
+        {
+          "contributorKey": "MrFakemon",
+          "credit": "Original Sprite"
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Static Llama"
     },
     "Voltcaya": {
       "monsterKey": "Voltcaya",
@@ -231,7 +231,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Static Llama"
     },
     "Voltpaca": {
       "monsterKey": "Voltpaca",
@@ -348,7 +348,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Static Llama"
     },
     "Ignilob": {
       "monsterKey": "Ignilob",
@@ -465,7 +465,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Steam Lobster"
     },
     "Cindclaw": {
       "monsterKey": "Cindclaw",
@@ -582,7 +582,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Steam Lobster"
     },
     "Cindcannon": {
       "monsterKey": "Cindcannon",
@@ -699,7 +699,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Steam Lobster"
     },
     "Lapiseal": {
       "monsterKey": "Lapiseal",
@@ -821,7 +821,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Rock Seal"
     },
     "Lapisula": {
       "monsterKey": "Lapisula",
@@ -943,7 +943,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Rock Seal"
     },
     "Lapislion": {
       "monsterKey": "Lapislion",
@@ -1065,7 +1065,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Rock Seal"
     },
     "Jaylet": {
       "monsterKey": "Jaylet",
@@ -1170,7 +1170,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Blue Jay"
     },
     "Jinxlet": {
       "monsterKey": "Jinxlet",
@@ -1275,7 +1275,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Blue Jay"
     },
     "Cobaltalon": {
       "monsterKey": "Cobaltalon",
@@ -1380,7 +1380,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Blue Jay"
     },
     "Flitbat": {
       "monsterKey": "Flitbat",
@@ -1494,7 +1494,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Flame Bat"
     },
     "Noctiflare": {
       "monsterKey": "Noctiflare",
@@ -1608,7 +1608,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Flame Bat"
     },
     "Volcaroost": {
       "monsterKey": "Volcaroost",
@@ -1722,7 +1722,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Flame Bat"
     },
     "Rockitten": {
       "monsterKey": "Rockitten",
@@ -1832,12 +1832,12 @@
           "credit": "Design"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Rockitten",
-      "title": ""
+      "title": "Rock Kat"
     },
     "Boulynx": {
       "monsterKey": "Boulynx",
@@ -1943,12 +1943,12 @@
           "credit": "Design"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Rockat",
-      "title": ""
+      "title": "Rock Kat"
     },
     "Rockat": {
       "monsterKey": "Rockat",
@@ -2054,12 +2054,12 @@
           "credit": "Design"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Jemuar",
-      "title": ""
+      "title": "Rock Kat"
     },
     "Delichick": {
       "monsterKey": "Delichick",
@@ -2162,16 +2162,20 @@
       },
       "contributors": [
         {
-          "contributorKey": "chairry",
-          "credit": "Sprite Remake"
-        },
-        {
           "contributorKey": "Leo",
           "credit": "Design"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Delichick",
-      "title": ""
+      "title": "Misty Crane"
     },
     "Herotint": {
       "monsterKey": "Herotint",
@@ -2274,16 +2278,20 @@
       },
       "contributors": [
         {
-          "contributorKey": "chairry",
-          "credit": "Sprite Remake"
-        },
-        {
           "contributorKey": "Leo",
           "credit": "Design"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Herotint",
-      "title": ""
+      "title": "Misty Crane"
     },
     "Azuron": {
       "monsterKey": "Azuron",
@@ -2386,16 +2394,20 @@
       },
       "contributors": [
         {
-          "contributorKey": "chairry",
-          "credit": "Sprite Remake"
-        },
-        {
           "contributorKey": "Leo",
           "credit": "Design"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Azuron",
-      "title": ""
+      "title": "Misty Crane"
     },
     "Felichick": {
       "monsterKey": "Felichick",
@@ -2502,12 +2514,16 @@
       },
       "contributors": [
         {
-          "contributorKey": "chairry",
-          "credit": "Sprite Remake"
+          "contributorKey": "Leo",
+          "credit": "Design"
         },
         {
-          "contributorKey": "Leo",
-          "credit": "Part Of"
+          "contributorKey": "Chairry-Art",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Delichick",
@@ -2618,12 +2634,16 @@
       },
       "contributors": [
         {
-          "contributorKey": "chairry",
-          "credit": "Sprite Remake"
+          "contributorKey": "Leo",
+          "credit": "Design"
         },
         {
-          "contributorKey": "Leo",
-          "credit": "Part Of"
+          "contributorKey": "Chairry-Art",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Herotint",
@@ -2734,16 +2754,20 @@
       },
       "contributors": [
         {
-          "contributorKey": "chairry",
-          "credit": "Sprite Remake"
+          "contributorKey": "Leo",
+          "credit": "Design"
         },
         {
-          "contributorKey": "Leo",
-          "credit": "Part Of"
+          "contributorKey": "Chairry-Art",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Sprite Remake"
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Blancron",
-      "title": ""
+      "title": "Fighting Crane"
     },
     "Lambert": {
       "monsterKey": "Lambert",
@@ -2872,7 +2896,7 @@
           "credit": "Original Sprite"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -3006,7 +3030,7 @@
           "credit": "Design"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -3140,7 +3164,7 @@
           "credit": "Original Sprite"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -3242,12 +3266,24 @@
       },
       "contributors": [
         {
+          "contributorKey": "Sanglorian",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Levaine",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Sprite Remake"
+        },
+        {
           "contributorKey": "screensmith",
           "credit": "Recolor"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Lambert",
+      "title": "Corrupted Root"
     },
     "Wiltvine": {
       "monsterKey": "Wiltvine",
@@ -3344,12 +3380,24 @@
       },
       "contributors": [
         {
+          "contributorKey": "Sanglorian",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "DevilDMan",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
+          "credit": "Sprite Remake"
+        },
+        {
           "contributorKey": "screensmith",
           "credit": "Recolor"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Legko",
+      "title": "Corrupted Root"
     },
     "Hemlurk": {
       "monsterKey": "Hemlurk",
@@ -3446,12 +3494,24 @@
       },
       "contributors": [
         {
-          "contributorKey": "screensmith",
+          "contributorKey": "Leo",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Moloch",
+      "title": "Corrupted Root"
     },
     "Rocksnek": {
       "monsterKey": "Rocksnek",
@@ -3961,8 +4021,8 @@
           "credit": "Design"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Merlicun",
+      "title": "Ancient Larva"
     },
     "Firomenis": {
       "monsterKey": "Firomenis",
@@ -4068,8 +4128,8 @@
           "credit": "Design"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Firomenis",
+      "title": "Ancient Moth"
     },
     "Ardy": {
       "monsterKey": "Ardy",
@@ -4288,7 +4348,7 @@
           "credit": "Edits"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Aardorn",
       "title": ""
     },
     "Grubane": {
@@ -4782,11 +4842,23 @@
       },
       "contributors": [
         {
+          "contributorKey": "MagicPurpleHermit",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "MagicPurpleHermit",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Edits"
+        },
+        {
           "contributorKey": "screensmith",
           "credit": "Recolor"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Aardorn",
       "title": ""
     },
     "Chaard": {
@@ -4888,11 +4960,23 @@
       },
       "contributors": [
         {
+          "contributorKey": "MagicPurpleHermit",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "MagicPurpleHermit",
+          "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "Sanglorian",
+          "credit": "Edits"
+        },
+        {
           "contributorKey": "screensmith",
           "credit": "Recolor"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Aardorn",
       "title": ""
     },
     "Dreed": {
@@ -5003,6 +5087,10 @@
       "contributors": [
         {
           "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
           "credit": "Original Sprite"
         },
         {
@@ -5011,7 +5099,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Chloragon",
-      "title": ""
+      "title": "Seed Lizard"
     },
     "Drout": {
       "monsterKey": "Drout",
@@ -5121,6 +5209,10 @@
       "contributors": [
         {
           "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
           "credit": "Original Sprite"
         },
         {
@@ -5129,7 +5221,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Sapragon",
-      "title": ""
+      "title": "Seed Lizard"
     },
     "Dragalia": {
       "monsterKey": "Dragalia",
@@ -5239,6 +5331,10 @@
       "contributors": [
         {
           "contributorKey": "Spalding004",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "Spalding004",
           "credit": "Original Sprite"
         },
         {
@@ -5247,7 +5343,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Dragarbor",
-      "title": ""
+      "title": "Seed Lizard"
     },
     "Chillimp": {
       "monsterKey": "Chillimp",
@@ -5346,7 +5442,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Chillimp",
-      "title": ""
+      "title": "Abominable Snowman"
     },
     "Cheti": {
       "monsterKey": "Cheti",
@@ -5445,7 +5541,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Snowrilla",
-      "title": ""
+      "title": "Abominable Snowman"
     },
     "Boltnu": {
       "monsterKey": "Boltnu",
@@ -5560,7 +5656,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Boltnu",
-      "title": ""
+      "title": "Repair Construct"
     },
     "Zagon": {
       "monsterKey": "Zagon",
@@ -5675,7 +5771,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Exclawvate",
-      "title": ""
+      "title": "Repair Construct"
     },
     "Drashimi": {
       "monsterKey": "Drashimi",
@@ -5792,7 +5888,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Drashimi",
       "title": ""
     },
     "Drushi": {
@@ -5910,7 +6006,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Tsushimi",
       "title": ""
     },
     "Dragami": {
@@ -6032,7 +6128,7 @@
           "credit": "Design"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Tobishimi",
       "title": ""
     },
     "Metesaur": {
@@ -6135,7 +6231,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Metesaur",
       "title": ""
     },
     "Meteodactly": {
@@ -6238,7 +6334,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Qetzlrokilus",
       "title": ""
     },
     "Snock": {
@@ -6344,8 +6440,8 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Snock",
+      "title": "Costumed Dragon"
     },
     "Pythock": {
       "monsterKey": "Pythock",
@@ -6450,8 +6546,8 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Pythock",
+      "title": "Costumed Dragon"
     },
     "Seltek": {
       "monsterKey": "Seltek",
@@ -6545,7 +6641,7 @@
           "credit": "Edits"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Selket",
       "title": ""
     },
     "Selmatek": {
@@ -6640,7 +6736,7 @@
           "credit": "Edits"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Selmatek",
       "title": ""
     },
     "Agnite": {
@@ -6758,7 +6854,7 @@
           "credit": "Sprite Remake"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -6880,7 +6976,7 @@
           "credit": "Sprite Remake"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -7002,7 +7098,7 @@
           "credit": "Sprite Remake"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -7103,12 +7199,20 @@
       },
       "contributors": [
         {
+          "contributorKey": "catchChallenger",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Memnomnom",
+      "title": "Pride Cub"
     },
     "Miaownolith": {
       "monsterKey": "Miaownolith",
@@ -7216,12 +7320,20 @@
       },
       "contributors": [
         {
+          "contributorKey": "catchChallenger",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Miaownolith",
+      "title": "Pride Sentinel"
     },
     "Pyraminx": {
       "monsterKey": "Pyraminx",
@@ -7305,12 +7417,20 @@
       },
       "contributors": [
         {
+          "contributorKey": "catchChallenger",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Pyraminx",
+      "title": "Pride Matriach"
     },
     "Pyrominx": {
       "monsterKey": "Pyrominx",
@@ -7398,12 +7518,20 @@
       },
       "contributors": [
         {
+          "contributorKey": "catchChallenger",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "catchChallenger",
+          "credit": "Original Sprite"
+        },
+        {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Criniotherme",
+      "title": "Pride Hunter"
     },
     "Bigfin": {
       "monsterKey": "Bigfin",
@@ -7466,7 +7594,7 @@
           {
             "key": "Bigfin",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -7485,8 +7613,8 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Bigfin",
+      "title": "Island Whale"
     },
     "Sharpfin": {
       "monsterKey": "Sharpfin",
@@ -7549,7 +7677,7 @@
           {
             "key": "Sharpfin",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -7568,7 +7696,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Sharpfin",
       "title": ""
     },
     "Grintot": {
@@ -7664,7 +7792,7 @@
           "credit": "Original Sprite"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -7765,7 +7893,7 @@
           "credit": "Original Sprite"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -7866,7 +7994,7 @@
           "credit": "Original Sprite"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Sprite Remake"
         }
       ],
@@ -7972,7 +8100,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Pondive",
-      "title": ""
+      "title": "Pond Beetle"
     },
     "Divurf": {
       "monsterKey": "Divurf",
@@ -8073,11 +8201,11 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Divurf",
-      "title": ""
+      "title": "Pond Beetle"
     },
-    "Medipup": {
-      "monsterKey": "Medipup",
-      "monsterName": "Medipup",
+    "Medikit": {
+      "monsterKey": "Medikit",
+      "monsterName": "Medikit",
       "monsterID": 74,
       "monsterType": [
         "Psy",
@@ -8121,7 +8249,7 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Medipup",
+            "key": "Medikit",
             "x": 100.0,
             "y": 50.0
           },
@@ -8154,8 +8282,8 @@
           "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Medipup",
+      "title": "Nurse Cat"
     },
     "Doctsy": {
       "monsterKey": "Doctsy",
@@ -8203,7 +8331,7 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Medipup",
+            "key": "Medikit",
             "x": 100.0,
             "y": 50.0
           },
@@ -8236,8 +8364,8 @@
           "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Doctsky",
+      "title": "Nurse Cat"
     },
     "Foillet": {
       "monsterKey": "Foillet",
@@ -8343,8 +8471,8 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Foilett",
+      "title": "Steel Swan"
     },
     "Swanfoil": {
       "monsterKey": "Swanfoil",
@@ -8450,8 +8578,8 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Swanfoil",
+      "title": "Steel Swan"
     },
     "Bumbulus": {
       "monsterKey": "Bumbulus",
@@ -8550,7 +8678,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Bumbulus",
-      "title": ""
+      "title": "Cloud Wisp"
     },
     "Nimbulus": {
       "monsterKey": "Nimbulus",
@@ -8649,157 +8777,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Nimbulex",
-      "title": ""
-    },
-    "Tribial": {
-      "monsterKey": "Tribial",
-      "monsterName": "Tribial",
-      "monsterID": 83,
-      "monsterType": [
-        "Shadow",
-        "Psy"
-      ],
-      "baseStats": {
-        "HP": 97.0,
-        "ATTACK": 39.0,
-        "DEFENSE": 86.0,
-        "SPECIALATTACK": 146.0,
-        "SPECIALDEFENSE": 88.0,
-        "SPEED": 90.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "SinisterPulse",
-        "FireSpray",
-        "Growth"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 4.0,
-          "type": "Bug"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Psy"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Tribial",
-            "x": 100.0,
-            "y": 50.0
-          },
-          {
-            "key": "Shamage",
-            "x": 300.0,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": [
-        {
-          "contributorKey": "Spalding004",
-          "credit": "Design"
-        },
-        {
-          "contributorKey": "Spalding004",
-          "credit": "Original Sprite"
-        }
-      ],
-      "tuxemonLink": "",
-      "title": ""
-    },
-    "Shamage": {
-      "monsterKey": "Shamage",
-      "monsterName": "Shamage",
-      "monsterID": 84,
-      "monsterType": [
-        "Shadow",
-        "Psy"
-      ],
-      "baseStats": {
-        "HP": 156.0,
-        "ATTACK": 91.0,
-        "DEFENSE": 154.0,
-        "SPECIALATTACK": 202.0,
-        "SPECIALDEFENSE": 161.0,
-        "SPEED": 136.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "SinisterPulse",
-        "FireSpray",
-        "Growth"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 4.0,
-          "type": "Bug"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Psy"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Tribial",
-            "x": 100.0,
-            "y": 50.0
-          },
-          {
-            "key": "Shamage",
-            "x": 300.0,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": [
-        {
-          "contributorKey": "Spalding004",
-          "credit": "Design"
-        },
-        {
-          "contributorKey": "Spalding004",
-          "credit": "Original Sprite"
-        }
-      ],
-      "tuxemonLink": "",
-      "title": ""
+      "title": "Cloud Wisp"
     },
     "Tadcool": {
       "monsterKey": "Tadcool",
@@ -8890,7 +8868,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Tadcool",
-      "title": ""
+      "title": "Frozen Tadpole"
     },
     "Fribbit": {
       "monsterKey": "Fribbit",
@@ -8981,7 +8959,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Fribbit",
-      "title": ""
+      "title": "Frozen Frog"
     },
     "Millil": {
       "monsterKey": "Millil",
@@ -9076,7 +9054,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Millilil",
-      "title": ""
+      "title": "Sneaky Millipede"
     },
     "Millisting": {
       "monsterKey": "Millisting",
@@ -9171,7 +9149,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Millisting",
-      "title": ""
+      "title": "Sneaky Millipede"
     },
     "Kelpup": {
       "monsterKey": "Kelpup",
@@ -9270,7 +9248,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Weedsea",
-      "title": ""
+      "title": "Living Seaweed"
     },
     "Reefrond": {
       "monsterKey": "Reefrond",
@@ -9369,7 +9347,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Weedlantis",
-      "title": ""
+      "title": "Living Seaweed"
     },
     "Waysprite": {
       "monsterKey": "Waysprite",
@@ -9476,7 +9454,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": ""
+      "title": "Snowflake"
     },
     "Agnesnow": {
       "monsterKey": "Agnesnow",
@@ -9579,7 +9557,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": ""
+      "title": "Snow Angel"
     },
     "Seraphice": {
       "monsterKey": "Seraphice",
@@ -9682,7 +9660,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": ""
+      "title": "Snow Angel"
     },
     "Demisnow": {
       "monsterKey": "Demisnow",
@@ -9789,7 +9767,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": ""
+      "title": "Snow Demon"
     },
     "Lucifice": {
       "monsterKey": "Lucifice",
@@ -9896,7 +9874,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": ""
+      "title": "Snow Demon"
     },
     "Poturney": {
       "monsterKey": "Poturney",
@@ -9961,7 +9939,7 @@
             "y": 50.0
           },
           {
-            "key": "Potturnery",
+            "key": "Potturmeist",
             "x": 300.0,
             "y": 50.0
           }
@@ -9985,12 +9963,12 @@
           "credit": "Design"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Potturmeist",
+      "title": "Forgotten Urn"
     },
-    "Potturnery": {
-      "monsterKey": "Potturnery",
-      "monsterName": "Potturnery",
+    "Potturmeist": {
+      "monsterKey": "Potturmeist",
+      "monsterName": "Potturmeist",
       "monsterID": 101,
       "monsterType": [
         "Shadow",
@@ -10051,7 +10029,7 @@
             "y": 50.0
           },
           {
-            "key": "Potturnery",
+            "key": "Potturmeist",
             "x": 300.0,
             "y": 50.0
           }
@@ -10075,8 +10053,8 @@
           "credit": "Design"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Potturney",
+      "title": "Forgotten Urn"
     },
     "Polyrock": {
       "monsterKey": "Polyrock",
@@ -10155,7 +10133,7 @@
           {
             "key": "Polyrock",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -10170,7 +10148,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Polyrock",
       "title": ""
     },
     "Tweesher": {
@@ -10281,7 +10259,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Tweesher",
-      "title": ""
+      "title": "Frosty Hatchling"
     },
     "Heronquak": {
       "monsterKey": "Heronquak",
@@ -10391,7 +10369,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Heronquak",
-      "title": ""
+      "title": "Frosty Heron"
     },
     "Eaglace": {
       "monsterKey": "Eaglace",
@@ -10505,7 +10483,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Eaglace",
-      "title": ""
+      "title": "Frosty Eagle"
     },
     "Stonifly": {
       "monsterKey": "Stonifly",
@@ -10607,7 +10585,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Stonifly",
-      "title": ""
+      "title": "Mosquito Fossil"
     },
     "Cocrune": {
       "monsterKey": "Cocrune",
@@ -10708,8 +10686,8 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "https://wiki.tuxemon.org/Stonifly",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Cocrune",
+      "title": "Mosquito Fossil"
     },
     "Runesquito": {
       "monsterKey": "Runesquito",
@@ -10811,7 +10789,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Runesquito",
-      "title": ""
+      "title": "Mosquito Fossil"
     },
     "Sparepple": {
       "monsterKey": "Sparepple",
@@ -10913,7 +10891,7 @@
       },
       "contributors": [
         {
-          "contributorKey": "ChrisFarias",
+          "contributorKey": "CrisFarias",
           "credit": "Design"
         },
         {
@@ -10922,7 +10900,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Sparepple",
-      "title": ""
+      "title": "Acorn Ronin"
     },
     "Samurepple": {
       "monsterKey": "Samurepple",
@@ -11024,7 +11002,7 @@
       },
       "contributors": [
         {
-          "contributorKey": "ChrisFarias",
+          "contributorKey": "CrisFarias",
           "credit": "Design"
         },
         {
@@ -11033,7 +11011,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Samurepple",
-      "title": ""
+      "title": "Acorn Ronin"
     },
     "Forturtle": {
       "monsterKey": "Forturtle",
@@ -11118,8 +11096,8 @@
           "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Forturtle",
+      "title": "Prophet Tortoise"
     },
     "Prophetoise": {
       "monsterKey": "Prophetoise",
@@ -11229,8 +11207,8 @@
           "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Prophetoise",
+      "title": "Prophet Tortoise"
     },
     "SLichen": {
       "monsterKey": "SLichen",
@@ -11317,7 +11295,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Slichen",
-      "title": ""
+      "title": "Slime"
     },
     "Glombroc": {
       "monsterKey": "Glombroc",
@@ -11404,7 +11382,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Glombroc",
-      "title": ""
+      "title": "Slime"
     },
     "Uneye": {
       "monsterKey": "Uneye",
@@ -11479,7 +11457,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Uneye",
-      "title": ""
+      "title": "Watcher"
     },
     "Lendos": {
       "monsterKey": "Lendos",
@@ -11554,7 +11532,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Lendos",
-      "title": ""
+      "title": "Watcher"
     },
     "Boldersaur": {
       "monsterKey": "Boldersaur",
@@ -11661,7 +11639,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Boulder Dino"
     },
     "Fracture": {
       "monsterKey": "Fracture",
@@ -11768,7 +11746,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Boulder Dino"
     },
     "Mantite": {
       "monsterKey": "Mantite",
@@ -11871,7 +11849,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Deadly Mantis"
     },
     "Galvascythe": {
       "monsterKey": "Galvascythe",
@@ -11974,7 +11952,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Deadly Mantis"
     },
     "Mantobo": {
       "monsterKey": "Mantobo",
@@ -12073,7 +12051,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Frozen Mantis"
     },
     "Glaciascythe": {
       "monsterKey": "Glaciascythe",
@@ -12172,7 +12150,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Frozen Mantis"
     },
     "Swampu": {
       "monsterKey": "Swampu",
@@ -12267,7 +12245,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Bog Dog"
     },
     "Swamploom": {
       "monsterKey": "Swamploom",
@@ -12362,7 +12340,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Bog Dog"
     },
     "Blazu": {
       "monsterKey": "Blazu",
@@ -12681,7 +12659,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Electric Porcupine"
     },
     "Shockupine": {
       "monsterKey": "Shockupine",
@@ -12780,7 +12758,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Electric Porcupine"
     },
     "Cindshrew": {
       "monsterKey": "Cindshrew",
@@ -12894,7 +12872,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Flaming Porcupine"
     },
     "Cindipine": {
       "monsterKey": "Cindipine",
@@ -13008,7 +12986,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Flaming Porcupine"
     },
     "Xylofish": {
       "monsterKey": "Xylofish",
@@ -13099,7 +13077,7 @@
           {
             "key": "Xylofish",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -13114,8 +13092,8 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Xylocarp",
+      "title": "Xylophone"
     },
     "BloatFish": {
       "monsterKey": "BloatFish",
@@ -13193,7 +13171,7 @@
           {
             "key": "BloatFish",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -13208,7 +13186,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Shnark",
       "title": ""
     },
     "Apeoro": {
@@ -13287,14 +13265,14 @@
           {
             "key": "Apeoro",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
       },
       "contributors": [
         {
-          "contributorKey": "ChrisFarias",
+          "contributorKey": "CrisFarias",
           "credit": "Design"
         },
         {
@@ -13302,7 +13280,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "/data/Monster-images/Voltcaya.png",
+      "tuxemonLink": "https://wiki.tuxemon.org/Apeoro",
       "title": ""
     },
     "Mauai": {
@@ -13384,18 +13362,18 @@
           {
             "key": "Mauai",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
       },
       "contributors": [
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Design"
         },
         {
-          "contributorKey": "chairry",
+          "contributorKey": "Chairry-Art",
           "credit": "Original Sprite"
         }
       ],
@@ -13833,7 +13811,7 @@
           {
             "key": "LeonSol",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -13970,7 +13948,7 @@
           "credit": "Recolor"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Gupphish",
       "title": ""
     },
     "Goldscale": {
@@ -14080,7 +14058,7 @@
           "credit": "Recolor"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Gupphire",
       "title": ""
     },
     "Goldcind": {
@@ -14194,7 +14172,7 @@
           "credit": "AI Remade Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Golnagi",
       "title": ""
     },
     "Rootram": {
@@ -14297,12 +14275,16 @@
       },
       "contributors": [
         {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -14408,12 +14390,16 @@
       },
       "contributors": [
         {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -14519,12 +14505,16 @@
       },
       "contributors": [
         {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -14630,12 +14620,16 @@
       },
       "contributors": [
         {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -14749,12 +14743,16 @@
       },
       "contributors": [
         {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -14868,12 +14866,16 @@
       },
       "contributors": [
         {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
           "contributorKey": "Madebycyber",
           "credit": "Original Sprite"
         },
         {
           "contributorKey": "screensmith",
-          "credit": "Sprite Remake"
+          "credit": "AI Remade Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -15166,7 +15168,15 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ],
       "tuxemonLink": "",
@@ -15253,7 +15263,15 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "Recolor"
         }
       ],
       "tuxemonLink": "",
@@ -15354,6 +15372,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -15457,6 +15479,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -15565,6 +15591,10 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
         }
       ],
@@ -15669,6 +15699,10 @@
         ]
       },
       "contributors": [
+        {
+          "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
         {
           "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
@@ -15777,6 +15811,10 @@
       "contributors": [
         {
           "contributorKey": "onigin_pixelart",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "onigin_pixelart",
           "credit": "Original Sprite"
         }
       ],
@@ -15867,7 +15905,7 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "https://wiki.tuxemon.org/Crankus",
+      "tuxemonLink": "https://wiki.tuxemon.org/Caper",
       "title": ""
     },
     "Crankus": {
@@ -16058,10 +16096,14 @@
       "contributors": [
         {
           "contributorKey": "PrincessPhoenix",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "PrincessPhoenix",
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Cobarett",
       "title": ""
     },
     "Coalbra": {
@@ -16165,10 +16207,14 @@
       "contributors": [
         {
           "contributorKey": "PrincessPhoenix",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "PrincessPhoenix",
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "",
+      "tuxemonLink": "https://wiki.tuxemon.org/Pythonova",
       "title": ""
     },
     "Pallos": {
@@ -16236,7 +16282,7 @@
           {
             "key": "Pallos",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -16517,7 +16563,7 @@
           {
             "key": "Luchapede",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -16616,7 +16662,7 @@
           {
             "key": "Vampede",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -16901,7 +16947,7 @@
           {
             "key": "Maceodon",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -17485,7 +17531,7 @@
           {
             "key": "Brambush",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -17501,7 +17547,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Bush Spider"
     },
     "Finip": {
       "monsterKey": "Finip",
@@ -17672,203 +17718,6 @@
         {
           "contributorKey": "screensmith",
           "credit": "AI Generated Sprite"
-        }
-      ],
-      "tuxemonLink": "",
-      "title": ""
-    },
-    "Beetwig": {
-      "monsterKey": "Beetwig",
-      "monsterName": "Beetwig",
-      "monsterID": 177,
-      "monsterType": [
-        "Bug"
-      ],
-      "baseStats": {
-        "HP": 71.5,
-        "ATTACK": 110.0,
-        "DEFENSE": 77.0,
-        "SPECIALATTACK": 88.0,
-        "SPECIALDEFENSE": 88.0,
-        "SPEED": 115.5
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "FlameTackle",
-        "IronStrike",
-        "Unnerve"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Fire"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Leaf"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Psy"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Rock"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Beetwig",
-            "x": 100.0,
-            "y": 50.0
-          },
-          {
-            "key": "Stagrove",
-            "x": 300.0,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": [
-        {
-          "contributorKey": "Scarloxy",
-          "credit": "Design"
-        },
-        {
-          "contributorKey": "Scarloxy",
-          "credit": "Original Sprite"
-        }
-      ],
-      "tuxemonLink": "",
-      "title": ""
-    },
-    "Stagrove": {
-      "monsterKey": "Stagrove",
-      "monsterName": "Stagrove",
-      "monsterID": 178,
-      "monsterType": [
-        "Bug",
-        "Wind"
-      ],
-      "baseStats": {
-        "HP": 117.0,
-        "ATTACK": 180.0,
-        "DEFENSE": 126.0,
-        "SPECIALATTACK": 144.0,
-        "SPECIALDEFENSE": 144.0,
-        "SPEED": 189.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "FlameTackle",
-        "IronStrike",
-        "Unnerve"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 0.5,
-          "type": "Bug"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Electric"
-        },
-        {
-          "resistance": 0.25,
-          "type": "Combat"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Fire"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
-          "resistance": 0.25,
-          "type": "Leaf"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Ground"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Psy"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Rock"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Beetwig",
-            "x": 100.0,
-            "y": 50.0
-          },
-          {
-            "key": "Stagrove",
-            "x": 300.0,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": [
-        {
-          "contributorKey": "Scarloxy",
-          "credit": "Design"
-        },
-        {
-          "contributorKey": "Scarloxy",
-          "credit": "Original Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -18292,7 +18141,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Tar Croc"
     },
     "Moonlarva": {
       "monsterKey": "Moonlarva",
@@ -18866,7 +18715,7 @@
           {
             "key": "Orbacle",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -18933,7 +18782,7 @@
           {
             "key": "Zenkong",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -19028,7 +18877,7 @@
           {
             "key": "Axowarry",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -19123,7 +18972,7 @@
           {
             "key": "Gravadillo",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -19141,9 +18990,9 @@
       "tuxemonLink": "",
       "title": ""
     },
-    "Nimbusaur": {
-      "monsterKey": "Nimbusaur",
-      "monsterName": "Nimbusaur",
+    "Soarus": {
+      "monsterKey": "Soarus",
+      "monsterName": "Soarus",
       "monsterID": 191,
       "monsterType": [
         "Dino",
@@ -19216,7 +19065,7 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Nimbusaur",
+            "key": "Soarus",
             "x": 100.0,
             "y": 50.0
           },
@@ -19241,8 +19090,8 @@
           "credit": "Design"
         },
         {
-          "contributorKey": "rezatri",
-          "credit": "Original Sprite"
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -19323,7 +19172,7 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Nimbusaur",
+            "key": "Soarus",
             "x": 100.0,
             "y": 50.0
           },
@@ -19464,7 +19313,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Pine Reindeer"
     },
     "Everhorn": {
       "monsterKey": "Everhorn",
@@ -19575,7 +19424,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Pine Reindeer"
     },
     "Mammelt": {
       "monsterKey": "Mammelt",
@@ -19670,7 +19519,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Magma Mammoth"
     },
     "Magmatusk": {
       "monsterKey": "Magmatusk",
@@ -19765,7 +19614,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Magma Mammoth"
     },
     "Sabretooth": {
       "monsterKey": "Sabretooth",
@@ -19868,7 +19717,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Steel Sabre"
     },
     "Sabretooth2": {
       "monsterKey": "Sabretooth2",
@@ -19971,7 +19820,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Steel Sabre"
     },
     "Owlite": {
       "monsterKey": "Owlite",
@@ -20062,11 +19911,15 @@
       "contributors": [
         {
           "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
           "credit": "AI Generated Sprite"
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Mystic Owl"
     },
     "Astraloon": {
       "monsterKey": "Astraloon",
@@ -20156,12 +20009,16 @@
       },
       "contributors": [
         {
+          "contributorKey": "catchChallenger",
+          "credit": "Design"
+        },
+        {
           "contributorKey": "screensmith",
           "credit": "AI Generated Sprite"
         }
       ],
-      "tuxemonLink": "",
-      "title": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Corvix",
+      "title": "Mystic Owl"
     },
     "Puffrog": {
       "monsterKey": "Puffrog",
@@ -20264,7 +20121,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Gassy Frog"
     },
     "Croakloud": {
       "monsterKey": "Croakloud",
@@ -20367,7 +20224,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Gassy Frog"
     },
     "Gnashy": {
       "monsterKey": "Gnashy",
@@ -20466,7 +20323,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Frosty Hyena"
     },
     "Mangefrost": {
       "monsterKey": "Mangefrost",
@@ -20565,7 +20422,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Frosty Hyena"
     },
     "Geknin": {
       "monsterKey": "Geknin",
@@ -20668,7 +20525,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Ninja Lizard"
     },
     "Toxikage": {
       "monsterKey": "Toxikage",
@@ -20771,7 +20628,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Ninja Lizard"
     },
     "Shibu": {
       "monsterKey": "Shibu",
@@ -20824,7 +20681,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Wolf Cub"
     },
     "Shibuzz": {
       "monsterKey": "Shibuzz",
@@ -20894,7 +20751,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Drone Wolf"
     },
     "Shibog": {
       "monsterKey": "Shibog",
@@ -20972,7 +20829,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Shark Wolf"
     },
     "Shiblitz": {
       "monsterKey": "Shiblitz",
@@ -21058,7 +20915,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Blazing Wolf"
     },
     "Shibolt": {
       "monsterKey": "Shibolt",
@@ -21128,7 +20985,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Mountain Wolf"
     },
     "Shiberg": {
       "monsterKey": "Shiberg",
@@ -21198,7 +21055,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Glacial Husky"
     },
     "Shibrawl": {
       "monsterKey": "Shibrawl",
@@ -21272,7 +21129,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Lucha Wolf"
     },
     "Shibane": {
       "monsterKey": "Shibane",
@@ -21338,7 +21195,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Corrupted Wolf"
     },
     "GrassSHibu": {
       "monsterKey": "GrassSHibu",
@@ -21428,7 +21285,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Guardian Wolf"
     },
     "Shiraptor": {
       "monsterKey": "Shiraptor",
@@ -21510,7 +21367,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Raptor Wolf"
     },
     "Shibafly": {
       "monsterKey": "Shibafly",
@@ -21572,7 +21429,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Mystic Wolf"
     },
     "Shibastion": {
       "monsterKey": "Shibastion",
@@ -21666,7 +21523,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Sentry Wolf"
     },
     "Shiburrow": {
       "monsterKey": "Shiburrow",
@@ -21744,7 +21601,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Mole Wolf"
     },
     "Shibungus": {
       "monsterKey": "Shibungus",
@@ -21810,7 +21667,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Mushroom Wolf"
     },
     "Shiraph": {
       "monsterKey": "Shiraph",
@@ -21884,7 +21741,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Angel Wolf"
     },
     "Tankalf": {
       "monsterKey": "Tankalf",
@@ -22003,7 +21860,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Armored Hippo"
     },
     "Bombarge": {
       "monsterKey": "Bombarge",
@@ -22122,7 +21979,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Armored Hippo"
     },
     "Stego": {
       "monsterKey": "Stego",
@@ -22229,7 +22086,114 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Stormy Stegosaurus"
+    },
+    "Nimbusaur": {
+      "monsterKey": "Nimbusaur",
+      "monsterName": "Nimbusaur",
+      "monsterID": 227,
+      "monsterType": [
+        "Electric",
+        "Dino"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Dino"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Stego",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Nimbusaur",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Stormy Stegosaurus"
     },
     "Fuzzfly": {
       "monsterKey": "Fuzzfly",
@@ -22328,7 +22292,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Moth Dragon"
     },
     "Flutterwing": {
       "monsterKey": "Flutterwing",
@@ -22427,7 +22391,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Moth Dragon"
     },
     "Dreadguard": {
       "monsterKey": "Dreadguard",
@@ -22510,7 +22474,7 @@
           {
             "key": "Dreadguard",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -22526,7 +22490,102 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Haunted Armor"
+    },
+    "Squabbit": {
+      "monsterKey": "Squabbit",
+      "monsterName": "Squabbit",
+      "monsterID": 231,
+      "monsterType": [
+        "Combat",
+        "Fire"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.25,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Wind"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Squabbit",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Soldier Bunny"
     },
     "Legionhare": {
       "monsterKey": "Legionhare",
@@ -22603,9 +22662,9 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Legionhare",
+            "key": "Squabbit",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -22621,7 +22680,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Soldier Bunny"
     },
     "Sylphawn": {
       "monsterKey": "Sylphawn",
@@ -22708,7 +22767,7 @@
           {
             "key": "Sylphawn",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -22724,7 +22783,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "Forest Guardian"
     },
     "Veilora": {
       "monsterKey": "Veilora",
@@ -22787,7 +22846,7 @@
           {
             "key": "Veilora",
             "x": 200.0,
-            "y": 200.0
+            "y": 50.0
           }
         ],
         "arrows": []
@@ -24022,7 +24081,7 @@
         "Ardy",
         "Pondive",
         "Budaye",
-        "Medipup",
+        "Medikit",
         "Rocksnek",
         "Goldstream"
       ]
@@ -24077,7 +24136,6 @@
         "Dreed",
         "Lambert",
         "Millil",
-        "Tribial",
         "Kelpup"
       ]
     },
@@ -24128,7 +24186,7 @@
       "name": "Shaft",
       "description": "",
       "monsters": [
-        "Medipup",
+        "Medikit",
         "SLichen",
         "Rocksnek",
         "Tweesher",
@@ -24325,254 +24383,274 @@
     "Aviculor": {
       "contributorKey": "Aviculor",
       "contributorName": "Aviculor",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "",
-      "associatedMonsters": []
+      "contributorDescription": "A pixel artist. Commissioned to create sprites for Tuxemon.",
+      "contributorLink": "https://www.deviantart.com/aviculor",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Aviculor"
     },
     "catchChallenger": {
       "contributorKey": "catchChallenger",
       "contributorName": "Catch Challenger",
-      "contributorDescription": "Open source fakemon game with some CC licensed sprite",
-      "contributorLink": "https://x.com/onigin_pixelart",
-      "associatedMonsters": []
+      "contributorDescription": "Open source fakemon game with some CC licensed sprites. Tuxemon uses their sprites so I ended up using them as well.",
+      "contributorLink": "https://catchchallenger.herman-brule.com/",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Catch_Challenger"
     },
-    "chairry": {
-      "contributorKey": "chairry",
-      "contributorName": "Chairry",
-      "contributorDescription": "A fakemon/sprite artist. Remade some of the Tuxemon designs and released them publicy.",
+    "Chairry-Art": {
+      "contributorKey": "Chairry-Art",
+      "contributorName": "Chairry-Art",
+      "contributorDescription": "A fakemon/sprite artist. Remade some of the Tuxemon designs and released them publicly.",
       "contributorLink": "https://www.deviantart.com/chairry-art",
-      "associatedMonsters": []
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Chairry-Art"
     },
     "ChickenShowMan": {
       "contributorKey": "ChickenShowMan",
       "contributorName": "ChickenShowMan",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Tuxemon Contributor. Contributed Sprites and Designs directly to Tuxemon.",
+      "contributorLink": "https://wiki.tuxemon.org/Chickenshowman",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Chickenshowman"
     },
-    "ChrisFarias": {
-      "contributorKey": "ChrisFarias",
-      "contributorName": "ChrisFarias",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+    "CrisFarias": {
+      "contributorKey": "CrisFarias",
+      "contributorName": "CrisFarias",
+      "contributorDescription": "Commissioned to create sprites and designs for Tuxemon.",
+      "contributorLink": "https://www.deviantart.com/crisfarias",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/CrisFarias"
     },
     "Madebycyber": {
       "contributorKey": "Madebycyber",
       "contributorName": "Madebycyber",
       "contributorDescription": "Sprite Artist. I commissioned a number of sprites from them via Fiverr.",
       "contributorLink": "https://www.fiverr.com/tnguyn606",
-      "associatedMonsters": []
+      "associatedMonsters": [],
+      "tuxemonLink": ""
     },
     "DevilDMan": {
       "contributorKey": "DevilDMan",
       "contributorName": "DevilDMan",
-      "contributorDescription": "A Tuxemon Contributor",
-      "contributorLink": "",
-      "associatedMonsters": []
+      "contributorDescription": "A pixel artist. Commissioned to create sprites for Tuxemon.",
+      "contributorLink": "https://www.deviantart.com/devildman",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/DevilDman"
     },
     "Extyrannomon": {
       "contributorKey": "Extyrannomon",
       "contributorName": "Extyrannomon",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "",
-      "associatedMonsters": []
+      "contributorDescription": "Concept Artist. Commissioned to create designs for Tuxemon.",
+      "contributorLink": "https://www.deviantart.com/extyrannomon",
+      "associatedMonsters": [],
+      "tuxemonLink": ""
     },
     "Fauxlens": {
       "contributorKey": "Fauxlens",
       "contributorName": "Fauxlens",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "",
-      "associatedMonsters": []
-    },
-    "FreshReplicant": {
-      "contributorKey": "FreshReplicant",
-      "contributorName": "FreshReplicant",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Concept Artist. Created designs for Tuxemon",
+      "contributorLink": "https://www.deviantart.com/fauxlens",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Fauxlens"
     },
     "HippasusTwo": {
       "contributorKey": "HippasusTwo",
       "contributorName": "HippasusTwo",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Tuxemon Contributor. Contributed Sprites and Designs directly to Tuxemon.",
+      "contributorLink": "https://wiki.tuxemon.org/HippasusTwo",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/HippasusTwo"
     },
     "Infinipede": {
       "contributorKey": "Infinipede",
       "contributorName": "Infinipede",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "A pixel artist. Commissioned to create sprites for Tuxemon.",
+      "contributorLink": "https://wiki.tuxemon.org/Infinipede",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Infinipede"
     },
     "InvoluntaryTwitch": {
       "contributorKey": "InvoluntaryTwitch",
       "contributorName": "Involuntary Twitch",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "A pixel artist. Commissioned to create sprites for Tuxemon.",
+      "contributorLink": "https://www.deviantart.com/involuntary-twitch",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Involuntary_Twitch"
     },
     "slickedBackArtisan": {
       "contributorKey": "slickedBackArtisan",
       "contributorName": "slickedBackArtisan",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Tuxemon Contributor. Contributed Sprites and Designs directly to Tuxemon.",
+      "contributorLink": "https://www.youtube.com/channel/UCxBymsALxL2TdnaCPoI1pog",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Josepharaoh99"
     },
     "JustinNuggets": {
       "contributorKey": "JustinNuggets",
       "contributorName": "JustinNuggets",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Contributed Sprites to Piacarrot's open source fakemon collection.",
+      "contributorLink": "https://wiki.tuxemon.org/JustinNuggets",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/JustinNuggets"
     },
     "kei": {
       "contributorKey": "kei",
       "contributorName": "Kei",
       "contributorDescription": "Sprite Artist. I commissioned a number of sprites from them via Fiverr.",
       "contributorLink": "https://www.fiverr.com/kei_member",
-      "associatedMonsters": []
+      "associatedMonsters": [],
+      "tuxemonLink": ""
     },
     "KohariNK": {
       "contributorKey": "KohariNK",
       "contributorName": "Kohari NK",
-      "contributorDescription": "Fiverr Artist",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Fiverr Artist. I commissioned him to create some tiles for my game. I shared them with Tuxemon. Then Sanglorian commissioned him to make some sprites <3",
+      "contributorLink": "https://www.fiverr.com/kohari_nk/",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Kohari_nk"
     },
     "Leo": {
       "contributorKey": "Leo",
       "contributorName": "Leo",
-      "contributorDescription": "A designer the contributed to Tuxemon",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Tuxemon Contributor. Contributed Sprites and Designs directly to Tuxemon.",
+      "contributorLink": "https://wiki.tuxemon.org/Leo",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Leo"
     },
     "Levaine": {
       "contributorKey": "Levaine",
       "contributorName": "Levaine",
-      "contributorDescription": "Artist that contributed sprites to Tuxemon",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "A pixel artist. Commissioned to create sprites for Tuxemon.",
+      "contributorLink": "https://www.deviantart.com/levaine",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Levaine"
     },
     "MagicPurpleHermit": {
       "contributorKey": "MagicPurpleHermit",
       "contributorName": "Magic Purple Hermit",
-      "contributorDescription": "Deviant Art Artist.",
+      "contributorDescription": "Deviantart Artist. Released some designs and sprites online.",
       "contributorLink": "https://www.deviantart.com/magic-purple-hermit",
-      "associatedMonsters": []
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Magic-Purple-Hermit"
     },
     "MJCO": {
       "contributorKey": "MJCO",
       "contributorName": "MJCO",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "A pixel artist. Commissioned to create sprites for Tuxemon.",
+      "contributorLink": "https://www.deviantart.com/mjco",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Mjco"
     },
-    "MrFakemans": {
-      "contributorKey": "MrFakemans",
-      "contributorName": "MrFakemans",
+    "MrFakemon": {
+      "contributorKey": "MrFakemon",
+      "contributorName": "MrFakemon",
       "contributorDescription": "A twitter artist I commisioned a sprite from.",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorLink": "https://x.com/MrFakemon?lang=en",
+      "associatedMonsters": [],
+      "tuxemonLink": ""
     },
     "onigin_pixelart": {
       "contributorKey": "onigin_pixelart",
       "contributorName": "Onigin Pixelart",
-      "contributorDescription": "Sprite Artist. They sometimes sell sprites on Twitter and I purchased them.",
+      "contributorDescription": "Sprite Artist. They sometimes sell sprites on Twitter and I purchase them whenever possible. The best Gen 3 fakemon artist out there you should follow them <3",
       "contributorLink": "https://x.com/onigin_pixelart",
-      "associatedMonsters": []
+      "associatedMonsters": [],
+      "tuxemonLink": ""
     },
     "PiaCarrot": {
       "contributorKey": "PiaCarrot",
       "contributorName": "PiaCarrot",
-      "contributorDescription": "Tuxemon Contributor: https://www.deviantart.com/piacarrot",
+      "contributorDescription": "Created an open source fakemon project that Tuxemon uses sprites from.",
       "contributorLink": "https://www.deviantart.com/piacarrot",
-      "associatedMonsters": []
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Piacarrot"
     },
     "PrincessPhoenix": {
       "contributorKey": "PrincessPhoenix",
       "contributorName": "Princess Phoenix",
       "contributorDescription": "Sprite Artist. She has released many of her fakemon designs/sprites as Creative Commons Licensed Assets.",
       "contributorLink": "https://www.deviantart.com/princess-phoenix",
-      "associatedMonsters": []
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Princess-phoenix"
     },
     "ProfessorGreen": {
       "contributorKey": "ProfessorGreen",
       "contributorName": "ProfessorGreen",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Contributed designs directly to Tuxemon",
+      "contributorLink": "https://wiki.tuxemon.org/ProfessorGreen",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/ProfessorGreen"
     },
     "rezatri": {
       "contributorKey": "rezatri",
       "contributorName": "Rezatri",
-      "contributorDescription": "Sprite Artist. I commissioned a number of sprites from them via Fiverr.",
-      "contributorLink": "https://www.fiverr.com/reza3u",
-      "associatedMonsters": []
+      "contributorDescription": "Pixel artist. I commissioned a number of sprites from them via Fiverr. Highly recommended.",
+      "contributorLink": "https://www.instagram.com/reza3u.sprites/",
+      "associatedMonsters": [],
+      "tuxemonLink": ""
     },
     "Sanglorian": {
       "contributorKey": "Sanglorian",
       "contributorName": "Sanglorian",
-      "contributorDescription": "One of the main developers of Tuxemon.",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
-    },
-    "Scarloxy": {
-      "contributorKey": "Scarloxy",
-      "contributorName": "Scarloxy",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "One of the main developers of Tuxemon. ",
+      "contributorLink": "https://wiki.tuxemon.org/Sanglorian",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Sanglorian"
     },
     "screensmith": {
       "contributorKey": "screensmith",
       "contributorName": "ScreenSmith",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Me, the main developer of this game. I edited and recolored a number of sprites, created designs for commissions, and used AI to create new designs or remake old ones.",
+      "contributorLink": "https://screensmith.net/",
+      "associatedMonsters": [],
+      "tuxemonLink": ""
     },
     "Serpexnessie": {
       "contributorKey": "Serpexnessie",
       "contributorName": "Serpexnessie",
-      "contributorDescription": "A contributor to Tuxemon",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "A contributor to Tuxemon. Contributed designs and sprites directly to Tuxemon.",
+      "contributorLink": "https://www.deviantart.com/serpexnessie",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Serpexnessie"
     },
     "Shadowapex": {
       "contributorKey": "Shadowapex",
       "contributorName": "Shadowapex",
       "contributorDescription": "A designer/artist that contributed to Tuxemon",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorLink": "https://wiki.tuxemon.org/ShadowApex",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/ShadowApex"
     },
     "Spalding004": {
       "contributorKey": "Spalding004",
       "contributorName": "Spalding004",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Creator of the Sitran Pokedex and the founder of Free-Use Fakemon. Released a bunch of designs and sprites under a CC BY SA 4.0 license. <3",
+      "contributorLink": "https://www.deviantart.com/spalding004",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/Spalding004"
     },
     "TheBritanniaRegion": {
       "contributorKey": "TheBritanniaRegion",
       "contributorName": "TheBritanniaRegion",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Character Artist. Commissioned to create designs for Tuxemon",
+      "contributorLink": "https://www.deviantart.com/thebritanniaregion",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/TheBritanniaRegion"
     },
     "Tuxemon": {
       "contributorKey": "Tuxemon",
       "contributorName": "Tuxemon",
-      "contributorDescription": "",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Open source mosnter catching game.",
+      "contributorLink": "https://tuxemon.org/",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://tuxemon.org/"
     },
     "WaterTrainer": {
       "contributorKey": "WaterTrainer",
       "contributorName": "WaterTrainer",
-      "contributorDescription": "Tuxemon Contributor",
-      "contributorLink": "\"\"",
-      "associatedMonsters": []
+      "contributorDescription": "Pixel Artist. Designs purchased by Tuxemon contributors.",
+      "contributorLink": "https://www.deviantart.com/watertrainer",
+      "associatedMonsters": [],
+      "tuxemonLink": "https://wiki.tuxemon.org/WaterTrainer"
     }
   }
 }

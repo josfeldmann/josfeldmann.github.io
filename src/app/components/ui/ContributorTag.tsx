@@ -8,7 +8,7 @@ type ContributorBadgeProps = {
 export function ContributorTag({
   contributor
 }: ContributorBadgeProps) {
-  const imageSrc =`/data/contributors/${contributor.contributorKey}.png`;
+  const imageSrc =`/data/Contributors/${contributor.contributorKey}.png`;
   const url = `/contributors/${contributor.contributorKey}.html`;
 
   const badgeContent = (

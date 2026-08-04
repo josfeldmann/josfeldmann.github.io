@@ -84,6 +84,13 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
  const resistances : string[] = db.getResists(monster.resistances);
  const notAffected : string[] = db.getNotAffectedBy(monster.resistances);
 
+ const tuxemonURL = monster.tuxemonLink;
+ let tuxName = "";
+ if (tuxemonURL != null && tuxemonURL.length > 0) {
+  const split = tuxemonURL.split('/');
+  tuxName = split[split.length -1];
+ }
+
   return (
 
 
@@ -147,8 +154,8 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
                   <SingleLineList items={locations} renderItem={(location) => (<GenericLink value={location} basePath="/locations/" />)}/>
                   <h3>Resistances</h3>
                   <MonsterResistanceTable monster={monster} />
-                  <h3>Contributors</h3>
-                  <ContributorCreditsList contributorCredits={contributors} />
+                  
+                  
                   
 
   
@@ -163,7 +170,13 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
           </div>
       </div>
 
-
+      <h3>Contributors</h3>
+                  <ContributorCreditsList contributorCredits={contributors} />
+                  {tuxemonURL && tuxemonURL.length > 0 && (
+                    <a href={tuxemonURL}>
+                       Associated Tuxemon: {tuxName}
+                    </a>
+                    )}
     </div>
 
   );

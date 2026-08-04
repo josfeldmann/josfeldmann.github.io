@@ -100,6 +100,7 @@ export default function MonsterBadge({
         
         imageRendering: "pixelated"
       }}
+      alt={data.monsterName}
     />
 
     {/* Name */}

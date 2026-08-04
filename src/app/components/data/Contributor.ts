@@ -5,6 +5,7 @@ export class Contributor {
   contributorName: string;
   contributorDescription: string;
   contributorLink: string;
+  tuxemonLink: string;
   associatedMonsters: string[];
 
   constructor( data: {
@@ -12,6 +13,7 @@ export class Contributor {
   contributorName: string,
   contributorDescription: string,
   contributorLink: string,
+  tuxemonLink: string,
   associatedMonsters: string[]
   }
 ) {
@@ -19,6 +21,7 @@ export class Contributor {
   this.contributorName = data.contributorName
   this.contributorDescription = data.contributorDescription
   this.contributorLink = data.contributorLink
+  this.tuxemonLink = data.tuxemonLink;
   this.associatedMonsters = data.associatedMonsters
 }
 

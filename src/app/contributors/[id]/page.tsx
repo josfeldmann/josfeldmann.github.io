@@ -45,11 +45,15 @@ export default function LocationPage({ params }: { params: { id: string } }) {
 
   <h1>{contributor.contributorName}</h1>
 
+  {contributor.contributorLink != contributor.tuxemonLink && <a href={contributor.contributorLink}>Portfolio Link</a>}
+  {contributor.contributorLink != contributor.tuxemonLink && contributor.tuxemonLink.length > 0 && <br/>}
+  {contributor.tuxemonLink.length > 0 && <a href={contributor.tuxemonLink}>Tuxemon Contributor Page</a>}
+
   <p>
     {contributor.contributorDescription}
   </p>
 
-  <h2>Contributed To</h2>
+  <h2>Credits - {monsters.length}</h2>
   <MonsterGrid monsters={monsters}/>
 
 </div>
