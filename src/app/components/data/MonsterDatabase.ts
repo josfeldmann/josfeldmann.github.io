@@ -262,6 +262,7 @@ export class MonsterDatabase {
   getMetaDataKeywords(monster : Monster): string[] {
     const v : string[] = [monster.monsterName, "Novamon"];
     if (monster.title.length > 0) v.push(monster.title + " Novamon");
+
     
     return v;
   }
@@ -278,7 +279,7 @@ export class MonsterDatabase {
       s = `${MonsterDatabase.getInstance().getMonsterType(monster.monsterType[0]).name}/${MonsterDatabase.getInstance().getMonsterType(monster.monsterType[1]).name}`;
     }
 
-    return `${monster.monsterName} - the ${monster.title} Novamon. ${s} type. ${monster.shortDescription}`
+    return `${monster.monsterName} - the ${monster.title} Novamon. ${s} type. View its stats, moves, abilities, evolution line, weaknesses, and full monster description.`
 
   }
 

@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
+    "generate:sitemap": "tsx scripts/generate-sitemap.ts",
+    "prebuild":"npm run generate:sitemap",
     "build": "next build --turbopack && tsx scripts/clean-next-txt.ts",
     "start": "next start",
     "lint": "eslint"

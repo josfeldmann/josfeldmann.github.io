@@ -31,7 +31,7 @@ export default function NavBar() {
           gap: "20px",
         }}
       >
-        <Link href={"/Monsters.html"}>Novamon</Link>
+        <Link href={"/monsters.html"}>Novamon</Link>
 
         <Link href={"/moves.html"}>Moves</Link>
 

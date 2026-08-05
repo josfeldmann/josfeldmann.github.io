@@ -38,20 +38,45 @@ export async function generateStaticParams() {
 
 
 
+
 export async function generateMetadata(
   { params }: { params: { id: string } }
 ): Promise<Metadata> {
   const monster = MonsterDatabase.getInstance().getMonster(params.id);
+  const canonicalPath = `/monsters/${monster.monsterKey}.html`
   if (!monster) {
     return {
       title: "Monster Not Found " + params.id,
     };
   }
 
+  const title =  `${monster.monsterName} - ${monster.title} Novamon - | Novarangers`;
+  const description = MonsterDatabase.getInstance().getMetaDataDescription(monster);
+  const keywords = MonsterDatabase.getInstance().getMetaDataKeywords(monster);
+  const siteName = "Novarangers"
+  const imagePath = `https://novarangers.com/data/Monster-Images/` + `${monster.monsterKey}.png`
+
   return {
-    title: `${monster.monsterName} | Novamon`,
-    description: MonsterDatabase.getInstance().getMetaDataDescription(monster),
-    keywords : MonsterDatabase.getInstance().getMetaDataKeywords(monster),
+    title: title,
+    description: description,
+    keywords : keywords,
+    alternates: {
+      canonical: canonicalPath,
+    },
+    openGraph: {
+      title: title,
+      description: description,
+      url: canonicalPath,
+      siteName: siteName,
+      type: "website",
+      images: [
+        {
+          url: imagePath,
+          alt: description,
+        },
+      ],
+    },
+    
   };
 }
 
@@ -122,7 +147,7 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
       <div className="p-2">
         <h1>{monster.monsterName}</h1>
-        <p>{monster.title} Novamon</p>
+        <p className="lead">{monster.title} Novamon</p>
         <p>
             Types: <SingleLineList items={monster.monsterType} renderItem={(monsterType) => <TypeButton data={db.getMonsterType(monsterType)}/>}></SingleLineList>
         </p>

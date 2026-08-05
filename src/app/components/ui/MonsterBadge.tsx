@@ -100,7 +100,7 @@ export default function MonsterBadge({
         
         imageRendering: "pixelated"
       }}
-      alt={data.monsterName}
+      alt={`${data.monsterName} - ${data.title} Novamon`}
     />
 
     {/* Name */}

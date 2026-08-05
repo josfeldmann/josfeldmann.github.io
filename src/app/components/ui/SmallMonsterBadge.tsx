@@ -39,6 +39,8 @@ export function SmallMonsterBadge({
         imageRendering: "pixelated"
       }}
         className="flex-shrink-0"
+      alt={`${monster.monsterName} - ${monster.title} Novamon`}
+
       />
 
       <span className="text-nowrap">
