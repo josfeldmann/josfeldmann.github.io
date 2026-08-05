@@ -22,7 +22,7 @@ export default function NavBar() {
           color: "inherit",
         }}
       >
-        Novomon
+        Novarangers
       </a>
 
       <div
@@ -31,13 +31,13 @@ export default function NavBar() {
           gap: "20px",
         }}
       >
-        <Link href={"/monsters.html"}>Monsters</Link>
+        <Link href={"/Monsters.html"}>Novamon</Link>
 
         <Link href={"/moves.html"}>Moves</Link>
 
         <Link href={"/locations.html"}>Locations</Link>
 
-        <Link href={"/items.html"}>Items</Link>
+        <Link href={"/attributions.html"}>Attributions</Link>
       </div>
     </nav>
   );

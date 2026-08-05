@@ -8,6 +8,7 @@ import React from 'react';
 import { log } from 'console';
 import NavBar from '@/app/components/ui/navbar';
 import MonsterGrid from '@/app/components/ui/MonsterGrid';
+import { Breadcrumbs } from '@/app/components/ui/BreadCrumbs';
 export type MonsterDictionary = Record<string, Monster>;
 
 
@@ -40,6 +41,22 @@ export default function AbilityPage({ params }: { params: { id: string } }) {
 
   return (
   <div>
+    <Breadcrumbs
+                  items={[
+                    {
+                      label: "Home",
+                      href: "/",
+                    },
+                    {
+                      label: "Abilities",
+                      href: "/abilities.html",
+                    },
+                    {
+                      label: ability.name,
+                      href: `/Abilities/${ability.key}.html`,
+                    },
+                  ]}
+                />
       <h1>{ability.key}</h1>
       
       <p>{ability.description}</p>

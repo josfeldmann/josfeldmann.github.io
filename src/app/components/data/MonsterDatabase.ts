@@ -176,6 +176,9 @@ export class MonsterDatabase {
   getAllMoves() : MonsterMove[] {
     return Object.values(this.moves);
   }
+
+
+
   
 
 
@@ -204,6 +207,15 @@ export class MonsterDatabase {
   getAllMonsters(): Monster[] {
     return Object.values(this.monsters);
   }
+
+  getAllTuxemon() : Monster[] {
+    const m : Monster[] = [];
+    Object.values(this.monsters).forEach(element => {
+      if (element.tuxemonLink != null && element.tuxemonLink.length > 0) m.push(element);
+    });
+    return m;
+  }
+
 
   getMonsterKeys() : string[] {
     return Object.keys(this.monsters);
@@ -405,6 +417,28 @@ export class MonsterDatabase {
   }
 
 
+  getTuxemonName(mosnter : Monster) : string {
+    let tuxName = "";
+    if (mosnter.tuxemonLink != null && mosnter.tuxemonLink.length > 0) {
+      const split = mosnter.tuxemonLink.split('/');
+      tuxName = split[split.length -1];
+    }
+    return tuxName;
+  }
+
+  getContributorsForMonster(monster : Monster) : Contributor[] {
+
+    const contribs : Contributor[] = [];
+    const visited : string[] = [];
+
+
+    monster.contributors.map((credit) => {
+      if (!visited.includes(credit.contributorKey)) contribs.push(this.getContributor(credit.contributorKey));
+      visited.push(credit.contributorKey);
+    })
+
+    return contribs;
+  }
 
 
 

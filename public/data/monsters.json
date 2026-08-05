@@ -114,7 +114,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Static Llama"
+      "title": "Static Llama",
+      "license": "CC0"
     },
     "Voltcaya": {
       "monsterKey": "Voltcaya",
@@ -231,7 +232,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Static Llama"
+      "title": "Static Llama",
+      "license": "CC0"
     },
     "Voltpaca": {
       "monsterKey": "Voltpaca",
@@ -348,7 +350,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Static Llama"
+      "title": "Static Llama",
+      "license": "CC0"
     },
     "Ignilob": {
       "monsterKey": "Ignilob",
@@ -465,7 +468,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Steam Lobster"
+      "title": "Steam Lobster",
+      "license": "CC0"
     },
     "Cindclaw": {
       "monsterKey": "Cindclaw",
@@ -582,7 +586,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Steam Lobster"
+      "title": "Steam Lobster",
+      "license": "CC0"
     },
     "Cindcannon": {
       "monsterKey": "Cindcannon",
@@ -699,7 +704,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Steam Lobster"
+      "title": "Steam Lobster",
+      "license": "CC0"
     },
     "Lapiseal": {
       "monsterKey": "Lapiseal",
@@ -821,7 +827,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Rock Seal"
+      "title": "Rock Seal",
+      "license": "CC0"
     },
     "Lapisula": {
       "monsterKey": "Lapisula",
@@ -943,7 +950,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Rock Seal"
+      "title": "Rock Seal",
+      "license": "CC0"
     },
     "Lapislion": {
       "monsterKey": "Lapislion",
@@ -1065,7 +1073,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Rock Seal"
+      "title": "Rock Seal",
+      "license": "CC0"
     },
     "Jaylet": {
       "monsterKey": "Jaylet",
@@ -1170,7 +1179,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Blue Jay"
+      "title": "Blue Jay",
+      "license": "CC0"
     },
     "Jinxlet": {
       "monsterKey": "Jinxlet",
@@ -1275,7 +1285,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Blue Jay"
+      "title": "Blue Jay",
+      "license": "CC0"
     },
     "Cobaltalon": {
       "monsterKey": "Cobaltalon",
@@ -1380,7 +1391,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Blue Jay"
+      "title": "Blue Jay",
+      "license": "CC0"
     },
     "Flitbat": {
       "monsterKey": "Flitbat",
@@ -1494,7 +1506,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Flame Bat"
+      "title": "Flame Bat",
+      "license": "CC0"
     },
     "Noctiflare": {
       "monsterKey": "Noctiflare",
@@ -1608,7 +1621,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Flame Bat"
+      "title": "Flame Bat",
+      "license": "CC0"
     },
     "Volcaroost": {
       "monsterKey": "Volcaroost",
@@ -1722,7 +1736,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Flame Bat"
+      "title": "Flame Bat",
+      "license": "CC0"
     },
     "Rockitten": {
       "monsterKey": "Rockitten",
@@ -1837,7 +1852,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Rockitten",
-      "title": "Rock Kat"
+      "title": "Rock Kat",
+      "license": "CC-BY-SA-4.0"
     },
     "Boulynx": {
       "monsterKey": "Boulynx",
@@ -1948,7 +1964,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Rockat",
-      "title": "Rock Kat"
+      "title": "Rock Kat",
+      "license": "CC-BY-SA-4.0"
     },
     "Rockat": {
       "monsterKey": "Rockat",
@@ -2059,7 +2076,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Jemuar",
-      "title": "Rock Kat"
+      "title": "Rock Kat",
+      "license": "CC-BY-SA-4.0"
     },
     "Delichick": {
       "monsterKey": "Delichick",
@@ -2175,7 +2193,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Delichick",
-      "title": "Misty Crane"
+      "title": "Misty Crane",
+      "license": "CC-BY-SA-4.0"
     },
     "Herotint": {
       "monsterKey": "Herotint",
@@ -2291,7 +2310,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Herotint",
-      "title": "Misty Crane"
+      "title": "Misty Crane",
+      "license": "CC-BY-SA-4.0"
     },
     "Azuron": {
       "monsterKey": "Azuron",
@@ -2407,7 +2427,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Azuron",
-      "title": "Misty Crane"
+      "title": "Misty Crane",
+      "license": "CC-BY-SA-4.0"
     },
     "Felichick": {
       "monsterKey": "Felichick",
@@ -2527,7 +2548,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Delichick",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Feerotint": {
       "monsterKey": "Feerotint",
@@ -2647,7 +2669,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Herotint",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Blancron": {
       "monsterKey": "Blancron",
@@ -2767,7 +2790,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Blancron",
-      "title": "Fighting Crane"
+      "title": "Fighting Crane",
+      "license": "CC-BY-SA-4.0"
     },
     "Lambert": {
       "monsterKey": "Lambert",
@@ -2901,7 +2925,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Lambert",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Legko": {
       "monsterKey": "Legko",
@@ -3035,7 +3060,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Legko",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Moloch": {
       "monsterKey": "Moloch",
@@ -3169,7 +3195,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Moloch",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Sprigot": {
       "monsterKey": "Sprigot",
@@ -3283,7 +3310,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Lambert",
-      "title": "Corrupted Root"
+      "title": "Corrupted Root",
+      "license": "CC-BY-SA-4.0"
     },
     "Wiltvine": {
       "monsterKey": "Wiltvine",
@@ -3397,7 +3425,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Legko",
-      "title": "Corrupted Root"
+      "title": "Corrupted Root",
+      "license": "CC-BY-SA-4.0"
     },
     "Hemlurk": {
       "monsterKey": "Hemlurk",
@@ -3511,7 +3540,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Moloch",
-      "title": "Corrupted Root"
+      "title": "Corrupted Root",
+      "license": "CC-BY-SA-4.0"
     },
     "Rocksnek": {
       "monsterKey": "Rocksnek",
@@ -3610,7 +3640,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Constorch",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Rockobra": {
       "monsterKey": "Rockobra",
@@ -3709,7 +3740,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Titannon",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Budaye": {
       "monsterKey": "Budaye",
@@ -3818,7 +3850,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Budaye",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Frondly": {
       "monsterKey": "Frondly",
@@ -3927,7 +3960,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Frondly",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Larvug": {
       "monsterKey": "Larvug",
@@ -4022,7 +4056,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Merlicun",
-      "title": "Ancient Larva"
+      "title": "Ancient Larva",
+      "license": "CC-BY-SA-4.0"
     },
     "Firomenis": {
       "monsterKey": "Firomenis",
@@ -4129,7 +4164,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Firomenis",
-      "title": "Ancient Moth"
+      "title": "Ancient Moth",
+      "license": "CC-BY-SA-4.0"
     },
     "Ardy": {
       "monsterKey": "Ardy",
@@ -4239,7 +4275,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Aardorn",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Aard": {
       "monsterKey": "Aard",
@@ -4349,7 +4386,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Aardorn",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Grubane": {
       "monsterKey": "Grubane",
@@ -4447,7 +4485,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Veiloon": {
       "monsterKey": "Veiloon",
@@ -4545,7 +4584,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Silkshade": {
       "monsterKey": "Silkshade",
@@ -4643,7 +4683,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Dreadrone": {
       "monsterKey": "Dreadrone",
@@ -4741,7 +4782,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Chardy": {
       "monsterKey": "Chardy",
@@ -4859,7 +4901,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Aardorn",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Chaard": {
       "monsterKey": "Chaard",
@@ -4977,7 +5020,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Aardorn",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Dreed": {
       "monsterKey": "Dreed",
@@ -5099,7 +5143,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Chloragon",
-      "title": "Seed Lizard"
+      "title": "Seed Lizard",
+      "license": "CC-BY-SA-4.0"
     },
     "Drout": {
       "monsterKey": "Drout",
@@ -5221,7 +5266,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Sapragon",
-      "title": "Seed Lizard"
+      "title": "Seed Lizard",
+      "license": "CC-BY-SA-4.0"
     },
     "Dragalia": {
       "monsterKey": "Dragalia",
@@ -5343,7 +5389,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Dragarbor",
-      "title": "Seed Lizard"
+      "title": "Seed Lizard",
+      "license": "CC-BY-SA-4.0"
     },
     "Chillimp": {
       "monsterKey": "Chillimp",
@@ -5442,7 +5489,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Chillimp",
-      "title": "Abominable Snowman"
+      "title": "Abominable Snowman",
+      "license": "CC-BY-SA-4.0"
     },
     "Cheti": {
       "monsterKey": "Cheti",
@@ -5541,7 +5589,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Snowrilla",
-      "title": "Abominable Snowman"
+      "title": "Abominable Snowman",
+      "license": "CC-BY-SA-4.0"
     },
     "Boltnu": {
       "monsterKey": "Boltnu",
@@ -5656,7 +5705,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Boltnu",
-      "title": "Repair Construct"
+      "title": "Repair Construct",
+      "license": "CC-BY-SA-4.0"
     },
     "Zagon": {
       "monsterKey": "Zagon",
@@ -5771,7 +5821,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Exclawvate",
-      "title": "Repair Construct"
+      "title": "Repair Construct",
+      "license": "CC-BY-SA-4.0"
     },
     "Drashimi": {
       "monsterKey": "Drashimi",
@@ -5889,7 +5940,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Drashimi",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Drushi": {
       "monsterKey": "Drushi",
@@ -6007,7 +6059,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Tsushimi",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Dragami": {
       "monsterKey": "Dragami",
@@ -6129,7 +6182,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Tobishimi",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Metesaur": {
       "monsterKey": "Metesaur",
@@ -6232,7 +6286,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Metesaur",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Meteodactly": {
       "monsterKey": "Meteodactly",
@@ -6335,7 +6390,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Qetzlrokilus",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Snock": {
       "monsterKey": "Snock",
@@ -6441,7 +6497,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Snock",
-      "title": "Costumed Dragon"
+      "title": "Costumed Dragon",
+      "license": "CC-BY-SA-4.0"
     },
     "Pythock": {
       "monsterKey": "Pythock",
@@ -6547,7 +6604,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Pythock",
-      "title": "Costumed Dragon"
+      "title": "Costumed Dragon",
+      "license": "CC-BY-SA-4.0"
     },
     "Seltek": {
       "monsterKey": "Seltek",
@@ -6642,7 +6700,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Selket",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Selmatek": {
       "monsterKey": "Selmatek",
@@ -6737,7 +6796,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Selmatek",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Agnite": {
       "monsterKey": "Agnite",
@@ -6859,7 +6919,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Agnite",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Agnidon": {
       "monsterKey": "Agnidon",
@@ -6981,7 +7042,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Agnidon",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Agnigon": {
       "monsterKey": "Agnigon",
@@ -7103,7 +7165,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Agnigon",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Mewnuk": {
       "monsterKey": "Mewnuk",
@@ -7212,7 +7275,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Memnomnom",
-      "title": "Pride Cub"
+      "title": "Pride Cub",
+      "license": "CC-BY-SA-3.0"
     },
     "Miaownolith": {
       "monsterKey": "Miaownolith",
@@ -7333,7 +7397,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Miaownolith",
-      "title": "Pride Sentinel"
+      "title": "Pride Sentinel",
+      "license": "CC-BY-SA-3.0"
     },
     "Pyraminx": {
       "monsterKey": "Pyraminx",
@@ -7430,7 +7495,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Pyraminx",
-      "title": "Pride Matriach"
+      "title": "Pride Matriach",
+      "license": "CC-BY-SA-3.0"
     },
     "Pyrominx": {
       "monsterKey": "Pyrominx",
@@ -7531,7 +7597,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Criniotherme",
-      "title": "Pride Hunter"
+      "title": "Pride Hunter",
+      "license": "CC-BY-SA-3.0"
     },
     "Bigfin": {
       "monsterKey": "Bigfin",
@@ -7614,7 +7681,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Bigfin",
-      "title": "Island Whale"
+      "title": "Island Whale",
+      "license": "CC-BY-SA-4.0"
     },
     "Sharpfin": {
       "monsterKey": "Sharpfin",
@@ -7697,7 +7765,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Sharpfin",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Grintot": {
       "monsterKey": "Grintot",
@@ -7797,7 +7866,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Grubble",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Grinflare": {
       "monsterKey": "Grinflare",
@@ -7898,7 +7968,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Gringite",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Grinshock": {
       "monsterKey": "Grinshock",
@@ -7999,7 +8070,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Gracklin",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Pondive": {
       "monsterKey": "Pondive",
@@ -8100,7 +8172,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Pondive",
-      "title": "Pond Beetle"
+      "title": "Pond Beetle",
+      "license": "CC-BY-SA-3.0"
     },
     "Divurf": {
       "monsterKey": "Divurf",
@@ -8201,7 +8274,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Divurf",
-      "title": "Pond Beetle"
+      "title": "Pond Beetle",
+      "license": "CC-BY-SA-3.0"
     },
     "Medikit": {
       "monsterKey": "Medikit",
@@ -8283,7 +8357,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Medipup",
-      "title": "Nurse Cat"
+      "title": "Nurse Cat",
+      "license": "CC-BY-SA-3.0"
     },
     "Doctsy": {
       "monsterKey": "Doctsy",
@@ -8365,7 +8440,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Doctsky",
-      "title": "Nurse Cat"
+      "title": "Nurse Cat",
+      "license": "CC-BY-SA-3.0"
     },
     "Foillet": {
       "monsterKey": "Foillet",
@@ -8472,7 +8548,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Foilett",
-      "title": "Steel Swan"
+      "title": "Steel Swan",
+      "license": "CC-BY-SA-3.0"
     },
     "Swanfoil": {
       "monsterKey": "Swanfoil",
@@ -8579,7 +8656,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Swanfoil",
-      "title": "Steel Swan"
+      "title": "Steel Swan",
+      "license": "CC-BY-SA-3.0"
     },
     "Bumbulus": {
       "monsterKey": "Bumbulus",
@@ -8678,7 +8756,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Bumbulus",
-      "title": "Cloud Wisp"
+      "title": "Cloud Wisp",
+      "license": "CC-BY-SA-4.0"
     },
     "Nimbulus": {
       "monsterKey": "Nimbulus",
@@ -8777,7 +8856,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Nimbulex",
-      "title": "Cloud Wisp"
+      "title": "Cloud Wisp",
+      "license": "CC-BY-SA-4.0"
     },
     "Tadcool": {
       "monsterKey": "Tadcool",
@@ -8868,7 +8948,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Tadcool",
-      "title": "Frozen Tadpole"
+      "title": "Frozen Tadpole",
+      "license": "CC-BY-SA-4.0"
     },
     "Fribbit": {
       "monsterKey": "Fribbit",
@@ -8959,7 +9040,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Fribbit",
-      "title": "Frozen Frog"
+      "title": "Frozen Frog",
+      "license": "CC-BY-SA-4.0"
     },
     "Millil": {
       "monsterKey": "Millil",
@@ -9054,7 +9136,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Millilil",
-      "title": "Sneaky Millipede"
+      "title": "Sneaky Millipede",
+      "license": "CC-BY-SA-4.0"
     },
     "Millisting": {
       "monsterKey": "Millisting",
@@ -9149,7 +9232,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Millisting",
-      "title": "Sneaky Millipede"
+      "title": "Sneaky Millipede",
+      "license": "CC-BY-SA-4.0"
     },
     "Kelpup": {
       "monsterKey": "Kelpup",
@@ -9248,7 +9332,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Weedsea",
-      "title": "Living Seaweed"
+      "title": "Living Seaweed",
+      "license": "CC-BY-SA-3.0"
     },
     "Reefrond": {
       "monsterKey": "Reefrond",
@@ -9347,7 +9432,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Weedlantis",
-      "title": "Living Seaweed"
+      "title": "Living Seaweed",
+      "license": "CC-BY-SA-3.0"
     },
     "Waysprite": {
       "monsterKey": "Waysprite",
@@ -9454,7 +9540,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": "Snowflake"
+      "title": "Snowflake",
+      "license": "CC-BY-SA-4.0"
     },
     "Agnesnow": {
       "monsterKey": "Agnesnow",
@@ -9556,8 +9643,9 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": "Snow Angel"
+      "tuxemonLink": "https://wiki.tuxemon.org/Angesnow",
+      "title": "Snow Angel",
+      "license": "CC-BY-SA-4.0"
     },
     "Seraphice": {
       "monsterKey": "Seraphice",
@@ -9659,8 +9747,9 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": "Snow Angel"
+      "tuxemonLink": "https://wiki.tuxemon.org/Seraphice",
+      "title": "Snow Angel",
+      "license": "CC-BY-SA-4.0"
     },
     "Demisnow": {
       "monsterKey": "Demisnow",
@@ -9766,8 +9855,9 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": "Snow Demon"
+      "tuxemonLink": "https://wiki.tuxemon.org/Demosnow",
+      "title": "Snow Demon",
+      "license": "CC-BY-SA-4.0"
     },
     "Lucifice": {
       "monsterKey": "Lucifice",
@@ -9873,8 +9963,9 @@
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "https://wiki.tuxemon.org/Waysprite",
-      "title": "Snow Demon"
+      "tuxemonLink": "https://wiki.tuxemon.org/Lucifice",
+      "title": "Snow Demon",
+      "license": "CC-BY-SA-4.0"
     },
     "Poturney": {
       "monsterKey": "Poturney",
@@ -9964,7 +10055,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Potturmeist",
-      "title": "Forgotten Urn"
+      "title": "Forgotten Urn",
+      "license": "CC-BY-SA-3.0"
     },
     "Potturmeist": {
       "monsterKey": "Potturmeist",
@@ -10054,7 +10146,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Potturney",
-      "title": "Forgotten Urn"
+      "title": "Forgotten Urn",
+      "license": "CC-BY-SA-3.0"
     },
     "Polyrock": {
       "monsterKey": "Polyrock",
@@ -10149,7 +10242,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Polyrock",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Tweesher": {
       "monsterKey": "Tweesher",
@@ -10259,7 +10353,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Tweesher",
-      "title": "Frosty Hatchling"
+      "title": "Frosty Hatchling",
+      "license": "CC-BY-SA-4.0"
     },
     "Heronquak": {
       "monsterKey": "Heronquak",
@@ -10369,7 +10464,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Heronquak",
-      "title": "Frosty Heron"
+      "title": "Frosty Heron",
+      "license": "CC-BY-SA-4.0"
     },
     "Eaglace": {
       "monsterKey": "Eaglace",
@@ -10483,7 +10579,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Eaglace",
-      "title": "Frosty Eagle"
+      "title": "Frosty Eagle",
+      "license": "CC-BY-SA-4.0"
     },
     "Stonifly": {
       "monsterKey": "Stonifly",
@@ -10585,7 +10682,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Stonifly",
-      "title": "Mosquito Fossil"
+      "title": "Mosquito Fossil",
+      "license": "CC-BY-SA-3.0"
     },
     "Cocrune": {
       "monsterKey": "Cocrune",
@@ -10687,7 +10785,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Cocrune",
-      "title": "Mosquito Fossil"
+      "title": "Mosquito Fossil",
+      "license": "CC-BY-SA-3.0"
     },
     "Runesquito": {
       "monsterKey": "Runesquito",
@@ -10789,7 +10888,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Runesquito",
-      "title": "Mosquito Fossil"
+      "title": "Mosquito Fossil",
+      "license": "CC-BY-SA-3.0"
     },
     "Sparepple": {
       "monsterKey": "Sparepple",
@@ -10900,7 +11000,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Sparepple",
-      "title": "Acorn Ronin"
+      "title": "Acorn Ronin",
+      "license": "CC-BY-SA-3.0"
     },
     "Samurepple": {
       "monsterKey": "Samurepple",
@@ -11011,7 +11112,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Samurepple",
-      "title": "Acorn Ronin"
+      "title": "Acorn Ronin",
+      "license": "CC-BY-SA-3.0"
     },
     "Forturtle": {
       "monsterKey": "Forturtle",
@@ -11097,7 +11199,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Forturtle",
-      "title": "Prophet Tortoise"
+      "title": "Prophet Tortoise",
+      "license": "CC-BY-SA-3.0"
     },
     "Prophetoise": {
       "monsterKey": "Prophetoise",
@@ -11208,7 +11311,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Prophetoise",
-      "title": "Prophet Tortoise"
+      "title": "Prophet Tortoise",
+      "license": "CC-BY-SA-3.0"
     },
     "SLichen": {
       "monsterKey": "SLichen",
@@ -11295,7 +11399,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Slichen",
-      "title": "Slime"
+      "title": "Slime",
+      "license": "CC-BY-SA-4.0"
     },
     "Glombroc": {
       "monsterKey": "Glombroc",
@@ -11382,7 +11487,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Glombroc",
-      "title": "Slime"
+      "title": "Slime",
+      "license": "CC-BY-SA-4.0"
     },
     "Uneye": {
       "monsterKey": "Uneye",
@@ -11457,7 +11563,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Uneye",
-      "title": "Watcher"
+      "title": "Watcher",
+      "license": "CC-BY-SA-4.0"
     },
     "Lendos": {
       "monsterKey": "Lendos",
@@ -11532,7 +11639,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Lendos",
-      "title": "Watcher"
+      "title": "Watcher",
+      "license": "CC-BY-SA-4.0"
     },
     "Boldersaur": {
       "monsterKey": "Boldersaur",
@@ -11639,7 +11747,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Boulder Dino"
+      "title": "Boulder Dino",
+      "license": "CC0"
     },
     "Fracture": {
       "monsterKey": "Fracture",
@@ -11746,7 +11855,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Boulder Dino"
+      "title": "Boulder Dino",
+      "license": "CC0"
     },
     "Mantite": {
       "monsterKey": "Mantite",
@@ -11849,7 +11959,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Deadly Mantis"
+      "title": "Deadly Mantis",
+      "license": "CC0"
     },
     "Galvascythe": {
       "monsterKey": "Galvascythe",
@@ -11952,7 +12063,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Deadly Mantis"
+      "title": "Deadly Mantis",
+      "license": "CC0"
     },
     "Mantobo": {
       "monsterKey": "Mantobo",
@@ -12051,7 +12163,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Frozen Mantis"
+      "title": "Frozen Mantis",
+      "license": "CC0"
     },
     "Glaciascythe": {
       "monsterKey": "Glaciascythe",
@@ -12150,7 +12263,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Frozen Mantis"
+      "title": "Frozen Mantis",
+      "license": "CC0"
     },
     "Swampu": {
       "monsterKey": "Swampu",
@@ -12245,7 +12359,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Bog Dog"
+      "title": "Bog Dog",
+      "license": "CC0"
     },
     "Swamploom": {
       "monsterKey": "Swamploom",
@@ -12340,7 +12455,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Bog Dog"
+      "title": "Bog Dog",
+      "license": "CC0"
     },
     "Blazu": {
       "monsterKey": "Blazu",
@@ -12450,7 +12566,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Blazloom": {
       "monsterKey": "Blazloom",
@@ -12560,7 +12677,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Shockshrew": {
       "monsterKey": "Shockshrew",
@@ -12659,7 +12777,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Electric Porcupine"
+      "title": "Electric Porcupine",
+      "license": "CC0"
     },
     "Shockupine": {
       "monsterKey": "Shockupine",
@@ -12758,7 +12877,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Electric Porcupine"
+      "title": "Electric Porcupine",
+      "license": "CC0"
     },
     "Cindshrew": {
       "monsterKey": "Cindshrew",
@@ -12872,7 +12992,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Flaming Porcupine"
+      "title": "Flaming Porcupine",
+      "license": "CC0"
     },
     "Cindipine": {
       "monsterKey": "Cindipine",
@@ -12986,7 +13107,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Flaming Porcupine"
+      "title": "Flaming Porcupine",
+      "license": "CC0"
     },
     "Xylofish": {
       "monsterKey": "Xylofish",
@@ -13093,7 +13215,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Xylocarp",
-      "title": "Xylophone"
+      "title": "Xylophone",
+      "license": "CC-BY-SA-4.0"
     },
     "BloatFish": {
       "monsterKey": "BloatFish",
@@ -13187,7 +13310,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Shnark",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Apeoro": {
       "monsterKey": "Apeoro",
@@ -13281,7 +13405,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Apeoro",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Mauai": {
       "monsterKey": "Mauai",
@@ -13378,7 +13503,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Mauai",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Medushock": {
       "monsterKey": "Medushock",
@@ -13473,7 +13599,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Medusting": {
       "monsterKey": "Medusting",
@@ -13568,7 +13695,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Baoby": {
       "monsterKey": "Baoby",
@@ -13658,7 +13786,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Baoby",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Baobaraffe": {
       "monsterKey": "Baobaraffe",
@@ -13748,7 +13877,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Baobaraffe",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "LeonSol": {
       "monsterKey": "LeonSol",
@@ -13839,7 +13969,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Dandylion",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Goldstream": {
       "monsterKey": "Goldstream",
@@ -13949,7 +14080,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Gupphish",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Goldscale": {
       "monsterKey": "Goldscale",
@@ -14059,7 +14191,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Gupphire",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Goldcind": {
       "monsterKey": "Goldcind",
@@ -14173,7 +14306,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Golnagi",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Rootram": {
       "monsterKey": "Rootram",
@@ -14288,7 +14422,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Barkhide": {
       "monsterKey": "Barkhide",
@@ -14403,7 +14538,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "FirePony": {
       "monsterKey": "FirePony",
@@ -14518,7 +14654,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Volcavalry": {
       "monsterKey": "Volcavalry",
@@ -14633,7 +14770,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Buzzbill": {
       "monsterKey": "Buzzbill",
@@ -14756,7 +14894,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Ironbill": {
       "monsterKey": "Ironbill",
@@ -14879,7 +15018,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "parroot": {
       "monsterKey": "parroot",
@@ -14982,7 +15122,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Parrolage": {
       "monsterKey": "Parrolage",
@@ -15085,7 +15226,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "sludguppy": {
       "monsterKey": "sludguppy",
@@ -15180,7 +15322,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Sludgudge": {
       "monsterKey": "Sludgudge",
@@ -15275,7 +15418,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "merguppy": {
       "monsterKey": "merguppy",
@@ -15382,7 +15526,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Muckmaid": {
       "monsterKey": "Muckmaid",
@@ -15489,7 +15634,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "dracicle": {
       "monsterKey": "dracicle",
@@ -15599,7 +15745,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Glacicle": {
       "monsterKey": "Glacicle",
@@ -15709,7 +15856,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Boreacicle": {
       "monsterKey": "Boreacicle",
@@ -15819,7 +15967,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Woolluff": {
       "monsterKey": "Woolluff",
@@ -15906,7 +16055,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Caper",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Crankus": {
       "monsterKey": "Crankus",
@@ -15993,7 +16143,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Crankus",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-3.0"
     },
     "Sootle": {
       "monsterKey": "Sootle",
@@ -16104,7 +16255,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Cobarett",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Coalbra": {
       "monsterKey": "Coalbra",
@@ -16215,7 +16367,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Pythonova",
-      "title": ""
+      "title": "",
+      "license": "CC-BY-SA-4.0"
     },
     "Pallos": {
       "monsterKey": "Pallos",
@@ -16302,7 +16455,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Buzzolt": {
       "monsterKey": "Buzzolt",
@@ -16401,7 +16555,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Skeeta": {
       "monsterKey": "Skeeta",
@@ -16500,7 +16655,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Luchapede": {
       "monsterKey": "Luchapede",
@@ -16579,7 +16735,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Vampede": {
       "monsterKey": "Vampede",
@@ -16678,7 +16835,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Joltey": {
       "monsterKey": "Joltey",
@@ -16773,7 +16931,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Joltjab": {
       "monsterKey": "Joltjab",
@@ -16868,7 +17027,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Maceodon": {
       "monsterKey": "Maceodon",
@@ -16963,7 +17123,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Jocty": {
       "monsterKey": "Jocty",
@@ -17058,7 +17219,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Shadowbox": {
       "monsterKey": "Shadowbox",
@@ -17149,7 +17311,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Pengbaby": {
       "monsterKey": "Pengbaby",
@@ -17242,7 +17405,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Tideroy": {
       "monsterKey": "Tideroy",
@@ -17351,7 +17515,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Darkroy": {
       "monsterKey": "Darkroy",
@@ -17444,7 +17609,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Brambush": {
       "monsterKey": "Brambush",
@@ -17547,7 +17713,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Bush Spider"
+      "title": "Bush Spider",
+      "license": "CC0"
     },
     "Finip": {
       "monsterKey": "Finip",
@@ -17634,7 +17801,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Leviatide": {
       "monsterKey": "Leviatide",
@@ -17721,7 +17889,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Frillbud": {
       "monsterKey": "Frillbud",
@@ -17828,7 +17997,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Frondrake": {
       "monsterKey": "Frondrake",
@@ -17935,7 +18105,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Tarpup": {
       "monsterKey": "Tarpup",
@@ -18038,7 +18209,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Swampit": {
       "monsterKey": "Swampit",
@@ -18141,7 +18313,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Tar Croc"
+      "title": "Tar Croc",
+      "license": "CC0"
     },
     "Moonlarva": {
       "monsterKey": "Moonlarva",
@@ -18207,27 +18380,25 @@
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
-        "height": 100.0,
+        "height": 250.0,
         "nodes": [
           {
             "key": "Moonlarva",
             "x": 100.0,
-            "y": 50.0
+            "y": 125.0
           },
           {
             "key": "Moonarch",
             "x": 300.0,
-            "y": 50.0
+            "y": 83.3333359
+          },
+          {
+            "key": "Mothwick",
+            "x": 300.0,
+            "y": 166.666672
           }
         ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
+        "arrows": []
       },
       "contributors": [
         {
@@ -18240,7 +18411,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Moonarch": {
       "monsterKey": "Moonarch",
@@ -18306,27 +18478,25 @@
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
-        "height": 100.0,
+        "height": 250.0,
         "nodes": [
           {
             "key": "Moonlarva",
             "x": 100.0,
-            "y": 50.0
+            "y": 125.0
           },
           {
             "key": "Moonarch",
             "x": 300.0,
-            "y": 50.0
+            "y": 83.3333359
+          },
+          {
+            "key": "Mothwick",
+            "x": 300.0,
+            "y": 166.666672
           }
         ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
+        "arrows": []
       },
       "contributors": [
         {
@@ -18339,7 +18509,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Mothwick": {
       "monsterKey": "Mothwick",
@@ -18413,27 +18584,25 @@
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
-        "height": 100.0,
+        "height": 250.0,
         "nodes": [
           {
             "key": "Moonlarva",
             "x": 100.0,
-            "y": 50.0
+            "y": 125.0
           },
           {
             "key": "Moonarch",
             "x": 300.0,
-            "y": 50.0
+            "y": 83.3333359
+          },
+          {
+            "key": "Mothwick",
+            "x": 300.0,
+            "y": 166.666672
           }
         ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
+        "arrows": []
       },
       "contributors": [
         {
@@ -18446,7 +18615,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Sparkit": {
       "monsterKey": "Sparkit",
@@ -18541,7 +18711,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Stormane": {
       "monsterKey": "Stormane",
@@ -18640,7 +18811,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Orbacle": {
       "monsterKey": "Orbacle",
@@ -18731,7 +18903,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Zenkong": {
       "monsterKey": "Zenkong",
@@ -18798,7 +18971,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Axowarry": {
       "monsterKey": "Axowarry",
@@ -18893,7 +19067,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Gravadillo": {
       "monsterKey": "Gravadillo",
@@ -18988,7 +19163,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Soarus": {
       "monsterKey": "Soarus",
@@ -19095,7 +19271,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Cloudrake": {
       "monsterKey": "Cloudrake",
@@ -19202,7 +19379,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     },
     "Pinefawn": {
       "monsterKey": "Pinefawn",
@@ -19313,7 +19491,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Pine Reindeer"
+      "title": "Pine Reindeer",
+      "license": "CC0"
     },
     "Everhorn": {
       "monsterKey": "Everhorn",
@@ -19424,7 +19603,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Pine Reindeer"
+      "title": "Pine Reindeer",
+      "license": "CC0"
     },
     "Mammelt": {
       "monsterKey": "Mammelt",
@@ -19519,7 +19699,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Magma Mammoth"
+      "title": "Magma Mammoth",
+      "license": "CC0"
     },
     "Magmatusk": {
       "monsterKey": "Magmatusk",
@@ -19614,7 +19795,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Magma Mammoth"
+      "title": "Magma Mammoth",
+      "license": "CC0"
     },
     "Sabretooth": {
       "monsterKey": "Sabretooth",
@@ -19717,7 +19899,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Steel Sabre"
+      "title": "Steel Sabre",
+      "license": "CC0"
     },
     "Sabretooth2": {
       "monsterKey": "Sabretooth2",
@@ -19820,7 +20003,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Steel Sabre"
+      "title": "Steel Sabre",
+      "license": "CC0"
     },
     "Owlite": {
       "monsterKey": "Owlite",
@@ -19919,7 +20103,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Mystic Owl"
+      "title": "Mystic Owl",
+      "license": "CC0"
     },
     "Astraloon": {
       "monsterKey": "Astraloon",
@@ -20018,7 +20203,8 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Corvix",
-      "title": "Mystic Owl"
+      "title": "Mystic Owl",
+      "license": "CC-BY-SA-3.0"
     },
     "Puffrog": {
       "monsterKey": "Puffrog",
@@ -20121,7 +20307,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Gassy Frog"
+      "title": "Gassy Frog",
+      "license": "CC0"
     },
     "Croakloud": {
       "monsterKey": "Croakloud",
@@ -20224,7 +20411,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Gassy Frog"
+      "title": "Gassy Frog",
+      "license": "CC0"
     },
     "Gnashy": {
       "monsterKey": "Gnashy",
@@ -20323,7 +20511,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Frosty Hyena"
+      "title": "Frosty Hyena",
+      "license": "CC0"
     },
     "Mangefrost": {
       "monsterKey": "Mangefrost",
@@ -20422,7 +20611,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Frosty Hyena"
+      "title": "Frosty Hyena",
+      "license": "CC0"
     },
     "Geknin": {
       "monsterKey": "Geknin",
@@ -20525,7 +20715,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Ninja Lizard"
+      "title": "Ninja Lizard",
+      "license": "CC0"
     },
     "Toxikage": {
       "monsterKey": "Toxikage",
@@ -20628,7 +20819,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Ninja Lizard"
+      "title": "Ninja Lizard",
+      "license": "CC0"
     },
     "Shibu": {
       "monsterKey": "Shibu",
@@ -20681,7 +20873,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Wolf Cub"
+      "title": "Wolf Cub",
+      "license": "CC0"
     },
     "Shibuzz": {
       "monsterKey": "Shibuzz",
@@ -20751,7 +20944,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Drone Wolf"
+      "title": "Drone Wolf",
+      "license": "CC0"
     },
     "Shibog": {
       "monsterKey": "Shibog",
@@ -20829,7 +21023,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Shark Wolf"
+      "title": "Shark Wolf",
+      "license": "CC0"
     },
     "Shiblitz": {
       "monsterKey": "Shiblitz",
@@ -20915,7 +21110,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Blazing Wolf"
+      "title": "Blazing Wolf",
+      "license": "CC0"
     },
     "Shibolt": {
       "monsterKey": "Shibolt",
@@ -20985,7 +21181,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Mountain Wolf"
+      "title": "Mountain Wolf",
+      "license": "CC0"
     },
     "Shiberg": {
       "monsterKey": "Shiberg",
@@ -21055,7 +21252,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Glacial Husky"
+      "title": "Glacial Husky",
+      "license": "CC0"
     },
     "Shibrawl": {
       "monsterKey": "Shibrawl",
@@ -21129,7 +21327,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Lucha Wolf"
+      "title": "Lucha Wolf",
+      "license": "CC0"
     },
     "Shibane": {
       "monsterKey": "Shibane",
@@ -21195,7 +21394,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Corrupted Wolf"
+      "title": "Corrupted Wolf",
+      "license": "CC0"
     },
     "GrassSHibu": {
       "monsterKey": "GrassSHibu",
@@ -21285,7 +21485,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Guardian Wolf"
+      "title": "Guardian Wolf",
+      "license": "CC0"
     },
     "Shiraptor": {
       "monsterKey": "Shiraptor",
@@ -21367,7 +21568,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Raptor Wolf"
+      "title": "Raptor Wolf",
+      "license": "CC0"
     },
     "Shibafly": {
       "monsterKey": "Shibafly",
@@ -21429,7 +21631,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Mystic Wolf"
+      "title": "Mystic Wolf",
+      "license": "CC0"
     },
     "Shibastion": {
       "monsterKey": "Shibastion",
@@ -21523,7 +21726,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Sentry Wolf"
+      "title": "Sentry Wolf",
+      "license": "CC0"
     },
     "Shiburrow": {
       "monsterKey": "Shiburrow",
@@ -21601,7 +21805,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Mole Wolf"
+      "title": "Mole Wolf",
+      "license": "CC0"
     },
     "Shibungus": {
       "monsterKey": "Shibungus",
@@ -21667,7 +21872,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Mushroom Wolf"
+      "title": "Mushroom Wolf",
+      "license": "CC0"
     },
     "Shiraph": {
       "monsterKey": "Shiraph",
@@ -21741,7 +21947,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Angel Wolf"
+      "title": "Angel Wolf",
+      "license": "CC0"
     },
     "Tankalf": {
       "monsterKey": "Tankalf",
@@ -21860,7 +22067,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Armored Hippo"
+      "title": "Armored Hippo",
+      "license": "CC0"
     },
     "Bombarge": {
       "monsterKey": "Bombarge",
@@ -21979,7 +22187,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Armored Hippo"
+      "title": "Armored Hippo",
+      "license": "CC0"
     },
     "Stego": {
       "monsterKey": "Stego",
@@ -22086,7 +22295,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Stormy Stegosaurus"
+      "title": "Stormy Stegosaurus",
+      "license": "CC0"
     },
     "Nimbusaur": {
       "monsterKey": "Nimbusaur",
@@ -22193,7 +22403,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Stormy Stegosaurus"
+      "title": "Stormy Stegosaurus",
+      "license": "CC0"
     },
     "Fuzzfly": {
       "monsterKey": "Fuzzfly",
@@ -22292,7 +22503,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Moth Dragon"
+      "title": "Moth Dragon",
+      "license": "CC0"
     },
     "Flutterwing": {
       "monsterKey": "Flutterwing",
@@ -22391,7 +22603,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Moth Dragon"
+      "title": "Moth Dragon",
+      "license": "CC0"
     },
     "Dreadguard": {
       "monsterKey": "Dreadguard",
@@ -22490,7 +22703,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Haunted Armor"
+      "title": "Haunted Armor",
+      "license": "CC0"
     },
     "Squabbit": {
       "monsterKey": "Squabbit",
@@ -22585,7 +22799,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Soldier Bunny"
+      "title": "Soldier Bunny",
+      "license": "CC0"
     },
     "Legionhare": {
       "monsterKey": "Legionhare",
@@ -22680,7 +22895,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Soldier Bunny"
+      "title": "Soldier Bunny",
+      "license": "CC0"
     },
     "Sylphawn": {
       "monsterKey": "Sylphawn",
@@ -22783,7 +22999,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Forest Guardian"
+      "title": "Forest Guardian",
+      "license": "CC0"
     },
     "Veilora": {
       "monsterKey": "Veilora",
@@ -22862,7 +23079,8 @@
         }
       ],
       "tuxemonLink": "",
-      "title": ""
+      "title": "",
+      "license": "CC0"
     }
   },
   "abilities": {

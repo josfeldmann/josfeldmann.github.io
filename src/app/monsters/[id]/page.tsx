@@ -22,6 +22,8 @@ import MonsterResistanceTable from '@/app/components/ui/ResistanceTable';
 import EvolutionGraphView from '@/app/components/ui/EvolutionGraphView';
 import { Contributor } from '@/app/components/data/Contributor';
 import { ContributorCreditsList } from '@/app/components/ui/ContributorCreditList';
+import { Breadcrumbs } from '@/app/components/ui/BreadCrumbs';
+import LicenseLink from '@/app/components/ui/LicenseLink';
 export type MonsterDictionary = Record<string, Monster>;
 
 export async function generateStaticParams() {
@@ -95,6 +97,22 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
 
 <div>
+      <Breadcrumbs
+        items={[
+          {
+            label: "Home",
+            href: "/",
+          },
+          {
+            label: "Monsters",
+            href: "/Monsters.html",
+          },
+          {
+            label: monster.monsterName,
+            href: `/Monsters/${monster.monsterKey}.html`,
+          },
+        ]}
+      />
 
       <div className="d-flex flex-wrap  justify-content-left">
 
@@ -173,10 +191,10 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
       <h3>Contributors</h3>
                   <ContributorCreditsList contributorCredits={contributors} />
                   {tuxemonURL && tuxemonURL.length > 0 && (
-                    <a href={tuxemonURL}>
-                       Associated Tuxemon: {tuxName}
-                    </a>
+                    <>Associated Tuxemon: <a href={tuxemonURL}>{tuxName}</a></>
                     )}
+                    <br/>
+                    License: <LicenseLink license={monster.license} />
     </div>
 
   );

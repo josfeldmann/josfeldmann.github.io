@@ -9,6 +9,7 @@ import { MonsterDatabase } from "../components/data/MonsterDatabase";
 import monsters from '../../../public/data/monsters.json'
 import NavBar from "../components/ui/navbar";
 import Movelist from "../components/ui/MoveList";
+import { Breadcrumbs } from "../components/ui/BreadCrumbs";
 
 
 
@@ -21,6 +22,18 @@ export default function MovesPage() {
   const l = db.getAllMoves();
   return (
     <div>
+      <Breadcrumbs
+                    items={[
+                      {
+                        label: "Home",
+                        href: "/",
+                      },
+                      {
+                        label: "Moves",
+                        href: "/Moves.html",
+                      }
+                    ]}
+                  />
         <h1>Moves</h1>
 
         <Movelist moves={l} />;

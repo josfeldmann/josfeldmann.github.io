@@ -29,6 +29,7 @@ export class Monster {
   tuxemonLink : string;
   contributors : { contributorKey: string, credit: string  }[];
   title : string;
+  license : string;
 
   constructor(data: {
     monsterKey : string;
@@ -56,6 +57,7 @@ export class Monster {
     contributors : { contributorKey: string, credit: string  }[];
     tuxemonLink : string,
     title: string,
+    license : string;
   }) {
     this.monsterKey = data.monsterKey;
     this.monsterName = data.monsterName;
@@ -72,6 +74,7 @@ export class Monster {
     this.contributors = data.contributors;
     this.tuxemonLink = data.tuxemonLink;
     this.title = data.title;
+    this.license = data.license;
   }
 
 

@@ -8,6 +8,7 @@ import React from 'react';
 import { log } from 'console';
 import NavBar from '@/app/components/ui/navbar';
 import MonsterGrid from '@/app/components/ui/MonsterGrid';
+import { Breadcrumbs } from '@/app/components/ui/BreadCrumbs';
 export type MonsterDictionary = Record<string, Monster>;
 
 
@@ -42,8 +43,27 @@ export default function LocationPage({ params }: { params: { id: string } }) {
 
 <div>
 
+<Breadcrumbs
+  items={[
+    {
+      label: "Home",
+      href: "/",
+    },
+    {
+      label: "Contributors",
+      href: "/Contributors.html",
+    },
+    {
+      label: contributor.contributorName,
+      href: `/Contributors/${contributor.contributorKey}.html`,
+    },
+  ]}
+/>
 
-  <h1>{contributor.contributorName}</h1>
+  <div style={{display:'flex'}}>
+  <img src={`/data/Contributors/${contributor.contributorKey}.png`} width={"48px"} height={"48px"}/>
+  <h1>&nbsp;{contributor.contributorName}</h1>
+  </div>
 
   {contributor.contributorLink != contributor.tuxemonLink && <a href={contributor.contributorLink}>Portfolio Link</a>}
   {contributor.contributorLink != contributor.tuxemonLink && contributor.tuxemonLink.length > 0 && <br/>}

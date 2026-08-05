@@ -9,6 +9,7 @@ import { log } from 'console';
 import NavBar from '@/app/components/ui/navbar';
 import MonsterGrid from '@/app/components/ui/MonsterGrid';
 import Movelist from '@/app/components/ui/MoveList';
+import { Breadcrumbs } from '@/app/components/ui/BreadCrumbs';
 export type MonsterDictionary = Record<string, Monster>;
 
 
@@ -44,6 +45,23 @@ export default function AbilityPage({ params }: { params: { id: string } }) {
 
 
 <div>
+<Breadcrumbs
+        items={[
+          {
+            label: "Home",
+            href: "/",
+          },
+          {
+            label: "Moves",
+            href: "/Moves.html",
+          },
+          {
+            label: move.name,
+            href: `/Moves/${move.key}.html`,
+          },
+        ]}
+      />
+
     <h1>{move.name}</h1>
 
     <Movelist moves={[move]} />;

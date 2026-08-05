@@ -9,6 +9,7 @@ import { log } from 'console';
 import NavBar from '@/app/components/ui/navbar';
 import MonsterGrid from '@/app/components/ui/MonsterGrid';
 import Movelist from '@/app/components/ui/MoveList';
+import { Breadcrumbs } from '@/app/components/ui/BreadCrumbs';
 export type MonsterDictionary = Record<string, Monster>;
 
 export async function generateStaticParams() {
@@ -43,6 +44,24 @@ export default function MonsterTypePage({ params }: { params: { id: string } }) 
 
 
 <div>
+
+      <Breadcrumbs
+              items={[
+                {
+                  label: "Home",
+                  href: "/",
+                },
+                {
+                  label: "Tags",
+                  href: "/Tags.html",
+                },
+                {
+                  label: tag.name,
+                  href: `/Tags/${tag.key}.html`,
+                },
+              ]}
+            />
+
     <h1>{tag.name} Tag</h1>
       
     <p>{tag.description}</p>
