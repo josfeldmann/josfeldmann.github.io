@@ -26,7 +26,7 @@ export default function TypesPage() {
                       },
                       {
                         label: "Types",
-                        href: "/Types.html",
+                        href: "/types.html",
                       }
                     ]}
                   />

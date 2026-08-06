@@ -51,11 +51,11 @@ export default function LocationPage({ params }: { params: { id: string } }) {
     },
     {
       label: "Contributors",
-      href: "/Contributors.html",
+      href: "/contributors.html",
     },
     {
       label: contributor.contributorName,
-      href: `/Contributors/${contributor.contributorKey}.html`,
+      href: `/contributors/${contributor.contributorKey}.html`,
     },
   ]}
 />

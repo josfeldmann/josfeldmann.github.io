@@ -17,7 +17,7 @@ export default function AbilitiesPage() {
                       },
                       {
                         label: "Abilities",
-                        href: "/Abilities.html",
+                        href: "/abilities.html",
                       }
                     ]}
                   />

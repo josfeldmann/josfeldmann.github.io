@@ -130,11 +130,11 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
           },
           {
             label: "Monsters",
-            href: "/Monsters.html",
+            href: "/monsters.html",
           },
           {
             label: monster.monsterName,
-            href: `/Monsters/${monster.monsterKey}.html`,
+            href: `/monsters/${monster.monsterKey}.html`,
           },
         ]}
       />

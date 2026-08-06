@@ -25,8 +25,8 @@ export default function MonstersPage() {
                         href: "/",
                       },
                       {
-                        label: "Monsters",
-                        href: "/Monsters.html",
+                        label: "monsters",
+                        href: "/monsters.html",
                       }
                     ]}
                   />

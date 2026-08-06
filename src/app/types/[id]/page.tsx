@@ -53,11 +53,11 @@ export default function MonsterTypePage({ params }: { params: { id: string } }) 
             },
             {
               label: "Types",
-              href: "/Types.html",
+              href: "/types.html",
             },
             {
               label: type.name,
-              href: `/Types/${type.key}.html`,
+              href: `/types/${type.key}.html`,
             },
           ]}
         />

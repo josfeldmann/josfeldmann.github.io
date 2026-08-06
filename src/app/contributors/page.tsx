@@ -26,7 +26,7 @@ export default function LocationsPage() {
                       },
                       {
                         label: "Contributors",
-                        href: "/Contributors.html",
+                        href: "/contributors.html",
                       }
                     ]}
                   />

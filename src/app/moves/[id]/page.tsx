@@ -53,11 +53,11 @@ export default function AbilityPage({ params }: { params: { id: string } }) {
           },
           {
             label: "Moves",
-            href: "/Moves.html",
+            href: "/moves.html",
           },
           {
             label: move.name,
-            href: `/Moves/${move.key}.html`,
+            href: `/moves/${move.key}.html`,
           },
         ]}
       />

@@ -53,7 +53,7 @@ export default function AbilityPage({ params }: { params: { id: string } }) {
                     },
                     {
                       label: ability.name,
-                      href: `/Abilities/${ability.key}.html`,
+                      href: `/abilities/${ability.key}.html`,
                     },
                   ]}
                 />

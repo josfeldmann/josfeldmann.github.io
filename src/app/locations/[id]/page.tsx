@@ -52,11 +52,11 @@ export default function LocationPage({ params }: { params: { id: string } }) {
                   },
                   {
                     label: "Locations",
-                    href: "/Locations.html",
+                    href: "/locations.html",
                   },
                   {
                     label: location.name,
-                    href: `/Locations/${location.key}.html`,
+                    href: `/locations/${location.key}.html`,
                   },
                 ]}
               />

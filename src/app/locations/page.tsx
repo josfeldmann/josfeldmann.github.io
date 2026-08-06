@@ -26,7 +26,7 @@ export default function LocationsPage() {
                       },
                       {
                         label: "Locations",
-                        href: "/Locations.html",
+                        href: "/locations.html",
                       }
                     ]}
                   />

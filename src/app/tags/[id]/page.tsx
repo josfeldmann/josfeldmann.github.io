@@ -53,11 +53,11 @@ export default function MonsterTypePage({ params }: { params: { id: string } }) 
                 },
                 {
                   label: "Tags",
-                  href: "/Tags.html",
+                  href: "/tags.html",
                 },
                 {
                   label: tag.name,
-                  href: `/Tags/${tag.key}.html`,
+                  href: `/tags/${tag.key}.html`,
                 },
               ]}
             />

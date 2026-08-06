@@ -28,7 +28,7 @@ export default function TagsPage() {
                       },
                       {
                         label: "Tags",
-                        href: "/Tags.html",
+                        href: "/tags.html",
                       }
                     ]}
                   />

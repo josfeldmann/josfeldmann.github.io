@@ -30,7 +30,7 @@ export default function MovesPage() {
                       },
                       {
                         label: "Moves",
-                        href: "/Moves.html",
+                        href: "/moves.html",
                       }
                     ]}
                   />
