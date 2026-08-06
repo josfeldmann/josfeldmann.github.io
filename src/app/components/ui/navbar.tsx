@@ -47,6 +47,8 @@ export default function NavBar() {
             { href: "/types.html", name: "Types" },
             { href: "/tags.html", name: "Tags" },
             { href: "/movecategories.html", name: "Move Categories" },
+            { href: "/stats.html", name: "Stats" },
+            { href: "/status.html", name: "Statuses" },
           ]}
         />
 

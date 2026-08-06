@@ -11,7 +11,7 @@ export function MoveCategoryBadge( badgeData : CatBadgeProps) {
   return (
     <div style={{ width: "64px", height: "32px" }}>
   <a
-    href={`/${badgeData.data.key}.html`}
+    href={`/movecategories/${badgeData.data.key}.html`}
     title={badgeData.data.name}
     style={{ display: "block", width: "100%", height: "100%" }}
   >

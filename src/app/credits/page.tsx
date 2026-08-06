@@ -29,7 +29,7 @@ export default function LocationsPage() {
                       },
                       {
                         label: "Contributors",
-                        href: "/creditss.html",
+                        href: "/credits.html",
                       }
                     ]}
                   />

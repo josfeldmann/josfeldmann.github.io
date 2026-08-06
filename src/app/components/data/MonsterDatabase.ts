@@ -116,6 +116,10 @@ export class MonsterDatabase {
     return Object.keys(this.abilities);
   }
 
+  getMonsterMoveCategoryKeys() : string[] {
+    return Object.keys(this.moveCategories);
+  }
+
   getAllAbilities() : Ability[] {
     return Object.values(this.abilities);
   }
