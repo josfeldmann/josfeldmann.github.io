@@ -193,8 +193,8 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
                   <h3>Evolution Tree</h3>
                   <EvolutionGraphView graph={monster.evolutionGraph} />
-                  <h3>Where to Obtain</h3>
-                  <SingleLineList items={locations} renderItem={(location) => (<GenericLink value={location} basePath="/locations/" />)}/>
+                  {/* <h3>Where to Obtain</h3>
+                  <SingleLineList items={locations} renderItem={(location) => (<GenericLink value={location} basePath="/locations/" />)}/> */}
                   <h3>Resistances</h3>
                   <MonsterResistanceTable monster={monster} />
                   

@@ -13,7 +13,6 @@ export default function TagsPage() {
 
   const db = MonsterDatabase.getInstance();
 
-  const m = db.getAllTypeKeys();
 
 
   return (
@@ -32,8 +31,10 @@ export default function TagsPage() {
                       }
                     ]}
                   />
-        <h1>Types</h1>
-        <SingleLineList items={m} renderItem={(monsterType) => ( <TypeButton data={db.getMonsterType(monsterType)} /> )}/>
+        <h1>Tags</h1>
+        <p>
+          Tags are applied to moves in order to group them and apply special effects. Pages for them are in development currently.
+        </p>
 
     </div>
 

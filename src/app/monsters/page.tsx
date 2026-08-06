@@ -25,7 +25,7 @@ export default function MonstersPage() {
                         href: "/",
                       },
                       {
-                        label: "monsters",
+                        label: "Monsters",
                         href: "/monsters.html",
                       }
                     ]}

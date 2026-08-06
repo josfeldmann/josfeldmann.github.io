@@ -50,12 +50,12 @@ export default function LocationPage({ params }: { params: { id: string } }) {
       href: "/",
     },
     {
-      label: "Contributors",
-      href: "/contributors.html",
+      label: "Credits",
+      href: "/credits.html",
     },
     {
       label: contributor.contributorName,
-      href: `/contributors/${contributor.contributorKey}.html`,
+      href: `/credits/${contributor.contributorKey}.html`,
     },
   ]}
 />
@@ -75,6 +75,7 @@ export default function LocationPage({ params }: { params: { id: string } }) {
 
   <h2>Credits - {monsters.length}</h2>
   <MonsterGrid monsters={monsters}/>
+
 
 </div>
 

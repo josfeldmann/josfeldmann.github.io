@@ -22,6 +22,10 @@ export default function AbilitiesPage() {
                     ]}
                   />
         <h1>Abilities</h1>
+
+        <p>
+          Abilities are traits that give Novamon special properties in battle. Novamon have one main ability that can be changed, and 1-2 passive abilities that are permanent.
+        </p>
     </div>
 
   );

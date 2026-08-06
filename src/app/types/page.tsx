@@ -31,6 +31,12 @@ export default function TypesPage() {
                     ]}
                   />
         <h1>Types</h1>
+
+        <p>
+          Each Novamon has a type, almost all of them have two. Types affect weakenesses, resistances, movesets, and provide passive bonuses (in development).
+        </p>
+
+        <h2>Types currently in game</h2>
         <SingleLineList items={m} renderItem={(monsterType) => ( <TypeButton data={db.getMonsterType(monsterType)} /> )}/>
 
     </div>

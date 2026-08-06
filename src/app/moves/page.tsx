@@ -35,6 +35,11 @@ export default function MovesPage() {
                     ]}
                   />
         <h1>Moves</h1>
+        <p>
+          Moves are what Novamon use to battle eachother and do damage or other effects. Each Novamon can learn 4 moves and has a unique moveset based on its typing, design, and abilities.
+        </p>
+
+        <h2>All Moves</h2>
 
         <Movelist moves={l} />;
 

@@ -26,11 +26,29 @@ export default function LocationsPage() {
                       },
                       {
                         label: "Contributors",
-                        href: "/contributors.html",
+                        href: "/creditss.html",
                       }
                     ]}
                   />
-        <h1>Contributors</h1>
+        <h1>Credits</h1>
+
+        <p>
+          These are a list of different artists whose designs I used in the game. Some of them I commissioned directly for this project while others are artists that contributed to open source projects that I used designs from. You can click on them to see which monsters thei sprites were used in.
+        </p>
+        <p>For more information about the open source assets please check out the <a href="/attributions.html">attributions page</a>.</p>
+
+    <h2>Artists I commissioned</h2>
+    <p>
+      These are artists I directly purchased sprites/designs from or commissioned via fiverr/twitter.
+    </p>
+
+    <h2>Tuxemon/Open Source Credits</h2>
+    <p>
+      These are artists and designers who contributed to Tuxemon and/or Creative Commons Licensed Fakemon collections. I can legally use their deisngs and sprites as long as I credit them which I do more explicitly in the <a href="/attributions.html">attributions page</a>.
+    </p>
+
+    
+
     </div>
     
   );
