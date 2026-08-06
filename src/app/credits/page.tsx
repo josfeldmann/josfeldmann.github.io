@@ -9,13 +9,16 @@ import { MonsterDatabase } from "../components/data/MonsterDatabase";
 import monsters from '../../../public/data/monsters.json'
 import NavBar from "../components/ui/navbar";
 import { Breadcrumbs } from "../components/ui/BreadCrumbs";
+import { FlexibleGrid } from "../components/ui/FlexibleGrid";
+import { ContributorBadge } from "../components/ui/ContributorBadge";
 
 
 
 
 export default function LocationsPage() {
   // Extract the dictionary of monsters
-  const m =  MonsterDatabase.getInstance().getAllContributors();
+  const tux = MonsterDatabase.getInstance().getTuxmonContributors();
+  const nonTux = MonsterDatabase.getInstance().getNonTuxemonContributors();
   return (
     <div>
       <Breadcrumbs
@@ -42,11 +45,27 @@ export default function LocationsPage() {
       These are artists I directly purchased sprites/designs from or commissioned via fiverr/twitter.
     </p>
 
+    <FlexibleGrid
+      items={nonTux}
+      ItemComponent={ContributorBadge}
+      getKey={(contributor) => contributor.contributorKey}
+      minimumItemWidth={160}
+      gap={24}
+    />
+    
+
     <h2>Tuxemon/Open Source Credits</h2>
     <p>
       These are artists and designers who contributed to Tuxemon and/or Creative Commons Licensed Fakemon collections. I can legally use their deisngs and sprites as long as I credit them which I do more explicitly in the <a href="/attributions.html">attributions page</a>.
     </p>
 
+      <FlexibleGrid
+      items={tux}
+      ItemComponent={ContributorBadge}
+      getKey={(contributor) => contributor.contributorKey}
+      minimumItemWidth={160}
+      gap={24}
+    />
     
 
     </div>

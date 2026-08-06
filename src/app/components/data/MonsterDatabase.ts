@@ -444,8 +444,30 @@ export class MonsterDatabase {
 
 
 
-  
+  getTuxmonContributors() : Contributor[] {
 
+    const r : Contributor[] = [];
+
+    this.getAllContributors().forEach((c) => {
+      if (c.tuxemonLink != null && c.tuxemonLink.length > 0) {
+        r.push(c);
+      }
+    })
+
+    return r;
+  }
+
+  getNonTuxemonContributors() : Contributor[] {
+    const r : Contributor[] = [];
+
+    this.getAllContributors().forEach((c) => {
+      if (c.tuxemonLink == null || c.tuxemonLink.length == 0) {
+        r.push(c);
+      }
+    })
+
+    return r;
+  }
   
 
   
