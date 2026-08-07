@@ -24162,7 +24162,7 @@
       "key": "Dino",
       "name": "Dino",
       "color": "7B63E7",
-      "description": ""
+      "description": null
     },
     "Electric": {
       "key": "Electric",
@@ -24192,7 +24192,7 @@
       "key": "Leaf",
       "name": "Leaf",
       "color": "7BCE52",
-      "description": ""
+      "description": null
     },
     "Ground": {
       "key": "Ground",
@@ -24210,19 +24210,19 @@
       "key": "Beast",
       "name": "Beast",
       "color": "C8B088",
-      "description": ""
+      "description": null
     },
     "Poison": {
       "key": "Poison",
       "name": "Poison",
       "color": "9141CB",
-      "description": ""
+      "description": null
     },
     "Psy": {
       "key": "Psy",
       "name": "Psy",
       "color": "D95AFF",
-      "description": ""
+      "description": null
     },
     "Rock": {
       "key": "Rock",
@@ -24234,7 +24234,7 @@
       "key": "Shadow",
       "name": "Shadow",
       "color": "362B3F",
-      "description": ""
+      "description": null
     },
     "Steel": {
       "key": "Steel",
@@ -24246,7 +24246,7 @@
       "key": "Water",
       "name": "Water",
       "color": "399CFF",
-      "description": ""
+      "description": null
     }
   },
   "items": {},
@@ -24660,7 +24660,7 @@
       "contributorDescription": "Concept Artist. Commissioned to create designs for Tuxemon.",
       "contributorLink": "https://www.deviantart.com/extyrannomon",
       "associatedMonsters": [],
-      "tuxemonLink": ""
+      "tuxemonLink": "https://wiki.tuxemon.org/Extyrannomon"
     },
     "Fauxlens": {
       "contributorKey": "Fauxlens",
