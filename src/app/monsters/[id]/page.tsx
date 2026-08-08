@@ -182,10 +182,10 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
         {monster.shortDescription}
       </p>
 
-      <p>
+      {/* <p>
         {monster.longDescription}
       </p>
-  
+   */}
       <div className="row g-4">
           {/* Right-side info on desktop, first on mobile */}
           <div className="col-12 col-lg-5 order-1 order-lg-2">

@@ -9,7 +9,7 @@ export function ContributorTag({
   contributor
 }: ContributorBadgeProps) {
   const imageSrc =`/data/Contributors/${contributor.contributorKey}.png`;
-  const url = `/contributors/${contributor.contributorKey}.html`;
+  const url = `/credits/${contributor.contributorKey}.html`;
 
   const badgeContent = (
     <span

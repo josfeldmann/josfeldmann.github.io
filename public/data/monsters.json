@@ -184,7 +184,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It spends more time alone on sunny hills, using its tail to sense weather changes and nearby movement.",
+      "shortDescription": "A more inpdependent adolescent. It breaks away from the pack to explore the world looking for spots to sunbathe.",
       "longDescription": "After leaving the herd, it often travels by itself along hills and open fields. Its long neck helps more fur reach the sun, allowing it to build a stronger charge. It avoids most fights, but it will warn intruders with sparks from its wool and tail.",
       "evolutionGraph": {
         "width": 400.0,
@@ -302,7 +302,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It rubs its necks together to build electricity. When threatened, it releases a charge strong enough to scare predators away.",
+      "shortDescription": "It rubs its necks together to build electricity. When threatened, it releases a charge strong enough to scare predators away fro its pack.",
       "longDescription": "It guards sunny valleys where flowers and grazing plants are common. Its two heads often pull in different directions, but their necks rub together as they move, creating large amounts of electricity. It is quick to drive away threats, though younger members of its herd may safely graze near it.",
       "evolutionGraph": {
         "width": 400.0,
@@ -416,7 +416,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "Hides in heated tide pools, venting painful steam when threatened by aquatic hunters that mistake it for easy prey.",
+      "shortDescription": "Hides on the ocean floor near volcanic vents. Uses heat blasts to hunt prey through the water.  ",
       "longDescription": "Lives where volcanic rock warms shallow seawater. It feeds by heating trapped mollusks until their shells weaken, then pries them open with careful claw strikes. The steam released from its back vents contains intense dry heat, making it especially dangerous to creatures that rely on moist skin or gills.",
       "evolutionGraph": {
         "width": 400.0,
@@ -534,7 +534,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "Stalks reefs at low tide, blasting fireballs across the water before surrounding rivals in scalding steam.",
+      "shortDescription": "Travels to the surface to look from prey, as it's not a very strong swimmer. On land it scuttles around and uses steam bursts to cook prey.",
       "longDescription": "Claims rocky channels where warm currents carry small fish and shellfish. It stores heated seawater inside its body, forcing it out as thick steam that burns through the defenses of many aquatic predators. When competing for territory, it fires warning shots from its claws, then uses steam clouds to hide its next movement.",
       "evolutionGraph": {
         "width": 400.0,
@@ -652,7 +652,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "Grows large enough to challenge Bigfins, using overwhelming firepower to force them from the deep before closing in.",
+      "shortDescription": "Its backwards steam vents have grown large enough to propel it quickly through the water. If uses that speed to hunt large aquatic prey like Bigfins.",
       "longDescription": "Rules warm offshore waters and often hunts prey far larger than itself. As it matures, its internal chambers produce far greater heat and pressure, allowing it to launch concentrated blasts strong enough to wound  Bigfins and drive them into shallow water. Reports describe it stalking beneath steam banks, then striking in repeated volleys until even massive marine animals abandon the area.",
       "evolutionGraph": {
         "width": 400.0,
@@ -779,7 +779,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "This pup tests its growing stone plates by ramming driftwood, ice chunks, and sleeping adults with little sense of danger.",
+      "shortDescription": "A playful pup that loves throwing itself of cliff, diving into the water or cushioning the fall with its rocky armor.",
       "longDescription": "Live along frozen beaches where cliffs meet the sea. Their first instincts are to charge at any hard surface, learning the limits of their bodies through impact. The gem on the brow helps them sense cracks in ice and stone, guiding them toward safe places to practice. Adults rarely stop these collisions unless the pup nears thin ice.",
       "evolutionGraph": {
         "width": 400.0,
@@ -902,7 +902,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Adolescents leap from sea cliffs into freezing surf, using each impact to strengthen their flippers and harden their armor.",
+      "shortDescription": "Groups leap from cliffs aiming for rocks and glaciers trying to crak them with their gem spike.",
       "longDescription": "At this stage, cliff-diving becomes a social ritual. Groups gather above rough water and take turns launching themselves into the waves below. The repeated shocks thicken their rocky limbs and teach them how to angle their bodies against stone, ice, and current. Those that dive most cleanly earn better resting spots and feeding routes.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1025,7 +1025,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "This powerful adult crashes into boulders and glacier walls, judging rivals by the cracks left behind after each blow.",
+      "shortDescription": "A terror on both sea and land. Impervious to predators with it's hardened rocky armor, it often waddles into human settlements looking food.",
       "longDescription": "Mature individuals claim cold coves bordered by cliffs and floating ice. They patrol by swimming beneath glaciers, then surfacing with enough force to fracture weak shelves. Their gem detects stress lines in stone, allowing them to strike with precision rather than waste strength. During disputes, adults ram nearby rocks first, settling most conflicts before direct combat begins.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1131,7 +1131,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "Its soft songs drift through thickets at dawn, drawing insects from hiding and keeping small flocks close together.",
+      "shortDescription": "Learn how to chirp beautiful songs from a young age, which makes them a popular pet.",
       "longDescription": "This small bird lives along woodland edges, gardens, and quiet trails where low branches offer quick shelter. Its song is gentle and patterned, often used to guide siblings back to the nest or calm disputes over food. When threatened, it releases brief gusts from rapid wingbeats, scattering leaves and gaining just enough space to escape.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1237,7 +1237,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "Its developing voice can bend into sharp cries, causing small prey to stumble while it closes in from above.",
+      "shortDescription": "Has learned how to turn its voice into a weapon, often luring young prey out by mimicing their parents cries.",
       "longDescription": "During adolescence, it becomes loud, restless, and eager to test its strength. It practices from high perches, repeating notes until they harden into bursts of sound that rattle branches and confuse nearby animals. Hunting groups often take turns driving insects and small creatures into open ground with gusts, then striking before the target can regain direction.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1343,7 +1343,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "A sudden cry from its territory can scatter whole flocks, leaving predators dazed and prey unable to flee straight.",
+      "shortDescription": "Uses its piercing cries to disorient prey and sweep in for an easy kill. Also uses beautiful mating ritual songs to court their mates.",
       "longDescription": "This mature hunter rules open woods, orchards, and windy ridgelines. Its call carries far across the canopy, creating waves of pressure that disrupt balance and make distance difficult to judge. It rarely wastes energy in long chases, instead using compressed gusts and piercing cries to break a target’s focus. Mated pairs defend broad nesting grounds with coordinated sonic displays.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1458,7 +1458,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It warms berries with its tail flame before eating, then sleeps in smoky hollows where larger scavengers rarely search.",
+      "shortDescription": "It warms berries with its tail flame before eating. Nests in large trees often accidentally setting them on fire.",
       "longDescription": "This young stage roosts in tree holes, barn rafters, and abandoned nests near fruiting shrubs. It prefers berries softened by heat, but will nibble carrion when food is scarce. Its small flame is used more for cooking than fighting, though startled groups may fan sparks with frantic wingbeats. Dry leaves often ignite around crowded roosts, making these colonies unwanted near settlements.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1573,7 +1573,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It dives at grounded animals with shrill cries, scattering them before singeing dropped food or exposed scraps.",
+      "shortDescription": "Huges pests that chase prey spewing fire at them from above, and often starting forest fires. Humans try to eliminate them wherever possible.",
       "longDescription": "During adolescence, it becomes bold and difficult to drive away. Small groups patrol trails, farms, and forest clearings, harassing larger animals with sudden swoops and ringing screams. Their gusts spread embers from their tail flames, allowing them to flush insects, expose hidden nests, or frighten scavengers off remains. Many accidental fires begin when these reckless hunters roost in dry rafters or dead trees.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1688,7 +1688,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Its roar-like screech and flaring tail can drive predators from fresh kills, leaving the carcass for its own flock.",
+      "shortDescription": "A huge menace. Once it takes down a large target it uses its flames to cook it for its children.",
       "longDescription": "This mature scavenger claims cliffs, burned trunks, and abandoned towers as roosting sites. It rarely risks direct combat against strong predators, instead circling low with blasts of hot air and deafening cries until the hunter abandons its meal. It cooks carrion with controlled flame before feeding, but its patience fades near rivals. A single territorial display can shower sparks over a wide area, endangering forests and wooden buildings.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1800,7 +1800,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It tumbles down rocky slopes in play, learning how to steer its round body around cliffs, shrubs, and startled prey.",
+      "shortDescription": "Will spend an entire day tumbling down hills in pack. When threatened curls into a ball and mews for help.",
       "longDescription": "This young stage lives near scree fields and mountain trails, where loose stones provide cover. It spends much of the day rolling after pebbles, insects, and siblings, building balance through play. When frightened, it curls tightly and blends among fallen rocks until danger passes. Its claws harden early, helping it grip steep ground after each reckless tumble.",
       "evolutionGraph": {
         "width": 400.0,
@@ -1916,7 +1916,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It patrols mountain paths at dusk, pressing against stone walls until its outline disappears among weathered rock.",
+      "shortDescription": "Roams around mountain trails, waiting for travellers and prey tou pounce on.",
       "longDescription": "As it matures, it becomes solitary and watchful. It follows ridgelines, cliff ledges, and dry ravines while learning the borders of its future territory. Its rocky shell collects dust, moss, and mineral stains from the places it rests, improving its camouflage over time. It avoids humans whenever possible, freezing beside boulders until footsteps fade before continuing its patrol.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2028,7 +2028,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It waits motionless among boulders for hours, striking only when prey wanders close enough to hear its claws scrape stone.",
+      "shortDescription": "Uses its rocky armor as camoflauge, waiting motionless for days at a time for the perfect moment to strike. ",
       "longDescription": "This adult hunter is rarely seen, even in open terrain. It chooses ambush sites near mountain springs, goat trails, and sun-warmed cliffs where prey must pass close by. By flattening itself against stone and slowing its breathing, it becomes nearly indistinguishable from the surrounding rocks. Long waits sometimes lull it into sleep, allowing lucky prey to pass unharmed beneath its perch.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2141,7 +2141,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Hides among swamp reeds, stirring the water with tiny gusts to flush insects and small fish from cover.",
+      "shortDescription": "Fly close to the surface of the water and use their water manpulation abilites to force fish to the surface.",
       "longDescription": "Gather in shallow marsh pools where thick reeds conceal their nests. Rather than chasing prey, they puff short bursts of wind across the water, creating ripples that confuse small fish. Older flock members guide them through feeding routes, and chicks practice simple dance steps before they can fly well.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2258,7 +2258,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Stalk reed beds at dusk, using focused wind and water bursts to launch fish onto muddy banks.",
+      "shortDescription": "Congregate around marshes and perform water dances to impress potential mates.",
       "longDescription": "Herotint become solitary hunters for much of the year, guarding narrow channels through flooded grass. They bend reeds into screens around their resting spots and remain hidden until prey gathers nearby. With a sharp call and wingbeat, they send a twisting gust across the surface, knocking fish from the water before striking.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2375,7 +2375,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Perform complex courtship dances in misty swamps, shaping water spray and wind into dazzling displays.",
+      "shortDescription": "Have mastered water manipulation making and are able to form beautiful rings and geometric shapes around themselves. Can also use this power to blast foes with bursts of water.",
       "longDescription": "Azuron inhabit deep wetlands where open pools meet dense reed fields. Their wingbeats can lift sheets of water into the air, stunning prey and driving schools of fish toward the shore. During mating season, pairs perform mirrored dances at sunrise, judging rhythm, balance, and control over mist before choosing a nesting site.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2496,7 +2496,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "Nest along cold mountain streams, kicking loose pebbles into the water to stun small fish.",
+      "shortDescription": "A variant of delichick that has abandoned the water and choses to live in mountainous areas. They love running around and chasing bugs rather learning water manipulation.",
       "longDescription": "Live in groups beneath cliff overhangs, where adults shelter them from wind and falling stone. They practice sharp hops and low pecks along streambeds, learning to strike fish in shallow water. When startled, they scatter gravel with rapid kicks, creating cover as they flee into rocky crevices.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2548,7 +2548,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Delichick",
-      "title": "",
+      "title": "Fighting Crane",
       "license": "CC-BY-SA-4.0"
     },
     "Feerotint": {
@@ -2617,7 +2617,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "Ferotint split stones with repeated kicks, hurling fragments at prey before finishing with precise pecks.",
+      "shortDescription": "Develop strong armored legs that are surpisingly difficult to break. Chase down prey of foot rather than flying and bat away attackers with string kicks.",
       "longDescription": "Ferotint roam steep river valleys, testing their legs against loose boulders and cracked ledges. They break stone into smaller shards, then fling them with sweeping kicks to corner fish in pools. Young rivals often spar at dusk, trading controlled strikes until one lowers its head and yields the feeding ground.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2669,7 +2669,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Herotint",
-      "title": "",
+      "title": "Fighting Crane",
       "license": "CC-BY-SA-4.0"
     },
     "Blancron": {
@@ -2738,7 +2738,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "Claim high mountain terraces, cracking rock with heavy blows and using the fragments during territorial duels.",
+      "shortDescription": "A powerful crane that stalks mountainous areas. It uses its long legs to quickly run up hills and break rocks.",
       "longDescription": "Inhabit harsh cliffs where few predators can follow. Its kicks can fracture exposed stone, scattering sharp pieces that it uses to drive prey into narrow streams. During mating season, adults face each other in ritual combat, striking rocks between them before clashing. The strongest wins nesting rights without needless injury.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2873,7 +2873,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It hides in tree hollows and watches forest paths, using small psychic tricks to confuse anyone who wanders too close.",
+      "shortDescription": "Small Pyscic seedling that live at the base of trees, very shy and use their psychic power to scare away threats. Lamberts live together in complex communities in forest groves.",
       "longDescription": "This shy forest dweller rarely steps onto open ground. It listens through roots and bark, sensing footsteps before they enter its territory. When threatened, it bends shadows and rustling sounds to make travelers feel watched. Young individuals gather near old trees, where they practice guiding vines and leaves with quiet concentration.",
       "evolutionGraph": {
         "width": 400.0,
@@ -2925,7 +2925,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Lambert",
-      "title": "",
+      "title": "Grove Seedling",
       "license": "CC-BY-SA-4.0"
     },
     "Legko": {
@@ -3008,7 +3008,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Slips through branches like a living vine, scouting forest borders and warning its kin with silent psychic pulses.",
+      "shortDescription": "Adolescents Lamberts molt into a vine like shape to become closer to the trees they inhabit. They spend this time patrolling the forest learning about it and warning others of threats.",
       "longDescription": "After evolving, it abandons walking and moves through the canopy by twisting around branches and roots. It is often mistaken for common plant growth until it begins to move against the wind. This stage guards paths leading into deep woods, using psychic pressure to create unease in humans and herd them away without direct contact.",
       "evolutionGraph": {
         "width": 400.0,
@@ -3060,7 +3060,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Legko",
-      "title": "",
+      "title": "Grove Snake",
       "license": "CC-BY-SA-4.0"
     },
     "Moloch": {
@@ -3143,7 +3143,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Patrols ancient groves, spreading psychic signals through trees and using its vines to redirect lost creatures from danger.",
+      "shortDescription": "Adults become guardians of their groves. They mend and protect the groves they live in and use psychic powers to fight outside threats. One of their main  roles is to root out and kill corrupted Lamberts.",
       "longDescription": "Mature individuals choose a single forest and may protect it for decades. They rest against large trees, sending warnings through nearby plants whenever strangers enter. Their psychic power grows strongest during blooming seasons, when the whole grove seems to shift with their thoughts. Though feared by humans, they usually frighten intruders away rather than harm them.",
       "evolutionGraph": {
         "width": 400.0,
@@ -3195,7 +3195,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Moloch",
-      "title": "",
+      "title": "Grove Guardian",
       "license": "CC-BY-SA-4.0"
     },
     "Sprigot": {
@@ -3254,7 +3254,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "An unknown disease has begun to corrupt some Lamberts. Their presence can destroy the groves they live in, so they are quickly exiled.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -3369,7 +3369,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Corrupted Lamberts that survive become bitter hateful creatures. They stalk Lambert groves trying to kill or infect others to their cause.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -3484,7 +3484,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Sprigots are often killed by other Lamberts before they reach this stage, however if they manage to they become a gigantic threat to Lambert Groves. Capable of corrupting a tree in a matter of minutes.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -3603,7 +3603,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Hides in shallow burrows and spits embers at passing prey, startling them into the reach of its quick strike.",
+      "shortDescription": "A tiny snake that camoflauges itself as rocks and waits for unsuspecting prey to walk by before it scorches it.",
       "longDescription": "This small burrower spends most daylight hours beneath warm stones, leaving only its head near the entrance of its den. It flicks embers from its mouth to flush insects and small animals from cover. The flame at its tail helps keep its tunnel warm during cold desert nights, but it is tucked away when larger predators pass.",
       "evolutionGraph": {
         "width": 400.0,
@@ -3640,7 +3640,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Constorch",
-      "title": "",
+      "title": "Magma Snake",
       "license": "CC-BY-SA-4.0"
     },
     "Rockobra": {
@@ -3703,7 +3703,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It erupts from hidden tunnels, clamping prey with heated jaws before smashing stone apart with its hardened head.",
+      "shortDescription": "A magma snake that has mostly abandoned the surface. It it capable of melting rocks and absorbing minerals from with its magma jawa. It uses these minerals to strenghten its rock hard armor.",
       "longDescription": "This territorial hunter carves tunnels through brittle rock by ramming weak points and grinding loose stone aside. Heat gathers around its jaws before a strike, leaving scorched marks on burrow walls and prey trails. It often waits beneath cracked ground, sensing vibrations above. Rival burrowers are driven off with sudden headbutts that can collapse smaller dens.",
       "evolutionGraph": {
         "width": 400.0,
@@ -3740,7 +3740,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Titannon",
-      "title": "",
+      "title": "Magma Snake",
       "license": "CC-BY-SA-4.0"
     },
     "Budaye": {
@@ -3813,7 +3813,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It clings to branches with its tail bud, peering through leaves while searching for soft berries and fallen fruit.",
+      "shortDescription": "Loved by humans it lives in trees and shares berries with all forms of lfe. Predators often don't hunt it as it has healing powers that it uses on anyone in need.",
       "longDescription": "This small forest dweller spends much of the day tucked among leafy branches. Its tail bud grips bark and vines while its hands gather berries. Groups often play by dropping fruit for one another to catch. When startled, it freezes among flowers, relying on stillness until the danger passes.",
       "evolutionGraph": {
         "width": 400.0,
@@ -3850,7 +3850,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Budaye",
-      "title": "",
+      "title": "Friendly Lemur",
       "license": "CC-BY-SA-4.0"
     },
     "Frondly": {
@@ -3923,7 +3923,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It swings quickly between trees, using its blooming tail to hang upside down while plucking berries from thin branches.",
+      "shortDescription": "Budaye rarely choose to evolve, but when they do it is often because they have a personal drive to save other species from harm. They hide in trees and try to disrupt predatory Novamon, offering them berries or healing insteaad.",
       "longDescription": "This agile canopy forager travels in loose groups that follow seasonal fruiting paths. Its tail can hook around branches, letting it reach berries that heavier creatures cannot access. After feeding, it scatters seeds across high limbs and forest edges.",
       "evolutionGraph": {
         "width": 400.0,
@@ -3960,7 +3960,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Frondly",
-      "title": "",
+      "title": "Friendly Lemur",
       "license": "CC-BY-SA-4.0"
     },
     "Larvug": {
@@ -4019,7 +4019,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "A tireless leaf-eater that spins fine silk. Humans have begun capturing many of them to raise on farms.",
+      "shortDescription": "A tireless leaf eater that spends years growing bigger and bigger by foraging. Humans have protected them and used them to farm beautiful silk.",
       "longDescription": "This small larva spends most of its life feeding on soft leaves and fallen fruit. Its silk is strong, smooth, and valued by human weavers, though harvesting too much can leave it exposed to wind and predators. Colonies often strip young shrubs bare before moving together to fresh growth.",
       "evolutionGraph": {
         "width": 400.0,
@@ -4127,7 +4127,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "A Large wide-ranging winged insect that rarely lands, crossing forests and fields in search of steady food.",
+      "shortDescription": "Gentle giants. In the wild they generally are eaten before reaching this state, but humans have protected them and helped them evolve. Are used to carry heavy packages over large distances.",
       "longDescription": "After metamorphosis, it becomes a powerful flier with a constant need for nectar, sap, and ripe fruit. It follows seasonal blooms across great distances, sometimes allowing humans to ride it when their route matches a feeding path. Flocks gather near orchards, where their feeding can damage crops but also spreads pollen between distant regions.",
       "evolutionGraph": {
         "width": 400.0,
@@ -4234,7 +4234,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "A swift young burrow-raider that sniffs out insect nests, then darts in before defenders can swarm.",
+      "shortDescription": "Specialized in sniffing and digging out ants and small bugs. It has little in the way of defense but using speed to evade threats instead.",
       "longDescription": "This restless forager races through dry grasslands and open woodland at dusk. It uses sharp claws to break into ant tunnels, then gathers insects with quick flicks of its tongue. When threatened, it digs shallow escape pits or hides inside abandoned burrows until danger passes.",
       "evolutionGraph": {
         "width": 400.0,
@@ -4345,7 +4345,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "A fast-moving insect hunter that tears open packed soil and drains entire nests in minutes.",
+      "shortDescription": "Tears open ant hills in second. Travel in terriotorial packs that protect feeding grounds.",
       "longDescription": "This adult roams wide territories, following scent trails left by ants, termites, and buried larvae. Its long tongue can reach deep chambers without collapsing the nest, allowing it to feed quickly before moving on. Though built for digging, it prefers sudden charges and rapid turns to avoid larger predators.",
       "evolutionGraph": {
         "width": 400.0,
@@ -4445,7 +4445,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "A silk-spinning larva that feeds in darkness, leaving black threads along hidden paths through the undergrowth.",
+      "shortDescription": "Weak defenseless caterpillars that spend most of their early lives building a coccoon. They are easy prey and mainly come out at night as a result.",
       "longDescription": "This cautious larva avoids open sunlight and feeds mostly at night. Its silk is unusually smooth and strong, making it prized by clothmakers, though nests are difficult to collect safely. Colonies mark safe routes with thread, allowing younger members to follow scent and vibration through dense vegetation.",
       "evolutionGraph": {
         "width": 400.0,
@@ -4544,7 +4544,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "A silent cocoon that hangs in shaded places, wrapped in silk said to dim nearby light.",
+      "shortDescription": "Built out of harden silk. Veiloon are very stationary. Their shell wards off phyiscal attacks, while their dark aura protects them from special attacks.",
       "longDescription": "During metamorphosis, it seals itself inside layered silk and remains motionless for many days. Predators that approach often become confused or lose interest, as though guided away by an unseen presence. The eyes visible through its veil track movement, suggesting it remains aware while its body changes within.",
       "evolutionGraph": {
         "width": 400.0,
@@ -4643,7 +4643,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "A quiet winged adult that drifts through abandoned groves, spreading fear to protect its nesting sites.",
+      "shortDescription": "Female Veiloons emerge as Silkshade. Silkshade migrate and find new nesting grounds for Grubane. They  fly in packs by moonlight, which is a beautiful sight.",
       "longDescription": "This branch emerges from female Veiloon and is most often seen near ruins, hollow trees, and old silk nests. It feeds on nectar and weakened insects, but defends its territory with a strange, ghostly pressure that unsettles intruders. Its silk is rare and pale, often found hanging where no wind can move it.",
       "evolutionGraph": {
         "width": 400.0,
@@ -4742,7 +4742,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "A swift, restless adult that hunts in short bursts, cutting through brush to flush out prey.",
+      "shortDescription": "Male Veiloons emerge as Dreadrones. They travel in menacing packs scaring away threats and protecting Grubanes.",
       "longDescription": "This branch emerges from male Veiloon and lives as a roaming hunter. It races through dry fields and dark forests, using sharp forelimbs to clear paths, defend territory, and seize small prey. Groups rarely stay together for long, but several may gather when swarms of insects or carrion attract easy feeding.",
       "evolutionGraph": {
         "width": 400.0,
@@ -4856,7 +4856,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A genetic mutation that is linked to a mother Aard consuming too many fire ants and burn berries. Use embers to incinerate ant hills and then digs them out.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -4975,7 +4975,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Chaard's are often chased out of Aard pack's as they are often destroy ant hills and disrupt the food chain. As a result they are more omniverous, often hunting and cooking small prey and berries instead.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -5091,7 +5091,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It feeds on soft marsh plants, storing their toxins in its skin and spitting bitter poison when cornered.",
+      "shortDescription": "A small lizard that loves poisonous mushrooms and fungus. Most predators are detered by it's toxic skin and foul taste.",
       "longDescription": "Lves beneath wet leaves and tangled roots, rarely leaving cover except after rain. Its tail leaf gives off a faint plantlike scent that attracts small flies, which it snaps up to supplement its mostly vegetarian diet. Seeds swallowed from toxic fruits pass through unharmed, allowing poisonous plants to spread around its burrows.",
       "evolutionGraph": {
         "width": 400.0,
@@ -5214,7 +5214,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It stands upright among reeds, firing poison-coated seeds at intruders while its sprouting tail releases dizzying spores.",
+      "shortDescription": "A budding adolescent. While they are poisonous they love flowers and will consume harmful weeds and fungus.",
       "longDescription": "It eats leaves, seeds, and bitter stems, concentrating their chemicals into venomous saliva. The growth on its tail releases spores during warm afternoons, confusing insects and warning rivals away. Young Dreed often follow at a distance, feeding on plants disturbed by its passing.",
       "evolutionGraph": {
         "width": 400.0,
@@ -5337,7 +5337,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Its blooming tail lures swarms of flies, while its venomous breath scatters seedlike pellets across the forest floor.",
+      "shortDescription": "The bloom on it's tail has a mind of it's own luring and feasting on flies. Loves the smell of flower fields, often protecting and gardening them.",
       "longDescription": "The flower on its tail produces a strong sweet odor, drawing flies close before sudden bursts of toxic spray bring them down. It launches hardened seeds mixed with poison to repel larger threats, then buries the remains beneath leaf litter. Wherever it nests, unusual toxic plants often appear the following season.",
       "evolutionGraph": {
         "width": 400.0,
@@ -5452,7 +5452,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "It rolls across snowy hillsides to gather speed, crashing into threats with powerful arms before disappearing beneath fresh powder.",
+      "shortDescription": "A playful little creature that climbs mountains and hides in snow banks. Flings itself at others with its strong arms.",
       "longDescription": "Inhabits steep mountain slopes where deep snow makes walking difficult. Instead of running, it hurls itself downhill, steering with its muscular arms to avoid rocks and trees. Its body stays cold enough to preserve packed snow, forming a protective icy shell.",
       "evolutionGraph": {
         "width": 400.0,
@@ -5552,7 +5552,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "It patrols frozen peaks, striking with crushing blows that freeze the air around its fists before delivering a decisive attack.",
+      "shortDescription": "Very territorial mountain dwellers. Explorers have seen them travelling in packs and using tools but have not been able to do extensive research as they attack humans on sight. ",
       "longDescription": "It's thick fur traps icy air, allowing it to rapidly chill its arms before combat. Although highly territorial, it rarely begins fights, instead driving intruders away with booming roars and displays of strength. During winter storms, it digs tunnels through packed snow, creating shelters that smaller mountain creatures often share after the blizzard passes.",
       "evolutionGraph": {
         "width": 400.0,
@@ -5668,7 +5668,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "Hangs out in workshops and abandoned factories, feeding on stray electrical currents while trying and failing to repair broken equipment",
+      "shortDescription": "A unique construct of unknown origin, loves hanging around scrapyard trying to fix broken electronics.",
       "longDescription": "often found clinging to machinery, power lines, and rusted structures where weak electrical fields gather. Its spiral eyes rotate faster as it absorbs electricity, helping regulate the charge stored beneath its metal plating. Though it resembles a simple tool, it moves by producing brief magnetic pulses that let it glide over metallic surfaces.",
       "evolutionGraph": {
         "width": 400.0,
@@ -5784,7 +5784,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "It commands powerful magnetic fields, using its mechanical arms to dismantle scrap and channel bolts of concentrated electricity. Excels at taking things apart, building, not so much.",
+      "shortDescription": "A gentle giant that feeds on electricit and scrap metal. Likes helping humans in workshops and labratories, and loves being near generators. Excels at taking things apart, building, not so much.",
       "longDescription": "Inhabits abandoned industrial sites and rocky canyons rich in metal ore. Its four primary limbs provide stability while a second pair of mechanical arms perform precise work, allowing it to tear apart derelict machinery or construct towering nests from salvaged steel. The spirals in its eyes constantly spin as they measure surrounding electromagnetic fields, guiding blasts of compressed electricity with remarkable accuracy. Smaller Boltnu are often drawn to its presence, feeding on the static charge left behind after it works.",
       "evolutionGraph": {
         "width": 400.0,
@@ -5896,7 +5896,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred to resemble a sushi roll. They were very disobedient and ran away forming wild packs. This caused breeding regulations to be put in place.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -6015,7 +6015,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Love wrestling, often attacking other species to get them to play and wrestle. They often work with humans as laborers in exchange for food.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -6134,7 +6134,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Their mane is full of eggs, which allow them to reproduce rapidly. Their large size and muscles make them very arrogant and territorial. Although they will work with humans they can also be very dangerous.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -6249,7 +6249,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Its heated shell cushions frequent falls. It swallows stones to feed its inner flame, though oversized pieces often become lodged in its throat.",
+      "shortDescription": "Their bodies are too heavy for their wings. They use explosive flames to launch in the sky as they, but often cant sustain flight so they crash into the ground.",
       "longDescription": "Dex Entry — 68 words\nNewly hatched individuals gather along volcanic cliffs, where rising heat allows them to hover without strong wings. Poor judgment frequently sends them tumbling, but their dense lower shell absorbs most impacts. They instinctively swallow mineral-rich stones that sustain the fire within their bodies. Adults often remain nearby, breaking larger rocks into safer pieces after witnessing repeated choking attempts.",
       "evolutionGraph": {
         "width": 400.0,
@@ -6353,7 +6353,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "An intelligent and threatening predator. Heats swallowed stone into magma that strengthens its armor and powers long migrations.",
+      "shortDescription": "An apex predator that has learned to make the most of its deadly body. Uses it's large wings and explosive bursts to speed through the air and slam into foes with no regards for it's own safety as it is protected by rocky armor.",
       "longDescription": "Their long beaks split stone and pierce the hardened shells of prey. Rock consumed throughout the day melts within a specialized stomach, circulating heat through the body and replacing damaged armor. During migration, flocks resemble falling stars as they cross the night sky. ",
       "evolutionGraph": {
         "width": 400.0,
@@ -6460,7 +6460,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It remains hidden until its first ceremonial hood is finished, then sneaks around human settlements collecting cloth, thread, reeds, and shed scales.",
+      "shortDescription": "A shy little creature that lives in the shadows and scavenges for thread and scraps to build the costume it lives in. Loves dragons for some reason.",
       "longDescription": "Young spirits refuse to leave their nesting place before receiving a handmade hood from their parent. Once covered, they begin gathering discarded fabric, flexible wood, bright fibers, and other materials suited for a larger vessel. They are cautious around strangers but often trade small found objects with others of their kind. Growth remains dormant until they complete a costume capable of holding their expanding spiritual energy.",
       "evolutionGraph": {
         "width": 400.0,
@@ -6567,7 +6567,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "It mends its costume each night with precise stitches, then helps nearby spirits complete costumes sturdy enough to carry them into adulthood.",
+      "shortDescription": "Master tailors that build intricate costumes. Once evolved they love working alognside humans to create clothing, quilts, and to mend clothes. ",
       "longDescription": "Adults travel between villages, abandoned theaters, and festival grounds in loose family groups. Their narrow hands can sew even while the rest of the body remains in motion. Damaged costumes are treated like wounds, and neglected tears may cause the resident spirit to weaken. Experienced individuals collect rare materials for younger companions, teaching patterns through repeated gestures. During seasonal gatherings, entire colonies cooperate to construct long ceremonial vessels for homeless spirits.",
       "evolutionGraph": {
         "width": 400.0,
@@ -6659,7 +6659,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Sentient rocks that learned to mimic scorpions that lived in the deserts they were originally found in. Mimic animal behaviors but do not seem to actually prey on animals or require food.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -6755,7 +6755,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Large cowlike sentient rock creatues with scorpion like tails. Have powerful stinging attacks but rarely use them as other Novamon tend to ignore them. Their bodies are often found to contain small burrowing insects whose purpose is unknown.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -6863,7 +6863,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A rambunctious tropical lizard whose breath is flammable. Other Novamon steer clear as it singes things it doesnt understand.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -6919,7 +6919,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Agnite",
-      "title": "",
+      "title": "Flame Lizard",
       "license": "CC-BY-SA-4.0"
     },
     "Agnidon": {
@@ -6986,7 +6986,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "It's saliva has thickened into a magma like substance, it has been observed melting and eating rocks.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -7042,7 +7042,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Agnidon",
-      "title": "",
+      "title": "Flame Lizard",
       "license": "CC-BY-SA-4.0"
     },
     "Agnigon": {
@@ -7109,7 +7109,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "An extremely dangerous apex predator. No one dares approach it as it's magma bursts can melt holes in rock walls. If one is reported near a settlement Rangers are dispatched to chase it away immediately.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -7165,7 +7165,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Agnigon",
-      "title": "",
+      "title": "Flame Lizard",
       "license": "CC-BY-SA-4.0"
     },
     "Mewnuk": {
@@ -7231,7 +7231,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Young pride members spend their days wrestling in warm sand, testing their tails on beetles, and learning caste signals from adults.",
+      "shortDescription": "Youths spend their time learning the complex social structure of their pride. They all wear masks from birth to signify they are not adults yet.",
       "longDescription": "These cubs are raised communally in shaded ruins and dry riverbeds. Their playful battles teach balance, timing, and restraint before their caste is known. When startled, they bury themselves in loose sand with only their head exposed, waiting for the pride’s guards to arrive.",
       "evolutionGraph": {
         "width": 400.0,
@@ -7353,7 +7353,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Silent sentries line the edges of pride territory, enduring heat and sandstorms while watching for rivals from buried posts.",
+      "shortDescription": "Serve as the guards and sentries of the pride, immerse their bodies in sand so only their heads poke out.",
       "longDescription": "This caste serves as guards, escorts, and soldiers. They rarely leave the pride’s borders unless ordered by the queen. By standing still for long periods, they are often mistaken for ancient monuments. Their heavy steps mark warning paths in the desert, guiding cubs away from sinkholes, predator dens, and enemy patrols.",
       "evolutionGraph": {
         "width": 400.0,
@@ -7451,7 +7451,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "A calm matriarch that settles disputes with measured gestures, preserving water, food, and nesting grounds for the entire pride.",
+      "shortDescription": "The matriarches of the pride. Responsible for creating water, managing the underground dens. Use their tails to create intricate etchings in rock, detailing the history of the pride.",
       "longDescription": "The queen caste rules from cool chambers beneath old stone structures, where stored frost keeps the pride alive through drought. She assigns patrols, migration routes, and hunting duties with quiet authority. Rival queens rarely fight directly; instead, they test patience through long border standoffs and displays of controlled power.",
       "evolutionGraph": {
         "width": 400.0,
@@ -7553,7 +7553,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "Bold princes roam ahead of the pride, flushing prey from dunes and challenging threats before they near the royal den.",
+      "shortDescription": "Bold scouts and hunters of the pride, they seek out new resources, hunting grounds, and duel rival tribes for territory",
       "longDescription": "This caste handles hunting, scouting, and long-range patrols. They are quick to boast after successful hunts, but their pride depends on their courage and stamina. At sunrise, they travel far beyond marked territory to read tracks in cooling sand, returning with food, warnings, or news of rival movements.",
       "evolutionGraph": {
         "width": 400.0,
@@ -7652,7 +7652,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A large whale that is often mistake for an island. The roots from any plants grown on its back are itegrated with it's body providing an alternate energy source for it.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -7736,7 +7736,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "While they are predators they often live near and protect Bigfin as the two like sunbathe together and protect eachother from Cindannon.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -7765,7 +7765,7 @@
         }
       ],
       "tuxemonLink": "https://wiki.tuxemon.org/Sharpfin",
-      "title": "",
+      "title": "Weed Shark",
       "license": "CC-BY-SA-4.0"
     },
     "Grintot": {
@@ -7827,7 +7827,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Small sentient rocks. They will stay seated for hours at a time munching on rocks.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -7929,7 +7929,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "If a Grintot somehow wanders into a lava pool it will emerge days later as Grinflare. It uses the magma to more easily absorb rocks and it capable of creating more grintots with it's magma droppings.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8031,7 +8031,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "If a grinto absorbs enough metals it gains the ability to conduct electricity and begins wandering into thunderstorms. If it is hit by lighting and survives it changes forms into Grinshock and gains the ability co manipulatie electricity.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8135,7 +8135,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Peaceful pond skimmers, feed on algae and pond scum. Dive under wanter when threatened.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8237,7 +8237,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Big enough to venture outside of its pond and graze and forage in the forest. Friendly towards other vegetarians but hates predators and charges them on sight.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8316,7 +8316,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A friendly kitten that loves caring for others. Originally bred to work at hospitals they escaped containment and started helping wild Novamon. Calms injured novamon with psychic powers then uses its tail to administer healing chemicals.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8399,7 +8399,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Evolved to move on all fours so it can rush to wounded Novamon faster. Is capable of reviving anything from the brink of death.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8511,7 +8511,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Shy ducklings that are very dependent on their mothers for survival. Often fall over due to the weight of their heads",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8619,7 +8619,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Graceful adults that lead flocks of Foillets. Very defensive of their young and will shield them with large metal wings. Chases away any human it sees.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8719,7 +8719,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A stange weather phenomenon observed in high altitude areas. Conducts electricity through it's cloudy body loves to come out during rain storms.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8819,7 +8819,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "An aggressive cloudy creature. Because there are very few Novamon that can threaten it, it has become very aggressive and will randomly strike other creatures that come near it.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -8911,7 +8911,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A lazy tadpole that loves ice areas and the bottoms of ponds. Very squishy and cool to the touch but can harden it's body when threatened.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -9003,7 +9003,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A large frog that loves living under frozen lakes. Its large tounge can freeze water on touch.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -9099,7 +9099,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Lives in caves and dead trees. It avoids others as much as possible feeding on plants and mushrooms.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -9195,7 +9195,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A large reclusive insect that wants to be left alone. When cornered it charges with poisonous mandibles and stingers.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -9287,7 +9287,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A carefree bottom dweller who blends in the the seaweed. Loves poking it's head out when in shallow waters.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -9387,7 +9387,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Four Kelpup come together to form this larger creature. From experiments it seems to have the combined memory of all four previous creatures.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
