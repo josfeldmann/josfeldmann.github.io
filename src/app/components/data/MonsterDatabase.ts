@@ -47,6 +47,8 @@ export class MonsterDatabase {
   moveCategories: MonsterMoveCategoryDictionary;
   tags : TagDictionary;
 
+  monsterList : Monster[] = [];
+
 
   constructor(data: { 
     monsters: Record<string, Monster>,
@@ -101,6 +103,26 @@ export class MonsterDatabase {
       acc[key] = new MonsterMoveCategory(value);
       return acc;
     }, {} as TagDictionary);
+
+    this.monsterList = [];
+
+    Object.entries(this.monsters).forEach( (k,v) => {
+      this.monsterList.push(k[1]);
+    } )
+
+  }
+
+  getNeighborMonster( monster : Monster, direction : number ) : Monster | null {
+
+    let index = this.monsterList.indexOf(monster);
+    index += direction;
+    if (index >=  this.monsterList.length) {
+      return null;
+    }
+    if (index < 0) return null;
+
+    return this.monsterList[index];
+
 
   }
 

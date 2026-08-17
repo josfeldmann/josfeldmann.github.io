@@ -9341,7 +9341,7 @@
       "monsterID": 90,
       "monsterType": [
         "Leaf",
-        "Water"
+        "Rock"
       ],
       "baseStats": {
         "HP": 195.0,
@@ -9363,28 +9363,24 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
-          "type": "Bug"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Wind"
-        },
-        {
           "resistance": 0.5,
-          "type": "Ground"
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
         },
         {
           "resistance": 2.0,
           "type": "Poison"
         },
         {
-          "resistance": 0.5,
+          "resistance": 2.0,
           "type": "Steel"
-        },
-        {
-          "resistance": 0.25,
-          "type": "Water"
         }
       ],
       "shortDescription": "Four Kelpup come together to form this larger creature. From experiments it seems to have the combined memory of all four previous creatures.",
@@ -19798,9 +19794,9 @@
       "title": "Magma Mammoth",
       "license": "CC0"
     },
-    "Sabretooth": {
-      "monsterKey": "Sabretooth",
-      "monsterName": "Sabretooth",
+    "Shivkit": {
+      "monsterKey": "Shivkit",
+      "monsterName": "Shivkit",
       "monsterID": 197,
       "monsterType": [
         "Ice",
@@ -19869,12 +19865,12 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Sabretooth",
+            "key": "Shivkit",
             "x": 100.0,
             "y": 50.0
           },
           {
-            "key": "Sabretooth2",
+            "key": "Saber",
             "x": 300.0,
             "y": 50.0
           }
@@ -19902,9 +19898,9 @@
       "title": "Steel Sabre",
       "license": "CC0"
     },
-    "Sabretooth2": {
-      "monsterKey": "Sabretooth2",
-      "monsterName": "Sabretooth2",
+    "Saber": {
+      "monsterKey": "Saber",
+      "monsterName": "Saber",
       "monsterID": 198,
       "monsterType": [
         "Ice",
@@ -19973,12 +19969,12 @@
         "height": 100.0,
         "nodes": [
           {
-            "key": "Sabretooth",
+            "key": "Shivkit",
             "x": 100.0,
             "y": 50.0
           },
           {
-            "key": "Sabretooth2",
+            "key": "Saber",
             "x": 300.0,
             "y": 50.0
           }
@@ -20822,9 +20818,9 @@
       "title": "Ninja Lizard",
       "license": "CC0"
     },
-    "Shibu": {
-      "monsterKey": "Shibu",
-      "monsterName": "Shibu",
+    "Lupup": {
+      "monsterKey": "Lupup",
+      "monsterName": "Lupup",
       "monsterID": 207,
       "monsterType": [
         "Beast"
@@ -20876,9 +20872,9 @@
       "title": "Wolf Cub",
       "license": "CC0"
     },
-    "Shibuzz": {
-      "monsterKey": "Shibuzz",
-      "monsterName": "Shibuzz",
+    "Buzzulf": {
+      "monsterKey": "Buzzulf",
+      "monsterName": "Buzzulf",
       "monsterID": 208,
       "monsterType": [
         "Bug",
@@ -20947,9 +20943,9 @@
       "title": "Drone Wolf",
       "license": "CC0"
     },
-    "Shibog": {
-      "monsterKey": "Shibog",
-      "monsterName": "Shibog",
+    "Fangulf": {
+      "monsterKey": "Fangulf",
+      "monsterName": "Fangulf",
       "monsterID": 209,
       "monsterType": [
         "Water",
@@ -21026,9 +21022,9 @@
       "title": "Shark Wolf",
       "license": "CC0"
     },
-    "Shiblitz": {
-      "monsterKey": "Shiblitz",
-      "monsterName": "Shiblitz",
+    "Blitzulf": {
+      "monsterKey": "Blitzulf",
+      "monsterName": "Blitzulf",
       "monsterID": 210,
       "monsterType": [
         "Fire",
@@ -21113,9 +21109,9 @@
       "title": "Blazing Wolf",
       "license": "CC0"
     },
-    "Shibolt": {
-      "monsterKey": "Shibolt",
-      "monsterName": "Shibolt",
+    "Ramulf": {
+      "monsterKey": "Ramulf",
+      "monsterName": "Ramulf",
       "monsterID": 211,
       "monsterType": [
         "Electric",
@@ -21184,9 +21180,9 @@
       "title": "Mountain Wolf",
       "license": "CC0"
     },
-    "Shiberg": {
-      "monsterKey": "Shiberg",
-      "monsterName": "Shiberg",
+    "Fenrulf": {
+      "monsterKey": "Fenrulf",
+      "monsterName": "Fenrulf",
       "monsterID": 212,
       "monsterType": [
         "Ice",
@@ -21255,9 +21251,9 @@
       "title": "Glacial Husky",
       "license": "CC0"
     },
-    "Shibrawl": {
-      "monsterKey": "Shibrawl",
-      "monsterName": "Shibrawl",
+    "Brulf": {
+      "monsterKey": "Brulf",
+      "monsterName": "Brulf",
       "monsterID": 213,
       "monsterType": [
         "Combat",
@@ -21330,9 +21326,9 @@
       "title": "Lucha Wolf",
       "license": "CC0"
     },
-    "Shibane": {
-      "monsterKey": "Shibane",
-      "monsterName": "Shibane",
+    "Cerbulf": {
+      "monsterKey": "Cerbulf",
+      "monsterName": "Cerbulf",
       "monsterID": 215,
       "monsterType": [
         "Shadow",
@@ -21397,9 +21393,9 @@
       "title": "Corrupted Wolf",
       "license": "CC0"
     },
-    "GrassSHibu": {
-      "monsterKey": "GrassSHibu",
-      "monsterName": "Shibark",
+    "Sylvulf": {
+      "monsterKey": "Sylvulf",
+      "monsterName": "Sylvulf",
       "monsterID": 216,
       "monsterType": [
         "Leaf",
@@ -21488,9 +21484,9 @@
       "title": "Guardian Wolf",
       "license": "CC0"
     },
-    "Shiraptor": {
-      "monsterKey": "Shiraptor",
-      "monsterName": "Shiraptor",
+    "Raptulf": {
+      "monsterKey": "Raptulf",
+      "monsterName": "Raptulf",
       "monsterID": 217,
       "monsterType": [
         "Dino",
@@ -21571,9 +21567,9 @@
       "title": "Raptor Wolf",
       "license": "CC0"
     },
-    "Shibafly": {
-      "monsterKey": "Shibafly",
-      "monsterName": "Shibafly",
+    "Mystikulf": {
+      "monsterKey": "Mystikulf",
+      "monsterName": "Mystikulf",
       "monsterID": 218,
       "monsterType": [
         "Psy",
@@ -21729,13 +21725,13 @@
       "title": "Sentry Wolf",
       "license": "CC0"
     },
-    "Shiburrow": {
-      "monsterKey": "Shiburrow",
-      "monsterName": "Shiburrow",
+    "Burrulf": {
+      "monsterKey": "Burrulf",
+      "monsterName": "Burrulf",
       "monsterID": 221,
       "monsterType": [
         "Ground",
-        "Ground"
+        "Beast"
       ],
       "baseStats": {
         "HP": 184.69751,
@@ -21767,27 +21763,31 @@
           "type": "Electric"
         },
         {
-          "resistance": 0.25,
+          "resistance": 2.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
           "type": "Fire"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Leaf"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Ice"
         },
         {
-          "resistance": 0.25,
+          "resistance": 0.5,
           "type": "Poison"
         },
         {
-          "resistance": 0.25,
+          "resistance": 0.5,
           "type": "Rock"
         },
         {
-          "resistance": 4.0,
+          "resistance": 2.0,
           "type": "Water"
         }
       ],
@@ -21808,9 +21808,9 @@
       "title": "Mole Wolf",
       "license": "CC0"
     },
-    "Shibungus": {
-      "monsterKey": "Shibungus",
-      "monsterName": "Shibungus",
+    "Sprulf": {
+      "monsterKey": "Sprulf",
+      "monsterName": "Sprulf",
       "monsterID": 222,
       "monsterType": [
         "Poison",
@@ -21875,9 +21875,9 @@
       "title": "Mushroom Wolf",
       "license": "CC0"
     },
-    "Shiraph": {
-      "monsterKey": "Shiraph",
-      "monsterName": "Shiraph",
+    "Serulph": {
+      "monsterKey": "Serulph",
+      "monsterName": "Serulph",
       "monsterID": 223,
       "monsterType": [
         "Wind",
@@ -21948,246 +21948,6 @@
       ],
       "tuxemonLink": "",
       "title": "Angel Wolf",
-      "license": "CC0"
-    },
-    "Tankalf": {
-      "monsterKey": "Tankalf",
-      "monsterName": "Tankalf",
-      "monsterID": 224,
-      "monsterType": [
-        "Ground",
-        "Steel"
-      ],
-      "baseStats": {
-        "HP": 91.0,
-        "ATTACK": 91.0,
-        "DEFENSE": 91.0,
-        "SPECIALATTACK": 91.0,
-        "SPECIALDEFENSE": 91.0,
-        "SPEED": 91.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "FireSpray",
-        "SeedShot",
-        "Growth"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 0.5,
-          "type": "Bug"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Dino"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Electric"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Combat"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Wind"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Leaf"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ground"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Beast"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Psy"
-        },
-        {
-          "resistance": 0.25,
-          "type": "Rock"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Water"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Tankalf",
-            "x": 100.0,
-            "y": 50.0
-          },
-          {
-            "key": "Bombarge",
-            "x": 300.0,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": [
-        {
-          "contributorKey": "screensmith",
-          "credit": "Design"
-        },
-        {
-          "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
-        }
-      ],
-      "tuxemonLink": "",
-      "title": "Armored Hippo",
-      "license": "CC0"
-    },
-    "Bombarge": {
-      "monsterKey": "Bombarge",
-      "monsterName": "Bombarge",
-      "monsterID": 225,
-      "monsterType": [
-        "Ground",
-        "Steel"
-      ],
-      "baseStats": {
-        "HP": 91.0,
-        "ATTACK": 91.0,
-        "DEFENSE": 91.0,
-        "SPECIALATTACK": 91.0,
-        "SPECIALDEFENSE": 91.0,
-        "SPEED": 91.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "FireSpray",
-        "SeedShot",
-        "Growth"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 0.5,
-          "type": "Bug"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Dino"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Electric"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Combat"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Wind"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Leaf"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ground"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Beast"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Psy"
-        },
-        {
-          "resistance": 0.25,
-          "type": "Rock"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Steel"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Water"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Tankalf",
-            "x": 100.0,
-            "y": 50.0
-          },
-          {
-            "key": "Bombarge",
-            "x": 300.0,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 100.0,
-            "starty": 50.0,
-            "endx": 300.0,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": [
-        {
-          "contributorKey": "screensmith",
-          "credit": "Design"
-        },
-        {
-          "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
-        }
-      ],
-      "tuxemonLink": "",
-      "title": "Armored Hippo",
       "license": "CC0"
     },
     "Stego": {
@@ -22782,11 +22542,23 @@
         "nodes": [
           {
             "key": "Squabbit",
-            "x": 200.0,
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Legionhare",
+            "x": 300.0,
             "y": 50.0
           }
         ],
-        "arrows": []
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
       },
       "contributors": [
         {
@@ -22878,6 +22650,938 @@
         "nodes": [
           {
             "key": "Squabbit",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Legionhare",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Soldier Bunny",
+      "license": "CC0"
+    },
+    "Barba": {
+      "monsterKey": "Barba",
+      "monsterName": "Barba",
+      "monsterID": 231,
+      "monsterType": [
+        "Water",
+        "Poison"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Barba",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Barbosa",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Barbed Manta",
+      "license": "CC0"
+    },
+    "Barbosa": {
+      "monsterKey": "Barbosa",
+      "monsterName": "Barbosa",
+      "monsterID": 231,
+      "monsterType": [
+        "Water",
+        "Poison"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Barba",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Barbosa",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Barbed Manta",
+      "license": "CC0"
+    },
+    "Belial": {
+      "monsterKey": "Belial",
+      "monsterName": "Belial",
+      "monsterID": 231,
+      "monsterType": [
+        "Rock",
+        "Shadow"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 4.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Belial",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Belgoyle",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Gargoyle Imp",
+      "license": "CC0"
+    },
+    "Belgoyle": {
+      "monsterKey": "Belgoyle",
+      "monsterName": "Belgoyle",
+      "monsterID": 231,
+      "monsterType": [
+        "Rock",
+        "Shadow"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 4.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Barba",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Barbosa",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Gargoyle Imp",
+      "license": "CC0"
+    },
+    "Sancada": {
+      "monsterKey": "Sancada",
+      "monsterName": "Sancada",
+      "monsterID": 231,
+      "monsterType": [
+        "Bug",
+        "Ground"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sancada",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Sancada2",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Sand Cicada",
+      "license": "CC0"
+    },
+    "Sancada2": {
+      "monsterKey": "Sancada2",
+      "monsterName": "Sancada2",
+      "monsterID": 231,
+      "monsterType": [
+        "Bug",
+        "Ground"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sancada",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Sancada2",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Sand Cicada",
+      "license": "CC0"
+    },
+    "Camdune": {
+      "monsterKey": "Camdune",
+      "monsterName": "Camdune",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Psy"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Camdune",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Camirage",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Camirage": {
+      "monsterKey": "Camirage",
+      "monsterName": "Camirage",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Psy"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Camdune",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Camirage",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Oranagi": {
+      "monsterKey": "Oranagi",
+      "monsterName": "Oranagi",
+      "monsterID": 231,
+      "monsterType": [
+        "Electric",
+        "Psy"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Oranagi",
             "x": 200.0,
             "y": 50.0
           }
@@ -22895,7 +23599,1144 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Soldier Bunny",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Porcelain": {
+      "monsterKey": "Porcelain",
+      "monsterName": "Porcelain",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Dino"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Dino"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Fire"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Porcelain",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Porcelain2",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Porcelain2": {
+      "monsterKey": "Porcelain2",
+      "monsterName": "Porcelain2",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Dino"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Dino"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Fire"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Porcelain",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Porcelain2",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Rockrab": {
+      "monsterKey": "Rockrab",
+      "monsterName": "Rockrab",
+      "monsterID": 231,
+      "monsterType": [
+        "Water",
+        "Rock"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ice"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Rockrab",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Cactus": {
+      "monsterKey": "Cactus",
+      "monsterName": "Cactus",
+      "monsterID": 231,
+      "monsterType": [
+        "Leaf",
+        "Poison"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Wind"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Cactus",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Molehog": {
+      "monsterKey": "Molehog",
+      "monsterName": "Molehog",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Beast"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Molehog",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Moleglide",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moleglove",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Moleglide": {
+      "monsterKey": "Moleglide",
+      "monsterName": "Moleglide",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Wind"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Molehog",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Moleglide",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moleglove",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Moleglove": {
+      "monsterKey": "Moleglove",
+      "monsterName": "Moleglove",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Combat"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Rock"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Molehog",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Moleglide",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Moleglove",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Camel Mystic",
+      "license": "CC0"
+    },
+    "Landshark": {
+      "monsterKey": "Landshark",
+      "monsterName": "Landshark",
+      "monsterID": 231,
+      "monsterType": [
+        "Rock",
+        "Steel"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.25,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Dino"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Beast"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Landshark",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Landshark2",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Mountain Shark",
+      "license": "CC0"
+    },
+    "Landshark2": {
+      "monsterKey": "Landshark2",
+      "monsterName": "Landshark2",
+      "monsterID": 231,
+      "monsterType": [
+        "Rock",
+        "Steel"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.25,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Dino"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Beast"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Landshark",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Landshark2",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Mountain Shark",
+      "license": "CC0"
+    },
+    "Sandworm": {
+      "monsterKey": "Sandworm",
+      "monsterName": "Sandworm",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Steel"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Dino"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Beast"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Rock"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Sandworm",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Mechanical Worm",
+      "license": "CC0"
+    },
+    "Psyteor": {
+      "monsterKey": "Psyteor",
+      "monsterName": "Psyteor",
+      "monsterID": 231,
+      "monsterType": [
+        "Rock",
+        "Psy"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Psyteor",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Grazing Asteroid",
       "license": "CC0"
     },
     "Sylphawn": {
@@ -23002,12 +24843,12 @@
       "title": "Forest Guardian",
       "license": "CC0"
     },
-    "Veilora": {
-      "monsterKey": "Veilora",
-      "monsterName": "Veilora",
+    "Gorgite": {
+      "monsterKey": "Gorgite",
+      "monsterName": "Gorgite",
       "monsterID": 233,
       "monsterType": [
-        "Psy",
+        "Rock",
         "Poison"
       ],
       "baseStats": {
@@ -23030,19 +24871,19 @@
       "evolutions": null,
       "resistances": [
         {
-          "resistance": 2.0,
+          "resistance": 0.5,
           "type": "Bug"
         },
         {
-          "resistance": 0.25,
-          "type": "Combat"
+          "resistance": 0.5,
+          "type": "Fire"
         },
         {
           "resistance": 0.5,
-          "type": "Leaf"
+          "type": "Wind"
         },
         {
-          "resistance": 2.0,
+          "resistance": 4.0,
           "type": "Ground"
         },
         {
@@ -23051,7 +24892,15 @@
         },
         {
           "resistance": 2.0,
-          "type": "Shadow"
+          "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
         }
       ],
       "shortDescription": "",
@@ -23061,12 +24910,124 @@
         "height": 100.0,
         "nodes": [
           {
+            "key": "Gorgite",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
             "key": "Veilora",
-            "x": 200.0,
+            "x": 300.0,
             "y": 50.0
           }
         ],
-        "arrows": []
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "",
+      "license": "CC0"
+    },
+    "Veilora": {
+      "monsterKey": "Veilora",
+      "monsterName": "Veilora",
+      "monsterID": 233,
+      "monsterType": [
+        "Rock",
+        "Poison"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Steel"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Gorgite",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Veilora",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
       },
       "contributors": [
         {
@@ -24162,7 +26123,7 @@
       "key": "Dino",
       "name": "Dino",
       "color": "7B63E7",
-      "description": null
+      "description": ""
     },
     "Electric": {
       "key": "Electric",
@@ -24192,7 +26153,7 @@
       "key": "Leaf",
       "name": "Leaf",
       "color": "7BCE52",
-      "description": null
+      "description": ""
     },
     "Ground": {
       "key": "Ground",
@@ -24210,19 +26171,19 @@
       "key": "Beast",
       "name": "Beast",
       "color": "C8B088",
-      "description": null
+      "description": ""
     },
     "Poison": {
       "key": "Poison",
       "name": "Poison",
       "color": "9141CB",
-      "description": null
+      "description": ""
     },
     "Psy": {
       "key": "Psy",
       "name": "Psy",
       "color": "D95AFF",
-      "description": null
+      "description": ""
     },
     "Rock": {
       "key": "Rock",
@@ -24234,7 +26195,7 @@
       "key": "Shadow",
       "name": "Shadow",
       "color": "362B3F",
-      "description": null
+      "description": ""
     },
     "Steel": {
       "key": "Steel",
@@ -24246,7 +26207,7 @@
       "key": "Water",
       "name": "Water",
       "color": "399CFF",
-      "description": null
+      "description": ""
     }
   },
   "items": {},

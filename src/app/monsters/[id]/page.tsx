@@ -24,6 +24,7 @@ import { Contributor } from '@/app/components/data/Contributor';
 import { ContributorCreditsList } from '@/app/components/ui/ContributorCreditList';
 import { Breadcrumbs } from '@/app/components/ui/BreadCrumbs';
 import LicenseLink from '@/app/components/ui/LicenseLink';
+import { SmallMonsterBadge } from '@/app/components/ui/SmallMonsterBadge';
 export type MonsterDictionary = Record<string, Monster>;
 
 export async function generateStaticParams() {
@@ -92,6 +93,10 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
 
   const monster = db.getMonster(params.id);
 
+  const rightMonster = db.getNeighborMonster(monster, 1);
+  const leftMonster = db.getNeighborMonster(monster, -1);
+
+
 
   const t1 = db.getMonsterType(monster.monsterType[0]);
   let t2 = null;
@@ -139,6 +144,28 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
         ]}
       />
 
+                  <div
+  style={{
+    display: "flex",
+    alignItems: "center",
+    width: "100%",
+  }}
+>
+  <SmallMonsterBadge
+    monster={leftMonster}
+    pointDirection="left"
+  />
+
+  <div style={{ flexGrow: 1, textAlign: "center" }}><h1>{monster.monsterName}</h1></div>
+
+  <SmallMonsterBadge
+    monster={rightMonster}
+    pointDirection="right"
+  />
+</div>
+
+
+
       <div className="d-flex flex-wrap  justify-content-left">
 
       <div className="p-2">
@@ -146,10 +173,11 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
       </div>
 
       <div className="p-2">
-        <h1>{monster.monsterName}</h1>
-        <p className="lead">{monster.title} Novamon</p>
+        
+       <p className="lead">{monster.title} Novamon</p>
+       <h2>Types:</h2>
         <p>
-            Types: <SingleLineList items={monster.monsterType} renderItem={(monsterType) => <TypeButton data={db.getMonsterType(monsterType)}/>}></SingleLineList>
+            <SingleLineList items={monster.monsterType} renderItem={(monsterType) => <TypeButton data={db.getMonsterType(monsterType)}/>}></SingleLineList>
         </p>
 
         
@@ -175,6 +203,7 @@ export default function MonsterPage({ params }: { params: { id: string } }) {
       </div>
       </div>
 
+  
 
       <h2>Dex</h2>
 
