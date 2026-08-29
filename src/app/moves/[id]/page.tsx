@@ -67,7 +67,7 @@ export default function AbilityPage({ params }: { params: { id: string } }) {
     <Movelist moves={[move]} />;
 
     <h2>Monsters that learn this move</h2>
-    <MonsterGrid monsters={m} imageSize={96}  />
+    <MonsterGrid monsters={m} />
 
 
 

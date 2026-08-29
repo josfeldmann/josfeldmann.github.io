@@ -31,7 +31,7 @@ export default function MonstersPage() {
                     ]}
                   />
         <h1>Monsters - {m.length}</h1>
-        <MonsterGrid monsters={m} imageSize={96}/>
+        <MonsterGrid monsters={m}/>
       
     </div>
   );

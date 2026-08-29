@@ -63,7 +63,7 @@ export default function LocationPage({ params }: { params: { id: string } }) {
     <h1>{location.name}</h1>
 
     <h2>Monsters found here</h2>
-    <MonsterGrid monsters={m} imageSize={96}  />
+    <MonsterGrid monsters={m}/>
     
 
 </div>

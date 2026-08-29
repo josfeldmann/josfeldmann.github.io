@@ -61,7 +61,7 @@ export default function AbilityPage({ params }: { params: { id: string } }) {
       
       <p>{ability.description}</p>
 
-      <MonsterGrid monsters={m} imageSize={96}  />
+      <MonsterGrid monsters={m} />
   </div>
   );
 }
