@@ -9341,7 +9341,7 @@
       "monsterID": 90,
       "monsterType": [
         "Leaf",
-        "Rock"
+        "Water"
       ],
       "baseStats": {
         "HP": 195.0,
@@ -9363,24 +9363,28 @@
       "evolutions": null,
       "resistances": [
         {
+          "resistance": 2.0,
+          "type": "Bug"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Wind"
+        },
+        {
           "resistance": 0.5,
-          "type": "Electric"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Combat"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Ice"
+          "type": "Ground"
         },
         {
           "resistance": 2.0,
           "type": "Poison"
         },
         {
-          "resistance": 2.0,
+          "resistance": 0.5,
           "type": "Steel"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Water"
         }
       ],
       "shortDescription": "Four Kelpup come together to form this larger creature. From experiments it seems to have the combined memory of all four previous creatures.",
@@ -9807,7 +9811,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "Corrupted tricksters. They do not sing and love shiny objects, often stealing them from visitors. They love lying in wait and pelting hikers and other Novaman with snowballs then scurry away.",
+      "shortDescription": "Corrupted tricksters. They do not sing and love shiny objects, often stealing them from visitors. They lie in wait and pelting hikers and other Novaman with snowballs then scurry away.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -13309,9 +13313,9 @@
       "title": "Zombie Shark",
       "license": "CC-BY-SA-3.0"
     },
-    "Apeoro": {
-      "monsterKey": "Apeoro",
-      "monsterName": "Apeoro",
+    "Giraflux": {
+      "monsterKey": "Giraflux",
+      "monsterName": "Giraflux",
       "monsterID": 133,
       "monsterType": [
         "Electric",
@@ -13376,33 +13380,152 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Spends most of its time in and around mud baths. During thunderstorms it runs out into the open and attracts and absorbs lighting strikes.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Apeoro",
-            "x": 200.0,
+            "key": "Giraflux",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Giralisk",
+            "x": 300.0,
             "y": 50.0
           }
         ],
-        "arrows": []
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
       },
       "contributors": [
         {
-          "contributorKey": "CrisFarias",
+          "contributorKey": "screensmith",
           "credit": "Design"
         },
         {
-          "contributorKey": "InvoluntaryTwitch",
+          "contributorKey": "rezatri",
           "credit": "Original Sprite"
         }
       ],
-      "tuxemonLink": "https://wiki.tuxemon.org/Apeoro",
-      "title": "",
-      "license": "CC-BY-SA-3.0"
+      "tuxemonLink": "",
+      "title": "Mud Giraffe",
+      "license": "CC0"
+    },
+    "Giralisk": {
+      "monsterKey": "Giralisk",
+      "monsterName": "Giralisk",
+      "monsterID": 133,
+      "monsterType": [
+        "Electric",
+        "Ground"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "VoltRush",
+        "Growl"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "Stores energy for weeks and often has to create mini thunderstorms to let off excess power and scare off predators. ",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Giraflux",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Giralisk",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Mud Giraffe",
+      "license": "CC0"
     },
     "Mauai": {
       "monsterKey": "Mauai",
@@ -16806,7 +16929,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "An attempt at making a mechanical.",
+      "shortDescription": "a An ill guided attempt at making a worker novamon that could be used for mining, defense, and logging. Its creators quickly lost control of it and it ended up escaping into underground caverns and mountainous areas. It charges any humans it sees, and likes to cling to cavern walls and leap onto unsuspecting victims ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -16831,7 +16954,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Venom Bull",
       "license": "CC0"
     },
     "Joltey": {
@@ -16890,7 +17013,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Constantly spar with one another and any humans or Novamon they come across. Often wander into settlements to chew on power lines and harass the residents.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -16927,7 +17050,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Spark Roo",
       "license": "CC0"
     },
     "Joltjab": {
@@ -16986,7 +17109,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Very aggressive pests. They have accidentally killed humans in their spars. They use their large tails to swipe enemies off their feet and paralyze them.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -17023,7 +17146,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Spark Roo",
       "license": "CC0"
     },
     "Maceodon": {
@@ -17094,7 +17217,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Originally developed as a Novamon to assist miners, their low intelligence mad it difficult to get them to obey commands. They have poor eyesight and will smash anything that confuses or startles them, which is almost everyhthing.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -17119,7 +17242,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Dino Mace",
       "license": "CC0"
     },
     "Jocty": {
@@ -17178,7 +17301,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Joltey often shock themselves by chwing on electrical wire, if that happens enought their fur turns black and they lose their conductivity. They gain dark abilities and become nocturnal.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -17215,7 +17338,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Death Roo",
       "license": "CC0"
     },
     "Shadowbox": {
@@ -17266,7 +17389,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "They prowl at night looking for food and sparring partners. They tend to fight drunk humans, seriously injuring or killing them. As soon as one is sighted in an area rangers are called in to deal with it.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -17307,12 +17430,12 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Death Roo",
       "license": "CC0"
     },
-    "Pengbaby": {
-      "monsterKey": "Pengbaby",
-      "monsterName": "Pengbaby",
+    "Pengling": {
+      "monsterKey": "Pengling",
+      "monsterName": "Pengling",
       "monsterID": 171,
       "monsterType": [
         "Beast",
@@ -17366,14 +17489,14 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": " Once hatched they leave their nest and explore the ice floes and caves they inhabit. They are somewhat antisocial and spend long times alone staring off in the distance or meditating. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 250.0,
         "nodes": [
           {
-            "key": "Pengbaby",
+            "key": "Pengling",
             "x": 100.0,
             "y": 125.0
           },
@@ -17401,7 +17524,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Solitary Penguin",
       "license": "CC0"
     },
     "Tideroy": {
@@ -17476,14 +17599,14 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Penglings exposed to humans often meditate with them and once they reach maturity their bodies and behaviours change and become more humanlike. They gain the ability to manipulate water and perform intricate dances with it. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 250.0,
         "nodes": [
           {
-            "key": "Pengbaby",
+            "key": "Pengling",
             "x": 100.0,
             "y": 125.0
           },
@@ -17511,7 +17634,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Penguin Monk",
       "license": "CC0"
     },
     "Darkroy": {
@@ -17570,14 +17693,14 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Penglings that spend a long time will take a trek to ritual grounds. There they learn to fly and develop wings, and the power to use strong sonic attacks. After changing they return to their flocks and act as guardians fending off Lapislions that love to hunt their hatchlings.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 250.0,
         "nodes": [
           {
-            "key": "Pengbaby",
+            "key": "Pengling",
             "x": 100.0,
             "y": 125.0
           },
@@ -17605,7 +17728,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Solitary Penguin",
       "license": "CC0"
     },
     "Brambush": {
@@ -17684,7 +17807,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A crafty predator that disguises itself as a berry bush to trick prey. It's berrys are small and sweet and highly sought after, so some huamans and Novamon chose to hunt them.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -17760,7 +17883,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Evolved to be amphibious in order to escape predators and nest more easily.  Their smooth skin helps propel them easily across ice.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -17797,7 +17920,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Dolphin Seal",
       "license": "CC0"
     },
     "Leviatide": {
@@ -17848,7 +17971,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Once fully evolved not much stands in it's way. It often wanders into human settlements and walks away with huge chunks of meat and fish.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -17885,7 +18008,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Shark Seal",
       "license": "CC0"
     },
     "Frillbud": {
@@ -17956,7 +18079,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Nests in the roos of trees and drinks sap. Also tend to live near flower fields and eat the bugs that threaten the plants.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -17993,7 +18116,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Floral Dino",
       "license": "CC0"
     },
     "Frondrake": {
@@ -18064,7 +18187,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Emits a scent that is horrid to humans but enticing to bugs. Darts around it's territory marking trees with its scent to ward off unwanted guests.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18101,7 +18224,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Floral Dino",
       "license": "CC0"
     },
     "Tarpup": {
@@ -18168,7 +18291,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Born in tar pits it can remain submerged for days. It feasts on any animal unlokcy enought to fall in and breaks apart their bones for marrow.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18205,7 +18328,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Tar Croc",
       "license": "CC0"
     },
     "Swampit": {
@@ -18272,7 +18395,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Has a powerful jaw that it uses to latch onto prey and fling them back and forth. Once it gets big enough it can burrow underground and form a new tar pit.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18372,7 +18495,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "They are born from cocoons and take a long time to reach maturity. They are attracted to flames and groups of them will huddle around a light source.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18407,7 +18530,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Lunar Moth",
       "license": "CC0"
     },
     "Moonarch": {
@@ -18470,7 +18593,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "They use their beautiful wings to hypnotize threats. They exude a calmin aura that pacifies anyone nearby them. Groups of them gather during full moons and form cirlces in the sky.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18505,7 +18628,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Lunar Moth",
       "license": "CC0"
     },
     "Mothwick": {
@@ -18576,7 +18699,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A moonlarva that spends too much time near a fire source as a child becomes warped and turns into Mothwick. Their wings are covered in a waxy substance that protects them from heat and can be used as an attack.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18611,7 +18734,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Candle Moth",
       "license": "CC0"
     },
     "Sparkit": {
@@ -18674,7 +18797,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Initally bred as a pet. It has thick fur with metallic elements it uses to conduct electricity. Loves to swim and will jump in ponds and electrify all the inhabitants by accident.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18707,7 +18830,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Sparking Tiger",
       "license": "CC0"
     },
     "Stormane": {
@@ -18770,7 +18893,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A loyal tiger. Take great pride in their fur, which they individually style using their electricity.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18807,7 +18930,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Sparking Tiger",
       "license": "CC0"
     },
     "Orbacle": {
@@ -18874,7 +18997,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A rare fortune telling dragon that lives around mountain peaks. Some humans that stare into it's orb claim that they see their death, but this has never been confirmed.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18899,7 +19022,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Fortune Dragon",
       "license": "CC0"
     },
     "Zenkong": {
@@ -18942,7 +19065,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A spiritual monkey that first started appearing near a monastary. They spen hours meditating and rotating nearby objects with their mind. They use their telkinetic powers to jump large distances and enhance their physical attacks.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -18967,7 +19090,115 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Mystic Monkey",
+      "license": "CC0"
+    },
+    "AxoPrevo": {
+      "monsterKey": "AxoPrevo",
+      "monsterName": "AxoPrevo",
+      "monsterID": 189,
+      "monsterType": [
+        "Combat",
+        "Steel"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.25,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Dino"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Beast"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Rock"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        }
+      ],
+      "shortDescription": "Once hatched they are slow to develop, carrying their shell with them for most of their adolescent life.  They are constantly sharpening their head blade on nearby trees, which are serve as a way to mark their territory.",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "AxoPrevo",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Axowarry",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Axe Cassowary",
       "license": "CC0"
     },
     "Axowarry": {
@@ -19038,19 +19269,31 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Orginally bred as a companion to Lumberjacks, they quickly escaped containment. They will clear whole forests in days and turn them into wastelands that they inhait instead.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
+            "key": "AxoPrevo",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
             "key": "Axowarry",
-            "x": 200.0,
+            "x": 300.0,
             "y": 50.0
           }
         ],
-        "arrows": []
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
       },
       "contributors": [
         {
@@ -19063,7 +19306,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Axe Cassowary",
       "license": "CC0"
     },
     "Gravadillo": {
@@ -19134,7 +19377,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Rolls into a ball and uses telekinetic powers to move and propel itself at enemies. Has pyschic powers but does not seem very intelligent.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19159,7 +19402,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Telekinetic Armadillo",
       "license": "CC0"
     },
     "Soarus": {
@@ -19230,7 +19473,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Weather dragons that live in the clouds. Their bodues are so light that they will stay airborne for weeks at a time, just coasting inside a cloud.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19267,7 +19510,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Weather Dragon",
       "license": "CC0"
     },
     "Cloudrake": {
@@ -19338,7 +19581,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Their time spend in clouds exposes them to all sorts of different weather, and their body has adapted to each. Will change forms base on whatever extreme weather is present.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19375,7 +19618,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Weather Dragon",
       "license": "CC0"
     },
     "Pinefawn": {
@@ -19450,7 +19693,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Adapted to harsh winter climates by growing pine needle fur. Travel in large noisy packs that jingle their bells whenever they move. Humans often make bells for them as a part of a yearly holiday celebration.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19562,7 +19805,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "They use their bells to engage in dancing rituals where they leap and prance while trying to produce music from their bell chimes. They often freeze their bells to produce different sounds.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19658,7 +19901,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Heat their large bodies with their fiery tusks. They use their heat to form temporary hot springs and watering holes that they drink from or bathe in.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19754,7 +19997,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "When they want to scare off threats they will expel chunks of magma from their back with surprising accuracy. Humans in artic areas often tame them and use them as source of heat and protection.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19858,7 +20101,7 @@
           "type": "Psy"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Their front fangs are deadly but break often. They can then use their icy powers to quickly regrow them. Their other teeth are hardened steel which they use to crack bones.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19895,7 +20138,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Steel Sabre",
+      "title": "Steel Sabretooth",
       "license": "CC0"
     },
     "Saber": {
@@ -19962,7 +20205,7 @@
           "type": "Psy"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "The ultimate tundra predator. It latches onto prey sinking its freezing fangs into the. At any time it can detach its fangs and quickly regenerate to strike again.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -19999,7 +20242,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Steel Sabre",
+      "title": "Steel Sabretooth",
       "license": "CC0"
     },
     "Owlite": {
@@ -20062,7 +20305,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Its large body makes it difficult to fly, so it mostly forages at night. Sets up ambushes by using psychic powers to sense when its prey leaves their burrow.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -20162,7 +20405,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Glides through the air slowly and majestically, using its psychic powers to detect and paralyze prey below it.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -20266,7 +20509,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A poisonous frog that uses the large amount of gas it porduces to float. Will store up gas and then quickly expel it to jump away from threats.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -20303,7 +20546,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Gassy Frog",
+      "title": "Gas Frog",
       "license": "CC0"
     },
     "Croakloud": {
@@ -20370,7 +20613,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "It is constantly expelling gas, and has to float to safely burn it off. If they stay grounded too long they will explode. Rangers keep their wild population in check as they pose serious threats to crops and water supplies.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -20470,7 +20713,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": " A peculiar novamon that started appearing around dumps and industrial sites near arctic research outposts. It sniffs out chemicals and medical waste, and uses its acid fangs to tear through metal.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -20570,7 +20813,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Hibernates in snowbanks for days and wait for prey to pass by to leap out at them or start stalking them. Once prey enters it's territory it will track them for days and wait for the opportune moment. Its acid can dissolve any armor given enough time. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -20674,7 +20917,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Playful lizards that started appearing around swamps and bogs. They hop out of trees and throw poison stars at passerbys for fun.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -20778,7 +21021,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Rare humanoid lizards the hide in the shadows. They are rarely seen prefering to observe humans rather then engage, but if they are threatened they will let lose volleys of poisonous attacks.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -20855,7 +21098,7 @@
           "type": "Combat"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred as a versatile companion. They are very obedient and can evolve into any type of Novamon.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -20926,7 +21169,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Their wings cannot support long full flight, but do allow them to glide and elongate their jumps to pounce on prey.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21005,7 +21248,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "An amphibious shark wolf that can track prey underwater. Used to patrol ports.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21092,7 +21335,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred for their beauty and useful fire breathing abilities. They are loyal companions to rangers.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21163,7 +21406,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Roam mountain tops jumping from cliff to cliff. Are seen frequenly in packs during thunderstorms butting heads and howling at the clouds.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21234,7 +21477,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred as pack dogs for arctic rangers. Will search out lost explorers and guide them back to safety.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21309,7 +21552,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Originally bred for entertainment, they have proved useful as laborers and bodyguards.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21376,7 +21619,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred as intimidating guard dogs. Each head howls slightly differently and they harmonize to produce intimidating sounds.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21467,7 +21710,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred for scouting forested areas. They often run away and form packs in the forest. They protect their territory and chase off anything that threatens their trees.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21550,7 +21793,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "An early attempt at genetically modifying Novamon. They proved too disobedient and escaped containment. Threaten humans and Novamon alike.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21613,7 +21856,7 @@
           "type": "Shadow"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Comfort animals for stressed settlers. They use their psychic powers to calm humans and Novamon and often assist doctors. ",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21708,7 +21951,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "The ultimate guard dog. Complete loyalty to humans, developed after so many fail attempts at creating guard Novamon. They are strictly regulated due to their destructive potential.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21791,7 +22034,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred to assist miners and farmers. Love unearthing other burrowing Novamon to hunt them.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21858,7 +22101,7 @@
           "type": "Psy"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred to withstand toxic environments and synthesize chemicals. The oils their skin produces can have hallucinogenic effects",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -21933,7 +22176,7 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Originally bred as scouts, their creator obsessed over their appearance and bread them to be beautiful. Will often fly at night and illuminate the sky.",
       "longDescription": "",
       "evolutionGraph": null,
       "contributors": [
@@ -22018,7 +22261,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "They are attracted to clouds and live in high altitude and foggy areas. They use their electricit y to briefly float, but can only sustain for a few seconds. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22126,7 +22369,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Can sustain fiight for hours at a time. They follow stormclouds and absorb energy from them.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22226,7 +22469,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Originally bred as pets they quckly escaped containment. They still love humans and will cuddle and divebomb them.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22326,7 +22569,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Very loyal to humans and with give them rides on their back. They love flying at nights, and leave behind glowing spores that illuminate their flight path. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22438,7 +22681,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Wisps that seek out and forge plates of armor to inhabit. They are though to be offshoots of Pythock, but no one knows their origin. They inhabit abandoned buildings and scare off visitors.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22534,7 +22777,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "They are quite competive, sparring with siblings and anything they will fight them. They are loyal to any human that helps obtain armor for them.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22642,7 +22885,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred to be companions for Rangers they are loyal fighters. They use their flames to propel their jumps and strikes. They are very quick and mobile and are very versatile.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22746,7 +22989,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Emerged after a dangerous chemical spill near a processing plant. They are bottom feeders that live near pipes and places with industrial run off. When threatened they flee and shoot off barbs.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22850,7 +23093,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "While still mostly bottom feeders they have become very fast and will jump out of the surface for entertainment. They can be quite a hazard as if they pop out of the water near a human or predator they will spray out barbs and dive away.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -22954,7 +23197,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Imps that started appearing near graveyards and churches. If a human spots them they will close their eyes and pretend to be a statue, running away when the human turns their back.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -23058,7 +23301,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A lumbering menace that threaten humans it will stalk humans for days and have been observed living ontop of the roofs of houses. Residents of these houses often report nightmares, hence Belgoyle are seen as bad omens and threats. Rangers are often dispersed to hunt them.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -23154,7 +23397,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Burrowing insects that live in sand dunes. They will stay buried for years and frequent shed their shells.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -23166,7 +23409,7 @@
             "y": 50.0
           },
           {
-            "key": "Sancada2",
+            "key": "Scarabust",
             "x": 300.0,
             "y": 50.0
           }
@@ -23194,9 +23437,9 @@
       "title": "Sand Cicada",
       "license": "CC0"
     },
-    "Sancada2": {
-      "monsterKey": "Sancada2",
-      "monsterName": "Sancada2",
+    "Scarabust": {
+      "monsterKey": "Scarabust",
+      "monsterName": "Scarabust",
       "monsterID": 231,
       "monsterType": [
         "Bug",
@@ -23250,7 +23493,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Once they molt and emerge they go about finding mates. They emit loud sounds to try and wake their fellow Sandcadas. This often attracts predators which they fend off using sonic blasts.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -23262,7 +23505,7 @@
             "y": 50.0
           },
           {
-            "key": "Sancada2",
+            "key": "Scarabust",
             "x": 300.0,
             "y": 50.0
           }
@@ -23362,7 +23605,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Can go without water for months by meditating for long periods of time. They travel in packs and communicate with telepathy.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -23394,8 +23637,8 @@
           "credit": "Design"
         },
         {
-          "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -23474,7 +23717,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Leaders of the pack. They can use the structures on their back to project very detailed images in the distance or sky. They enjoy scaring and pranking others with this ability. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -23506,8 +23749,8 @@
           "credit": "Design"
         },
         {
-          "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
         }
       ],
       "tuxemonLink": "",
@@ -23574,7 +23817,7 @@
           "type": "Steel"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A rare deepwater fish. It uses currents in the water to emit a relaxing aura that affects nearby fish.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -23602,9 +23845,9 @@
       "title": "Camel Mystic",
       "license": "CC0"
     },
-    "Porcelain": {
-      "monsterKey": "Porcelain",
-      "monsterName": "Porcelain",
+    "Porcelung": {
+      "monsterKey": "Porcelung",
+      "monsterName": "Porcelung",
       "monsterID": 231,
       "monsterType": [
         "Ground",
@@ -23658,19 +23901,19 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Bred for their beauty humans, will hold competitions where they grade and compare them. Their scales are cool to the touch but very fragile. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Porcelain",
+            "key": "Porcelung",
             "x": 100.0,
             "y": 50.0
           },
           {
-            "key": "Porcelain2",
+            "key": "Ceralung",
             "x": 300.0,
             "y": 50.0
           }
@@ -23695,12 +23938,12 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Camel Mystic",
+      "title": "Pottery Dragon",
       "license": "CC0"
     },
-    "Porcelain2": {
-      "monsterKey": "Porcelain2",
-      "monsterName": "Porcelain2",
+    "Ceralung": {
+      "monsterKey": "Ceralung",
+      "monsterName": "Ceralung",
       "monsterID": 231,
       "monsterType": [
         "Ground",
@@ -23754,19 +23997,19 @@
           "type": "Rock"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Once they reach maturity they are harder to control. They love to fly up to roofs and mountains and rest there, staying motionless for days.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Porcelain",
+            "key": "Porcelung",
             "x": 100.0,
             "y": 50.0
           },
           {
-            "key": "Porcelain2",
+            "key": "Ceralung",
             "x": 300.0,
             "y": 50.0
           }
@@ -23791,7 +24034,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Camel Mystic",
+      "title": "Pottery Dragon",
       "license": "CC0"
     },
     "Rockrab": {
@@ -23854,7 +24097,7 @@
           "type": "Ice"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "They scuttle around the ocean floor and crack rocks looking for shiny rocks and quartz.They add any baubles they find tho their shell.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -23879,12 +24122,12 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Camel Mystic",
+      "title": "Gem Hermit",
       "license": "CC0"
     },
-    "Cactus": {
-      "monsterKey": "Cactus",
-      "monsterName": "Cactus",
+    "cactyke": {
+      "monsterKey": "cactyke",
+      "monsterName": "Cactyke",
       "monsterID": 231,
       "monsterType": [
         "Leaf",
@@ -23946,19 +24189,31 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Friendly desert dwellers. They sneak up on humans and Novamon and try to cling to them. Their blood is poisonous so they have few predators.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Cactus",
-            "x": 200.0,
+            "key": "cactyke",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Scoprout",
+            "x": 300.0,
             "y": 50.0
           }
         ],
-        "arrows": []
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
       },
       "contributors": [
         {
@@ -23966,12 +24221,116 @@
           "credit": "Design"
         },
         {
-          "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
         }
       ],
       "tuxemonLink": "",
-      "title": "Camel Mystic",
+      "title": "Cactus Scorpion",
+      "license": "CC0"
+    },
+    "Scoprout": {
+      "monsterKey": "Scoprout",
+      "monsterName": "Scoprout",
+      "monsterID": 231,
+      "monsterType": [
+        "Leaf",
+        "Poison"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 2.0,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Fire"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Wind"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "Emit a sweet smell that attracts herbivores. The petals have restorative properties which it gives to anyone who takes a chunk out it it and gets poisoned.",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "cactyke",
+            "x": 100.0,
+            "y": 50.0
+          },
+          {
+            "key": "Scoprout",
+            "x": 300.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 100.0,
+            "starty": 50.0,
+            "endx": 300.0,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "rezatri",
+          "credit": "Original Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Cactus Scorpion",
       "license": "CC0"
     },
     "Molehog": {
@@ -24034,7 +24393,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Burrows underground to feat on roots and insects. It can dig so quickly it uses it as a form of escape.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -24046,12 +24405,12 @@
             "y": 50.0
           },
           {
-            "key": "Moleglide",
+            "key": "Quilljet",
             "x": 200.0,
             "y": 50.0
           },
           {
-            "key": "Moleglove",
+            "key": "Drillzer",
             "x": 333.333344,
             "y": 50.0
           }
@@ -24082,123 +24441,12 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Camel Mystic",
+      "title": "Burrowing Hedgehog",
       "license": "CC0"
     },
-    "Moleglide": {
-      "monsterKey": "Moleglide",
-      "monsterName": "Moleglide",
-      "monsterID": 231,
-      "monsterType": [
-        "Ground",
-        "Wind"
-      ],
-      "baseStats": {
-        "HP": 91.0,
-        "ATTACK": 91.0,
-        "DEFENSE": 91.0,
-        "SPECIALATTACK": 91.0,
-        "SPECIALDEFENSE": 91.0,
-        "SPEED": 91.0
-      },
-      "abilities": [
-        "default"
-      ],
-      "moves": [
-        "Tackle",
-        "FireSpray",
-        "SeedShot",
-        "Growth"
-      ],
-      "evolutions": null,
-      "resistances": [
-        {
-          "resistance": 0.5,
-          "type": "Bug"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Electric"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Combat"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Fire"
-        },
-        {
-          "resistance": 0.0,
-          "type": "Ground"
-        },
-        {
-          "resistance": 4.0,
-          "type": "Ice"
-        },
-        {
-          "resistance": 0.5,
-          "type": "Poison"
-        },
-        {
-          "resistance": 2.0,
-          "type": "Water"
-        }
-      ],
-      "shortDescription": "",
-      "longDescription": "",
-      "evolutionGraph": {
-        "width": 400.0,
-        "height": 100.0,
-        "nodes": [
-          {
-            "key": "Molehog",
-            "x": 66.6666641,
-            "y": 50.0
-          },
-          {
-            "key": "Moleglide",
-            "x": 200.0,
-            "y": 50.0
-          },
-          {
-            "key": "Moleglove",
-            "x": 333.333344,
-            "y": 50.0
-          }
-        ],
-        "arrows": [
-          {
-            "startx": 66.6666641,
-            "starty": 50.0,
-            "endx": 200.0,
-            "endy": 50.0
-          },
-          {
-            "startx": 200.0,
-            "starty": 50.0,
-            "endx": 333.333344,
-            "endy": 50.0
-          }
-        ]
-      },
-      "contributors": [
-        {
-          "contributorKey": "screensmith",
-          "credit": "Design"
-        },
-        {
-          "contributorKey": "screensmith",
-          "credit": "AI Generated Sprite"
-        }
-      ],
-      "tuxemonLink": "",
-      "title": "Camel Mystic",
-      "license": "CC0"
-    },
-    "Moleglove": {
-      "monsterKey": "Moleglove",
-      "monsterName": "Moleglove",
+    "Drillzer": {
+      "monsterKey": "Drillzer",
+      "monsterName": "Drillzer",
       "monsterID": 231,
       "monsterType": [
         "Ground",
@@ -24268,7 +24516,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": " Has developed large arms to allow it to do more intricate drilling. Likes splitting apart large boulders and then hauling them away to build shelters. Often work alongside builders and miners.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -24280,12 +24528,12 @@
             "y": 50.0
           },
           {
-            "key": "Moleglide",
+            "key": "Quilljet",
             "x": 200.0,
             "y": 50.0
           },
           {
-            "key": "Moleglove",
+            "key": "Drillzer",
             "x": 333.333344,
             "y": 50.0
           }
@@ -24316,12 +24564,123 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Camel Mystic",
+      "title": "Brawny Hedgehog",
       "license": "CC0"
     },
-    "Landshark": {
-      "monsterKey": "Landshark",
-      "monsterName": "Landshark",
+    "Quilljet": {
+      "monsterKey": "Quilljet",
+      "monsterName": "Quilljet",
+      "monsterID": 231,
+      "monsterType": [
+        "Ground",
+        "Wind"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Electric"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Poison"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "Has learned to propel itself out of the ground and then uses its wings to glide and fly. It uses it's hearing to listen for birds and then emerges from the ground and launches itself at them.",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "Molehog",
+            "x": 66.6666641,
+            "y": 50.0
+          },
+          {
+            "key": "Quilljet",
+            "x": 200.0,
+            "y": 50.0
+          },
+          {
+            "key": "Drillzer",
+            "x": 333.333344,
+            "y": 50.0
+          }
+        ],
+        "arrows": [
+          {
+            "startx": 66.6666641,
+            "starty": 50.0,
+            "endx": 200.0,
+            "endy": 50.0
+          },
+          {
+            "startx": 200.0,
+            "starty": 50.0,
+            "endx": 333.333344,
+            "endy": 50.0
+          }
+        ]
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Gliding Hedgehog",
+      "license": "CC0"
+    },
+    "Hammerpult": {
+      "monsterKey": "Hammerpult",
+      "monsterName": "Hammerpult",
       "monsterID": 231,
       "monsterType": [
         "Rock",
@@ -24391,14 +24750,14 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "They use their tails to dig trenches and throw things long distance. They throw things indiscriminately and are dangerous to be around.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Landshark",
+            "key": "Hammerpult",
             "x": 100.0,
             "y": 50.0
           },
@@ -24428,7 +24787,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "Mountain Shark",
+      "title": "Land Shark",
       "license": "CC0"
     },
     "Landshark2": {
@@ -24503,14 +24862,14 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Created as companions for construction workers. They are also used for underwater excavation, mining and demolition. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Landshark",
+            "key": "Hammerpult",
             "x": 100.0,
             "y": 50.0
           },
@@ -24543,9 +24902,9 @@
       "title": "Mountain Shark",
       "license": "CC0"
     },
-    "Sandworm": {
-      "monsterKey": "Sandworm",
-      "monsterName": "Sandworm",
+    "Ferralisk": {
+      "monsterKey": "Ferralisk",
+      "monsterName": "Ferralisk",
       "monsterID": 231,
       "monsterType": [
         "Ground",
@@ -24623,14 +24982,14 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Created to quickly make tunnels they quickly escaped their creators and tunneled all over the planet. They are attracted to rare metals and are used by miners to locate them. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
         "height": 100.0,
         "nodes": [
           {
-            "key": "Sandworm",
+            "key": "Ferralisk",
             "x": 200.0,
             "y": 50.0
           }
@@ -24711,7 +25070,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "Their origin is unclear, they have been found floating around ruins and excavation sites. They seem oblivious to others except when attacked.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -24719,6 +25078,190 @@
         "nodes": [
           {
             "key": "Psyteor",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Grazing Asteroid",
+      "license": "CC0"
+    },
+    "CaveLegendary": {
+      "monsterKey": "CaveLegendary",
+      "monsterName": "CaveLegendary",
+      "monsterID": 231,
+      "monsterType": [
+        "Rock",
+        "Electric"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Bug"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Electric"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Combat"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Leaf"
+        },
+        {
+          "resistance": 4.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Water"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "CaveLegendary",
+            "x": 200.0,
+            "y": 50.0
+          }
+        ],
+        "arrows": []
+      },
+      "contributors": [
+        {
+          "contributorKey": "screensmith",
+          "credit": "Design"
+        },
+        {
+          "contributorKey": "screensmith",
+          "credit": "AI Generated Sprite"
+        }
+      ],
+      "tuxemonLink": "",
+      "title": "Grazing Asteroid",
+      "license": "CC0"
+    },
+    "LabLegendary": {
+      "monsterKey": "LabLegendary",
+      "monsterName": "LabLegendary",
+      "monsterID": 231,
+      "monsterType": [
+        "Steel",
+        "Psy"
+      ],
+      "baseStats": {
+        "HP": 91.0,
+        "ATTACK": 91.0,
+        "DEFENSE": 91.0,
+        "SPECIALATTACK": 91.0,
+        "SPECIALDEFENSE": 91.0,
+        "SPEED": 91.0
+      },
+      "abilities": [
+        "default"
+      ],
+      "moves": [
+        "Tackle",
+        "FireSpray",
+        "SeedShot",
+        "Growth"
+      ],
+      "evolutions": null,
+      "resistances": [
+        {
+          "resistance": 0.5,
+          "type": "Dino"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Fire"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Wind"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Ground"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Ice"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Beast"
+        },
+        {
+          "resistance": 0.25,
+          "type": "Psy"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Rock"
+        },
+        {
+          "resistance": 2.0,
+          "type": "Shadow"
+        },
+        {
+          "resistance": 0.5,
+          "type": "Steel"
+        }
+      ],
+      "shortDescription": "",
+      "longDescription": "",
+      "evolutionGraph": {
+        "width": 400.0,
+        "height": 100.0,
+        "nodes": [
+          {
+            "key": "LabLegendary",
             "x": 200.0,
             "y": 50.0
           }
@@ -24815,7 +25358,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": " A forest guardian, it chases away outsiders and threats to the forest. It is highly respected by other Novamon and they seem to revere it.",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -24903,7 +25446,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "It has rock hard skin with poisonous veins. Originally bred as a decorative Novamon like it Porcelung it killed its creator with its deadly poison and then fled. This event resulted in breeding Novamon for decorative purposes to be banned.  ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -24940,7 +25483,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Statue Snake",
       "license": "CC0"
     },
     "Veilora": {
@@ -25003,7 +25546,7 @@
           "type": "Water"
         }
       ],
-      "shortDescription": "",
+      "shortDescription": "A menacing Novaman that uses poison to paralyze any human that comes near it. It slowly devaours its prey over days, nibbling away at it while it is immpobilized. They are hunted mercilessly. ",
       "longDescription": "",
       "evolutionGraph": {
         "width": 400.0,
@@ -25040,7 +25583,7 @@
         }
       ],
       "tuxemonLink": "",
-      "title": "",
+      "title": "Statue Snake",
       "license": "CC0"
     }
   },
