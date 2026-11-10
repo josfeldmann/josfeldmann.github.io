@@ -1,6 +1,8 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
 
     <meta
@@ -10,12 +12,21 @@
 
     <title>Large Image Viewer</title>
 
-    <!--
-        OpenSeadragon loaded locally.
 
-        Expected location:
-        ./openseadragon/openseadragon.min.js
+    <!--
+        =========================================================
+        OPENSEADRAGON
+        =========================================================
+
+        Expected directory structure:
+
+        large-image-viewer.html
+        openseadragon/
+            openseadragon.min.js
+            images/
+                ...
     -->
+
     <script src="./openseadragon/openseadragon.min.js"></script>
 
 
@@ -32,6 +43,7 @@
 
         html,
         body {
+
             width: 100%;
             height: 100%;
 
@@ -51,7 +63,9 @@
 
         button,
         input {
+
             font-family: inherit;
+
         }
 
 
@@ -60,11 +74,14 @@
         ========================================================= */
 
         #app {
+
             width: 100%;
             height: 100%;
 
             display: flex;
+
             flex-direction: column;
+
         }
 
 
@@ -74,9 +91,10 @@
 
         #toolbar {
 
-            height: 58px;
+            min-height: 58px;
 
             display: flex;
+
             align-items: center;
 
             gap: 10px;
@@ -91,90 +109,236 @@
             z-index: 100;
 
             flex-shrink: 0;
+
         }
 
+
+        /* =========================================================
+           UPLOAD BUTTON
+        ========================================================= */
 
         #uploadLabel {
 
             display: inline-flex;
+
             align-items: center;
+
             justify-content: center;
 
             height: 38px;
 
-            padding: 0 16px;
+            padding:
+                0 16px;
 
-            background: #222222;
+            background:
+                #222222;
 
-            color: white;
+            color:
+                white;
 
-            border-radius: 4px;
+            border-radius:
+                4px;
 
-            cursor: pointer;
+            cursor:
+                pointer;
 
-            font-size: 14px;
+            font-size:
+                14px;
 
-            user-select: none;
+            user-select:
+                none;
+
+            white-space:
+                nowrap;
+
         }
 
 
         #uploadLabel:hover {
-            background: #444444;
+
+            background:
+                #444444;
+
         }
 
 
         #imageInput {
-            display: none;
+
+            display:
+                none;
+
         }
 
 
-        .toolbarButton {
+        /* =========================================================
+           URL INPUT
+        ========================================================= */
+
+        #urlInput {
 
             height: 38px;
 
-            padding: 0 14px;
+            min-width:
+                200px;
 
-            background: white;
+            flex:
+                1;
 
-            color: black;
+            padding:
+                0 10px;
 
             border:
                 1px solid #aaaaaa;
 
-            border-radius: 4px;
+            border-radius:
+                4px;
 
-            cursor: pointer;
+            background:
+                white;
 
-            font-size: 14px;
+            color:
+                black;
+
+            font-size:
+                14px;
+
+        }
+
+
+        #urlInput::placeholder {
+
+            color:
+                #777777;
+
+        }
+
+
+        /* =========================================================
+           LOAD URL BUTTON
+        ========================================================= */
+
+        #loadUrlButton {
+
+            height:
+                38px;
+
+            padding:
+                0 14px;
+
+            background:
+                #222222;
+
+            color:
+                white;
+
+            border:
+                1px solid #222222;
+
+            border-radius:
+                4px;
+
+            cursor:
+                pointer;
+
+            font-size:
+                14px;
+
+            white-space:
+                nowrap;
+
+        }
+
+
+        #loadUrlButton:hover {
+
+            background:
+                #444444;
+
+        }
+
+
+        /* =========================================================
+           TOOLBAR BUTTONS
+        ========================================================= */
+
+        .toolbarButton {
+
+            height:
+                38px;
+
+            padding:
+                0 14px;
+
+            background:
+                white;
+
+            color:
+                black;
+
+            border:
+                1px solid #aaaaaa;
+
+            border-radius:
+                4px;
+
+            cursor:
+                pointer;
+
+            font-size:
+                14px;
+
+            white-space:
+                nowrap;
+
         }
 
 
         .toolbarButton:hover {
-            background: #eeeeee;
+
+            background:
+                #eeeeee;
+
         }
 
 
         .toolbarButton:disabled {
 
-            opacity: 0.4;
+            opacity:
+                0.4;
 
-            cursor: default;
+            cursor:
+                default;
+
         }
 
 
+        /* =========================================================
+           IMAGE INFORMATION
+        ========================================================= */
+
         #imageInfo {
 
-            margin-left: 8px;
+            margin-left:
+                8px;
 
-            color: #444444;
+            color:
+                #444444;
 
-            font-size: 14px;
+            font-size:
+                14px;
 
-            white-space: nowrap;
+            white-space:
+                nowrap;
 
-            overflow: hidden;
+            overflow:
+                hidden;
 
-            text-overflow: ellipsis;
+            text-overflow:
+                ellipsis;
+
+            max-width:
+                300px;
+
         }
 
 
@@ -184,26 +348,35 @@
 
         #viewerContainer {
 
-            position: relative;
+            position:
+                relative;
 
-            flex: 1;
+            flex:
+                1;
 
-            min-height: 0;
+            min-height:
+                0;
 
             background:
                 #303030;
 
-            overflow: hidden;
+            overflow:
+                hidden;
+
         }
 
 
         #viewer {
 
-            width: 100%;
-            height: 100%;
+            width:
+                100%;
+
+            height:
+                100%;
 
             background:
                 #303030;
+
         }
 
 
@@ -213,43 +386,61 @@
 
         #emptyState {
 
-            position: absolute;
+            position:
+                absolute;
 
-            top: 50%;
-            left: 50%;
+            top:
+                50%;
+
+            left:
+                50%;
 
             transform:
                 translate(-50%, -50%);
 
-            text-align: center;
+            text-align:
+                center;
 
-            color: white;
+            color:
+                white;
 
-            z-index: 10;
+            z-index:
+                10;
 
-            pointer-events: none;
+            pointer-events:
+                none;
 
-            user-select: none;
+            user-select:
+                none;
+
         }
 
 
         #emptyState h1 {
 
-            margin: 0 0 12px 0;
+            margin:
+                0 0 12px 0;
 
-            font-size: 28px;
+            font-size:
+                28px;
 
-            font-weight: normal;
+            font-weight:
+                normal;
+
         }
 
 
         #emptyState p {
 
-            margin: 0;
+            margin:
+                0;
 
-            color: #bbbbbb;
+            color:
+                #bbbbbb;
 
-            font-size: 15px;
+            font-size:
+                15px;
+
         }
 
 
@@ -259,54 +450,81 @@
 
         #loadingOverlay {
 
-            position: absolute;
+            position:
+                absolute;
 
-            inset: 0;
+            inset:
+                0;
 
-            display: none;
+            display:
+                none;
 
-            flex-direction: column;
+            flex-direction:
+                column;
 
-            align-items: center;
-            justify-content: center;
+            align-items:
+                center;
 
-            gap: 16px;
+            justify-content:
+                center;
+
+            gap:
+                16px;
 
             background:
                 rgba(0, 0, 0, 0.75);
 
-            color: white;
+            color:
+                white;
 
-            z-index: 50;
+            z-index:
+                50;
+
         }
 
 
         .spinner {
 
-            width: 42px;
-            height: 42px;
+            width:
+                42px;
 
-            border-radius: 50%;
+            height:
+                42px;
+
+            border-radius:
+                50%;
 
             border:
-                4px solid rgba(255, 255, 255, 0.25);
+                4px solid rgba(
+                    255,
+                    255,
+                    255,
+                    0.25
+                );
 
             border-top-color:
                 white;
 
             animation:
                 spin 0.8s linear infinite;
+
         }
 
 
         @keyframes spin {
 
             from {
-                transform: rotate(0deg);
+
+                transform:
+                    rotate(0deg);
+
             }
 
             to {
-                transform: rotate(360deg);
+
+                transform:
+                    rotate(360deg);
+
             }
 
         }
@@ -318,27 +536,102 @@
 
         #statusPanel {
 
-            position: absolute;
+            position:
+                absolute;
 
-            bottom: 12px;
-            left: 12px;
+            bottom:
+                12px;
 
-            padding: 8px 12px;
+            left:
+                12px;
+
+            padding:
+                8px 12px;
 
             background:
-                rgba(0, 0, 0, 0.72);
+                rgba(
+                    0,
+                    0,
+                    0,
+                    0.72
+                );
 
-            color: white;
+            color:
+                white;
 
-            border-radius: 4px;
+            border-radius:
+                4px;
 
-            font-size: 13px;
+            font-size:
+                13px;
 
-            z-index: 20;
+            z-index:
+                20;
 
-            pointer-events: none;
+            pointer-events:
+                none;
 
-            user-select: none;
+            user-select:
+                none;
+
+        }
+
+
+        /* =========================================================
+           DRAG AND DROP
+        ========================================================= */
+
+        #viewerContainer.dragOver {
+
+            background:
+                #404040;
+
+        }
+
+
+        #viewerContainer.dragOver::after {
+
+            content:
+                "Drop image here";
+
+            position:
+                absolute;
+
+            top:
+                50%;
+
+            left:
+                50%;
+
+            transform:
+                translate(-50%, -50%);
+
+            padding:
+                20px 30px;
+
+            background:
+                rgba(
+                    0,
+                    0,
+                    0,
+                    0.8
+                );
+
+            color:
+                white;
+
+            border-radius:
+                8px;
+
+            font-size:
+                22px;
+
+            pointer-events:
+                none;
+
+            z-index:
+                40;
+
         }
 
 
@@ -346,23 +639,44 @@
            MOBILE
         ========================================================= */
 
-        @media (max-width: 700px) {
+        @media (max-width: 900px) {
 
             #toolbar {
 
-                height: auto;
+                height:
+                    auto;
 
-                flex-wrap: wrap;
+                flex-wrap:
+                    wrap;
+
+            }
+
+
+            #urlInput {
+
+                min-width:
+                    150px;
+
+                flex:
+                    1 1 200px;
+
             }
 
 
             #imageInfo {
 
-                width: 100%;
+                width:
+                    100%;
 
-                margin-left: 0;
+                margin-left:
+                    0;
 
-                order: 2;
+                order:
+                    10;
+
+                max-width:
+                    none;
+
             }
 
 
@@ -370,6 +684,35 @@
 
                 padding:
                     0 10px;
+
+            }
+
+        }
+
+
+        @media (max-width: 500px) {
+
+            #uploadLabel,
+            #loadUrlButton,
+            .toolbarButton {
+
+                padding:
+                    0 10px;
+
+                font-size:
+                    13px;
+
+            }
+
+
+            #urlInput {
+
+                width:
+                    100%;
+
+                flex:
+                    1 1 100%;
+
             }
 
         }
@@ -392,6 +735,10 @@
     <div id="toolbar">
 
 
+        <!-- =================================================
+             LOCAL FILE UPLOAD
+        ================================================== -->
+
         <label
             id="uploadLabel"
             for="imageInput"
@@ -406,6 +753,29 @@
             accept="image/png,image/jpeg,image/webp"
         >
 
+
+        <!-- =================================================
+             IMAGE URL
+        ================================================== -->
+
+        <input
+            id="urlInput"
+            type="url"
+            placeholder="Image URL..."
+            autocomplete="off"
+        >
+
+
+        <button
+            id="loadUrlButton"
+        >
+            Load URL
+        </button>
+
+
+        <!-- =================================================
+             VIEWER CONTROLS
+        ================================================== -->
 
         <button
             id="zoomInButton"
@@ -443,6 +813,10 @@
         </button>
 
 
+        <!-- =================================================
+             IMAGE INFORMATION
+        ================================================== -->
+
         <div id="imageInfo">
 
             No image loaded
@@ -464,28 +838,39 @@
         <div id="viewer"></div>
 
 
-
-        <!-- Empty State -->
+        <!-- =================================================
+             EMPTY STATE
+        ================================================== -->
 
         <div id="emptyState">
 
-            <h1>Large Image Viewer</h1>
+            <h1>
+                Large Image Viewer
+            </h1>
+
 
             <p>
-                Upload an image to begin.
+                Upload an image, enter an image URL,
+                or drag an image here.
             </p>
 
-            <p style="margin-top: 8px; font-size: 13px;">
 
-                Pan with the mouse and zoom with the scroll wheel.
-
+            <p
+                style="
+                    margin-top: 8px;
+                    font-size: 13px;
+                "
+            >
+                Pan with the mouse and zoom with
+                the scroll wheel.
             </p>
 
         </div>
 
 
-
-        <!-- Loading -->
+        <!-- =================================================
+             LOADING
+        ================================================== -->
 
         <div id="loadingOverlay">
 
@@ -500,8 +885,9 @@
         </div>
 
 
-
-        <!-- Status -->
+        <!-- =================================================
+             STATUS
+        ================================================== -->
 
         <div id="statusPanel">
 
@@ -538,6 +924,24 @@ const OPENSEADRAGON_IMAGES_PATH =
 const imageInput =
     document.getElementById(
         "imageInput"
+    );
+
+
+const urlInput =
+    document.getElementById(
+        "urlInput"
+    );
+
+
+const loadUrlButton =
+    document.getElementById(
+        "loadUrlButton"
+    );
+
+
+const viewerContainer =
+    document.getElementById(
+        "viewerContainer"
     );
 
 
@@ -601,13 +1005,16 @@ const fullscreenButton =
 ========================================================= */
 
 
-let currentObjectUrl = null;
+let currentObjectUrl =
+    null;
 
 
-let currentFileName = null;
+let currentFileName =
+    null;
 
 
-let imageLoaded = false;
+let imageLoaded =
+    false;
 
 
 
@@ -616,176 +1023,179 @@ let imageLoaded = false;
 ========================================================= */
 
 
-const viewer = OpenSeadragon({
+const viewer =
+    OpenSeadragon({
+
+        /*
+            Element that contains the viewer.
+        */
+
+        id:
+            "viewer",
 
 
-    /*
-        Element that contains the viewer.
-    */
+        /*
+            Local path to OpenSeadragon
+            control images.
+        */
 
-    id: "viewer",
-
-
-
-    /*
-        Local path to OpenSeadragon control images.
-    */
-
-    prefixUrl:
-        OPENSEADRAGON_IMAGES_PATH,
+        prefixUrl:
+            OPENSEADRAGON_IMAGES_PATH,
 
 
-    imageSmoothingEnabled:
-        false,
+        /*
+            Disable browser image smoothing
+            where supported.
 
+            This helps preserve crisp
+            pixel-art images.
+        */
 
-
-    /*
-        Disable the default OpenSeadragon controls.
-
-        We use our own toolbar.
-    */
-
-    showNavigationControl:
-        false,
-
-
-
-    /*
-        Show the overview navigator.
-
-        This is especially useful for extremely
-        large images.
-    */
-
-    showNavigator:
-        true,
-
-
-    navigatorPosition:
-        OpenSeadragon.ControlAnchor.TOP_RIGHT,
-
-
-    navigatorSizeRatio:
-        0.16,
-
-
-    navigatorAutoFade:
-        false,
-
-
-
-    /*
-        Zoom settings.
-    */
-
-    minZoomImageRatio:
-        0.8,
-
-
-    maxZoomPixelRatio:
-        4,
-
-
-    zoomPerScroll:
-        1.2,
-
-
-    zoomPerClick:
-        1.5,
-
-
-
-    /*
-        Movement animation.
-    */
-
-    animationTime:
-        0.35,
-
-
-    springStiffness:
-        8,
-
-
-    blendTime:
-        0.1,
-
-
-
-    /*
-        Keep image reasonably constrained
-        while panning.
-    */
-
-    constrainDuringPan:
-        true,
-
-
-    visibilityRatio:
-        0.5,
-
-
-
-    /*
-        Mouse controls.
-    */
-
-    gestureSettingsMouse: {
-
-        scrollToZoom:
-            true,
-
-
-        clickToZoom:
+        imageSmoothingEnabled:
             false,
 
 
-        dblClickToZoom:
-            true,
+        /*
+            Required when loading images
+            from another domain that supports
+            CORS.
+        */
+
+        crossOriginPolicy:
+            "Anonymous",
 
 
-        dragToPan:
-            true
+        /*
+            Disable default controls.
 
-    },
+            We use our own toolbar.
+        */
 
-
-
-    /*
-        Touch controls.
-    */
-
-    gestureSettingsTouch: {
-
-        scrollToZoom:
-            true,
-
-
-        clickToZoom:
+        showNavigationControl:
             false,
 
 
-        dblClickToZoom:
+        /*
+            Show overview navigator.
+
+            Useful for extremely large images.
+        */
+
+        showNavigator:
             true,
 
 
-        dragToPan:
+        navigatorPosition:
+            OpenSeadragon.ControlAnchor.TOP_RIGHT,
+
+
+        navigatorSizeRatio:
+            0.16,
+
+
+        navigatorAutoFade:
+            false,
+
+
+        /*
+            Zoom settings.
+        */
+
+        minZoomImageRatio:
+            0.8,
+
+
+        maxZoomPixelRatio:
+            4,
+
+
+        zoomPerScroll:
+            1.2,
+
+
+        zoomPerClick:
+            1.5,
+
+
+        /*
+            Movement animation.
+        */
+
+        animationTime:
+            0.35,
+
+
+        springStiffness:
+            8,
+
+
+        blendTime:
+            0.1,
+
+
+        /*
+            Keep image reasonably constrained
+            while panning.
+        */
+
+        constrainDuringPan:
             true,
 
 
-        pinchToZoom:
-            true
-
-    }
+        visibilityRatio:
+            0.5,
 
 
-});
+        /*
+            Mouse controls.
+        */
+
+        gestureSettingsMouse: {
+
+            scrollToZoom:
+                true,
+
+            clickToZoom:
+                false,
+
+            dblClickToZoom:
+                true,
+
+            dragToPan:
+                true
+
+        },
+
+
+        /*
+            Touch controls.
+        */
+
+        gestureSettingsTouch: {
+
+            scrollToZoom:
+                true,
+
+            clickToZoom:
+                false,
+
+            dblClickToZoom:
+                true,
+
+            dragToPan:
+                true,
+
+            pinchToZoom:
+                true
+
+        }
+
+    });
 
 
 
 /* =========================================================
-   FILE UPLOAD
+   LOCAL FILE UPLOAD
 ========================================================= */
 
 
@@ -796,12 +1206,10 @@ imageInput.addEventListener(
 
 
 
-async function handleImageUpload(event) {
-
+function handleImageUpload(event) {
 
     const file =
         event.target.files[0];
-
 
 
     if (!file) {
@@ -811,35 +1219,202 @@ async function handleImageUpload(event) {
     }
 
 
-
     /*
-        Revoke the previous image URL.
-
-        This prevents old images from staying
-        allocated in browser memory.
+        Verify that the selected file
+        is actually an image.
     */
 
-    if (currentObjectUrl) {
+    if (
+        !file.type.startsWith(
+            "image/"
+        )
+    ) {
 
-        URL.revokeObjectURL(
-            currentObjectUrl
-        );
+        imageInfo.textContent =
+            "Selected file is not an image";
 
+        statusPanel.textContent =
+            "Please select an image file";
 
-        currentObjectUrl = null;
+        return;
 
     }
 
+
+    /*
+        Revoke the previous object URL.
+
+        This prevents old images from remaining
+        allocated in browser memory.
+    */
+
+    revokeCurrentObjectUrl();
+
+
+    /*
+        Create a browser-local URL.
+
+        The image is never uploaded
+        to a remote server.
+    */
+
+    currentObjectUrl =
+        URL.createObjectURL(
+            file
+        );
 
 
     currentFileName =
         file.name;
 
 
+    loadImage(
+        currentObjectUrl,
+        currentFileName
+    );
+
+}
+
+
+
+/* =========================================================
+   URL INPUT
+========================================================= */
+
+
+loadUrlButton.addEventListener(
+    "click",
+    handleUrlLoad
+);
+
+
+
+urlInput.addEventListener(
+    "keydown",
+    function(event) {
+
+        if (
+            event.key === "Enter"
+        ) {
+
+            handleUrlLoad();
+
+        }
+
+    }
+);
+
+
+
+function handleUrlLoad() {
+
+    const url =
+        urlInput.value.trim();
+
+
+    if (!url) {
+
+        return;
+
+    }
+
+
+    loadImageFromUrl(
+        url
+    );
+
+}
+
+
+
+/* =========================================================
+   LOAD IMAGE FROM REMOTE URL
+========================================================= */
+
+
+function loadImageFromUrl(url) {
+
+    /*
+        Try to extract a useful filename
+        from the URL.
+
+        Example:
+
+        https://example.com/images/Alshocka.png
+
+        becomes:
+
+        Alshocka.png
+    */
+
+    let fileName =
+        "Remote image";
+
+
+    try {
+
+        const parsedUrl =
+            new URL(
+                url,
+                window.location.href
+            );
+
+
+        const pathname =
+            parsedUrl.pathname;
+
+
+        const lastPart =
+            pathname.substring(
+                pathname.lastIndexOf("/") + 1
+            );
+
+
+        if (lastPart) {
+
+            fileName =
+                decodeURIComponent(
+                    lastPart
+                );
+
+        }
+
+    }
+    catch(error) {
+
+        console.warn(
+            "Could not parse image URL:",
+            error
+        );
+
+    }
+
+
+    loadImage(
+        url,
+        fileName
+    );
+
+}
+
+
+
+/* =========================================================
+   GENERIC IMAGE LOADER
+========================================================= */
+
+
+function loadImage(
+    imageUrl,
+    imageName
+) {
+
+    currentFileName =
+        imageName;
+
 
     imageLoaded =
         false;
-
 
 
     /*
@@ -851,13 +1426,12 @@ async function handleImageUpload(event) {
     );
 
 
-
     /*
         Show loading screen.
     */
 
     loadingText.textContent =
-        "Preparing image...";
+        "Loading image...";
 
 
     loadingOverlay.style.display =
@@ -869,26 +1443,11 @@ async function handleImageUpload(event) {
 
 
     imageInfo.textContent =
-        "Loading " + file.name;
+        "Loading " + imageName;
 
 
     statusPanel.textContent =
         "Loading...";
-
-
-
-    /*
-        Create a browser-local URL.
-
-        The image is never uploaded to
-        a remote server.
-    */
-
-    currentObjectUrl =
-        URL.createObjectURL(
-            file
-        );
-
 
 
     /*
@@ -899,7 +1458,6 @@ async function handleImageUpload(event) {
     */
 
     viewer.close();
-
 
 
     /*
@@ -918,17 +1476,308 @@ async function handleImageUpload(event) {
         type:
             "image",
 
-
         url:
-            currentObjectUrl,
-
+            imageUrl,
 
         buildPyramid:
             true
 
-
     });
 
+}
+
+
+
+/* =========================================================
+   LOAD IMAGE FROM PAGE URL
+========================================================= */
+
+
+/*
+    Supports:
+
+        imageviewer.html?image=https://example.com/image.png
+
+    URLSearchParams handles URL encoding.
+
+    Example:
+
+        ?image=https%3A%2F%2Fexample.com%2Fimage.png
+*/
+
+
+function loadImageFromPageParameter() {
+
+    const params =
+        new URLSearchParams(
+            window.location.search
+        );
+
+
+    const imageUrl =
+        params.get(
+            "image"
+        );
+
+
+    if (!imageUrl) {
+
+        return;
+
+    }
+
+
+    /*
+        Put the URL into the input as well,
+        so the user can see what is loaded.
+    */
+
+    urlInput.value =
+        imageUrl;
+
+
+    loadImageFromUrl(
+        imageUrl
+    );
+
+}
+
+
+
+/*
+    Automatically check for an image URL
+    when the page loads.
+*/
+
+loadImageFromPageParameter();
+
+
+
+/* =========================================================
+   DRAG AND DROP
+========================================================= */
+
+
+/*
+    Dragging only works over the viewer.
+
+    This prevents accidentally loading an image
+    when dropping a file onto the toolbar.
+*/
+
+
+viewerContainer.addEventListener(
+    "dragover",
+    handleDragOver
+);
+
+
+viewerContainer.addEventListener(
+    "dragleave",
+    handleDragLeave
+);
+
+
+viewerContainer.addEventListener(
+    "drop",
+    handleDrop
+);
+
+
+
+function handleDragOver(event) {
+
+    /*
+        Prevent the browser from opening
+        the dropped file as a new page.
+    */
+
+    event.preventDefault();
+
+
+    /*
+        Tell the browser that the drop
+        operation is allowed.
+    */
+
+    event.dataTransfer.dropEffect =
+        "copy";
+
+
+    /*
+        Only show the drag-over state
+        when the dragged item contains files.
+    */
+
+    if (
+
+        event.dataTransfer &&
+
+        event.dataTransfer.types.includes(
+            "Files"
+        )
+
+    ) {
+
+        viewerContainer.classList.add(
+            "dragOver"
+        );
+
+    }
+
+}
+
+
+
+function handleDragLeave(event) {
+
+    /*
+        Remove the visual state when
+        the cursor leaves the viewer.
+    */
+
+    viewerContainer.classList.remove(
+        "dragOver"
+    );
+
+}
+
+
+
+function handleDrop(event) {
+
+    /*
+        Prevent the browser's default behavior,
+        which would otherwise navigate to the
+        dropped image.
+    */
+
+    event.preventDefault();
+
+
+    viewerContainer.classList.remove(
+        "dragOver"
+    );
+
+
+    const files =
+        event.dataTransfer.files;
+
+
+    if (
+        !files ||
+        files.length === 0
+    ) {
+
+        return;
+
+    }
+
+
+    /*
+        Find the first image file.
+
+        This prevents accidentally trying
+        to load a text file or other
+        non-image file.
+    */
+
+    let imageFile =
+        null;
+
+
+    for (
+        const file of files
+    ) {
+
+        if (
+            file.type.startsWith(
+                "image/"
+            )
+        ) {
+
+            imageFile =
+                file;
+
+            break;
+
+        }
+
+    }
+
+
+    if (!imageFile) {
+
+        imageInfo.textContent =
+            "Dropped file is not an image";
+
+
+        statusPanel.textContent =
+            "Please drop an image file";
+
+
+        return;
+
+    }
+
+
+    /*
+        Revoke the previous object URL.
+    */
+
+    revokeCurrentObjectUrl();
+
+
+    /*
+        Create a temporary browser-local
+        URL for the dropped image.
+    */
+
+    currentObjectUrl =
+        URL.createObjectURL(
+            imageFile
+        );
+
+
+    currentFileName =
+        imageFile.name;
+
+
+    /*
+        Load the image using the same
+        function used by every other
+        image-loading method.
+    */
+
+    loadImage(
+        currentObjectUrl,
+        currentFileName
+    );
+
+}
+
+
+
+/* =========================================================
+   OBJECT URL CLEANUP
+========================================================= */
+
+
+function revokeCurrentObjectUrl() {
+
+    if (
+        currentObjectUrl
+    ) {
+
+        URL.revokeObjectURL(
+            currentObjectUrl
+        );
+
+
+        currentObjectUrl =
+            null;
+
+    }
 
 }
 
@@ -941,23 +1790,19 @@ async function handleImageUpload(event) {
 
 viewer.addHandler(
     "open",
-    function () {
-
+    function() {
 
         imageLoaded =
             true;
-
 
 
         loadingOverlay.style.display =
             "none";
 
 
-
         setControlsEnabled(
             true
         );
-
 
 
         /*
@@ -970,7 +1815,6 @@ viewer.addHandler(
             );
 
 
-
         if (!tiledImage) {
 
             return;
@@ -978,10 +1822,8 @@ viewer.addHandler(
         }
 
 
-
         const contentSize =
             tiledImage.getContentSize();
-
 
 
         const width =
@@ -994,7 +1836,6 @@ viewer.addHandler(
             Math.round(
                 contentSize.y
             );
-
 
 
         imageInfo.textContent =
@@ -1012,9 +1853,7 @@ viewer.addHandler(
             " pixels";
 
 
-
         updateStatus();
-
 
     }
 );
@@ -1028,12 +1867,10 @@ viewer.addHandler(
 
 viewer.addHandler(
     "open-failed",
-    function (event) {
-
+    function(event) {
 
         imageLoaded =
             false;
-
 
 
         loadingOverlay.style.display =
@@ -1044,7 +1881,6 @@ viewer.addHandler(
             "block";
 
 
-
         imageInfo.textContent =
             "Failed to load image";
 
@@ -1053,18 +1889,15 @@ viewer.addHandler(
             "Image loading failed";
 
 
-
         setControlsEnabled(
             false
         );
-
 
 
         console.error(
             "OpenSeadragon failed to load image:",
             event
         );
-
 
     }
 );
@@ -1076,17 +1909,19 @@ viewer.addHandler(
 ========================================================= */
 
 
+/*
+    Zoom in.
+*/
+
 zoomInButton.addEventListener(
     "click",
-    function () {
-
+    function() {
 
         if (!imageLoaded) {
 
             return;
 
         }
-
 
 
         viewer.viewport.zoomBy(
@@ -1096,23 +1931,24 @@ zoomInButton.addEventListener(
 
         viewer.viewport.applyConstraints();
 
-
     }
 );
 
 
 
+/*
+    Zoom out.
+*/
+
 zoomOutButton.addEventListener(
     "click",
-    function () {
-
+    function() {
 
         if (!imageLoaded) {
 
             return;
 
         }
-
 
 
         viewer.viewport.zoomBy(
@@ -1122,39 +1958,42 @@ zoomOutButton.addEventListener(
 
         viewer.viewport.applyConstraints();
 
-
     }
 );
 
 
 
+/*
+    Reset view.
+*/
+
 resetButton.addEventListener(
     "click",
-    function () {
-
+    function() {
 
         if (!imageLoaded) {
 
             return;
 
         }
-
 
 
         viewer.viewport.goHome(
             true
         );
 
-
     }
 );
 
 
 
+/*
+    Fullscreen.
+*/
+
 fullscreenButton.addEventListener(
     "click",
-    function () {
-
+    function() {
 
         if (!imageLoaded) {
 
@@ -1163,11 +2002,9 @@ fullscreenButton.addEventListener(
         }
 
 
-
         viewer.setFullScreen(
             !viewer.isFullPage()
         );
-
 
     }
 );
@@ -1179,8 +2016,9 @@ fullscreenButton.addEventListener(
 ========================================================= */
 
 
-function setControlsEnabled(enabled) {
-
+function setControlsEnabled(
+    enabled
+) {
 
     zoomInButton.disabled =
         !enabled;
@@ -1197,7 +2035,6 @@ function setControlsEnabled(enabled) {
     fullscreenButton.disabled =
         !enabled;
 
-
 }
 
 
@@ -1209,15 +2046,13 @@ function setControlsEnabled(enabled) {
 
 document.addEventListener(
     "keydown",
-    function (event) {
-
+    function(event) {
 
         if (!imageLoaded) {
 
             return;
 
         }
-
 
 
         /*
@@ -1227,9 +2062,11 @@ document.addEventListener(
 
         if (
 
-            event.target.tagName === "INPUT" ||
+            event.target.tagName ===
+                "INPUT" ||
 
-            event.target.tagName === "TEXTAREA"
+            event.target.tagName ===
+                "TEXTAREA"
 
         ) {
 
@@ -1238,8 +2075,7 @@ document.addEventListener(
         }
 
 
-
-        switch (event.key) {
+        switch(event.key) {
 
 
             /*
@@ -1256,6 +2092,7 @@ document.addEventListener(
 
 
                 viewer.viewport.applyConstraints();
+
 
                 break;
 
@@ -1276,6 +2113,7 @@ document.addEventListener(
 
                 viewer.viewport.applyConstraints();
 
+
                 break;
 
 
@@ -1291,6 +2129,7 @@ document.addEventListener(
                 viewer.viewport.goHome(
                     true
                 );
+
 
                 break;
 
@@ -1308,11 +2147,10 @@ document.addEventListener(
                     !viewer.isFullPage()
                 );
 
+
                 break;
 
-
         }
-
 
     }
 );
@@ -1329,7 +2167,6 @@ document.addEventListener(
     the viewport changes.
 */
 
-
 viewer.addHandler(
     "animation",
     updateStatus
@@ -1345,7 +2182,6 @@ viewer.addHandler(
 
 function updateStatus() {
 
-
     if (!imageLoaded) {
 
         return;
@@ -1353,15 +2189,12 @@ function updateStatus() {
     }
 
 
-
     const currentZoom =
         viewer.viewport.getZoom();
 
 
-
     const homeZoom =
         viewer.viewport.getHomeZoom();
-
 
 
     /*
@@ -1373,10 +2206,12 @@ function updateStatus() {
 
         Math.round(
 
-            (currentZoom / homeZoom) * 100
+            (
+                currentZoom /
+                homeZoom
+            ) * 100
 
         );
-
 
 
     statusPanel.textContent =
@@ -1386,7 +2221,6 @@ function updateStatus() {
         zoomPercentage +
 
         "%";
-
 
 }
 
@@ -1399,17 +2233,9 @@ function updateStatus() {
 
 window.addEventListener(
     "beforeunload",
-    function () {
+    function() {
 
-
-        if (currentObjectUrl) {
-
-            URL.revokeObjectURL(
-                currentObjectUrl
-            );
-
-        }
-
+        revokeCurrentObjectUrl();
 
     }
 );
@@ -1420,3 +2246,4 @@ window.addEventListener(
 
 </body>
 </html>
+```
