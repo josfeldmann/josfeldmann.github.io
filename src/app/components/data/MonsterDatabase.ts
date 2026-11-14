@@ -15,6 +15,8 @@ import { MonsterMoveCategoryDictionary } from "./MonsterMoveCategoryDictionary";
 import { MonsterMoveCategory } from "./MonsterMoveCategory";
 import { TagDictionary } from "./TagDictionary";
 import { Tag } from "./Tag";
+import { StatDictionary } from "./StatDictionary";
+import { Stat } from "./Stat";
 
 interface Resistance {
     resistance: number;
@@ -46,6 +48,7 @@ export class MonsterDatabase {
   contributors : ContributorDictionary;
   moveCategories: MonsterMoveCategoryDictionary;
   tags : TagDictionary;
+  stats : StatDictionary;
 
   monsterList : Monster[] = [];
 
@@ -59,6 +62,7 @@ export class MonsterDatabase {
     contributors : Record<string, Contributor>
     moveCategories : Record<string, MonsterMoveCategory>
     tags : Record<string, Tag>
+    stats : Record<string, Stat>
   }) {
 
     // Convert each plain object into a Monster instance
@@ -103,6 +107,12 @@ export class MonsterDatabase {
       acc[key] = new MonsterMoveCategory(value);
       return acc;
     }, {} as TagDictionary);
+
+    this.stats =  Object.entries(data.stats).reduce((acc, [key, value]) => {
+      acc[key] = new Stat(value);
+      return acc;
+    }, {} as StatDictionary);
+
 
     this.monsterList = [];
 
@@ -199,6 +209,10 @@ export class MonsterDatabase {
     return Object.keys(this.moves);
   }
 
+  getStatKeys() : string[] {
+    return Object.keys(this.stats);
+  }
+
   getAllMoves() : MonsterMove[] {
     return Object.values(this.moves);
   }
@@ -284,6 +298,10 @@ export class MonsterDatabase {
     return this.moveCategories[name];
   }
 
+  getStat(key : string) : Stat {
+    return this.stats[key];
+  }
+ 
 
   getMetaDataKeywords(monster : Monster): string[] {
     const v : string[] = [monster.monsterName, "Novamon"];

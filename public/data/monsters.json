@@ -26666,7 +26666,7 @@
       "key": "Dino",
       "name": "Dino",
       "color": "7B63E7",
-      "description": null
+      "description": ""
     },
     "Electric": {
       "key": "Electric",
@@ -26696,7 +26696,7 @@
       "key": "Leaf",
       "name": "Leaf",
       "color": "7BCE52",
-      "description": null
+      "description": ""
     },
     "Ground": {
       "key": "Ground",
@@ -26714,19 +26714,19 @@
       "key": "Beast",
       "name": "Beast",
       "color": "C8B088",
-      "description": null
+      "description": ""
     },
     "Poison": {
       "key": "Poison",
       "name": "Poison",
       "color": "9141CB",
-      "description": null
+      "description": ""
     },
     "Psy": {
       "key": "Psy",
       "name": "Psy",
       "color": "D95AFF",
-      "description": null
+      "description": ""
     },
     "Rock": {
       "key": "Rock",
@@ -26738,7 +26738,7 @@
       "key": "Shadow",
       "name": "Shadow",
       "color": "362B3F",
-      "description": null
+      "description": ""
     },
     "Steel": {
       "key": "Steel",
@@ -26750,7 +26750,7 @@
       "key": "Water",
       "name": "Water",
       "color": "399CFF",
-      "description": null
+      "description": ""
     }
   },
   "items": {},
@@ -27373,6 +27373,44 @@
       "contributorLink": "https://www.deviantart.com/watertrainer",
       "associatedMonsters": [],
       "tuxemonLink": "https://wiki.tuxemon.org/WaterTrainer"
+    }
+  },
+  "stats": {
+    "Attack": {
+      "color": "B4202A",
+      "key": "Attack",
+      "name": "Attack",
+      "description": ""
+    },
+    "Defense": {
+      "color": "14A02E",
+      "key": "Defense",
+      "name": "Defense",
+      "description": ""
+    },
+    "HP": {
+      "color": "E86A73",
+      "key": "HP",
+      "name": "HP",
+      "description": ""
+    },
+    "Special Attack": {
+      "color": "673480",
+      "key": "Special Attack",
+      "name": "Special Attack",
+      "description": ""
+    },
+    "Special Defense": {
+      "color": "D9C041",
+      "key": "Special Defense",
+      "name": "Special Defense",
+      "description": ""
+    },
+    "Speed": {
+      "color": "285CC4",
+      "key": "Speed",
+      "name": "Speed",
+      "description": ""
     }
   }
 }

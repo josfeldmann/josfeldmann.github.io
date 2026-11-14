@@ -13,7 +13,7 @@ import { Breadcrumbs } from '@/app/components/ui/BreadCrumbs';
 export type MonsterDictionary = Record<string, Monster>;
 
 export async function generateStaticParams() {
-  const mList = MonsterDatabase.getInstance().getMonsterMoveCategoryKeys();
+  const mList = MonsterDatabase.getInstance().getStatKeys();
 
   return mList.map(monster  => ({
     id: monster,
@@ -23,15 +23,14 @@ export async function generateStaticParams() {
 }
 
 // ✅ Your page component
-export default function MoveCategoryPage({ params }: { params: { id: string } }) {
+export default function StatPage({ params }: { params: { id: string } }) {
 
 
   const db = MonsterDatabase.getInstance();
   
-  const category = db.getMoveCategory(params.id);
+  const stat = db.getStat(params.id);
 
-  const catMoves = db.getAllMovesWithCategory(category.key)
-  if (!category) {
+  if (!stat) {
     notFound();
   }
 
@@ -51,20 +50,17 @@ export default function MoveCategoryPage({ params }: { params: { id: string } })
               href: "/stats.html",
             },
             {
-              label: category.name,
-              href: `/stats/${category.key}.html`,
+              label: stat.name,
+              href: `/stats/${stat.key}.html`,
             },
           ]}
         />
-      <h1>{category.name}</h1>
+      <h1>{stat.name}</h1>
       
       <p>
-        {category.description}
+        {stat.description}
       </p>
 
-    <h2>{category.name} Moves</h2>
-
-    <Movelist moves={catMoves} />;
     
 </div>
   
